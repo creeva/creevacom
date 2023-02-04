@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Creeva&#039;s World 3.0	</title>
-	<atom:link href="https://creeva.github.io/creevacom/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://creeva.github.io/creevacom</link>
+	<atom:link href="https://creeva.com/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://creeva.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Feb 2023 21:15:03 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Feb 2023 02:58:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
