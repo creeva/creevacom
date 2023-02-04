@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Creeva&#039;s World 3.0	</title>
-	<atom:link href="https://creeva.com/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://creeva.com</link>
+	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Sat, 04 Feb 2023 02:58:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
