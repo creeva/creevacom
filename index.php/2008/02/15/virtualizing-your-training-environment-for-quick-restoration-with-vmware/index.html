@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/02/15/virtualizing-your-training-environment-for-quick-restoration-with-vmware/">
 <link rel="shortlink" href="https://creeva.com/?p=2530">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,54 +193,54 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Virtualizing Your Training Environment For Quick Restoration With VMware				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-02-15T14:56:25+00:00">February 15, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-02-15T14:56:25-05:00">February 15, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="1024" height="768" data-srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" data-src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="aligncenter size-large wp-image-97594 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-large wp-image-97594" src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" alt="" width="1024" height="768" srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></p>
-<p><em>This was a persuasion piece I wrote for work on how to quicker deployments and restores in the training lab. &nbsp; It seems we had employees several times a week who had hours of their time taken up by reloading PCs in the training rooms or in the testing labs. &nbsp; I wrote up this piece which is unfortunately light on detail (if you have questions post them here I&rsquo;ll answer them) for management to look at what we could do to script this solution out. &nbsp; Because of work security requirements, I did make some modifications to the information listed here, I kept the changes to a minimum though.&nbsp; I actually will be doing a follow-up to this article which will contain the reload scripts and technical nitty gritty.&nbsp; My idea has been at least going so far as to be tested (I have a <a href="http://www.vmware.com">VMware workstation</a> on my work PC now). </em></p>
+<p><em>This was a persuasion piece I wrote for work on how to quicker deployments and restores in the training lab. It seems we had employees several times a week who had hours of their time taken up by reloading PCs in the training rooms or in the testing labs. I wrote up this piece which is unfortunately light on detail (if you have questions post them here I&rsquo;ll answer them) for management to look at what we could do to script this solution out. Because of work security requirements, I did make some modifications to the information listed here, I kept the changes to a minimum though. I actually will be doing a follow-up to this article which will contain the reload scripts and technical nitty gritty. My idea has been at least going so far as to be tested (I have a <a href="http://www.vmware.com">VMware workstation</a> on my work PC now). </em></p>
 <p class="MsoNormal" style="text-align: center;" align="center">
 </p><p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Introduction</span></strong></p>
 <p class="MsoNormal">
-</p><p class="MsoNormal"><span style="font-size: 10pt;">There are many good reasons for virtualizing your environment.&nbsp; The two major reasons for this undertaking for this are to save money on cost or to save time on deployment operations.&nbsp; Since most training labs will still require a computer for each student to learn on, our focus in moving to a virtualized architecture would be to save time for each setup and deployment. </span></p>
+</p><p class="MsoNormal"><span style="font-size: 10pt;">There are many good reasons for virtualizing your environment. The two major reasons for this undertaking for this are to save money on cost or to save time on deployment operations. Since most training labs will still require a computer for each student to learn on, our focus in moving to a virtualized architecture would be to save time for each setup and deployment. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
 <p class="MsoNormal"><strong><span style="font-size: 10pt;">&nbsp;</span></strong></p>
 <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Configuring the Images</span></strong></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">The IT department will supply images for their current supported loads to the training environment.&nbsp; This virtual image will be created by VMware Workstation.&nbsp;&nbsp; Since each machine has to be unique to the machine it is running and joined to the domain, the image will have to go through a one-time Sysprep for the machine it is to be loaded on.&nbsp; From the standpoint of any technician maintaining this environment, the initial setup of the virtual machine would be the same as setting up any other machine in the environment. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">The IT department will supply images for their current supported loads to the training environment. This virtual image will be created by VMware Workstation. Since each machine has to be unique to the machine it is running and joined to the domain, the image will have to go through a one-time Sysprep for the machine it is to be loaded on. From the standpoint of any technician maintaining this environment, the initial setup of the virtual machine would be the same as setting up any other machine in the environment. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
 <ul style="margin-top: 0in;" type="disc">
 <li class="MsoNormal"><span style="font-size: 10pt;">Each virtual machine though built from a standard base image must be unique to the machine it is installed on</span></li>
-<li class="MsoNormal"><span style="font-size: 10pt;">Each virtual machine&rsquo;s computer name will be the ComputerName+v+OS version so the name would be ComputernameVXP for a standard XP domain image.&nbsp;&nbsp; The tag number for the vista machine would be ComputernameVVIS for Vista.&nbsp; A similar naming convention will be used on each machine and for each operating system installed as a virtual machine. </span></li>
+<li class="MsoNormal"><span style="font-size: 10pt;">Each virtual machine&rsquo;s computer name will be the ComputerName+v+OS version so the name would be ComputernameVXP for a standard XP domain image. The tag number for the vista machine would be ComputernameVVIS for Vista. A similar naming convention will be used on each machine and for each operating system installed as a virtual machine. </span></li>
 </ul>
 <p class="MsoNormal" style="margin-left: 0.25in;"><span style="font-size: 10pt;">&nbsp;</span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;This deployment is starting with Windows-based operating systems but can be expanded to support any operating system that is able to be virtualized. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
 <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Preparing the Host PC</span></strong></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">The computer the virtual machine is installed on is considered the host machine.&nbsp;&nbsp; This terminology is used to reflect that it is hosting the virtual machine.&nbsp;&nbsp; This machine will be loaded with the standard supported operating system in the environment (Windows XP at the time of this writing) that is locked down.&nbsp;&nbsp; Via computer and group policy the only options the students should be able to perform within the host&rsquo;s local PC environment is the ability to log off the host computer and click the desktop icon to run the virtual machine. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">The computer the virtual machine is installed on is considered the host machine. This terminology is used to reflect that it is hosting the virtual machine. This machine will be loaded with the standard supported operating system in the environment (Windows XP at the time of this writing) that is locked down. Via computer and group policy the only options the students should be able to perform within the host&rsquo;s local PC environment is the ability to log off the host computer and click the desktop icon to run the virtual machine. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">In the root directory we will create a new directory called c:\images underneath here there will be two directories, c:\images\run, and c:\images\archive.&nbsp; In the run directory will be the current live image on the system, and the backup and &ldquo;clean&rdquo; image will be stored in the archive directory.&nbsp; On each machine, the c:\images directory will be shared allowing only access to domain administrators, the helpdesk, and the teacher&rsquo;s computer. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">In the root directory we will create a new directory called c:\images underneath here there will be two directories, c:\images\run, and c:\images\archive. In the run directory will be the current live image on the system, and the backup and &ldquo;clean&rdquo; image will be stored in the archive directory. On each machine, the c:\images directory will be shared allowing only access to domain administrators, the helpdesk, and the teacher&rsquo;s computer. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">When these steps have been accomplished a technician will copy an image from the reference share created on the network and copy it to the c:\images\archive directory.&nbsp;&nbsp; The image MUST be set to be read-only. The technician will install VMware Player on the host machine.&nbsp;&nbsp; After VMware Player is installed associate the .vmdk image file in the reference directory with VMware player.&nbsp;&nbsp; Load up the image you want to adjust (the one you pulled down from the reference share and start it in VMware player.&nbsp; </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">When these steps have been accomplished a technician will copy an image from the reference share created on the network and copy it to the c:\images\archive directory. The image MUST be set to be read-only. The technician will install VMware Player on the host machine. After VMware Player is installed associate the .vmdk image file in the reference directory with VMware player. Load up the image you want to adjust (the one you pulled down from the reference share and start it in VMware player. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">The image will load up ready for patches and the overlay script.&nbsp;&nbsp;&nbsp; Deploying it unique to each machine in this state will ensure it will have the latest overlay and settings that are required at the time this is being deployed on the host machine. Follow the naming conventions for virtual machines and join the virtual machine to the domain. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">The image will load up ready for patches and the overlay script. Deploying it unique to each machine in this state will ensure it will have the latest overlay and settings that are required at the time this is being deployed on the host machine. Follow the naming conventions for virtual machines and join the virtual machine to the domain. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">When new virtual machines are being deployed inform the architecture team so they can be joined into the appropriate domain group for training computers.&nbsp;&nbsp; This goes for the host as well as the virtual machines.&nbsp;&nbsp; Since there need to be special policies applied to the host, this step is very important. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">When new virtual machines are being deployed inform the architecture team so they can be joined into the appropriate domain group for training computers. This goes for the host as well as the virtual machines. Since there need to be special policies applied to the host, this step is very important. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">When this step has been completed configuration of the host machine should be complete.&nbsp;&nbsp; There will be no need to monitor normal day-to-day activity or reload the machine since this will all be handled through the virtual machine. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">When this step has been completed configuration of the host machine should be complete. There will be no need to monitor normal day-to-day activity or reload the machine since this will all be handled through the virtual machine. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
 <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Setting up the Teachers/Management Station</span></strong></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">The teacher&rsquo;s computer will have a VMware player installed with the same images as the users.&nbsp; The host operating system however will not be locked down as far as the student&rsquo;s host machines.&nbsp; On the teaching station, the installation technician will create a c:\scripts directory which will include the maintenance scripts for the local training environment.&nbsp;&nbsp; While there will be reference scripts available on the same share from the reference image can be pulled from, these scripts will have to be modified to include all the student machines in the local training area. &nbsp;&nbsp;For the scripts to complete successfully all the student computers that are going to be in use must be turned on. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">The teacher&rsquo;s computer will have a VMware player installed with the same images as the users. The host operating system however will not be locked down as far as the student&rsquo;s host machines. On the teaching station, the installation technician will create a c:\scripts directory which will include the maintenance scripts for the local training environment. While there will be reference scripts available on the same share from the reference image can be pulled from, these scripts will have to be modified to include all the student machines in the local training area. For the scripts to complete successfully all the student computers that are going to be in use must be turned on. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">The first script will copy the image the teacher wants to train in the environment from the c:\images\archive directory to the run directory.&nbsp; This is designed for easy maintenance and clean-ups of the machines.&nbsp;&nbsp; Since the students will only be working on images in the run directory we can still have a backup that is &ldquo;clean&rdquo;.&nbsp; This script will also copy a shortcut to launch the machine onto the student&rsquo;s computer local desktop.&nbsp;&nbsp; Optionally the script could copy this shortcut into the student&rsquo;s &ldquo;start-up&rdquo; folder so the virtual machine is auto-loaded when the student logs into their host computer. </span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">The first script will copy the image the teacher wants to train in the environment from the c:\images\archive directory to the run directory. This is designed for easy maintenance and clean-ups of the machines. Since the students will only be working on images in the run directory we can still have a backup that is &ldquo;clean&rdquo;. This script will also copy a shortcut to launch the machine onto the student&rsquo;s computer local desktop. Optionally the script could copy this shortcut into the student&rsquo;s &ldquo;start-up&rdquo; folder so the virtual machine is auto-loaded when the student logs into their host computer. </span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">The second script created will be the cleanup script.&nbsp; This script will go out to each client computer that was used and delete the image in the run directory and copy the new default image from the archive directory and place it in the run directory.&nbsp; This is to make sure that if the teacher doesn&rsquo;t run the first script the client PCs have the default image available to them at startup.&nbsp;&nbsp; This script will not change the shortcuts on the user&rsquo;s desktop.</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">If the trainer uses software that is outside of the scope of a normal load, images that utilize different software configurations can be saved.&nbsp;&nbsp; For the trainer to do this they can contact local IT support to have this completed.&nbsp; To create new images activate the script that puts a new machine in the run directory of the client computer.&nbsp; At this point the following steps must be taken:</span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">The second script created will be the cleanup script. This script will go out to each client computer that was used and delete the image in the run directory and copy the new default image from the archive directory and place it in the run directory. This is to make sure that if the teacher doesn&rsquo;t run the first script the client PCs have the default image available to them at startup. This script will not change the shortcuts on the user&rsquo;s desktop.</span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">If the trainer uses software that is outside of the scope of a normal load, images that utilize different software configurations can be saved. For the trainer to do this they can contact local IT support to have this completed. To create new images activate the script that puts a new machine in the run directory of the client computer. At this point the following steps must be taken:</span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
 <ul style="margin-top: 0in;" type="disc">
 <li class="MsoNormal"><span style="font-size: 10pt;">Open up the image that is located on each client-run directory</span></li>
 <li class="MsoNormal"><span style="font-size: 10pt;">Install the software that is special to this configuration</span></li>
-<li class="MsoNormal"><span style="font-size: 10pt;">Shut down the image and exit it out of&nbsp; VMware Player</span></li>
+<li class="MsoNormal"><span style="font-size: 10pt;">Shut down the image and exit it out of VMware Player</span></li>
 <li class="MsoNormal"><span style="font-size: 10pt;">Rename the image so it denotes what is special about it</span></li>
 <li class="MsoNormal"><span style="font-size: 10pt;">Copy the image to the archive directory</span></li>
 <li class="MsoNormal"><span style="font-size: 10pt;">Contact IT support to modify the maintenance scripts</span></li>
@@ -241,7 +251,7 @@ a:hover,
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
 <p class="MsoNormal" style="text-align: center;" align="center"><strong><span style="font-size: 10pt;">Maintenance</span></strong></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;">On the last Friday of the month, the base image of each machine must be refreshed.&nbsp; This is to limit the amount of time it takes to patch the image each time it is run after being reset.&nbsp; Here is what that entails:</span></p>
+<p class="MsoNormal"><span style="font-size: 10pt;">On the last Friday of the month, the base image of each machine must be refreshed. This is to limit the amount of time it takes to patch the image each time it is run after being reset. Here is what that entails:</span></p>
 <p class="MsoNormal"><span style="font-size: 10pt;">&nbsp;</span></p>
 <ul style="margin-top: 0in;" type="disc">
 <li class="MsoNormal"><span style="font-size: 10pt;">Set the attribute of the base image so it&rsquo;s no longer read-only</span></li>
@@ -288,7 +298,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -308,7 +318,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -328,7 +338,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -348,7 +358,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -368,7 +378,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -388,7 +398,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -408,7 +418,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -428,7 +438,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

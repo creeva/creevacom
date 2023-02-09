@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2014/09/18/converting-symantec-endpoint-encryption-device-control-logs-to-csv-files/">
 <link rel="shortlink" href="https://creeva.com/?p=93910">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,16 +193,16 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Converting Symantec Endpoint Encryption &ndash; Device Control Logs to CSV files.				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2014-09-18T14:14:07+00:00">September 18, 2014</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2014-09-18T14:14:07-05:00">September 18, 2014</time></div>			</header>
 			<div class="entry-content">
 				<p>&nbsp;</p>
-<p>Recently I had to do some work on Symantec Endpoint Encryption &ndash; Device Control. &nbsp; One of the major issues was to take the logs and convert them to a more usable format. &nbsp; Since there is very little information on the web in regards to this product, I thought I would share my code.</p>
-<p>There are a couple steps to this process that can be shortened and made easier. &nbsp; I will be working on streamlining this process. &nbsp; While the initial work is done with the windows server I exported the logs from &ndash; the script is being run on OSX. &nbsp; I have run into some issues porting the script directly to windows, this is more of an issue with my experience with Sed (windows port specifically).</p>
-<p>Once you export the logs they are in an xml format. &nbsp;While it&rsquo;s plaintext underneath, there is quite a bit of extraneous information in the files. &nbsp; To strip this out I run this at the DOS command prompt on the server the logs are exported from:</p>
+<p>Recently I had to do some work on Symantec Endpoint Encryption &ndash; Device Control. One of the major issues was to take the logs and convert them to a more usable format. Since there is very little information on the web in regards to this product, I thought I would share my code.</p>
+<p>There are a couple steps to this process that can be shortened and made easier. I will be working on streamlining this process. While the initial work is done with the windows server I exported the logs from &ndash; the script is being run on OSX. I have run into some issues porting the script directly to windows, this is more of an issue with my experience with Sed (windows port specifically).</p>
+<p>Once you export the logs they are in an xml format. While it&rsquo;s plaintext underneath, there is quite a bit of extraneous information in the files. To strip this out I run this at the DOS command prompt on the server the logs are exported from:</p>
 <p>find &ldquo;EV Sequence&rdquo; &ldquo;*.xml&rdquo; &gt;log.txt</p>
-<p>This command gives you a file that is about half the size of the original .XML. &nbsp;Each line in the file will now look like this:</p>
-<blockquote><p>&nbsp; ClientHost=&rdquo;workstationname&rdquo; EventTime=&rdquo;3/14/2014 10:13:50 AM&rdquo; EventTimeLocal=&rdquo;3/14/2014 4:13:50 PM&rdquo; ServerTime=&rdquo;3/14/2014 10:13:50 AM&rdquo; CustomGroup=&rdquo;&rdquo; PolicyName=&rdquo;Allow-And-Log&rdquo; PolicyType=&rdquo;User&rdquo; DeviceDescription=&rdquo;Disk drive&rdquo; DeviceInfo=&rdquo;USB DISK 2.0 USB Device&rdquo; Port=&rdquo;USB&rdquo; BuiltinGroup=&rdquo;Removable Storage Devices&rdquo; DeviceVendor=&rdquo;XXX&rdquo; DeviceModel=&rdquo;XXX&rdquo; DeviceDistinctId=&rdquo;XXXX&rdquo; FileName=&rdquo;homevideo.flv&rdquo; FileExtension=&rdquo;flv&rdquo; FileSize=&rdquo;500987&Prime; FileCreationTime=&rdquo;3/14/2014 4:13:24 PM&rdquo; FileModifyTime=&rdquo;3/14/2014 4:13:26 PM&rdquo; FileOperation=&rdquo;Write&rdquo; Details=&rdquo;&rdquo; FileType=&rdquo;Multimedia&rdquo; ContentInspectionResult=&rdquo;0&Prime; ContentInspectionDetails=&rdquo;&rdquo; ContentInspectionTimeLocal=&rdquo;&rdquo; FileShadowingFingerprint=&rdquo;&rdquo; FileShadowingPath=&rdquo;&rdquo; FileShadowingFileName=&rdquo;&rdquo; /&gt;</p></blockquote>
-<p>Once this has been done I copy the file over to the OSX machine to run the script against. &nbsp; Thanks to the find command there is going to be a line at the top of the file you have to remove. &nbsp;You can remove this line before or after you the script against the file. &nbsp;As part of the script, we wanted to make sure that we strip out any extra commas from the file that can throw off the formatting. &nbsp; The script will take these commas and replace them with spaces.</p>
+<p>This command gives you a file that is about half the size of the original .XML. Each line in the file will now look like this:</p>
+<blockquote><p> ClientHost=&rdquo;workstationname&rdquo; EventTime=&rdquo;3/14/2014 10:13:50 AM&rdquo; EventTimeLocal=&rdquo;3/14/2014 4:13:50 PM&rdquo; ServerTime=&rdquo;3/14/2014 10:13:50 AM&rdquo; CustomGroup=&rdquo;&rdquo; PolicyName=&rdquo;Allow-And-Log&rdquo; PolicyType=&rdquo;User&rdquo; DeviceDescription=&rdquo;Disk drive&rdquo; DeviceInfo=&rdquo;USB DISK 2.0 USB Device&rdquo; Port=&rdquo;USB&rdquo; BuiltinGroup=&rdquo;Removable Storage Devices&rdquo; DeviceVendor=&rdquo;XXX&rdquo; DeviceModel=&rdquo;XXX&rdquo; DeviceDistinctId=&rdquo;XXXX&rdquo; FileName=&rdquo;homevideo.flv&rdquo; FileExtension=&rdquo;flv&rdquo; FileSize=&rdquo;500987&Prime; FileCreationTime=&rdquo;3/14/2014 4:13:24 PM&rdquo; FileModifyTime=&rdquo;3/14/2014 4:13:26 PM&rdquo; FileOperation=&rdquo;Write&rdquo; Details=&rdquo;&rdquo; FileType=&rdquo;Multimedia&rdquo; ContentInspectionResult=&rdquo;0&Prime; ContentInspectionDetails=&rdquo;&rdquo; ContentInspectionTimeLocal=&rdquo;&rdquo; FileShadowingFingerprint=&rdquo;&rdquo; FileShadowingPath=&rdquo;&rdquo; FileShadowingFileName=&rdquo;&rdquo; /&gt;</p></blockquote>
+<p>Once this has been done I copy the file over to the OSX machine to run the script against. Thanks to the find command there is going to be a line at the top of the file you have to remove. You can remove this line before or after you the script against the file. As part of the script, we wanted to make sure that we strip out any extra commas from the file that can throw off the formatting. The script will take these commas and replace them with spaces.</p>
 <p>Here is the script:</p>
 <p>&nbsp;</p>
 <blockquote><p>##############################################################################################<br>
@@ -227,9 +237,9 @@ cat log2.txt &gt;&gt;finished.csv<br>
 rm log1.txt<br>
 rm log2.txt</p></blockquote>
 <p>&nbsp;</p>
-<p>As part of the output we place headers at the top of the file to make this easy to work with in Excel. &nbsp;The fields we use are User, Host ,Server Event Time, Workstation Event Time, Policy Name, Device Description, Port, File Name, File Extension, File Size, Action, and File Type. &nbsp;In the output a log line will now look like this (with another significant size reduction for the full file):</p>
+<p>As part of the output we place headers at the top of the file to make this easy to work with in Excel. The fields we use are User, Host ,Server Event Time, Workstation Event Time, Policy Name, Device Description, Port, File Name, File Extension, File Size, Action, and File Type. In the output a log line will now look like this (with another significant size reduction for the full file):</p>
 <blockquote><p>user@company.com,workstationname,3/14/2014 10:13:50AM,3/14/2014 4:13:50PM,Allow-And-Log,Diskdrive,USB,homevideo.flv,flv,500987,Write,Multimedia,</p></blockquote>
-<p>You then have a file named finished.csv that you can edit or look at to you hearts content. &nbsp; Pay attention to the amount of lines in the file. &nbsp;If there are over a million lines you will have to split the file if you wish to use it in Excel.</p>
+<p>You then have a file named finished.csv that you can edit or look at to you hearts content. Pay attention to the amount of lines in the file. If there are over a million lines you will have to split the file if you wish to use it in Excel.</p>
 <p>I hope this helps someone out.</p>
 			</div><!-- .entry-content -->
 	</article>
@@ -263,7 +273,7 @@ rm log2.txt</p></blockquote>
 																The More We Stay The Same, The More We Change.							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48+00:00">June 9, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96112" class="row postbox postboxloop post-96112 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -283,7 +293,7 @@ rm log2.txt</p></blockquote>
 																Retrometrics &ndash; Final Fantasy X and X-2 Remastered							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24+00:00">May 20, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24-05:00">May 20, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-95581" class="row postbox postboxloop post-95581 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -303,7 +313,7 @@ rm log2.txt</p></blockquote>
 																Lamenting the Loss of Everlasting Gobstoppers							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41+00:00">May 3, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -323,7 +333,7 @@ rm log2.txt</p></blockquote>
 																Yahoo Answers Shutting Down &ndash; Not All Data Exportable							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30+00:00">April 7, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96108" class="row postbox postboxloop post-96108 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -343,7 +353,7 @@ rm log2.txt</p></blockquote>
 																Playing With Wordgrinder							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31+00:00">March 30, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96103" class="row postbox postboxloop post-96103 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -363,7 +373,7 @@ rm log2.txt</p></blockquote>
 																Sometimes The Right Text Editor is Right In Front of You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19+00:00">March 23, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96098" class="row postbox postboxloop post-96098 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -383,7 +393,7 @@ rm log2.txt</p></blockquote>
 																The Last Blockbuster							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04+00:00">March 18, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -403,7 +413,7 @@ rm log2.txt</p></blockquote>
 																Doing The RSS Feed Cleanup Dance							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33+00:00">March 16, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time></div>				</div>	
 			
 	</article>
 

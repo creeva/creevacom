@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2014/09/26/how-to-unprotect-a-third-party-encrypted-pdf-on-osx/">
 <link rel="shortlink" href="https://creeva.com/?p=94053">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,18 +193,18 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										How to Unprotect a Third-Party Encrypted PDF on OSX				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2014-09-26T08:38:34+00:00">September 26, 2014</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2014-09-26T08:38:34-05:00">September 26, 2014</time></div>			</header>
 			<div class="entry-content">
 				<p>&nbsp;</p>
-<p>This is just a quick tech note for those that might be fighting an encrypted PDF on OSX. &nbsp; I had a PDF that was encrypted by a third-party certificate that I had to install on my system. &nbsp;Once the certificate was installed, I could view the document &ndash; but only in the official Adobe Acrobat reader.</p>
-<p>I needed to get this over to my iPad, but I was not going to install the key (even if that is possible) onto my tablet. &nbsp; I could print, but I could not use the built-in OSX print to PDF feature. &nbsp; This feature is blocked by Adobe Acrobat reader. &nbsp; I couldn&rsquo;t strip it of protections, since it used a third-party encryption. &nbsp; I couldn&rsquo;t copy and paste the information out into Word &ndash; because Acrobat Reader blocked that. &nbsp;I did manage to get the information though.</p>
-<p>In the windows world, there are many print to PDF drivers. &nbsp; In retrospect, this might have been faster if I just had jumped to a Windows system. &nbsp; I needed a method to make Acrobat Reader believe I was printing to an real printer. &nbsp; I found <a href="http://sourceforge.net/projects/pdfwriterformac/">PDFwriter on Sourceforge</a> that was just what I needed. &nbsp; This registers as any other printer and allows you to print to pdf directly, even with a protected document.</p>
-<p>It installed easily and the print process seemed to work. &nbsp;Unfortunately I had no idea where the output was saved. &nbsp;The configuration file didn&rsquo;t seem to have any settings on this. &nbsp; In windows I normally expect a save-as dialogue. &nbsp;This printed and then went away. &nbsp;I had to go back to the readme.pdf file that was included, and found my answer:</p>
+<p>This is just a quick tech note for those that might be fighting an encrypted PDF on OSX. I had a PDF that was encrypted by a third-party certificate that I had to install on my system. Once the certificate was installed, I could view the document &ndash; but only in the official Adobe Acrobat reader.</p>
+<p>I needed to get this over to my iPad, but I was not going to install the key (even if that is possible) onto my tablet. I could print, but I could not use the built-in OSX print to PDF feature. This feature is blocked by Adobe Acrobat reader. I couldn&rsquo;t strip it of protections, since it used a third-party encryption. I couldn&rsquo;t copy and paste the information out into Word &ndash; because Acrobat Reader blocked that. I did manage to get the information though.</p>
+<p>In the windows world, there are many print to PDF drivers. In retrospect, this might have been faster if I just had jumped to a Windows system. I needed a method to make Acrobat Reader believe I was printing to an real printer. I found <a href="http://sourceforge.net/projects/pdfwriterformac/">PDFwriter on Sourceforge</a> that was just what I needed. This registers as any other printer and allows you to print to pdf directly, even with a protected document.</p>
+<p>It installed easily and the print process seemed to work. Unfortunately I had no idea where the output was saved. The configuration file didn&rsquo;t seem to have any settings on this. In windows I normally expect a save-as dialogue. This printed and then went away. I had to go back to the readme.pdf file that was included, and found my answer:</p>
 <p>&nbsp;</p>
 <blockquote>
 <p class="p1">Simply print your documents using <span class="s1">PDFwriter </span>as your printer. The PDF files will be stored&nbsp;in the directory <span class="s1">/Users/Shared/PDFwriter</span>. There&rsquo;s a folder with your user name which&nbsp;contains your printed documents. ( to go to /Users/Shared/PDFwriter please open Finder,&nbsp;<span class="s2">select your </span>Macintosh HD <span class="s2">and then go into </span>Users <span class="s2">&ndash; </span>Shared <span class="s2">&ndash; </span>PDFwriter<span class="s2">)</span></p>
 </blockquote>
-<p class="p1">Hopefully this helps someone else out. &nbsp; You also should be able to do the same thing on Windows.</p>
+<p class="p1">Hopefully this helps someone else out. You also should be able to do the same thing on Windows.</p>
 <p>&nbsp;</p>
 			</div><!-- .entry-content -->
 	</article>
@@ -228,7 +238,7 @@ a:hover,
 																The More We Stay The Same, The More We Change.							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48+00:00">June 9, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96112" class="row postbox postboxloop post-96112 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -248,7 +258,7 @@ a:hover,
 																Retrometrics &ndash; Final Fantasy X and X-2 Remastered							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24+00:00">May 20, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24-05:00">May 20, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-95581" class="row postbox postboxloop post-95581 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -268,7 +278,7 @@ a:hover,
 																Lamenting the Loss of Everlasting Gobstoppers							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41+00:00">May 3, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -288,7 +298,7 @@ a:hover,
 																Yahoo Answers Shutting Down &ndash; Not All Data Exportable							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30+00:00">April 7, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96108" class="row postbox postboxloop post-96108 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -308,7 +318,7 @@ a:hover,
 																Playing With Wordgrinder							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31+00:00">March 30, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96103" class="row postbox postboxloop post-96103 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -328,7 +338,7 @@ a:hover,
 																Sometimes The Right Text Editor is Right In Front of You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19+00:00">March 23, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96098" class="row postbox postboxloop post-96098 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -348,7 +358,7 @@ a:hover,
 																The Last Blockbuster							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04+00:00">March 18, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -368,7 +378,7 @@ a:hover,
 																Doing The RSS Feed Cleanup Dance							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33+00:00">March 16, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time></div>				</div>	
 			
 	</article>
 

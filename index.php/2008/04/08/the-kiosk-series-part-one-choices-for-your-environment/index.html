@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/04/08/the-kiosk-series-part-one-choices-for-your-environment/">
 <link rel="shortlink" href="https://creeva.com/?p=2684">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,287 +193,287 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										The Kiosk Series &ndash; Part One &ndash; Choices For Your Environment				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-08T11:07:47+00:00">April 8, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-08T11:07:47-05:00">April 8, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="1024" height="768" data-srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" data-src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="aligncenter size-large wp-image-97594 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-large wp-image-97594" src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" alt="" width="1024" height="768" srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></p>
-<p>Recently I&rsquo;ve been put forth to design a kiosk solution for our internal environment.&nbsp;&nbsp; This is the first part of my kiosk series which is going to examine the testing and deployment of such a system.</p>
+<p>Recently I&rsquo;ve been put forth to design a kiosk solution for our internal environment. This is the first part of my kiosk series which is going to examine the testing and deployment of such a system.</p>
 <p style="text-align: center;"><strong>Kiosk Options</strong></p>
-<p>When discussing the kiosk system we need to discuss the scope, security issues, and functionality requirements that we must maintain to achieve a successful deployment.&nbsp;&nbsp; There are many types of kiosk systems that we can implement within the Company network.&nbsp;&nbsp; The solutions we are going to describe in this document are based on product literature that we have received after the scope is finalized actual product testing will be done so we can verify that all the features work as described and will function within the deployed environment.</p>
-<p>For the sake of categorization, the following options were identified as possible for use within a kiosk environment.&nbsp;&nbsp; This list is not meant to be all-encompassing but rather a list of desired features that we feel can be accomplished from the products we are looking at.</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Internal Websites &ndash; company Designated<br>
-&middot;&nbsp;&nbsp; &nbsp;External Websites &ndash; Completely open from a kiosk standpoint<br>
-&middot;&nbsp;&nbsp; &nbsp;SSL VPN &ndash; For access to the internal network<br>
-&middot;&nbsp;&nbsp; &nbsp;Citrix &ndash; for terminal server capabilities<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing &ndash; locally attached print<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound &ndash; for hearing active embedded media<br>
-&middot;&nbsp;&nbsp; &nbsp;USB Mounting &ndash; for USB memory sticks<br>
-&middot;&nbsp;&nbsp; &nbsp;Run Apps Locally (Read Only) &ndash; from either the memory stick or kiosk directly<br>
-&middot;&nbsp;&nbsp; &nbsp;Run Apps Locally (Read / Write) &ndash; from either the memory stick or kiosk directly<br>
-&middot;&nbsp;&nbsp; &nbsp;Write to USB Memory Stick &ndash; from the kiosk<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to User Documents<br>
-&middot;&nbsp;&nbsp; &nbsp;No Login &ndash; completely is designed to start being used without login<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website &ndash; standard start page<br>
-&middot;&nbsp;&nbsp; &nbsp;Full application list<br>
-&middot;&nbsp;&nbsp; &nbsp;Internal &ndash; Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;External &ndash; No Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins &ndash; for enhanced compatibility<br>
-&middot;&nbsp;&nbsp; &nbsp;Restricted To Certain Web Sites &ndash; Company Designated</p>
-<p>Kiosk mode systems come in a variety of shapes, sizes, and functions.&nbsp;&nbsp; To help narrow the design gap for our needs we have devised eight categories in which we can work around design structures for:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Full web-only access kiosk on the company guest network<br>
-&middot;&nbsp;&nbsp; &nbsp;Limited web access on the company guest network with a locked-down browser<br>
-&middot;&nbsp;&nbsp; &nbsp;Full web-only access kiosk on the internal network<br>
-&middot;&nbsp;&nbsp; &nbsp;Limited web access on the internal network with a locked-down browser<br>
-&middot;&nbsp;&nbsp; &nbsp;Limited seats with security controls on the company guest network<br>
-&middot;&nbsp;&nbsp; &nbsp;Limited seat with security controls on the internal network<br>
-&middot;&nbsp;&nbsp; &nbsp;Full seat with security controls on the company guest network<br>
-&middot;&nbsp;&nbsp; &nbsp;Full seat open use office solution &ndash; internal network<br>
-&middot;&nbsp;&nbsp; &nbsp;Full seat with security Controls open use office on the internal network</p>
-<p>Each solution has its own benefits and concerns for deployment.&nbsp; We will be going over these one by one to analyze and work with the company to implement the correct and desired solution.&nbsp; The analysis will include which functions identified above can be implemented, target placement, target users, benefits and disadvantages of each solution, and possible security concerns.</p>
+<p>When discussing the kiosk system we need to discuss the scope, security issues, and functionality requirements that we must maintain to achieve a successful deployment. There are many types of kiosk systems that we can implement within the Company network. The solutions we are going to describe in this document are based on product literature that we have received after the scope is finalized actual product testing will be done so we can verify that all the features work as described and will function within the deployed environment.</p>
+<p>For the sake of categorization, the following options were identified as possible for use within a kiosk environment. This list is not meant to be all-encompassing but rather a list of desired features that we feel can be accomplished from the products we are looking at.</p>
+<p>&middot; Internal Websites &ndash; company Designated<br>
+&middot; External Websites &ndash; Completely open from a kiosk standpoint<br>
+&middot; SSL VPN &ndash; For access to the internal network<br>
+&middot; Citrix &ndash; for terminal server capabilities<br>
+&middot; Printing &ndash; locally attached print<br>
+&middot; Sound &ndash; for hearing active embedded media<br>
+&middot; USB Mounting &ndash; for USB memory sticks<br>
+&middot; Run Apps Locally (Read Only) &ndash; from either the memory stick or kiosk directly<br>
+&middot; Run Apps Locally (Read / Write) &ndash; from either the memory stick or kiosk directly<br>
+&middot; Write to USB Memory Stick &ndash; from the kiosk<br>
+&middot; Access to User Documents<br>
+&middot; No Login &ndash; completely is designed to start being used without login<br>
+&middot; Boiler Plate Website &ndash; standard start page<br>
+&middot; Full application list<br>
+&middot; Internal &ndash; Authentication<br>
+&middot; External &ndash; No Authentication<br>
+&middot; Browser Plug-ins &ndash; for enhanced compatibility<br>
+&middot; Restricted To Certain Web Sites &ndash; Company Designated</p>
+<p>Kiosk mode systems come in a variety of shapes, sizes, and functions. To help narrow the design gap for our needs we have devised eight categories in which we can work around design structures for:</p>
+<p>&middot; Full web-only access kiosk on the company guest network<br>
+&middot; Limited web access on the company guest network with a locked-down browser<br>
+&middot; Full web-only access kiosk on the internal network<br>
+&middot; Limited web access on the internal network with a locked-down browser<br>
+&middot; Limited seats with security controls on the company guest network<br>
+&middot; Limited seat with security controls on the internal network<br>
+&middot; Full seat with security controls on the company guest network<br>
+&middot; Full seat open use office solution &ndash; internal network<br>
+&middot; Full seat with security Controls open use office on the internal network</p>
+<p>Each solution has its own benefits and concerns for deployment. We will be going over these one by one to analyze and work with the company to implement the correct and desired solution. The analysis will include which functions identified above can be implemented, target placement, target users, benefits and disadvantages of each solution, and possible security concerns.</p>
 <p>Full web-only access kiosk on the company guest network:</p>
-<p>Description: This would be a fully open web kiosk with an address bar located at the top with the web browser being the only application available to the end user.&nbsp; All functions must be done within the browser.</p>
+<p>Description: This would be a fully open web kiosk with an address bar located at the top with the web browser being the only application available to the end user. All functions must be done within the browser.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Internal Websites &ndash; via SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;External Websites &ndash;<br>
-&middot;&nbsp;&nbsp; &nbsp;SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;Citrix &ndash; via SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing &ndash; locally attached print<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound &ndash; for hearing active embedded media<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to My Docs &ndash; Via SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;No Login &ndash; completely is designed to start being used without login<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website &ndash; standard start page<br>
-&middot;&nbsp;&nbsp; &nbsp;External &ndash; No Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins &ndash; for enhanced compatibility</p>
+<p>&middot; Internal Websites &ndash; via SSL VPN<br>
+&middot; External Websites &ndash;<br>
+&middot; SSL VPN<br>
+&middot; Citrix &ndash; via SSL VPN<br>
+&middot; Printing &ndash; locally attached print<br>
+&middot; Sound &ndash; for hearing active embedded media<br>
+&middot; Access to My Docs &ndash; Via SSL VPN<br>
+&middot; No Login &ndash; completely is designed to start being used without login<br>
+&middot; Boiler Plate Website &ndash; standard start page<br>
+&middot; External &ndash; No Authentication<br>
+&middot; Browser Plug-ins &ndash; for enhanced compatibility</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public areas where guests are most likely</p>
+<p>&middot; Public areas where guests are most likely</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Visitors<br>
-&middot;&nbsp;&nbsp; &nbsp;Visiting Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Company Employees</p>
+<p>&middot; Visitors<br>
+&middot; Visiting Contractors<br>
+&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Allows users access to information at placement points<br>
-&middot;&nbsp;&nbsp; &nbsp;User will not have access to the local computer beyond the web browser</p>
+<p>&middot; Allows users access to information at placement points<br>
+&middot; User will not have access to the local computer beyond the web browser</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;All functions must be performed within a browser<br>
-&middot;&nbsp;&nbsp; &nbsp;Won&rsquo;t be able to perform other application tasks</p>
+<p>&middot; All functions must be performed within a browser<br>
+&middot; Won&rsquo;t be able to perform other application tasks</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;If a user leaves an authenticated session up there will be a time delay before the profile resets, risking possible exposure of private data or company data if the SSL VPN was used.<br>
-&middot;&nbsp;&nbsp; &nbsp;Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.</p>
+<p>&middot; If a user leaves an authenticated session up there will be a time delay before the profile resets, risking possible exposure of private data or company data if the SSL VPN was used.<br>
+&middot; Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.</p>
 <p>Limited web access on the company guest network with a locked-down browser:</p>
-<p>Description: This solution can be configured with or without an address bar allowing the option to restrict this to certain websites.&nbsp;&nbsp; Active X would be disabled.</p>
+<p>Description: This solution can be configured with or without an address bar allowing the option to restrict this to certain websites. Active X would be disabled.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;External Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound<br>
-&middot;&nbsp;&nbsp; &nbsp;No Login<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website External &ndash; No Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;Restricted To Certain Web Sites</p>
+<p>&middot; External Websites<br>
+&middot; Printing<br>
+&middot; Sound<br>
+&middot; No Login<br>
+&middot; Boiler Plate Website External &ndash; No Authentication<br>
+&middot; Restricted To Certain Web Sites</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public areas where guests are most likely</p>
+<p>&middot; Public areas where guests are most likely</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Visitors<br>
-&middot;&nbsp;&nbsp; &nbsp;Visiting Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Company Employees</p>
+<p>&middot; Visitors<br>
+&middot; Visiting Contractors<br>
+&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Tighter Security Controls<br>
-&middot;&nbsp;&nbsp; &nbsp;Limited Risk Exposure<br>
-&middot;&nbsp;&nbsp; &nbsp;Option of controlling where the users can go via the browser</p>
+<p>&middot; Tighter Security Controls<br>
+&middot; Limited Risk Exposure<br>
+&middot; Option of controlling where the users can go via the browser</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;SSL VPN will not work if active-x controls are disabled<br>
-&middot;&nbsp;&nbsp; &nbsp;All functions must be performed within a browser<br>
-&middot;&nbsp;&nbsp; &nbsp;Won&rsquo;t be able to perform other application tasks<br>
-&middot;&nbsp;&nbsp; &nbsp;With no SSL-VPN &ndash; no access to internal company data</p>
+<p>&middot; SSL VPN will not work if active-x controls are disabled<br>
+&middot; All functions must be performed within a browser<br>
+&middot; Won&rsquo;t be able to perform other application tasks<br>
+&middot; With no SSL-VPN &ndash; no access to internal company data</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;If a user leaves an authenticated session up there will be a time delay before the profile resets, risking possible exposure of private data.</p>
+<p>&middot; If a user leaves an authenticated session up there will be a time delay before the profile resets, risking possible exposure of private data.</p>
 <p>Full web-only access kiosk on the internal network:</p>
-<p>Description: While not recommended this is being offered as an option for choice.&nbsp; It has the same features as the Full web-only access kiosk on the company guest network but would require user authentication due to the network access it has.</p>
+<p>Description: While not recommended this is being offered as an option for choice. It has the same features as the Full web-only access kiosk on the company guest network but would require user authentication due to the network access it has.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Internal Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;External Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;Citrix<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to My Docs<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website<br>
-&middot;&nbsp;&nbsp; &nbsp;Internal<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins</p>
+<p>&middot; Internal Websites<br>
+&middot; External Websites<br>
+&middot; Citrix<br>
+&middot; Printing<br>
+&middot; Sound<br>
+&middot; Access to My Docs<br>
+&middot; Boiler Plate Website<br>
+&middot; Internal<br>
+&middot; Browser Plug-ins</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public sites within company buildings that are not commonly visited by large amounts of visitors at once.&nbsp; This would be to limit the amount of time that authenticated data is available if a user walks away from the kiosk.<br>
-&middot;&nbsp;&nbsp; &nbsp;Would not be recommended at the location that the general public has access to</p>
+<p>&middot; Public sites within company buildings that are not commonly visited by large amounts of visitors at once. This would be to limit the amount of time that authenticated data is available if a user walks away from the kiosk.<br>
+&middot; Would not be recommended at the location that the general public has access to</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Company Employees</p>
+<p>&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Company employees would be able to access their Webmail from anywhere these are placed<br>
-&middot;&nbsp;&nbsp; &nbsp;Company employees would be able to access a terminal server session from anywhere these are placed</p>
+<p>&middot; Company employees would be able to access their Webmail from anywhere these are placed<br>
+&middot; Company employees would be able to access a terminal server session from anywhere these are placed</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;All functions must be performed within a browser<br>
-&middot;&nbsp;&nbsp; &nbsp;Won&rsquo;t be able to perform other application tasks</p>
+<p>&middot; All functions must be performed within a browser<br>
+&middot; Won&rsquo;t be able to perform other application tasks</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Possible information leakage due to open Webmail or terminal server session.<br>
-&middot;&nbsp;&nbsp; &nbsp;Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.</p>
+<p>&middot; Possible information leakage due to open Webmail or terminal server session.<br>
+&middot; Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.</p>
 <p>Limited web access on the internal network with a locked-down browser:</p>
-<p>Description: While not recommended this is being offered as an option for choice.&nbsp; It has the same features as the limited access kiosk on the company guest network but would require user authentication due to the network access it has.</p>
+<p>Description: While not recommended this is being offered as an option for choice. It has the same features as the limited access kiosk on the company guest network but would require user authentication due to the network access it has.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;External Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound<br>
-&middot;&nbsp;&nbsp; &nbsp;No Login<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website External &ndash; No Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;Restricted To Certain Web Sites</p>
+<p>&middot; External Websites<br>
+&middot; Printing<br>
+&middot; Sound<br>
+&middot; No Login<br>
+&middot; Boiler Plate Website External &ndash; No Authentication<br>
+&middot; Restricted To Certain Web Sites</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public sites within company buildings that are not commonly visited by large amounts of visitors at once.&nbsp; This would be to limit the amount of time that authenticated data is available if a user walks away from the kiosk.<br>
-&middot;&nbsp;&nbsp; &nbsp;Would not be recommended at a location that the general public has access to</p>
+<p>&middot; Public sites within company buildings that are not commonly visited by large amounts of visitors at once. This would be to limit the amount of time that authenticated data is available if a user walks away from the kiosk.<br>
+&middot; Would not be recommended at a location that the general public has access to</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Company Employees</p>
+<p>&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Company employees would be able to access their Webmail from anywhere these are placed<br>
-&middot;&nbsp;&nbsp; &nbsp;Company employees would be able to access a terminal server session from anywhere these are placed<br>
-&middot;&nbsp;&nbsp; &nbsp;Tighter Security Controls<br>
-&middot;&nbsp;&nbsp; &nbsp;Limited Risk Exposure<br>
-&middot;&nbsp;&nbsp; &nbsp;Option of controlling where the users can go via the browser</p>
+<p>&middot; Company employees would be able to access their Webmail from anywhere these are placed<br>
+&middot; Company employees would be able to access a terminal server session from anywhere these are placed<br>
+&middot; Tighter Security Controls<br>
+&middot; Limited Risk Exposure<br>
+&middot; Option of controlling where the users can go via the browser</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;All functions must be performed within a browser<br>
-&middot;&nbsp;&nbsp; &nbsp;Won&rsquo;t be able to perform other application tasks<br>
-&middot;&nbsp;&nbsp; &nbsp;Some sites won&rsquo;t work due to Active-X being disabled</p>
+<p>&middot; All functions must be performed within a browser<br>
+&middot; Won&rsquo;t be able to perform other application tasks<br>
+&middot; Some sites won&rsquo;t work due to Active-X being disabled</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Possible information leakage due to open Webmail or terminal server session.</p>
+<p>&middot; Possible information leakage due to open Webmail or terminal server session.</p>
 <p>Limited seats with security controls on the company guest network:</p>
-<p>Description: This would be a scenario where we would have an open standard windows desktop for the user to access.&nbsp; It would allow only certain applications to run but will give the user access to a portable memory stick for use.</p>
+<p>Description: This would be a scenario where we would have an open standard windows desktop for the user to access. It would allow only certain applications to run but will give the user access to a portable memory stick for use.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Internal Websites &ndash; via SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;External Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;Citrix &ndash; via SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to My Docs &ndash; Via SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;No Login<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website<br>
-&middot;&nbsp;&nbsp; &nbsp;External<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins<br>
-&middot;&nbsp;&nbsp; &nbsp;USB Mounting<br>
-&middot;&nbsp;&nbsp; &nbsp;Write to USB Memory Stick<br>
-&middot;&nbsp;&nbsp; &nbsp;No Login<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins<br>
-&middot;&nbsp;&nbsp; &nbsp;Restricted To Certain Web Sites &ndash; company Designated</p>
+<p>&middot; Internal Websites &ndash; via SSL VPN<br>
+&middot; External Websites<br>
+&middot; SSL VPN<br>
+&middot; Citrix &ndash; via SSL VPN<br>
+&middot; Printing<br>
+&middot; Sound<br>
+&middot; Access to My Docs &ndash; Via SSL VPN<br>
+&middot; No Login<br>
+&middot; Boiler Plate Website<br>
+&middot; External<br>
+&middot; Browser Plug-ins<br>
+&middot; USB Mounting<br>
+&middot; Write to USB Memory Stick<br>
+&middot; No Login<br>
+&middot; Boiler Plate Website<br>
+&middot; Browser Plug-ins<br>
+&middot; Restricted To Certain Web Sites &ndash; company Designated</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public open-use office space</p>
+<p>&middot; Public open-use office space</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Visiting Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Company Employees</p>
+<p>&middot; Visiting Contractors<br>
+&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Allows users access to information at placement points<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to certain designated applications<br>
-&middot;&nbsp;&nbsp; &nbsp;Controlled environment</p>
+<p>&middot; Allows users access to information at placement points<br>
+&middot; Access to certain designated applications<br>
+&middot; Controlled environment</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Won&rsquo;t be able to perform non-designated application tasks</p>
+<p>&middot; Won&rsquo;t be able to perform non-designated application tasks</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Possible information leakage due to open Webmail or SSL VPN session.<br>
-&middot;&nbsp;&nbsp; &nbsp;Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.<br>
-&middot;&nbsp;&nbsp; &nbsp;Possible application vulnerabilities could compromise the unit</p>
+<p>&middot; Possible information leakage due to open Webmail or SSL VPN session.<br>
+&middot; Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.<br>
+&middot; Possible application vulnerabilities could compromise the unit</p>
 <p>Limited seat with security controls on the internal network:</p>
-<p>Description: Same as the limited seat on the company guest network but designed for internal GRC employees.&nbsp;&nbsp; Smart card access would be recommended and roaming profiles blocked.</p>
+<p>Description: Same as the limited seat on the company guest network but designed for internal GRC employees. Smart card access would be recommended and roaming profiles blocked.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Internal Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;External Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;Citrix<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to My Docs<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins<br>
-&middot;&nbsp;&nbsp; &nbsp;USB Mounting<br>
-&middot;&nbsp;&nbsp; &nbsp;Write to USB Memory Stick<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website<br>
-&middot;&nbsp;&nbsp; &nbsp;Internal &ndash; Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins<br>
-&middot;&nbsp;&nbsp; &nbsp;Restricted To Certain Web Sites &ndash; company Designated</p>
+<p>&middot; Internal Websites<br>
+&middot; External Websites<br>
+&middot; Citrix<br>
+&middot; Printing<br>
+&middot; Sound<br>
+&middot; Access to My Docs<br>
+&middot; Boiler Plate Website<br>
+&middot; Browser Plug-ins<br>
+&middot; USB Mounting<br>
+&middot; Write to USB Memory Stick<br>
+&middot; Boiler Plate Website<br>
+&middot; Internal &ndash; Authentication<br>
+&middot; Browser Plug-ins<br>
+&middot; Restricted To Certain Web Sites &ndash; company Designated</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public open-use office space</p>
+<p>&middot; Public open-use office space</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Company Employees</p>
+<p>&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Allows users access to information at placement points<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to certain designated applications<br>
-&middot;&nbsp;&nbsp; &nbsp;Controlled environment</p>
+<p>&middot; Allows users access to information at placement points<br>
+&middot; Access to certain designated applications<br>
+&middot; Controlled environment</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Won&rsquo;t be able to perform non-designated application tasks<br>
-&middot;&nbsp;&nbsp; &nbsp;Large threat to data being exposed</p>
+<p>&middot; Won&rsquo;t be able to perform non-designated application tasks<br>
+&middot; Large threat to data being exposed</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.<br>
-&middot;&nbsp;&nbsp; &nbsp;Possible information leakage due to being on the open internal network<br>
-&middot;&nbsp;&nbsp; &nbsp;Large data exposure footprint<br>
-&middot;&nbsp;&nbsp; &nbsp;Possible application vulnerabilities could compromise the unit</p>
+<p>&middot; Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.<br>
+&middot; Possible information leakage due to being on the open internal network<br>
+&middot; Large data exposure footprint<br>
+&middot; Possible application vulnerabilities could compromise the unit</p>
 <p>Full seat with security controls on the company guest network:</p>
-<p>Description: This option would give users the same standard applications as their normal desktops.&nbsp;&nbsp; The hard drive would not be written for data storage.&nbsp; Roaming profiles would be blocked.&nbsp; These seats would also have full security controls applied to them.</p>
+<p>Description: This option would give users the same standard applications as their normal desktops. The hard drive would not be written for data storage. Roaming profiles would be blocked. These seats would also have full security controls applied to them.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Internal Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;External Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;SSL VPN<br>
-&middot;&nbsp;&nbsp; &nbsp;Citrix<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound<br>
-&middot;&nbsp;&nbsp; &nbsp;USB Mounting<br>
-&middot;&nbsp;&nbsp; &nbsp;Run Apps Locally (Read Only)<br>
-&middot;&nbsp;&nbsp; &nbsp;Run Apps Locally (Read / Write)<br>
-&middot;&nbsp;&nbsp; &nbsp;Write to USB Memory Stick<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to My Docs<br>
-&middot;&nbsp;&nbsp; &nbsp;No Login &ndash; completely is designed to start being used without login<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website<br>
-&middot;&nbsp;&nbsp; &nbsp;Full Application Suite<br>
-&middot;&nbsp;&nbsp; &nbsp;External &ndash; No Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins<br>
-&middot;&nbsp;&nbsp; &nbsp;Restricted To Certain Web Sites &ndash; company Designated</p>
+<p>&middot; Internal Websites<br>
+&middot; External Websites<br>
+&middot; SSL VPN<br>
+&middot; Citrix<br>
+&middot; Printing<br>
+&middot; Sound<br>
+&middot; USB Mounting<br>
+&middot; Run Apps Locally (Read Only)<br>
+&middot; Run Apps Locally (Read / Write)<br>
+&middot; Write to USB Memory Stick<br>
+&middot; Access to My Docs<br>
+&middot; No Login &ndash; completely is designed to start being used without login<br>
+&middot; Boiler Plate Website<br>
+&middot; Full Application Suite<br>
+&middot; External &ndash; No Authentication<br>
+&middot; Browser Plug-ins<br>
+&middot; Restricted To Certain Web Sites &ndash; company Designated</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public open-use office space</p>
+<p>&middot; Public open-use office space</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp;&nbsp; Company Employees</p>
+<p>&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Users are able to function as they would at their desks<br>
-&middot;&nbsp;&nbsp; &nbsp;Allows users access to information at placement points</p>
+<p>&middot; Users are able to function as they would at their desks<br>
+&middot; Allows users access to information at placement points</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;No login requirements<br>
-&middot;&nbsp;&nbsp; &nbsp;Possible data exposure</p>
+<p>&middot; No login requirements<br>
+&middot; Possible data exposure</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.<br>
-&middot;&nbsp;&nbsp; &nbsp;Possible information leakage due to open Webmail or SSL VPN session.</p>
+<p>&middot; Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.<br>
+&middot; Possible information leakage due to open Webmail or SSL VPN session.</p>
 <p>Full-seat open-use office solution on the internal network:</p>
-<p>Description: Standard full seat for the user to use on the internal network located at open access points for any user to access.&nbsp; Security settings would be applied and user profile data removed upon logging out.&nbsp;&nbsp; It is recommended to require smart card access to these units.</p>
+<p>Description: Standard full seat for the user to use on the internal network located at open access points for any user to access. Security settings would be applied and user profile data removed upon logging out. It is recommended to require smart card access to these units.</p>
 <p>Possible targeted functions:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Internal Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;External Websites<br>
-&middot;&nbsp;&nbsp; &nbsp;Citrix<br>
-&middot;&nbsp;&nbsp; &nbsp;Printing<br>
-&middot;&nbsp;&nbsp; &nbsp;Sound<br>
-&middot;&nbsp;&nbsp; &nbsp;USB Mounting<br>
-&middot;&nbsp;&nbsp; &nbsp;Run Apps Locally (Read Only)<br>
-&middot;&nbsp;&nbsp; &nbsp;Run Apps Locally (Read / Write)<br>
-&middot;&nbsp;&nbsp; &nbsp;Write to USB Memory Stick<br>
-&middot;&nbsp;&nbsp; &nbsp;Access to My Docs<br>
-&middot;&nbsp;&nbsp; &nbsp;Boiler Plate Website<br>
-&middot;&nbsp;&nbsp; &nbsp;Full Application Suite<br>
-&middot;&nbsp;&nbsp; &nbsp;Internal Authentication<br>
-&middot;&nbsp;&nbsp; &nbsp;Browser Plug-ins</p>
+<p>&middot; Internal Websites<br>
+&middot; External Websites<br>
+&middot; Citrix<br>
+&middot; Printing<br>
+&middot; Sound<br>
+&middot; USB Mounting<br>
+&middot; Run Apps Locally (Read Only)<br>
+&middot; Run Apps Locally (Read / Write)<br>
+&middot; Write to USB Memory Stick<br>
+&middot; Access to My Docs<br>
+&middot; Boiler Plate Website<br>
+&middot; Full Application Suite<br>
+&middot; Internal Authentication<br>
+&middot; Browser Plug-ins</p>
 <p>Target placement:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Public open-use office space</p>
+<p>&middot; Public open-use office space</p>
 <p>Target users:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Local Contractors<br>
-&middot;&nbsp;&nbsp; &nbsp;Company Employees</p>
+<p>&middot; Local Contractors<br>
+&middot; Company Employees</p>
 <p>Benefits:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Users are able to function as they would at their desks<br>
-&middot;&nbsp;&nbsp; &nbsp;Allows users access to information at placement points</p>
+<p>&middot; Users are able to function as they would at their desks<br>
+&middot; Allows users access to information at placement points</p>
 <p>Disadvantages:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Requires smart card<br>
-&middot;&nbsp;&nbsp; &nbsp;No access to local profiles</p>
+<p>&middot; Requires smart card<br>
+&middot; No access to local profiles</p>
 <p>Security concerns:</p>
-<p>&middot;&nbsp;&nbsp; &nbsp;Possible information leakage due to open sessions.</p>
+<p>&middot; Possible information leakage due to open sessions.</p>
 			</div><!-- .entry-content -->
 	</article>
 			
@@ -496,7 +506,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -516,7 +526,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -536,7 +546,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -556,7 +566,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -576,7 +586,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -596,7 +606,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -616,7 +626,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -636,7 +646,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

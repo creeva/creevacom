@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/02/11/gnome-conduit-oh-how-i-hate-to-love-you/">
 <link rel="shortlink" href="https://creeva.com/?p=2514">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,10 +193,10 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Gnome Conduit &ndash; Oh How I Hate to Love You				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-02-11T00:07:26+00:00">February 11, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-02-11T00:07:26-05:00">February 11, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="200" height="200" data-srcset="https://creeva.com/wp-content/uploads/2007/11/ubuntu-logo32.png 200w, https://creeva.com/wp-content/uploads/2007/11/ubuntu-logo32-150x150.png 150w" data-src="https://creeva.com/wp-content/uploads/2007/11/ubuntu-logo32.png" data-sizes="(max-width: 200px) 100vw, 200px" class="aligncenter size-full wp-image-99769 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-full wp-image-99769" src="https://creeva.com/wp-content/uploads/2007/11/ubuntu-logo32.png" alt="" width="200" height="200" srcset="https://creeva.com/wp-content/uploads/2007/11/ubuntu-logo32.png 200w, https://creeva.com/wp-content/uploads/2007/11/ubuntu-logo32-150x150.png 150w" sizes="(max-width: 200px) 100vw, 200px"></noscript></p>
-<p><a href="http://www.conduit-project.org/" target="_blank" rel="noopener">Gnome Conduit</a> is both one of the greatest utilities <a href="http://www.ubuntu.com" target="_blank" rel="noopener">Ubuntu</a> and the most incomplete pain in the butt utilities.&nbsp; To give a quick run down to what it does here is what the project information says:</p>
+<p><a href="http://www.conduit-project.org/" target="_blank" rel="noopener">Gnome Conduit</a> is both one of the greatest utilities <a href="http://www.ubuntu.com" target="_blank" rel="noopener">Ubuntu</a> and the most incomplete pain in the butt utilities. To give a quick run down to what it does here is what the project information says:</p>
 <blockquote><p><em><span class="searchword1">Conduit</span> is a synchronization solution for <a class="ext-link" href="http://www.gnome.org/"><span class="searchword0">GNOME</span></a> which allows the user to take their emails, files, bookmarks, and any other type of personal information and synchronize that data with another computer, an online service, or even another electronic device. </em></p>
 <p><em><span class="searchword1">Conduit</span> manages the synchronization and conversion of data into other formats. For example, <span class="searchword1">conduit</span> allows you to; </em></p>
 <ul>
@@ -196,23 +206,23 @@ a:hover,
 <li><em>and many more&hellip; </em></li>
 </ul>
 <p><em> Any combination you can imagine, <span class="searchword1">Conduit</span> will take care of the conversion and synchronization.</em></p></blockquote>
-<p>Now we&rsquo;ll start off with the fact that this isn&rsquo;t even a 1.0 release so there are bound to be some issues.&nbsp;&nbsp; Issues are what I&rsquo;ve had all down along with this thing, even when it&rsquo;s working properly.&nbsp;&nbsp; In some ways this should be essentially Rsync on crack &ndash; and sometimes it is.</p>
+<p>Now we&rsquo;ll start off with the fact that this isn&rsquo;t even a 1.0 release so there are bound to be some issues. Issues are what I&rsquo;ve had all down along with this thing, even when it&rsquo;s working properly. In some ways this should be essentially Rsync on crack &ndash; and sometimes it is.</p>
 <p>Let&rsquo;s go over the things I&rsquo;m attempting to do with this utility:</p>
 <ul>
-<li>Sync Evolution Calender to&nbsp; Google Calender and vice versa</li>
+<li>Sync Evolution Calender to Google Calender and vice versa</li>
 <li>Sync RSS feed items into my Calendar</li>
 <li>Sync pictures from a specific local folder to <a href="http://www.flickr.com" target="_blank" rel="noopener">Flickr</a></li>
 <li>Sync pictures from Flickr to <a href="http://www.facebook.com" target="_blank" rel="noopener">Facebook</a></li>
 </ul>
-<p>While I did attempt to do this I did manage to partly get things working.&nbsp; Let&rsquo;s go down the list.</p>
-<p>I did manage to somewhat get my calendars to sync. &nbsp; The problem is that it never completes.&nbsp; It picks a strange percentage point and just stays there grinding away saying it&rsquo;s syncing. &nbsp; I do see new items from one side to another so I don&rsquo;t need to try to work with Evolution&rsquo;s borked gcal sync (promised to be fixed next version). &nbsp; I can say syncing from outlook to Gcal was one of the things I missed most migrating to Ubuntu from windows. &nbsp; Since it never completely finishes I can&rsquo;t say that this is working as designed.&nbsp; If it ever does finish I&rsquo;ll give this function a glowing review.</p>
-<p>Syncing RSS items into my calendar. &nbsp; While I can do an overlay in Evolution attaching to a <a href="http://gcaldaemon.sourceforge.net/">Gcaldaemon</a> server on my network for this function I want it natively synced by an all-inclusive product. &nbsp; The Gcaldaemon takes an RSS feed, transforms it to an ical format and I can then overlay it on my calendar. &nbsp; This allows me to life cache my RSS items in an easy-to-use interface. &nbsp; Going through the options it would seem that conduit can do this but it isn&rsquo;t working.</p>
-<p>Syncing pictures from a local folder to Flickr, the sync part works but not as specified. &nbsp; When I configure the local folder it starts to sync with Flickr.&nbsp; I then realize that it&rsquo;s not syncing with the local folder at all, but the one on that is the parent folder for the one I am targeting. &nbsp; Essentially I made a &ldquo;flickr sync&rdquo; folder in my pictures directory under my home folder. &nbsp; The Flickr sync is working on the pictures folder and not the subfolder I specified. &nbsp;&nbsp; Ironically syncing from the same folder to Facebook causes the exact same issue.</p>
-<p>Syncing directly from Flickr to Facebook seems to work at first.&nbsp;&nbsp; The problem I noticed is that it states it&rsquo;s refreshing and starts to go &ndash; but nothing is transferred. &nbsp; So essentially it&rsquo;s not allowing the third party to the third party with my machine playing the man in the middle. &nbsp; Since the program should work exactly the same I don&rsquo;t see what the issue is where this couldn&rsquo;t work, but this functionality doesn&rsquo;t seem to be completely flushed out.</p>
-<p>Now a lot of these problems could stop causing me to pull out my hair if I just read the documentation. &nbsp; The rub behind this is that the documentation is next to non-existent. &nbsp; The developers in their infinite wisdom have failed to fully document the functions and how they work either on the site or in the help file included with the software.</p>
-<p>This swiss army knife of a program is more important than I&rsquo;m sure most people realize since it could be on the next steps to melding the web to the local computers. &nbsp; All of your mobile devices could be synced automatically all the time by this little program.&nbsp; Home file backups to a remote server?&nbsp; Synced automatically.&nbsp; The general populace hasn&rsquo;t seemed to yet grasp the magic that this program promises. &nbsp;&nbsp; This could of course be the lack of documentation that I&rsquo;m complaining about.</p>
-<p>This program seems to auto-load on start in Hardy Heron which I recently upgraded to.&nbsp; I think though for it to be truly integrated with the final build when they get to it, the documentation definitely needs to be flushed out.&nbsp; Now I could stay here and complain and be just another joe schmo on the street that gripes about the software. &nbsp; The greatest thing about open-source software though is getting involved. &nbsp; After I finish this article I&rsquo;m going to be contacting the project lead via e-mail and see if I can start working on the documentation and help out where I can.</p>
-<p>I stand behind this project and think it is fabulous. &nbsp; It pains me that the bugs I am dealing with cause me undue heartburn. &nbsp; This is why I hate to love this product.</p>
+<p>While I did attempt to do this I did manage to partly get things working. Let&rsquo;s go down the list.</p>
+<p>I did manage to somewhat get my calendars to sync. The problem is that it never completes. It picks a strange percentage point and just stays there grinding away saying it&rsquo;s syncing. I do see new items from one side to another so I don&rsquo;t need to try to work with Evolution&rsquo;s borked gcal sync (promised to be fixed next version). I can say syncing from outlook to Gcal was one of the things I missed most migrating to Ubuntu from windows. Since it never completely finishes I can&rsquo;t say that this is working as designed. If it ever does finish I&rsquo;ll give this function a glowing review.</p>
+<p>Syncing RSS items into my calendar. While I can do an overlay in Evolution attaching to a <a href="http://gcaldaemon.sourceforge.net/">Gcaldaemon</a> server on my network for this function I want it natively synced by an all-inclusive product. The Gcaldaemon takes an RSS feed, transforms it to an ical format and I can then overlay it on my calendar. This allows me to life cache my RSS items in an easy-to-use interface. Going through the options it would seem that conduit can do this but it isn&rsquo;t working.</p>
+<p>Syncing pictures from a local folder to Flickr, the sync part works but not as specified. When I configure the local folder it starts to sync with Flickr. I then realize that it&rsquo;s not syncing with the local folder at all, but the one on that is the parent folder for the one I am targeting. Essentially I made a &ldquo;flickr sync&rdquo; folder in my pictures directory under my home folder. The Flickr sync is working on the pictures folder and not the subfolder I specified. Ironically syncing from the same folder to Facebook causes the exact same issue.</p>
+<p>Syncing directly from Flickr to Facebook seems to work at first. The problem I noticed is that it states it&rsquo;s refreshing and starts to go &ndash; but nothing is transferred. So essentially it&rsquo;s not allowing the third party to the third party with my machine playing the man in the middle. Since the program should work exactly the same I don&rsquo;t see what the issue is where this couldn&rsquo;t work, but this functionality doesn&rsquo;t seem to be completely flushed out.</p>
+<p>Now a lot of these problems could stop causing me to pull out my hair if I just read the documentation. The rub behind this is that the documentation is next to non-existent. The developers in their infinite wisdom have failed to fully document the functions and how they work either on the site or in the help file included with the software.</p>
+<p>This swiss army knife of a program is more important than I&rsquo;m sure most people realize since it could be on the next steps to melding the web to the local computers. All of your mobile devices could be synced automatically all the time by this little program. Home file backups to a remote server? Synced automatically. The general populace hasn&rsquo;t seemed to yet grasp the magic that this program promises. This could of course be the lack of documentation that I&rsquo;m complaining about.</p>
+<p>This program seems to auto-load on start in Hardy Heron which I recently upgraded to. I think though for it to be truly integrated with the final build when they get to it, the documentation definitely needs to be flushed out. Now I could stay here and complain and be just another joe schmo on the street that gripes about the software. The greatest thing about open-source software though is getting involved. After I finish this article I&rsquo;m going to be contacting the project lead via e-mail and see if I can start working on the documentation and help out where I can.</p>
+<p>I stand behind this project and think it is fabulous. It pains me that the bugs I am dealing with cause me undue heartburn. This is why I hate to love this product.</p>
 			</div><!-- .entry-content -->
 	</article>
 			
@@ -245,7 +255,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -265,7 +275,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -285,7 +295,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -305,7 +315,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -325,7 +335,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -345,7 +355,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -365,7 +375,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -385,7 +395,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

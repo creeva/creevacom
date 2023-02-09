@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/07/07/if-you-cant-bypass-it-is-it-secure/">
 <link rel="shortlink" href="https://creeva.com/?p=2934">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,21 +193,21 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										If You Can&rsquo;t Bypass It &ndash; Is It Secure?				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-07-07T09:34:00+00:00">July 7, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-07-07T09:34:00-05:00">July 7, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="240" height="180" data-src="https://creeva.com/wp-content/uploads/2008/07/504886535_6215cd104a_m.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" src="https://creeva.com/wp-content/uploads/2008/07/504886535_6215cd104a_m.jpg" alt="" width="240" height="180"></noscript></p>
-<p>Yesterday I was talking with my thirteen-year-old brother.&nbsp; He told me about how he was going to set up a website for this girl he knows.&nbsp;&nbsp; He was going to configure it so you couldn&rsquo;t take the images off the page and use them somewhere else.&nbsp;&nbsp;&nbsp; I explained that it truly couldn&rsquo;t be done.</p>
-<p>To get into a quick side note, if you have images on your site and I want to copy them, don&rsquo;t bother it&rsquo;s trivial.&nbsp; I will just pull them out of my browser cache and viola &ndash; there I have your images.&nbsp; Just because you thought you were &ldquo;Uber Cool&rdquo; because you used JavaScript to disable right-clicking and saving the images doesn&rsquo;t mean your images are secure.&nbsp;&nbsp; If you go even more &ldquo;l33t&rdquo; and try to use a flash slideshow program attempting to lock it down further, a quick screen shoot and a copy-paste into MS Paint will still get me that image if it&rsquo;s so cool I must have it for my personal collection or to display on my website.&nbsp; Anything that can be seen or heard will always be an open attack in one form or another &ndash; smell and touch we will eventually come for you.</p>
-<p>The main question in the title stands, if you can&rsquo;t bypass it is it secure?&nbsp; The answer should always be no &ndash; there is no unbreakable form of security.&nbsp; Given enough time and effort any security in the world can bypass. Given enough exposure at <a href="https://www.defcon.org/">Defcon</a> and unlimited hot pockets anything is vulnerable. Just because you, yourself can&rsquo;t fathom a way to bypass the security you have put into place doesn&rsquo;t mean that it&rsquo;s the top of the line.&nbsp;&nbsp; There is always someone smarter than you.&nbsp; Even if you are an industry expert in cryptography and think you are secure because of some great password system you came up with, doesn&rsquo;t mean your system can&rsquo;t be infiltrated by a physical attack.</p>
+<p>Yesterday I was talking with my thirteen-year-old brother. He told me about how he was going to set up a website for this girl he knows. He was going to configure it so you couldn&rsquo;t take the images off the page and use them somewhere else. I explained that it truly couldn&rsquo;t be done.</p>
+<p>To get into a quick side note, if you have images on your site and I want to copy them, don&rsquo;t bother it&rsquo;s trivial. I will just pull them out of my browser cache and viola &ndash; there I have your images. Just because you thought you were &ldquo;Uber Cool&rdquo; because you used JavaScript to disable right-clicking and saving the images doesn&rsquo;t mean your images are secure. If you go even more &ldquo;l33t&rdquo; and try to use a flash slideshow program attempting to lock it down further, a quick screen shoot and a copy-paste into MS Paint will still get me that image if it&rsquo;s so cool I must have it for my personal collection or to display on my website. Anything that can be seen or heard will always be an open attack in one form or another &ndash; smell and touch we will eventually come for you.</p>
+<p>The main question in the title stands, if you can&rsquo;t bypass it is it secure? The answer should always be no &ndash; there is no unbreakable form of security. Given enough time and effort any security in the world can bypass. Given enough exposure at <a href="https://www.defcon.org/">Defcon</a> and unlimited hot pockets anything is vulnerable. Just because you, yourself can&rsquo;t fathom a way to bypass the security you have put into place doesn&rsquo;t mean that it&rsquo;s the top of the line. There is always someone smarter than you. Even if you are an industry expert in cryptography and think you are secure because of some great password system you came up with, doesn&rsquo;t mean your system can&rsquo;t be infiltrated by a physical attack.</p>
 <p>Let&rsquo;s go into a real-world example</p>
-<blockquote><p>I&rsquo;m someone who doesn&rsquo;t really use the deadbolt in my house (my wife does for anyone getting ideas).&nbsp; Why don&rsquo;t I?&nbsp; It&rsquo;s passive self assurance against an attack that&rsquo;s improbable.&nbsp; Locks can be picked fairly easily, either through skill or the advent of &ldquo;bumping&rdquo;; this makes locks for all intents and purposes useless right?&nbsp; Well not quite, to pick a lock it takes effort time and exposure to being caught (yes even in the case of using a bump key which isn&rsquo;t nearly as noticeable).&nbsp; A lock is a good first round barrier to keep people out as a casual deterrent.&nbsp;&nbsp; If a door is lock most people won&rsquo;t progress much further.&nbsp; For some reason even mild deterrents will keep most people honest.&nbsp; This doesn&rsquo;t mean that you house is secure.</p>
-<p>If I was going to rob your house, I&rsquo;m not going in the front door.&nbsp; Ironically no one puts deadbolts on their back doors.&nbsp; So if I&rsquo;m going to pick a lock (I&rsquo;m too lazy and I would more likely kick the door in anyways) I would immediately be picking your back door instead of your front door.&nbsp;&nbsp; Does this mean putting a deadbolt on your back door will make you secure?&nbsp; No actually I&rsquo;m more likely to go in through a window in the back or side of your house.&nbsp;&nbsp; Do you have a security alarm?&nbsp; Well that&rsquo;s another deterrent, but still doesn&rsquo;t really buy you security.&nbsp;&nbsp; If I&rsquo;ve targeted you and you have something I really want I would just sit in the bushes outside your window and watch you enter in your key code.</p>
-<p>So now you&rsquo;ve put bars on all of your windows, put your alarm code number pad in a place that can&rsquo;t be seen from a window, put deadbolts on your back door, put door jams on all your doors to make them resistant to being kicked in, so now your secure right?&nbsp; Well do you have a garage door opener?&nbsp; For a fairly cheap price I could use a scanner to get the frequency that allows me to open your garage door.&nbsp;&nbsp; You go away for the weekend I can open your garage door, pull inside, close the garage door and then proceed to ransack all your expensive tools and possibly gain entry to the house if I want to risk the alarm.&nbsp;&nbsp; Your neighbors aren&rsquo;t likely to notice that if I pull in at 1 AM.</p></blockquote>
-<p>If you are interested you can be targeted, it&rsquo;s all a matter of effort someone wants to put into an attack.&nbsp; Most people don&rsquo;t have a security mindset so they assume they are secure because it will keep them out.&nbsp; Unfortunately, it doesn&rsquo;t work that way.&nbsp;&nbsp; Security, especially home security requires a little bit of trust in what effort your fellow man doesn&rsquo;t exceed the effort it takes to steal your stuff.</p>
+<blockquote><p>I&rsquo;m someone who doesn&rsquo;t really use the deadbolt in my house (my wife does for anyone getting ideas). Why don&rsquo;t I? It&rsquo;s passive self assurance against an attack that&rsquo;s improbable. Locks can be picked fairly easily, either through skill or the advent of &ldquo;bumping&rdquo;; this makes locks for all intents and purposes useless right? Well not quite, to pick a lock it takes effort time and exposure to being caught (yes even in the case of using a bump key which isn&rsquo;t nearly as noticeable). A lock is a good first round barrier to keep people out as a casual deterrent. If a door is lock most people won&rsquo;t progress much further. For some reason even mild deterrents will keep most people honest. This doesn&rsquo;t mean that you house is secure.</p>
+<p>If I was going to rob your house, I&rsquo;m not going in the front door. Ironically no one puts deadbolts on their back doors. So if I&rsquo;m going to pick a lock (I&rsquo;m too lazy and I would more likely kick the door in anyways) I would immediately be picking your back door instead of your front door. Does this mean putting a deadbolt on your back door will make you secure? No actually I&rsquo;m more likely to go in through a window in the back or side of your house. Do you have a security alarm? Well that&rsquo;s another deterrent, but still doesn&rsquo;t really buy you security. If I&rsquo;ve targeted you and you have something I really want I would just sit in the bushes outside your window and watch you enter in your key code.</p>
+<p>So now you&rsquo;ve put bars on all of your windows, put your alarm code number pad in a place that can&rsquo;t be seen from a window, put deadbolts on your back door, put door jams on all your doors to make them resistant to being kicked in, so now your secure right? Well do you have a garage door opener? For a fairly cheap price I could use a scanner to get the frequency that allows me to open your garage door. You go away for the weekend I can open your garage door, pull inside, close the garage door and then proceed to ransack all your expensive tools and possibly gain entry to the house if I want to risk the alarm. Your neighbors aren&rsquo;t likely to notice that if I pull in at 1 AM.</p></blockquote>
+<p>If you are interested you can be targeted, it&rsquo;s all a matter of effort someone wants to put into an attack. Most people don&rsquo;t have a security mindset so they assume they are secure because it will keep them out. Unfortunately, it doesn&rsquo;t work that way. Security, especially home security requires a little bit of trust in what effort your fellow man doesn&rsquo;t exceed the effort it takes to steal your stuff.</p>
 <p>I&rsquo;ll give one more example:</p>
-<blockquote><p>When I start work at my new job they were talking about the screensaver policy at work which was fifteen minutes.&nbsp; It was a written policy but they planned to put in a windows policy to enforce it.&nbsp;&nbsp; I stated that such policies are hard to enforce since software to emulate random key presses are easy to get (I used one in my previous job so I could watch movies on flights without hitting the keyboard myself).&nbsp; You would think that I just gave nuclear launch codes to the Russians &ndash; I kind of defeated his logic with a trivial bypass.</p></blockquote>
-<p>Wisdom in security is gained when you realize that all you can really do is best effort.&nbsp; Nothing is truly secure, nor will it ever be.&nbsp; Trust while being the antithesis of security plays an important role.&nbsp; You place safeguards into effect up to and past the amount of trust you have in the users accessing whatever you are trying to protect.&nbsp; With each safeguard that goes into place the likelihood of being attacked drops, that doesn&rsquo;t mean it&rsquo;s secure, it just means you have mitigated some of the risks.&nbsp; Once people start to understand this wisdom and the logic behind it, they will actually be more secure, the irony of it all.</p>
-<p>It&rsquo;s not because I&rsquo;m older or more knowledgeable, it&rsquo;s because I have wisdom when it comes to security.&nbsp;&nbsp; Even for things I don&rsquo;t know how to compromise I know attack vectors and likely targets.&nbsp;&nbsp; I can&rsquo;t crack high-end computers or pick digital locks, but I know how I would attack them, which gives me an area for how I can defend them.&nbsp; I don&rsquo;t need to know how to break or bypass something to know it&rsquo;s insecure.&nbsp; Like I&rsquo;ve said it&rsquo;s a matter of knowing everything that can be built up can be torn down.</p>
+<blockquote><p>When I start work at my new job they were talking about the screensaver policy at work which was fifteen minutes. It was a written policy but they planned to put in a windows policy to enforce it. I stated that such policies are hard to enforce since software to emulate random key presses are easy to get (I used one in my previous job so I could watch movies on flights without hitting the keyboard myself). You would think that I just gave nuclear launch codes to the Russians &ndash; I kind of defeated his logic with a trivial bypass.</p></blockquote>
+<p>Wisdom in security is gained when you realize that all you can really do is best effort. Nothing is truly secure, nor will it ever be. Trust while being the antithesis of security plays an important role. You place safeguards into effect up to and past the amount of trust you have in the users accessing whatever you are trying to protect. With each safeguard that goes into place the likelihood of being attacked drops, that doesn&rsquo;t mean it&rsquo;s secure, it just means you have mitigated some of the risks. Once people start to understand this wisdom and the logic behind it, they will actually be more secure, the irony of it all.</p>
+<p>It&rsquo;s not because I&rsquo;m older or more knowledgeable, it&rsquo;s because I have wisdom when it comes to security. Even for things I don&rsquo;t know how to compromise I know attack vectors and likely targets. I can&rsquo;t crack high-end computers or pick digital locks, but I know how I would attack them, which gives me an area for how I can defend them. I don&rsquo;t need to know how to break or bypass something to know it&rsquo;s insecure. Like I&rsquo;ve said it&rsquo;s a matter of knowing everything that can be built up can be torn down.</p>
 			</div><!-- .entry-content -->
 	</article>
 			
@@ -230,7 +240,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -250,7 +260,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -270,7 +280,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -290,7 +300,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -310,7 +320,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -330,7 +340,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -350,7 +360,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -370,7 +380,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

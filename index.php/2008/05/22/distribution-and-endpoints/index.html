@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/05/22/distribution-and-endpoints/">
 <link rel="shortlink" href="https://creeva.com/?p=2824">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,16 +193,16 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										The Crossposting God Series Part 4 &ndash; Entry, Distribution, and End Points				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-05-22T17:05:57+00:00">May 22, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-05-22T17:05:57-05:00">May 22, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="240" height="180" data-src="https://creeva.com/wp-content/uploads/2008/05/2245448147_96b0d70837_m.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" src="https://creeva.com/wp-content/uploads/2008/05/2245448147_96b0d70837_m.jpg" alt="" width="240" height="180"></noscript></p>
 <p style="text-align: center;"><em>Photo From <a href="http://www.flickr.com/photos/dazlambert/2245448147/">Here</a></em></p>
-<p>When we think about crossposting, it actually is more in-depth than most people think.&nbsp; From a very simple level, you go from one site to another.&nbsp;&nbsp; At a higher level though you are publishing from a single source to tens if not hundreds of places.&nbsp;&nbsp; Used correctly crossposting is a very publishing tool that lets you gain readers very cheaply (or free), as long as you are willing to log in to all of these other sites to maintain readers and communities.&nbsp;&nbsp; If you are not willing to log in to all these remote services and address comments, suggestions, and criticisms; then crossposting is not for you.</p>
-<p>There are three different functions in a crossposting architecture.&nbsp;&nbsp; These functions include your entry points, distribution points, and endpoints.&nbsp;&nbsp; You could also add filtering points utilizing services like yahoo pipes, but for the moment that is out of the scope of this discussion (for the moment).&nbsp;&nbsp; Each of these steps is important and you need to make sure you don&rsquo;t get them screwed up or you can be in for one heck of a data cleanup time.</p>
-<p>Data entry points are areas in which you interact, create, and start your data.&nbsp;&nbsp; In my example, if I wanted to put up an audio or video post to my blog I would use <a href="http://www.utterz.com">Utterz</a>.&nbsp;&nbsp; With Utterz I can be on the road and pick up my phone, record a post, and it automatically gets posted and disseminated throughout my network.&nbsp; If I have a picture I want to share I normally upload it to <a href="http://www.flickr.com">Flickr</a> and the chain starts all over again at that scale.&nbsp;&nbsp; Via&nbsp; SMS I can insert a quick status update to <a href="http://www.twitter.com">twitter</a> and alert everyone following me and change my status across many networks (I also do this via IM).&nbsp;&nbsp; For longer written posts I normally start with <a href="http://localhost/wordpress">my own main blog</a>.&nbsp;&nbsp; It just feels right to actually write this and start with my blog (though other blogs I may write an article on will eventually make it back here).</p>
-<p>Distribution points (which in some cases double as end-points in my design) are sites or services that pull in data (or have data pushed into it) and at that point send the data off to another service.&nbsp;&nbsp; In my architecture sites that can resend data via e-mail (such as <a href="http://www.blogger.com">blogger</a>) become major distribution points for me.&nbsp;&nbsp; You have the ability to resend up to 10 e-mails to other services from bloggers.&nbsp; Another major distribution service for me is feedburner, this allows me to shape and filter my RSS feed and push this data out to other services either via widgets or into services that can import RSS feed data directly.</p>
-<p>Endpoints are the sites or feeds in which your readers are actually interacting with you at.&nbsp; It&rsquo;s where they are reading and processing your information.&nbsp; It&rsquo;s where comments are given and it&rsquo;s where your data actually has meaning and has come to rest.&nbsp; Some end-points may seem useless in your overall architecture (and yes when you become a crossposting god it is architecture), but how much are the one or two readers worth that may discover you through that service?&nbsp; Normally it takes only a couple of minutes to set up a profile on a new service and set your data in place once it starts from its entry point.&nbsp; If you can&rsquo;t automate this you need to decide if it&rsquo;s worth the time to copy and paste the data across.&nbsp; To me, if I have to paste data into an end-point manually, then it&rsquo;s not worth it to me.&nbsp;&nbsp; Everything has to be done automatically.</p>
-<p>At the beginning of this article, I mentioned that you need to make sure you don&rsquo;t confuse a role in your architecture.&nbsp;&nbsp; The reason you need to be aware is that you have a chance of regurgitating the same data over and over again across all of your endpoints.&nbsp; When this happens the cleanup is horrendous and can take anywhere from hours to weeks.&nbsp;&nbsp; The amount of effort you put in is relative to how much you care about that extra data hanging out on your endpoints.&nbsp;&nbsp; The more popularity and feedback you get from an endpoint the more care, feeding, and presentation cares you should put into it.</p>
+<p>When we think about crossposting, it actually is more in-depth than most people think. From a very simple level, you go from one site to another. At a higher level though you are publishing from a single source to tens if not hundreds of places. Used correctly crossposting is a very publishing tool that lets you gain readers very cheaply (or free), as long as you are willing to log in to all of these other sites to maintain readers and communities. If you are not willing to log in to all these remote services and address comments, suggestions, and criticisms; then crossposting is not for you.</p>
+<p>There are three different functions in a crossposting architecture. These functions include your entry points, distribution points, and endpoints. You could also add filtering points utilizing services like yahoo pipes, but for the moment that is out of the scope of this discussion (for the moment). Each of these steps is important and you need to make sure you don&rsquo;t get them screwed up or you can be in for one heck of a data cleanup time.</p>
+<p>Data entry points are areas in which you interact, create, and start your data. In my example, if I wanted to put up an audio or video post to my blog I would use <a href="http://www.utterz.com">Utterz</a>. With Utterz I can be on the road and pick up my phone, record a post, and it automatically gets posted and disseminated throughout my network. If I have a picture I want to share I normally upload it to <a href="http://www.flickr.com">Flickr</a> and the chain starts all over again at that scale. Via SMS I can insert a quick status update to <a href="http://www.twitter.com">twitter</a> and alert everyone following me and change my status across many networks (I also do this via IM). For longer written posts I normally start with <a href="http://localhost/wordpress">my own main blog</a>. It just feels right to actually write this and start with my blog (though other blogs I may write an article on will eventually make it back here).</p>
+<p>Distribution points (which in some cases double as end-points in my design) are sites or services that pull in data (or have data pushed into it) and at that point send the data off to another service. In my architecture sites that can resend data via e-mail (such as <a href="http://www.blogger.com">blogger</a>) become major distribution points for me. You have the ability to resend up to 10 e-mails to other services from bloggers. Another major distribution service for me is feedburner, this allows me to shape and filter my RSS feed and push this data out to other services either via widgets or into services that can import RSS feed data directly.</p>
+<p>Endpoints are the sites or feeds in which your readers are actually interacting with you at. It&rsquo;s where they are reading and processing your information. It&rsquo;s where comments are given and it&rsquo;s where your data actually has meaning and has come to rest. Some end-points may seem useless in your overall architecture (and yes when you become a crossposting god it is architecture), but how much are the one or two readers worth that may discover you through that service? Normally it takes only a couple of minutes to set up a profile on a new service and set your data in place once it starts from its entry point. If you can&rsquo;t automate this you need to decide if it&rsquo;s worth the time to copy and paste the data across. To me, if I have to paste data into an end-point manually, then it&rsquo;s not worth it to me. Everything has to be done automatically.</p>
+<p>At the beginning of this article, I mentioned that you need to make sure you don&rsquo;t confuse a role in your architecture. The reason you need to be aware is that you have a chance of regurgitating the same data over and over again across all of your endpoints. When this happens the cleanup is horrendous and can take anywhere from hours to weeks. The amount of effort you put in is relative to how much you care about that extra data hanging out on your endpoints. The more popularity and feedback you get from an endpoint the more care, feeding, and presentation cares you should put into it.</p>
 <p>In the crossposting god series part 5 we&rsquo;ll be covering myspace.</p>
 <p>Previous Entries in The Crossposting God Series:</p>
 <p><a title="Article-Link (Permalink)" href="https://creeva.com/index.php/2008/05/22/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/" rel="bookmark">The Crossposting God Series Part 1 &ndash; The Introduction</a></p>
@@ -230,7 +240,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -250,7 +260,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -270,7 +280,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -290,7 +300,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -310,7 +320,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -330,7 +340,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -350,7 +360,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -370,7 +380,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

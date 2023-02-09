@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/08/10/so-im-a-webmaster-for-my-first-non-profit/">
 <link rel="shortlink" href="https://creeva.com/?p=3052">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -178,25 +188,25 @@ a:hover,
 
 <div id="container" class="row">
   <div id="primary" class="large-7 medium-8 small-11 small-centered columns">
-  	<article class="articlebox post-3052 post type-post status-publish format-standard hentry category-stories">
+  	<article class="articlebox post-3052 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 		
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										So I&rsquo;m a Webmaster for My First Non-Profit				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-08-10T11:16:14+00:00">August 10, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2008-08-10T11:16:14-05:00">August 10, 2008</time><time class="updated" datetime="2023-02-08T23:36:39-05:00">February 8, 2023</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="240" height="180" data-src="https://creeva.com/wp-content/uploads/2008/08/378372229_3068555380_m.jpg" class="alignnone lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="alignnone" src="https://creeva.com/wp-content/uploads/2008/08/378372229_3068555380_m.jpg" alt="" width="240" height="180"></noscript></p>
 <p style="text-align: center;">Picture from <a href="http://www.flickr.com/photos/andresv/378372229/">here</a></p>
-<p>So I&rsquo;ve taken over the position of webmaster for the <a href="http://www.vcma.net">VCMA</a> (Vermilion Community Music Association).&nbsp; This is going to start a new series as I&rsquo;m going to use them as guinea pig&rsquo;s for what I&rsquo;ve felt non-profits need to do to survive and thrive in the web 2.0 world.&nbsp;&nbsp; They are not a big organization, and I&rsquo;m sure I received this position for my background and not my witty personality.</p>
-<p>I&rsquo;ve been working on the site for a couple of weeks and here is what I&rsquo;ve found so far.&nbsp;&nbsp; They had a private member&rsquo;s section on the old site to share files and personal data.&nbsp; This section was password protected, but the username field was just a front, as long as you nkew the password anything you put in the username field was accepted.&nbsp; Since I&rsquo;m a security engineer, this just wasn&rsquo;t going to work for me.&nbsp; I&rsquo;ve ranted before the illusion of security and how illusionary security wasn&rsquo;t worthwhile at all anyways.&nbsp; The other problem was that their member page &ldquo;password protected&rdquo; section was just a javascript that rewrote the &ldquo;HTTP GET&rdquo; to a file named a combination of the requested page plus the password.&nbsp;&nbsp; So if the page was index.tml and the password was &ldquo;password&rdquo; the ending HTTP in the &ldquo;HTTP GET&rdquo; command would be indexpassword.html.&nbsp;&nbsp; Since it was still a plain text file without any encryption on it, in theory it could still be spidered and stored by google, thereby completely undermining any security it was giving them.</p>
-<p>I&rsquo;m working on a better and more secure solution while maintaining the balance of ease of use.&nbsp;&nbsp; I don&rsquo;t want to burden them too much on the security side.&nbsp; I&rsquo;m sure some of the older members would blink at me with a blank stare if I handed them secureID tokens to access their newsletters.</p>
+<p>So I&rsquo;ve taken over the position of webmaster for the <a href="http://www.vcma.net">VCMA</a> (Vermilion Community Music Association). This is going to start a new series as I&rsquo;m going to use them as guinea pigs for what I&rsquo;ve felt non-profits need to do to survive and thrive in the web 2.0 world. They are not a big organization, and I&rsquo;m sure I received this position for my background and not my witty personality.</p>
+<p>I&rsquo;ve been working on the site for a couple of weeks and here is what I&rsquo;ve found so far. They had a private member&rsquo;s section on the old site to share files and personal data. This section was password protected, but the username field was just a front, as long as you knew the password anything you put in the username field was accepted. Since I&rsquo;m a security engineer, this just wasn&rsquo;t going to work for me. I&rsquo;ve ranted before about the illusion of security and how illusionary security wasn&rsquo;t worthwhile at all anyways. The other problem was that their member page&rsquo;s &ldquo;password protected&rdquo; section was just a javascript that rewrote the &ldquo;HTTP GET&rdquo; to a file named a combination of the requested page plus the password. So if the page was index.hml and the password was &ldquo;password&rdquo; the ending HTTP in the &ldquo;HTTP GET&rdquo; command would be indexpassword.html. Since it was still a plain text file without any encryption on it, in theory, it could still be spidered and stored by Google, thereby completely undermining any security it was giving them.</p>
+<p>I&rsquo;m working on a better and more secure solution while maintaining the balance of ease of use. I don&rsquo;t want to burden them too much on the security side. I&rsquo;m sure some of the older members would blink at me with a blank stare if I handed them secureID tokens to access their newsletters.</p>
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/dwwebber/2423302929/"><img decoding="async" alt="" width="180" height="240" data-src="https://creeva.com/wp-content/uploads/2008/08/2423302929_e3d2c4e1e0_m.jpg" class="alignnone lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="alignnone" src="https://creeva.com/wp-content/uploads/2008/08/2423302929_e3d2c4e1e0_m.jpg" alt="" width="180" height="240"></noscript></a></p>
 <p style="text-align: center;">Picture from <a href="http://www.flickr.com/photos/dwwebber/2423302929/">here</a></p>
-<p>The next thing I discovered is that code each web page by hand, ugh.&nbsp; There was no way I was going to maintain each HTML manually and hope for any semblance of style and continuity between pages (an issue they had in the past).&nbsp;&nbsp; They had been using FrontPage and offered to buy me a copy.&nbsp; First no, no and no &ndash; currently I&rsquo;m using Linux on my main computer (Ok I dual boot into XP and between <a href="http://worldofwarcraft.com">WoW</a> and <a href="http://netflix.com">Netflix</a> streaming I don&rsquo;t get into <a href="http://ubuntu.com">Ubuntu</a> as much as I should), so Frontpage was out.&nbsp; They were insistent at first that this is how it was done, I however readjusted things.&nbsp; I moved them to <a href="http://www.wordpress.com">WordPress</a> which I&rsquo;m not using as a blog but rather as a CMS (Content Management System).</p>
+<p>The next thing I discovered is that code each web page by hand, ugh. There was no way I was going to maintain each HTML manually and hope for any semblance of style and continuity between pages (an issue they had in the past). They had been using FrontPage and offered to buy me a copy. First no, no, and no &ndash; currently I&rsquo;m using Linux on my main computer (Ok I dual boot into XP, and between <a href="http://worldofwarcraft.com">WoW</a> and <a href="http://netflix.com">Netflix</a> streaming I don&rsquo;t get into <a href="http://ubuntu.com">Ubuntu</a> as much as I should), so Frontpage was out. They were insistent at first that this is how it was done, I however readjusted things. I moved them to WordPress which I&rsquo;m not using as a blog but rather as a CMS (Content Management System).</p>
 <p style="text-align: center;"><img decoding="async" alt="" width="240" height="224" data-src="https://creeva.com/wp-content/uploads/2008/08/3778156_3a0d5068d0_m.jpg" class="alignnone lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="alignnone" src="https://creeva.com/wp-content/uploads/2008/08/3778156_3a0d5068d0_m.jpg" alt="" width="240" height="224"></noscript></p>
 <p style="text-align: center;">Picture from <a href="http://www.flickr.com/photos/nicolelee/3778156/">here</a></p>
-<p>I manually migrated the data from the old HTML files, I spent hours converting the front page data to be &ldquo;clean&rdquo; data that i can migrate and copy paste anywhere.&nbsp;&nbsp; I was a dumbass though, I should have just copy and pasted the text into notepad or a generic text editor, then I wouldn&rsquo;t have had all the background crap.&nbsp; This is my nore to myself to now be stupid next time.&nbsp; I added images and a javascript navigation menu, but essentially the page was just a cleaned up (easy to maintain now) version of what they already had.</p>
-<p>Now the next step is to migrate them to Google Apps for their member related information&hellip;&hellip;</p>
+<p>I manually migrated the data from the old HTML files, I spent hours converting the front page data to be &ldquo;clean&rdquo; data that I can migrate and copy-paste anywhere. I was dumb though, I should have just copied and pasted the text into notepad or a generic text editor, then I wouldn&rsquo;t have had all the background crap. This is my note to me to now be stupid next time. I added images and a javascript navigation menu, but essentially the page was just a cleaned-up (easy to maintain now) version of what they already had.</p>
+<p>Now the next step is to migrate them to Google Apps for their member-related information&hellip;&hellip;</p>
 <p>Somehow I always end up volunteering for Vermilion non-profits, now if only I could get one of them to pay me&hellip;&hellip;</p>
 <p style="text-align: center;">
 			</p></div><!-- .entry-content -->
@@ -231,7 +241,7 @@ a:hover,
 																The More We Stay The Same, The More We Change.							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48+00:00">June 9, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96112" class="row postbox postboxloop post-96112 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -251,7 +261,7 @@ a:hover,
 																Retrometrics &ndash; Final Fantasy X and X-2 Remastered							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24+00:00">May 20, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24-05:00">May 20, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-95581" class="row postbox postboxloop post-95581 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -271,7 +281,7 @@ a:hover,
 																Lamenting the Loss of Everlasting Gobstoppers							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41+00:00">May 3, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -291,7 +301,7 @@ a:hover,
 																Yahoo Answers Shutting Down &ndash; Not All Data Exportable							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30+00:00">April 7, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96108" class="row postbox postboxloop post-96108 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -311,7 +321,7 @@ a:hover,
 																Playing With Wordgrinder							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31+00:00">March 30, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96103" class="row postbox postboxloop post-96103 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -331,7 +341,7 @@ a:hover,
 																Sometimes The Right Text Editor is Right In Front of You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19+00:00">March 23, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96098" class="row postbox postboxloop post-96098 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -351,7 +361,7 @@ a:hover,
 																The Last Blockbuster							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04+00:00">March 18, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -371,7 +381,7 @@ a:hover,
 																Doing The RSS Feed Cleanup Dance							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33+00:00">March 16, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time></div>				</div>	
 			
 	</article>
 

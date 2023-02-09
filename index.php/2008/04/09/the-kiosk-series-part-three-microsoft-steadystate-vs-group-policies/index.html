@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/04/09/the-kiosk-series-part-three-microsoft-steadystate-vs-group-policies/">
 <link rel="shortlink" href="https://creeva.com/?p=2690">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,11 +193,11 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										The Kiosk Series &ndash; Part Three &ndash; Microsoft SteadyState vs Group Policies				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-09T14:35:31+00:00">April 9, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-09T14:35:31-05:00">April 9, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="1024" height="768" data-srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" data-src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="aligncenter size-large wp-image-97594 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-large wp-image-97594" src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" alt="" width="1024" height="768" srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></p>
 <p>One of the programs that management wants us to look at for our kiosk implementation is Microsoft Steadystate,&nbsp;<a href="http://www.microsoft.com">Microsoft</a>&lsquo;s all-in-one wizard creates a kiosk solution.</p>
-<p>I&rsquo;m not entirely convinced on the scenario that there are things in which you can do with this, that the active directory is not more suited for.&nbsp;&nbsp; So while we work through this document we&rsquo;ll be exploring the options of SteadyState and comparing it to group policies that you can push down to a computer or user account from a central location.</p>
+<p>I&rsquo;m not entirely convinced on the scenario that there are things in which you can do with this, that the active directory is not more suited for. So while we work through this document we&rsquo;ll be exploring the options of SteadyState and comparing it to group policies that you can push down to a computer or user account from a central location.</p>
 <p>This is the start page of Microsoft SteadyState from here there are 6 things you can do:</p>
 <p>1. Set Computer Restrictions</p>
 <p>2. Schedule Software Updates</p>
@@ -195,7 +205,7 @@ a:hover,
 <p>4. Add a New User</p>
 <p>5. Export a User</p>
 <p>6. Import a User</p>
-<p>This is the &ldquo;Set Computer Restrictions&rdquo; page.&nbsp; This page is broken down into different sections and shows you how limiting the computer settings are in group policies that can be applied to this state.&nbsp;&nbsp; While there are still further windows computer policies you can apply to the machine especially if you wish to conform to your company&rsquo;s security plan, we&rsquo;ll stick with Microsoft&rsquo;s options for now.</p>
+<p>This is the &ldquo;Set Computer Restrictions&rdquo; page. This page is broken down into different sections and shows you how limiting the computer settings are in group policies that can be applied to this state. While there are still further windows computer policies you can apply to the machine especially if you wish to conform to your company&rsquo;s security plan, we&rsquo;ll stick with Microsoft&rsquo;s options for now.</p>
 <p><strong>Privacy Settings:</strong></p>
 <p>1. Do not display user names in the Log On to Windows dialog box</p>
 <p>Group Policy equivalent:</p>
@@ -241,9 +251,7 @@ a:hover,
 <pre class="in_text">Policy:Disable Logoff on the Start Menu
 Description:Removes the "Logoff" button from the Start menu and prevents
 users from adding the Logoff button to the Start menu.
-Registry Value:"StartMenuLogoff"
-
-Policy:Disable and remove the Turn Off Computer button
+Registry Value:"StartMenuLogoff" Policy:Disable and remove the Turn Off Computer button
 Description:Removes the "Turn Off Computer" button from the Start Menu and
 prevents shutting down Windows using the standard shutdown user interface.
 Registry Value:"NoClose"</pre>
@@ -273,19 +281,19 @@ Registry Value:"NoClose"</pre>
 <p>Group Policy Equivalent:</p>
 <p>The XP Welcome screen is automatically changed to the classic logon screen after a computer is joined to a domain &ndash; no policy change is needed unless this has been adjusted.</p>
 <p>If you notice Microsoft does have some understanding of using machines with this configuration applied to them in a Domain environment since they offer the note &ldquo;<em>In a Domain managed environment the Domain Group Policy supersedes any settings made here.</em>&rdquo;</p>
-<p>This is the Schedule Software updates screen.&nbsp; You can configure the interval in which you update the Windows operating system and auxiliary programs.&nbsp; For updating windows a SteadyState computer supports Microsoft Update, Windows update, or WindowServer Update Services<span style="font-size: 10pt; font-family: 'Courier New';">.</span></p>
-<p>The supported security program updates are limited. &nbsp;The only programs that have native support are Computer Associates eTrust 7.0, McAfee VirusScan, and TrendMicro 7.0.&nbsp; You have the option of creating a custom script to handle any other program updates you may need.&nbsp;&nbsp; In a domain environment, this can easily be handled by central update servers such as SMS and AV servers.</p>
-<p>Windows disk protection allows the user to install any programs they want or download whatever they wish, but the hard drive will just wipe out the data.&nbsp; I can&rsquo;t seem to find a registry or policy equivalent that allows this, so it seems that this is one main benefit of a steady state.</p>
-<p>The &ldquo;Add a New User&rdquo; screen only allows you to create local users which doesn&rsquo;t really help you in a secure domain-based environment.&nbsp;&nbsp; It will however check your domain&rsquo;s password policy&rsquo;s that you may have pushed down to the machine via group policy.&nbsp; If you do use this wizard to create accounts be aware that user policies from the domain can not be applied.</p>
-<p>The first screen of User Settings is the &ldquo;General&rdquo; tab.&nbsp;&nbsp; Here we get into some more unique settings for the SteadyState product.&nbsp;&nbsp; While it has the function to prevent the user from making permanent changes the most interesting thing is the logoff options,&nbsp; The ability to add the greatest amount of use time or idle time is done by the use of two helper applications that are installed with SteadyState.&nbsp;&nbsp; Being able to always display the session countdown allows the user to see how much time they have left before the logoff procedure is invoked.&nbsp;&nbsp; Restarting the computer after logging off allows the Windows Disk Protection to kick in and reset the machine back to a clean state.&nbsp;&nbsp; While this is nice, the same option could be invoked by creating a log-off script.</p>
-<p>The User Settings \ Windows Restrictions tab allows you to hide drives, set default restriction levels, and takes the start menu restrictions straight out of the security policy.&nbsp; This is simple to replicate with a domain group policy.</p>
+<p>This is the Schedule Software updates screen. You can configure the interval in which you update the Windows operating system and auxiliary programs. For updating windows a SteadyState computer supports Microsoft Update, Windows update, or WindowServer Update Services<span style="font-size: 10pt; font-family: 'Courier New';">.</span></p>
+<p>The supported security program updates are limited. The only programs that have native support are Computer Associates eTrust 7.0, McAfee VirusScan, and TrendMicro 7.0. You have the option of creating a custom script to handle any other program updates you may need. In a domain environment, this can easily be handled by central update servers such as SMS and AV servers.</p>
+<p>Windows disk protection allows the user to install any programs they want or download whatever they wish, but the hard drive will just wipe out the data. I can&rsquo;t seem to find a registry or policy equivalent that allows this, so it seems that this is one main benefit of a steady state.</p>
+<p>The &ldquo;Add a New User&rdquo; screen only allows you to create local users which doesn&rsquo;t really help you in a secure domain-based environment. It will however check your domain&rsquo;s password policy&rsquo;s that you may have pushed down to the machine via group policy. If you do use this wizard to create accounts be aware that user policies from the domain can not be applied.</p>
+<p>The first screen of User Settings is the &ldquo;General&rdquo; tab. Here we get into some more unique settings for the SteadyState product. While it has the function to prevent the user from making permanent changes the most interesting thing is the logoff options, The ability to add the greatest amount of use time or idle time is done by the use of two helper applications that are installed with SteadyState. Being able to always display the session countdown allows the user to see how much time they have left before the logoff procedure is invoked. Restarting the computer after logging off allows the Windows Disk Protection to kick in and reset the machine back to a clean state. While this is nice, the same option could be invoked by creating a log-off script.</p>
+<p>The User Settings \ Windows Restrictions tab allows you to hide drives, set default restriction levels, and takes the start menu restrictions straight out of the security policy. This is simple to replicate with a domain group policy.</p>
 <p>Feature restrictions are more policies that have been taken straight out of the local security policy (domain policy manager).</p>
-<p>While SteadyState allows you to block certain programs, locally installed antivirus can normally do this.&nbsp; Normally you wouldn&rsquo;t want this in a kiosk environment.&nbsp; A better scenario is using group policies to allow only the programs you specify to run.&nbsp; Using the SteadyState scenario if someone ran a rogue application off their USB drive (if you&rsquo;ve given them access) or renamed an EXE that was blocked that doesn&rsquo;t need registry access, well I doubt that SteadyState could do anything to stop this.</p>
-<p>Importing users is done via normal windows save/open dialogue box.&nbsp;&nbsp; It loads files done with a supported *.ssu extension.</p>
+<p>While SteadyState allows you to block certain programs, locally installed antivirus can normally do this. Normally you wouldn&rsquo;t want this in a kiosk environment. A better scenario is using group policies to allow only the programs you specify to run. Using the SteadyState scenario if someone ran a rogue application off their USB drive (if you&rsquo;ve given them access) or renamed an EXE that was blocked that doesn&rsquo;t need registry access, well I doubt that SteadyState could do anything to stop this.</p>
+<p>Importing users is done via normal windows save/open dialogue box. It loads files done with a supported *.ssu extension.</p>
 <p>Exporting is done in a proprietary *.ssu file extension once again using the standard windows open / save dialogue box.</p>
 <p>Can I recommend SteadyState?</p>
-<p>For 90% of what it does, I wouldn&rsquo;t use SteadyState at all but would personally rely on centrally controlled and maintained group policies within a domain environment.&nbsp;&nbsp; What does shine though is the Windows Drive Protection and the helper utilities that handle logoff timers &ndash; though with the idle time out I would more likely just use a script I controlled which could be invoked by the screensaver kicking in.</p>
-<p>I didn&rsquo;t go through the group policies under the user restrictions since it&rsquo;s almost verbatim down the list under the policy management.&nbsp; If you have any questions on a setting to restrict without using the SteadyState feel free to ask.&nbsp;&nbsp; The biggest disadvantage to SteadyState is that it uses local accounts that can&rsquo;t be managed remotely with ease.&nbsp;&nbsp; Being at a company where everything is done to avoid using local accounts I can say this is bad mojo.</p>
+<p>For 90% of what it does, I wouldn&rsquo;t use SteadyState at all but would personally rely on centrally controlled and maintained group policies within a domain environment. What does shine though is the Windows Drive Protection and the helper utilities that handle logoff timers &ndash; though with the idle time out I would more likely just use a script I controlled which could be invoked by the screensaver kicking in.</p>
+<p>I didn&rsquo;t go through the group policies under the user restrictions since it&rsquo;s almost verbatim down the list under the policy management. If you have any questions on a setting to restrict without using the SteadyState feel free to ask. The biggest disadvantage to SteadyState is that it uses local accounts that can&rsquo;t be managed remotely with ease. Being at a company where everything is done to avoid using local accounts I can say this is bad mojo.</p>
 <p>I may use the drive protection and timeout applications, we&rsquo;ll see when this project is truly finished.</p>
 <p>Reference Links:</p>
 <p><a tabindex="0" href="http://www.microsoft.com/downloads/info.aspx?na=40&amp;p=2&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=d077a52d-93e9-4b02-bd95-9d770ccdb431&amp;u=http%3a%2f%2fgo.microsoft.com%2f%3flinkid%3d6793500">Windows SteadyState Worldwide page</a></p>
@@ -328,7 +336,7 @@ Registry Value:"NoClose"</pre>
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -348,7 +356,7 @@ Registry Value:"NoClose"</pre>
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -368,7 +376,7 @@ Registry Value:"NoClose"</pre>
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -388,7 +396,7 @@ Registry Value:"NoClose"</pre>
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -408,7 +416,7 @@ Registry Value:"NoClose"</pre>
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -428,7 +436,7 @@ Registry Value:"NoClose"</pre>
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -448,7 +456,7 @@ Registry Value:"NoClose"</pre>
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -468,7 +476,7 @@ Registry Value:"NoClose"</pre>
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

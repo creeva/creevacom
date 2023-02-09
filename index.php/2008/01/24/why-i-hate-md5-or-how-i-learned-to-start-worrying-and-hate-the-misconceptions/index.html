@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/01/24/why-i-hate-md5-or-how-i-learned-to-start-worrying-and-hate-the-misconceptions/">
 <link rel="shortlink" href="https://creeva.com/?p=2431">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,14 +193,14 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Why I Hate MD5 or: How I Learned to Start Worrying and Hate the Misconceptions				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-01-24T14:37:02+00:00">January 24, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-01-24T14:37:02-05:00">January 24, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="1024" height="680" data-srcset="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg 1024w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-300x199.jpg 300w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-768x510.jpg 768w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1536x1020.jpg 1536w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1070x711.jpg 1070w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1.jpg 2048w" data-src="http://localhost/wordpress/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="aligncenter size-large wp-image-96082 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-large wp-image-96082" src="http://localhost/wordpress/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg" alt="" width="1024" height="680" srcset="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg 1024w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-300x199.jpg 300w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-768x510.jpg 768w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1536x1020.jpg 1536w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1070x711.jpg 1070w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></p>
 <p>Most people in the technical field that have delved into cryptographic, public keys, or file authenticity have at one time or another at least heard of <a href="http://en.wikipedia.org/wiki/Md5">MD5</a>. MD5 is a fingerprint that is unique to a file. It is that signature line that is included at the most reputable Linux download sites to make sure the file you downloaded is not corrupt. It is the thing that is the current bane of my existence.</p>
 <p>I&rsquo;m attempting to archive files and want the MD5 to be unique on each file. So I&rsquo;m attempting to make a digest of the files I&rsquo;m creating. <a href="http://www.wikipedia.org" target="_blank" rel="noopener">Wikipedia</a> describes MD5 digesting like this:</p>
 <blockquote><p><em> MD5 digests have been widely used in the software world to provide some assurance that a transferred file has arrived intact. For example, file servers often provide a pre-computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it. Unix-based operating systems include MD5 sum utilities in their distribution packages, whereas Windows users use third-party applications.</em></p></blockquote>
-<p>Now I&rsquo;m aware that there are ways to spoof an MD5 hash, so in effect, you could modify a file and maintain the same hash. This, however, isn&rsquo;t my concern, at the moment for my needs I am generating an MD5 from a group of files and some of these are zero-byte files. What I was not aware of but I&rsquo;m sure is common knowledge that zero-byte files will always produce the result of d41d8cd98f00b204e9800998ecf8427e as its hash output.&nbsp; I&rsquo;ll be the first to admit that I&rsquo;m an idiot for not knowing or thinking about this.</p>
-<p>Essentially when the MD5 is calculated it looks only at the information of the file and not the file per se. &nbsp; A friend I was emailing&nbsp; described it like this:</p>
+<p>Now I&rsquo;m aware that there are ways to spoof an MD5 hash, so in effect, you could modify a file and maintain the same hash. This, however, isn&rsquo;t my concern, at the moment for my needs I am generating an MD5 from a group of files and some of these are zero-byte files. What I was not aware of but I&rsquo;m sure is common knowledge that zero-byte files will always produce the result of d41d8cd98f00b204e9800998ecf8427e as its hash output. I&rsquo;ll be the first to admit that I&rsquo;m an idiot for not knowing or thinking about this.</p>
+<p>Essentially when the MD5 is calculated it looks only at the information of the file and not the file per se. A friend I was emailing described it like this:</p>
 <blockquote>
 <p align="left"><em>&nbsp;Think about it this way. You have 2 boxes, one is red and one is blue<br>
 and you also have a clipboard. The clipboard says on it contents, 1 red<br>
@@ -200,9 +210,9 @@ over to the box and opens it up (not caring about color, shape, size,<br>
 etc). Grabs the contents (in this case nothing) and runs nothing through<br>
 it&rsquo;s magical hashing process.</em></p>
 </blockquote>
-<p>Now I am aware that getting a checksum of a file or packet looked at the packet in general and would usually be limited since most checksums included in OS&rsquo;s are usually 8 bit I believe. &nbsp; I thought this was superseded later by MD5 checksums and their ability to be 32-bit. &nbsp; I thought MD5 would at least look at the file name since a file named test1 and a file named test2 would still be unique files even if they were zero bytes in size. &nbsp; What I thought paraphrasing my friend&rsquo;s scenario is that MD5 would look at the box, the size, and the contents as a complete package &ndash; taking the file name into account for it being unique. &nbsp; Sadly I thought wrong.</p>
-<p>MD5 has its flaws and in recent years has been broken and can be spoofed. &nbsp; Hopefully, the next iteration will add a little more authenticity to a file being unique instead of just the contents inside of it. &nbsp;&nbsp; Bob may be male but that doesn&rsquo;t make him any less unique than Larry who is also male. &nbsp; If MD5 was looking at images it would count them as being equal in this regard.</p>
-<p>MD5 used to be something that I understood better than I actually did. &nbsp; It&rsquo;s like the guy you knew at college but ran into years later. &nbsp;&nbsp; Originally you would have been fine if he had dated your sister.&nbsp; However, now that you know him better and find out the things he has done wrong you feel that you don&rsquo;t know him as well as you thought you did. &nbsp; This makes you trust him less. &nbsp; Unfortunately one of the most commonly used purposes of MD5 is to promote trust.</p>
+<p>Now I am aware that getting a checksum of a file or packet looked at the packet in general and would usually be limited since most checksums included in OS&rsquo;s are usually 8 bit I believe. I thought this was superseded later by MD5 checksums and their ability to be 32-bit. I thought MD5 would at least look at the file name since a file named test1 and a file named test2 would still be unique files even if they were zero bytes in size. What I thought paraphrasing my friend&rsquo;s scenario is that MD5 would look at the box, the size, and the contents as a complete package &ndash; taking the file name into account for it being unique. Sadly I thought wrong.</p>
+<p>MD5 has its flaws and in recent years has been broken and can be spoofed. Hopefully, the next iteration will add a little more authenticity to a file being unique instead of just the contents inside of it. Bob may be male but that doesn&rsquo;t make him any less unique than Larry who is also male. If MD5 was looking at images it would count them as being equal in this regard.</p>
+<p>MD5 used to be something that I understood better than I actually did. It&rsquo;s like the guy you knew at college but ran into years later. Originally you would have been fine if he had dated your sister. However, now that you know him better and find out the things he has done wrong you feel that you don&rsquo;t know him as well as you thought you did. This makes you trust him less. Unfortunately one of the most commonly used purposes of MD5 is to promote trust.</p>
 <p>I recant what I said originally in the title, I don&rsquo;t hate MD5 &ndash; but I don&rsquo;t trust it the way I used to.</p>
 			</div><!-- .entry-content -->
 	</article>
@@ -236,7 +246,7 @@ it&rsquo;s magical hashing process.</em></p>
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -256,7 +266,7 @@ it&rsquo;s magical hashing process.</em></p>
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -276,7 +286,7 @@ it&rsquo;s magical hashing process.</em></p>
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -296,7 +306,7 @@ it&rsquo;s magical hashing process.</em></p>
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -316,7 +326,7 @@ it&rsquo;s magical hashing process.</em></p>
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -336,7 +346,7 @@ it&rsquo;s magical hashing process.</em></p>
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -356,7 +366,7 @@ it&rsquo;s magical hashing process.</em></p>
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -376,7 +386,7 @@ it&rsquo;s magical hashing process.</em></p>
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

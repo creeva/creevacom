@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2012/03/08/i-have-successfully-merged-last-fm-accounts-here-is-a-howto/">
 <link rel="shortlink" href="https://creeva.com/?p=78829">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,12 +193,12 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										I Have Successfully Merged Last.fm Accounts &ndash; Here is a HOWTO				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2012-03-08T10:50:05+00:00">March 8, 2012</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2012-03-08T10:50:05-05:00">March 8, 2012</time></div>			</header>
 			<div class="entry-content">
-				<p>I managed to do more work importing <a href="http://last.fm">Last.fm</a> data. &nbsp;Earlier I posted how nothing was working. &nbsp;I mentioned how there is no method to do this. &nbsp;I also mentioned how some of the migration methods available. &nbsp;Well below are the instructions on how to actually accomplish this.  Dealing with the methods listed online, these were the only steps I found to merge two or more last.fm accounts.</p>
+				<p>I managed to do more work importing <a href="http://last.fm">Last.fm</a> data. &nbsp;Earlier I posted how nothing was working. &nbsp;I mentioned how there is no method to do this. &nbsp;I also mentioned how some of the migration methods available. &nbsp;Well below are the instructions on how to actually accomplish this. Dealing with the methods listed online, these were the only steps I found to merge two or more last.fm accounts.</p>
 <p>There is come caveats. &nbsp; I was not able to get all of my tracks down from the server. &nbsp; Most of this is because of bad metadata. &nbsp;Out of the my 23k submitted tracks I only managed to get about 20k of them downloaded. &nbsp; In the re-upload I lost another 6k.</p>
 <p>The reason for the loss is two-fold. &nbsp;I think the script has an issue with Kanji characters and skips them. &nbsp; This removed a few video game sound tracks from my track count. &nbsp; Other scripts I have found just died when they reached the bad metadata. &nbsp; Since this is the most data I can get, it is better than nothing.</p>
-<p>You will also lose the last play time.  If this is important to you then I can&rsquo;t help you.  Last.fm will not accept tracks with a play date of older than fourteen days. The API does not have a way around that restriction that I have seen.   I did find a post that mentioned someone created a script that would rescrobble all of your old music and submit it in a manner that new accounts are able to perform, but he never released public. </p>
+<p>You will also lose the last play time. If this is important to you then I can&rsquo;t help you. Last.fm will not accept tracks with a play date of older than fourteen days. The API does not have a way around that restriction that I have seen. I did find a post that mentioned someone created a script that would rescrobble all of your old music and submit it in a manner that new accounts are able to perform, but he never released public. </p>
 <p>Let&rsquo;s move to how to do this (as a side, I performed this on OSX &ndash; but this should easily work on Linux or Windows):</p>
 <p>Requirements:</p>
 <ul>
@@ -205,17 +215,7 @@ a:hover,
 <p>4. &nbsp;You should now have a spread sheet opened with all the data nicely arranged in columns. &nbsp; The first column is the timestamp. &nbsp; The second column is the track name. The third column is the artist name. &nbsp;The fourth column is the album name. &nbsp;The fifth column is the Musicbrainz artist ID. &nbsp;The last Column is the Musicbrainz song ID.</p>
 <pre></pre>
 <p>You will now need to rearrange these columns to the following order:</p>
-<pre> 
- - artist name
- - album name (optional)
- - track name
- - track position on album (optional)
- - song duration in seconds
- - rating (L if listened at least 50% or S if skipped)
- - unix timestamp when song started playing
- - MusicBrainz Track ID (optional)
-
-</pre>
+<pre> - artist name - album name (optional) - track name - track position on album (optional) - song duration in seconds - rating (L if listened at least 50% or S if skipped) - unix timestamp when song started playing - MusicBrainz Track ID (optional) </pre>
 <pre>
 </pre>
 <p>For the track position column I just auto-filled 1&rsquo;s in all the cells down the sheet. &nbsp;For the song duration column I filled in 180 (3 minutes) in all the cells down the sheet. &nbsp; For the rating columns I filled in L in all the cells down the sheet.</p>
@@ -224,9 +224,7 @@ a:hover,
 <p>At this point you should have all the columns filled out in the correct order to create a .scrobbler.log file. &nbsp; The website everyone points to for the .scrobbler.log file format details seems to be down when I was doing this. &nbsp;Here is a link to the page in the Internet Archive.</p>
 <p>I do have a theory with this method that all the tracks can have the same time stamp. &nbsp; One of the earlier methods I tried did not allow that, so if you don&rsquo;t want to figure out a bunch of random time stamps it is something you can test with. The difference in this article is&nbsp;how QTscrob is going to submit these tracks compared to how Libre.fm did in my other article.</p>
 <p>5. &nbsp;Select all the data in the spreadsheet and copy and past it straight into a text editor. &nbsp; You are going to add the following lines to the very top of the new file you created:</p>
-<pre> #AUDIOSCROBBLER/1.0
- #TZ/UTC
- #CLIENT/Rockbox h3xx 1.1</pre>
+<pre> #AUDIOSCROBBLER/1.0 #TZ/UTC #CLIENT/Rockbox h3xx 1.1</pre>
 <p>These lines are required for the file to be recognized as a .scrobbler.log file.</p>
 <p>6. You can now save the file. You must choose a Unix format or a format that will add <a href="http://en.wikipedia.org/wiki/Hard_return">hard&nbsp;breaks</a> at the end of each line. I believe this is what caused the file to fail on me earlier. If you editor allows it (mine did not) you can save the file name as .scrobbler.log (remember the &ldquo;.&rdquo; at the beginning of the file name.</p>
 <p>7. If your text editor did not allow to save the file name as .scrobbler.log you must rename your file to this at the command line or terminal level.</p>
@@ -268,7 +266,7 @@ a:hover,
 																The More We Stay The Same, The More We Change.							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48+00:00">June 9, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96112" class="row postbox postboxloop post-96112 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -288,7 +286,7 @@ a:hover,
 																Retrometrics &ndash; Final Fantasy X and X-2 Remastered							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24+00:00">May 20, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24-05:00">May 20, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-95581" class="row postbox postboxloop post-95581 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -308,7 +306,7 @@ a:hover,
 																Lamenting the Loss of Everlasting Gobstoppers							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41+00:00">May 3, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -328,7 +326,7 @@ a:hover,
 																Yahoo Answers Shutting Down &ndash; Not All Data Exportable							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30+00:00">April 7, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96108" class="row postbox postboxloop post-96108 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -348,7 +346,7 @@ a:hover,
 																Playing With Wordgrinder							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31+00:00">March 30, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96103" class="row postbox postboxloop post-96103 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -368,7 +366,7 @@ a:hover,
 																Sometimes The Right Text Editor is Right In Front of You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19+00:00">March 23, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96098" class="row postbox postboxloop post-96098 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -388,7 +386,7 @@ a:hover,
 																The Last Blockbuster							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04+00:00">March 18, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time></div>				</div>	
 			
 	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -408,7 +406,7 @@ a:hover,
 																Doing The RSS Feed Cleanup Dance							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33+00:00">March 16, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time></div>				</div>	
 			
 	</article>
 

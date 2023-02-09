@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2011/04/21/apple-location-issue-scaring-the-uninformed/">
 <link rel="shortlink" href="https://creeva.com/?p=50813">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,15 +193,15 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Apple Location Issue &ndash; Scaring the Uninformed				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2011-04-21T13:18:29+00:00">April 21, 2011</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2011-04-21T13:18:29-05:00">April 21, 2011</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="500" height="375" data-src="https://creeva.com/wp-content/uploads/2009/06/39150253_5ded166fe1.jpg" class="aligncenter size-full wp-image-102941 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-full wp-image-102941" src="https://creeva.com/wp-content/uploads/2009/06/39150253_5ded166fe1.jpg" alt="" width="500" height="375"></noscript></p>
-<p>So the Apple issue hit the web news yesterday.&nbsp; All the &ldquo;OMG HAXXX&rdquo; and Fox News proclaiming your spouse or employee can monitor your every move stories hit the web and to the non-technical people, this seemed like the worst thing ever.&nbsp;&nbsp; The first thing that came to my mind?&nbsp; I thought &ldquo;This is awesome what can I do with my own data&rdquo;.&nbsp;&nbsp;&nbsp; I&rsquo;m not alone with this, my wife&rsquo;s first reaction. &ldquo;Ohmygodthisisawesomewhatcanwedowiththis?&rdquo;&nbsp; She is also an extremely private person and more privacy-conscious than I am. &nbsp; I am privacy concerned on issues &ndash; when they are real issues.&nbsp; This, so far, is a fair nonissue. &nbsp; My favorite quote about this yesterday was by <a href="https://twitter.com/adam_baldwin">@adambaldwin</a> &ndash; &rdquo; iPhone stores a record of every place you visit. In other news your browser can also set cookies.&rdquo;</p>
-<p>So last night after my son went to bed, I pulled out the laptop and dug into the issue to see what I can do..&nbsp; Unfortunately, we don&rsquo;t have a modern apple computer in the house.&nbsp;&nbsp; The instant visualization software is for OSX only.&nbsp; The only OSX machine we have is a first-gen mac mini.&nbsp; Seeing the file should be the same I used my normal day-to-day netbook and started the process.&nbsp;&nbsp; This page gave me all the information on dumping the file. &nbsp; The page&rsquo;s focus is the OSX application that I mentioned.&nbsp;&nbsp; Checking what I would need I had python installed, but grep was not on this computer.&nbsp;&nbsp; I installed grep and started to dig in.&nbsp;&nbsp; There was a bit of confusion on my part on which python script was the correct on to parse the file with.&nbsp; After I did get the correct one it through back errors. I am hoping to get time this weekend to start digging into it again.</p>
-<p>I spent the rest of the time jumping from forum to forum reading about the file structure and seeing other dumps of this file.&nbsp;&nbsp; On one forum thread, there was another person that had a different take on the file:</p>
+<p>So the Apple issue hit the web news yesterday. All the &ldquo;OMG HAXXX&rdquo; and Fox News proclaiming your spouse or employee can monitor your every move stories hit the web and to the non-technical people, this seemed like the worst thing ever. The first thing that came to my mind? I thought &ldquo;This is awesome what can I do with my own data&rdquo;. I&rsquo;m not alone with this, my wife&rsquo;s first reaction. &ldquo;Ohmygodthisisawesomewhatcanwedowiththis?&rdquo; She is also an extremely private person and more privacy-conscious than I am. I am privacy concerned on issues &ndash; when they are real issues. This, so far, is a fair nonissue. My favorite quote about this yesterday was by <a href="https://twitter.com/adam_baldwin">@adambaldwin</a> &ndash; &rdquo; iPhone stores a record of every place you visit. In other news your browser can also set cookies.&rdquo;</p>
+<p>So last night after my son went to bed, I pulled out the laptop and dug into the issue to see what I can do.. Unfortunately, we don&rsquo;t have a modern apple computer in the house. The instant visualization software is for OSX only. The only OSX machine we have is a first-gen mac mini. Seeing the file should be the same I used my normal day-to-day netbook and started the process. This page gave me all the information on dumping the file. The page&rsquo;s focus is the OSX application that I mentioned. Checking what I would need I had python installed, but grep was not on this computer. I installed grep and started to dig in. There was a bit of confusion on my part on which python script was the correct on to parse the file with. After I did get the correct one it through back errors. I am hoping to get time this weekend to start digging into it again.</p>
+<p>I spent the rest of the time jumping from forum to forum reading about the file structure and seeing other dumps of this file. On one forum thread, there was another person that had a different take on the file:</p>
 <blockquote><p>Righto, calm down, it&rsquo;s unique information for each router found. It&rsquo;s not tracking your location over time or you&rsquo;d see dupes. Here&rsquo;s the transcript, errors and all &ndash; the important part is the uniq -d at the end which searches for duplicate MAC rows. There are none.</p></blockquote>
-<p>So his analysis would seem to say that this was part of the &ldquo;assisted&rdquo; GPS function of iOS.&nbsp;&nbsp; This would make sense because it is a bit less resource intensive than the GPS chip in the phone.&nbsp;&nbsp;&nbsp; Another story I have heard is that it is cell tower triangulation data &ndash; which in the area I live would only give a general location and not be accurate at all.&nbsp; If it is part of WiFi tracking for assisted location-based tracking &ndash; then this file actually makes sense.&nbsp;&nbsp; This data would have to be stored in the phone to be effective &ndash; the argument would then be if it should be in plain text or not.&nbsp;&nbsp; Finally, I have heard it is both WiFi routers and cell towers.</p>
-<p>I also had one other thing wrong talking to friends about this last night.&nbsp; Currently, there is no law passed (many pending) on how long telecoms are required to keep your data.&nbsp; This information is more in-depth than just the tracking information in the file.&nbsp; This data IS accessible by law enforcement agencies without a warrant.&nbsp;&nbsp; So I am more concerned about my privacy from that angle than a text file included on my computer in an iPhone backup.</p>
+<p>So his analysis would seem to say that this was part of the &ldquo;assisted&rdquo; GPS function of iOS. This would make sense because it is a bit less resource intensive than the GPS chip in the phone. Another story I have heard is that it is cell tower triangulation data &ndash; which in the area I live would only give a general location and not be accurate at all. If it is part of WiFi tracking for assisted location-based tracking &ndash; then this file actually makes sense. This data would have to be stored in the phone to be effective &ndash; the argument would then be if it should be in plain text or not. Finally, I have heard it is both WiFi routers and cell towers.</p>
+<p>I also had one other thing wrong talking to friends about this last night. Currently, there is no law passed (many pending) on how long telecoms are required to keep your data. This information is more in-depth than just the tracking information in the file. This data IS accessible by law enforcement agencies without a warrant. So I am more concerned about my privacy from that angle than a text file included on my computer in an iPhone backup.</p>
 <div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">iPhone stores a record of everyplace you visit. In other news your browser can also set cookies.</div>
 			</div><!-- .entry-content -->
 	</article>
@@ -225,7 +235,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -245,7 +255,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -265,7 +275,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -285,7 +295,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -305,7 +315,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -325,7 +335,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -345,7 +355,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -365,7 +375,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

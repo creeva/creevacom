@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2015/11/14/stop-losing-contacts-consolidate-on-google-contacts/">
 <link rel="shortlink" href="https://creeva.com/?p=94820">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,17 +193,17 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Stop Losing Contacts &ndash; Consolidate on Google Contacts				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="454" height="323" data-src="https://creeva.com/wp-content/uploads/2009/02/108805307_c43af20f59.jpg" class="aligncenter size-full wp-image-102939 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-full wp-image-102939" src="https://creeva.com/wp-content/uploads/2009/02/108805307_c43af20f59.jpg" alt="" width="454" height="323"></noscript></p>
-<p>When I wrote up the piece on backing up your photos I mentioned how this is a regular complaint on Facebook. &nbsp;The other thing that I don&rsquo;t understand in this era is losing contacts. &nbsp;Currently, in my cleaned and trimmed address book, I have over 2600 contacts. &nbsp; At my high point, I had over 4000, until I standardized, cleaned up, and backed up everything. &nbsp; I took the pain so you don&rsquo;t have to. &nbsp; This article should give you a shortcut for what took me many years to learn.</p>
-<p>Android has the feature to directly integrate with <a href="https://contacts.google.com/">Google Contacts</a>. &nbsp;The people that lose contacts at that platform just must have set their contacts to only be stored locally. &nbsp; The first step for Android folks is to make sure this integration is configured before going forward in this article on consolidating your contacts across platforms.</p>
-<p>If you are using IOS &ndash; <a href="https://support.google.com/mail/answer/2753077?hl=en">Google created this help document on getting Google Integration on your device</a>. &nbsp;This integration configures syncing of <a href="https://gmail.com">Gmail</a>, <a href="https://calendar.google.com">Google Calendar</a>, and Google Contacts. &nbsp;If you weren&rsquo;t using Google before, the contact use case might be enough of a reason to join now. &nbsp; I&rsquo;ve standardized on Gmail and Google Calendar for those types of services and all my data is synced across my laptops and mobile devices.</p>
+<p>When I wrote up the piece on backing up your photos I mentioned how this is a regular complaint on Facebook. The other thing that I don&rsquo;t understand in this era is losing contacts. Currently, in my cleaned and trimmed address book, I have over 2600 contacts. At my high point, I had over 4000, until I standardized, cleaned up, and backed up everything. I took the pain so you don&rsquo;t have to. This article should give you a shortcut for what took me many years to learn.</p>
+<p>Android has the feature to directly integrate with <a href="https://contacts.google.com/">Google Contacts</a>. The people that lose contacts at that platform just must have set their contacts to only be stored locally. The first step for Android folks is to make sure this integration is configured before going forward in this article on consolidating your contacts across platforms.</p>
+<p>If you are using IOS &ndash; <a href="https://support.google.com/mail/answer/2753077?hl=en">Google created this help document on getting Google Integration on your device</a>. This integration configures syncing of <a href="https://gmail.com">Gmail</a>, <a href="https://calendar.google.com">Google Calendar</a>, and Google Contacts. If you weren&rsquo;t using Google before, the contact use case might be enough of a reason to join now. I&rsquo;ve standardized on Gmail and Google Calendar for those types of services and all my data is synced across my laptops and mobile devices.</p>
 <p><strong>Getting Contacts From Other Services</strong></p>
-<p>Google isn&rsquo;t the only place you have contacts. &nbsp;This is especially true if you are not a heavy Gmail user. &nbsp;For the other Web/Mobile services you use, you will want those contacts included in your address book. &nbsp;Full Contact is the primary method you are going to use to sync and add these contacts from other services.</p>
-<p>Full contact supports the following web services Google Contacts, LinkedIn (more on this in a second), Twitter, Facebook, Foursquare, Instagram, iCloud, Angel list, and Xing. &nbsp;The last three services I don&rsquo;t use at all, so I haven&rsquo;t configured them. &nbsp;If you want to use iCloud you can skip over Google Contacts completely (I think), but it will make cleanup much more painful in the long run. &nbsp; I mentioned that it supports LinkedIn, but this functionality is not native. &nbsp;It requires you to export a file from the LinkedIn service and then import it in manually. &nbsp;So LinkedIn connections are going to be an ongoing task depending on how often you add in new connections.</p>
-<p>Something you are going to have to consider once you start using Full Contact is how you interact with these different services and how you want the contacts from those services included in your address book. &nbsp;For each service, there are two options. &nbsp;The first option is to add contacts to your address book. &nbsp;Whenever you add a new connection to any of these services, a new contact will be created in your address book (we will get to handle duplicates later). &nbsp; The other option is to update information from existing contacts with the information from these other services. &nbsp;Google and iCloud (I believe) offer a full sync option on top of the two.</p>
-<p>The problem I&rsquo;ve run across is that some of this contact information is useless. &nbsp; For example, if you have an Instagram contact that doesn&rsquo;t have an email or phone number, that isn&rsquo;t very useful to you. &nbsp; I have my services configured in the following manner:</p>
+<p>Google isn&rsquo;t the only place you have contacts. This is especially true if you are not a heavy Gmail user. For the other Web/Mobile services you use, you will want those contacts included in your address book. Full Contact is the primary method you are going to use to sync and add these contacts from other services.</p>
+<p>Full contact supports the following web services Google Contacts, LinkedIn (more on this in a second), Twitter, Facebook, Foursquare, Instagram, iCloud, Angel list, and Xing. The last three services I don&rsquo;t use at all, so I haven&rsquo;t configured them. If you want to use iCloud you can skip over Google Contacts completely (I think), but it will make cleanup much more painful in the long run. I mentioned that it supports LinkedIn, but this functionality is not native. It requires you to export a file from the LinkedIn service and then import it in manually. So LinkedIn connections are going to be an ongoing task depending on how often you add in new connections.</p>
+<p>Something you are going to have to consider once you start using Full Contact is how you interact with these different services and how you want the contacts from those services included in your address book. For each service, there are two options. The first option is to add contacts to your address book. Whenever you add a new connection to any of these services, a new contact will be created in your address book (we will get to handle duplicates later). The other option is to update information from existing contacts with the information from these other services. Google and iCloud (I believe) offer a full sync option on top of the two.</p>
+<p>The problem I&rsquo;ve run across is that some of this contact information is useless. For example, if you have an Instagram contact that doesn&rsquo;t have an email or phone number, that isn&rsquo;t very useful to you. I have my services configured in the following manner:</p>
 <ul>
 <li>Google Contacts &ndash; Sync</li>
 <li>Linkedin &ndash; Add Contacts</li>
@@ -202,15 +212,15 @@ a:hover,
 <li>Foursquare &ndash; Update Contacts</li>
 <li>Instagram &ndash; Update Contacts</li>
 </ul>
-<p>Both LinkedIn and Facebook can get me real and usable contact information. &nbsp;Since the others do not, that is why I do not use the other services as a full contact source. &nbsp;This all depends on how you interact and want your contacts. &nbsp;If you are restrained on social media, you might be able to add all the individual contacts. &nbsp; The free version of Full Contact limits you to 5000 contacts or less (after they have been deduplicated) so keep that under consideration if you have a larger address book than me.</p>
-<p>Currently, I&rsquo;m using Zapier for a single purpose. &nbsp;Zapier automates tasks that you do online. &nbsp;It performs these actions in the background. &nbsp; It is similar to IFTTT, but for the needs relevant to this article Zapier had one function that IFTTT doesn&rsquo;t. &nbsp; Zapier has a recipe combination that allows you to save Office 365 contacts to Google Contacts. &nbsp; Since Google is my primary source, I rarely add contacts to Office 365. &nbsp; For the contacts that do get created there, Zapier is happy enough to make sure they get added to Google Contacts silently in the background.</p>
+<p>Both LinkedIn and Facebook can get me real and usable contact information. Since the others do not, that is why I do not use the other services as a full contact source. This all depends on how you interact and want your contacts. If you are restrained on social media, you might be able to add all the individual contacts. The free version of Full Contact limits you to 5000 contacts or less (after they have been deduplicated) so keep that under consideration if you have a larger address book than me.</p>
+<p>Currently, I&rsquo;m using Zapier for a single purpose. Zapier automates tasks that you do online. It performs these actions in the background. It is similar to IFTTT, but for the needs relevant to this article Zapier had one function that IFTTT doesn&rsquo;t. Zapier has a recipe combination that allows you to save Office 365 contacts to Google Contacts. Since Google is my primary source, I rarely add contacts to Office 365. For the contacts that do get created there, Zapier is happy enough to make sure they get added to Google Contacts silently in the background.</p>
 <p><strong>Clean-Up</strong></p>
-<p>We have all the data from your contacts in one place. &nbsp;How do we clean them up? Thankfully we can start with de-duplication. &nbsp; There are two different tools we can use for this. &nbsp;The first is Full Contact. &nbsp; Full Contact will churn through and identify duplicate contacts. &nbsp;The web interface will alert you on how many duplicates are found and give you the option to merge them. &nbsp; On the merging screen, you can verify that the contacts are related and can be merged together. &nbsp;Once you have done this &ndash; the contacts are merged and you are done.</p>
-<p>The second de-duplication you do inside of the Google Contacts. &nbsp;On the left-hand side, there is a tab that states find duplicates. &nbsp; This will again churn through all your connections and find any remaining duplicates. &nbsp; Google seems to find a handful that Full Contact misses. &nbsp;After running both of these tools though, I haven&rsquo;t noticed any blaring duplications.</p>
-<p>Here is the pain point for many long-time Gmail users. &nbsp;The manual cleanup. &nbsp; I used the web interface, and this took some time. &nbsp;<a href="http://lifehacker.com/5499575/the-complete-guide-to-fixing-google-contacts">Lifehacker had an old article that documented dumping the contacts to a spreadsheet to clean up your Google contacts</a>. &nbsp;It all depends on how many contacts you have. &nbsp;I removed any contact that did not have either an email address or a phone number. &nbsp; The exception to this is Facebook friends had a reprieve. &nbsp;I assume on some far-off day that I&rsquo;ll have their contact information to add later. &nbsp;I also fixed any instances where the first and last name were reversed, the first name was an email address or other blatant issues. &nbsp;I now have a clean contact list.</p>
+<p>We have all the data from your contacts in one place. How do we clean them up? Thankfully we can start with de-duplication. There are two different tools we can use for this. The first is Full Contact. Full Contact will churn through and identify duplicate contacts. The web interface will alert you on how many duplicates are found and give you the option to merge them. On the merging screen, you can verify that the contacts are related and can be merged together. Once you have done this &ndash; the contacts are merged and you are done.</p>
+<p>The second de-duplication you do inside of the Google Contacts. On the left-hand side, there is a tab that states find duplicates. This will again churn through all your connections and find any remaining duplicates. Google seems to find a handful that Full Contact misses. After running both of these tools though, I haven&rsquo;t noticed any blaring duplications.</p>
+<p>Here is the pain point for many long-time Gmail users. The manual cleanup. I used the web interface, and this took some time. <a href="http://lifehacker.com/5499575/the-complete-guide-to-fixing-google-contacts">Lifehacker had an old article that documented dumping the contacts to a spreadsheet to clean up your Google contacts</a>. It all depends on how many contacts you have. I removed any contact that did not have either an email address or a phone number. The exception to this is Facebook friends had a reprieve. I assume on some far-off day that I&rsquo;ll have their contact information to add later. I also fixed any instances where the first and last name were reversed, the first name was an email address or other blatant issues. I now have a clean contact list.</p>
 <p><strong>Backing Up Contacts for Retrieval</strong></p>
-<p>While Google isn&rsquo;t likely to go away anytime soon, it is good not to rely on it being around forever. &nbsp; Now that everything is merged and clean, it is good to do an export now. &nbsp; This allows you to import it into another address book program if Google should ever depart this world.</p>
-<p>If you install IFTTT&rsquo;s mobile application, you can create rules that will run whenever you add a new contact. &nbsp; The most common use is to dump new contacts into a spreadsheet. &nbsp; Once you set this up, basically you forget about it and it will always run in the background. &nbsp;This will allow you to log all new contacts that come in. &nbsp;Currently, I don&rsquo;t use this &ndash; but between Full Contact, Google Contacts, and having it locally, I&rsquo;m no longer worried about losing my contacts.</p>
+<p>While Google isn&rsquo;t likely to go away anytime soon, it is good not to rely on it being around forever. Now that everything is merged and clean, it is good to do an export now. This allows you to import it into another address book program if Google should ever depart this world.</p>
+<p>If you install IFTTT&rsquo;s mobile application, you can create rules that will run whenever you add a new contact. The most common use is to dump new contacts into a spreadsheet. Once you set this up, basically you forget about it and it will always run in the background. This will allow you to log all new contacts that come in. Currently, I don&rsquo;t use this &ndash; but between Full Contact, Google Contacts, and having it locally, I&rsquo;m no longer worried about losing my contacts.</p>
 			</div><!-- .entry-content -->
 	</article>
 			
@@ -243,7 +253,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -263,7 +273,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -283,7 +293,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -303,7 +313,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -323,7 +333,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -343,7 +353,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -363,7 +373,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-93838" class="row postbox postboxloop post-93838 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -383,7 +393,7 @@ a:hover,
 																Everyone Likes To Point Out Apple&rsquo;s Security Issues &ndash; But What About The Other Guy?							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2013-09-23T10:59:04+00:00">September 23, 2013</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2013-09-23T10:59:04-05:00">September 23, 2013</time></div>				</div>	
 			
 	</article>
 

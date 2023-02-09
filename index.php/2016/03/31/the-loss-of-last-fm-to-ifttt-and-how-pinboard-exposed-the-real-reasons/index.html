@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2016/03/31/the-loss-of-last-fm-to-ifttt-and-how-pinboard-exposed-the-real-reasons/">
 <link rel="shortlink" href="https://creeva.com/?p=94926">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,7 +193,7 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="500" height="500" data-srcset="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg 500w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-300x300.jpg 300w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-150x150.jpg 150w" data-src="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg" data-sizes="(max-width: 500px) 100vw, 500px" class="aligncenter size-full wp-image-102935 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-full wp-image-102935" src="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg" alt="" width="500" height="500" srcset="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg 500w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-300x300.jpg 300w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px"></noscript></p>
 <p>On March 9th I received the following email from&nbsp;<a href="http://ifttt.com/">IFTTT</a>:</p>
@@ -192,13 +202,13 @@ a:hover,
 <p>On March 23rd, the following Channels and their Recipes will be removed from IFTTT: App.net, BuzzFeed, Campfire, Diigo, Etsy, ffffound, Last.fm, Readability, Yahoo Fantasy Sports, and Yammer.</p>
 <p>Since the beginning of the year, we&rsquo;ve added over 30 Channels and encourage you come check out what&rsquo;s new and noteworthy on IFTTT!</p>
 <p>&mdash;The IFTTT Team</p></blockquote>
-<p>I immediately hit&nbsp;<a href="http://reddit.com/">Reddit</a> and looked at the IFTTT and Last.FM subreddits to see if there was any more information on the issue. &nbsp; &nbsp;I wanted to see what other thoughts there were on the issue and if there were any hacks or workaround to keep this going. My first thought was that I would use the RSS feeds from last.fm to keep the data flowing. &nbsp; However, what I found out is that last.fm has gone under a major revamp in the last year. &nbsp;While this revamp allowed for new uses via APIs &ndash; it also broke the RSS feeds the site offered. &nbsp;There was no cure in sight.</p>
-<p>I looked into the APIs that last.fm did offer and tried to come up with a solution. &nbsp; The best option I had at that time was to roll something of my own using existing scripts that other people had offered. &nbsp; However, I didn&rsquo;t want to overload my hosting provider and I didn&rsquo;t want something that required me to make sure my system was always running and the script going. &nbsp; This was one of those nice-to-have things, but not enough dire to completely freak out over.</p>
-<p>For some idea of what I was using this integration for, let me list a few of the last.fm recipes I used to have. &nbsp; My last played song would show up as currently playing on my Twitter account. &nbsp; When I played a song it would match up to Google Calendar and record that as an event. &nbsp; It would email me the songs as they were recorded (filtered, but searchable since I use Gmail as a thought/experience database). &nbsp; Finally, it would save all the songs in a text file &ndash; bypassing the need to worry about export of the data from last.fm. &nbsp; This is data I generated and I like being in control/aware of it. &nbsp; Some people might think it is silly &ndash; but IFTTT gave me that power.</p>
-<p>This has been something I&rsquo;ve been looking at for a few weeks. &nbsp; Today I&rsquo;m looking at some tools that allow me to post songs automatically from last.fm to Twitter, Tumblr, etc., and using that as the bridge to get back the functionality that I have lost. &nbsp; It&rsquo;s not a great solution since there will be more moving parts &ndash; but it might make this workable. &nbsp;If I figure out something that looks decent enough, I will do a write-up. &nbsp; I know there are quite a few last.fm fans &ndash; since my blog gets hit daily for my article on how to migrate last.fm accounts.</p>
-<p>How did this happen though? &nbsp; What was IFTTT changing that caused this to break? &nbsp; &nbsp;The first thing that came to mind was the revamp that last.fm performed. &nbsp; This API migration was finished though. &nbsp; IFTTT recipes were working and there were no new architectural announcements by last.fm. &nbsp;There was a chance that last.fm had plans that weren&rsquo;t public &ndash; but IFTTT was the one stating they were doing a revamp. &nbsp; Things didn&rsquo;t add up completely.</p>
-<p>On Tuesday though the pieces started falling into place. &nbsp; The CEO of&nbsp;<a href="https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/">Pinboard wrote up a blog post</a>&nbsp;(<a href="https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/">click here</a>) explaining what he went through with IFTTT. &nbsp;In the article, he explains that IFTTT was demanding that he re-architect his site to work with IFTTT. &nbsp; IFTTT was expecting special access and an agreement contract where the data passing through the rules would become the property of IFTTT. &nbsp; &nbsp;Since IFTT is seen as a conduit service (something that connects services together) it was always in the position of making its service work with the API of others. &nbsp; However, in recent years IFTTT has gained more power and it seems they are trying to make connect sites bend to their wills. &nbsp; I think this will backfire on IFTTT in the long run. &nbsp;I just hope it won&rsquo;t gut the service. &nbsp;This may be their jump-the-shark moment.</p>
-<p>Thinking about it though &ndash; you know Twitter and Facebook are not signing the agreements that were sent to Pinboard. &nbsp; The design team at IFTTT must be taking advantage of the little guy in this regard. &nbsp; They have services such as Twitter and Facebook that they must work with to stay relevant. &nbsp; In this arena, they have to be bowing to the wills and limited access that these services provide to outside individuals via the API. &nbsp; However, for smaller sites, it seems that they tried to force their hand. &nbsp;While Last.fm and some of the sites are smaller &ndash; I&rsquo;m kind of surprised that Etsy was on the list. &nbsp; Obviously, they must not have caved to the new TOS contract IFTTT sent over, but at the same time, they are not large enough to have the must-have power that Facebook and Twitter wield.</p>
+<p>I immediately hit&nbsp;<a href="http://reddit.com/">Reddit</a> and looked at the IFTTT and Last.FM subreddits to see if there was any more information on the issue. I wanted to see what other thoughts there were on the issue and if there were any hacks or workaround to keep this going. My first thought was that I would use the RSS feeds from last.fm to keep the data flowing. However, what I found out is that last.fm has gone under a major revamp in the last year. While this revamp allowed for new uses via APIs &ndash; it also broke the RSS feeds the site offered. There was no cure in sight.</p>
+<p>I looked into the APIs that last.fm did offer and tried to come up with a solution. The best option I had at that time was to roll something of my own using existing scripts that other people had offered. However, I didn&rsquo;t want to overload my hosting provider and I didn&rsquo;t want something that required me to make sure my system was always running and the script going. This was one of those nice-to-have things, but not enough dire to completely freak out over.</p>
+<p>For some idea of what I was using this integration for, let me list a few of the last.fm recipes I used to have. My last played song would show up as currently playing on my Twitter account. When I played a song it would match up to Google Calendar and record that as an event. It would email me the songs as they were recorded (filtered, but searchable since I use Gmail as a thought/experience database). Finally, it would save all the songs in a text file &ndash; bypassing the need to worry about export of the data from last.fm. This is data I generated and I like being in control/aware of it. Some people might think it is silly &ndash; but IFTTT gave me that power.</p>
+<p>This has been something I&rsquo;ve been looking at for a few weeks. Today I&rsquo;m looking at some tools that allow me to post songs automatically from last.fm to Twitter, Tumblr, etc., and using that as the bridge to get back the functionality that I have lost. It&rsquo;s not a great solution since there will be more moving parts &ndash; but it might make this workable. If I figure out something that looks decent enough, I will do a write-up. I know there are quite a few last.fm fans &ndash; since my blog gets hit daily for my article on how to migrate last.fm accounts.</p>
+<p>How did this happen though? What was IFTTT changing that caused this to break? The first thing that came to mind was the revamp that last.fm performed. This API migration was finished though. IFTTT recipes were working and there were no new architectural announcements by last.fm. There was a chance that last.fm had plans that weren&rsquo;t public &ndash; but IFTTT was the one stating they were doing a revamp. Things didn&rsquo;t add up completely.</p>
+<p>On Tuesday though the pieces started falling into place. The CEO of&nbsp;<a href="https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/">Pinboard wrote up a blog post</a>&nbsp;(<a href="https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/">click here</a>) explaining what he went through with IFTTT. In the article, he explains that IFTTT was demanding that he re-architect his site to work with IFTTT. IFTTT was expecting special access and an agreement contract where the data passing through the rules would become the property of IFTTT. Since IFTT is seen as a conduit service (something that connects services together) it was always in the position of making its service work with the API of others. However, in recent years IFTTT has gained more power and it seems they are trying to make connect sites bend to their wills. I think this will backfire on IFTTT in the long run. I just hope it won&rsquo;t gut the service. This may be their jump-the-shark moment.</p>
+<p>Thinking about it though &ndash; you know Twitter and Facebook are not signing the agreements that were sent to Pinboard. The design team at IFTTT must be taking advantage of the little guy in this regard. They have services such as Twitter and Facebook that they must work with to stay relevant. In this arena, they have to be bowing to the wills and limited access that these services provide to outside individuals via the API. However, for smaller sites, it seems that they tried to force their hand. While Last.fm and some of the sites are smaller &ndash; I&rsquo;m kind of surprised that Etsy was on the list. Obviously, they must not have caved to the new TOS contract IFTTT sent over, but at the same time, they are not large enough to have the must-have power that Facebook and Twitter wield.</p>
 <p>Here is to hoping that I can hack something together to bring this functionality back for myself.</p>
 			</div><!-- .entry-content -->
 	</article>
@@ -232,7 +242,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -252,7 +262,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -272,7 +282,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -292,7 +302,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -312,7 +322,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -332,7 +342,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -352,7 +362,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-93838" class="row postbox postboxloop post-93838 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -372,7 +382,7 @@ a:hover,
 																Everyone Likes To Point Out Apple&rsquo;s Security Issues &ndash; But What About The Other Guy?							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2013-09-23T10:59:04+00:00">September 23, 2013</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2013-09-23T10:59:04-05:00">September 23, 2013</time></div>				</div>	
 			
 	</article>
 

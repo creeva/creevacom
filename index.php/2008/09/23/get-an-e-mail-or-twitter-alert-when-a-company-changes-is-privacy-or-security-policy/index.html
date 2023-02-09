@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/09/23/get-an-e-mail-or-twitter-alert-when-a-company-changes-is-privacy-or-security-policy/">
 <link rel="shortlink" href="https://creeva.com/?p=3437">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,19 +193,19 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Get an E-Mail or Twitter Alert When a Company Changes is Privacy or Security Policy				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-09-23T10:04:12+00:00">September 23, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-09-23T10:04:12-05:00">September 23, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="240" height="189" data-src="https://creeva.com/wp-content/uploads/2008/09/54296664_ab6a666dff_m.jpg" class="alignnone lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="alignnone" src="https://creeva.com/wp-content/uploads/2008/09/54296664_ab6a666dff_m.jpg" alt="" width="240" height="189"></noscript></p>
 <p style="text-align: center;">Picture from <a href="http://www.flickr.com/photos/cobalt/54296664/">here</a></p>
-<p>A couple of weeks ago I was talking with a friend about an idea for a new web service.&nbsp;&nbsp; The web service would have you enter all the services and sites you use and have an account with online, and then send you a twitter alert when the policy changed and it would show you which text changed.&nbsp; My problem is while I could come up with the design, function, and architecture I couldn&rsquo;t figure out any way to monetize such a service.&nbsp; I let it languish and said I would eventually write a blog article on how to roll your own.&nbsp;&nbsp; This is that article.</p>
-<p>The key feature to making this work (obviously) is a service that can monitor the website for changes and give you some sort of data trigger outbound that is usable for repurposing.&nbsp; I know I could use services that would do an RSS feed, but I wanted something more immediate and trustworthy than RSS for this scenario.&nbsp; I hunted around and I found the service C<a href="http://www.changedetection.com/monitor.html">hange Detection that will send send you an email when a web page has changed</a>.</p>
+<p>A couple of weeks ago I was talking with a friend about an idea for a new web service. The web service would have you enter all the services and sites you use and have an account with online, and then send you a twitter alert when the policy changed and it would show you which text changed. My problem is while I could come up with the design, function, and architecture I couldn&rsquo;t figure out any way to monetize such a service. I let it languish and said I would eventually write a blog article on how to roll your own. This is that article.</p>
+<p>The key feature to making this work (obviously) is a service that can monitor the website for changes and give you some sort of data trigger outbound that is usable for repurposing. I know I could use services that would do an RSS feed, but I wanted something more immediate and trustworthy than RSS for this scenario. I hunted around and I found the service C<a href="http://www.changedetection.com/monitor.html">hange Detection that will send send you an email when a web page has changed</a>.</p>
 <p><strong>E-Mail Alerts</strong></p>
-<p>With e-mail, you have a bit more control.&nbsp;&nbsp; It&rsquo;s all easy.&nbsp; If all you want is an e-mail alert put in the policy page into the page address field.&nbsp;&nbsp; Then place your e-mail address in the &ldquo;send alert to:&rdquo; field.&nbsp;&nbsp; Easy as cake and you are done.</p>
+<p>With e-mail, you have a bit more control. It&rsquo;s all easy. If all you want is an e-mail alert put in the policy page into the page address field. Then place your e-mail address in the &ldquo;send alert to:&rdquo; field. Easy as cake and you are done.</p>
 <p><strong>Twitter Alerts</strong></p>
-<p>What about getting Twitter alerts?&nbsp; The first thing I&rsquo;ll point out, I&rsquo;m not a programmer.&nbsp; I&rsquo;m sure there are much better ways to do this in much simpler methods.&nbsp; I have two requirements for myself.&nbsp;&nbsp; Keep it free, and keep it in the cloud.&nbsp;&nbsp; Make the internet do the work for you, it&rsquo;s always on and online &ndash; your computer doesn&rsquo;t have to be.&nbsp; So instead of using an Uber-Twitterbot I&rsquo;m going to utilize a few free services:</p>
-<p>1. Change Detection -Configure the privacy page you want to monitor the same way in the section for getting email alerts.&nbsp; Instead of relying on emails for notifications, change detection allows you to create an RSS feed for each page you are monitoring.</p>
-<p>3. Twitter &ndash; Set up a new Twitter account that you can friend.&nbsp; If you are worried about privacy (people knowing which sites you are watching), set the updates to be protected so only &ldquo;friends&rdquo; can see them. &nbsp; Have the alert Twitter account friend you, log out and friend the account back with your main Twitter account.</p>
-<p>4. <a href="http://twitterfeed.com">Twitterfeed</a> -Take the feed from change detection, and pipe it through twitterfeed so it will put update notifications to your &ldquo;alert account&rdquo;.&nbsp;&nbsp; Now, whenever anything has changed you can watch updates from that account and you&rsquo;ll have almost real-time monitoring of any web page.</p>
+<p>What about getting Twitter alerts? The first thing I&rsquo;ll point out, I&rsquo;m not a programmer. I&rsquo;m sure there are much better ways to do this in much simpler methods. I have two requirements for myself. Keep it free, and keep it in the cloud. Make the internet do the work for you, it&rsquo;s always on and online &ndash; your computer doesn&rsquo;t have to be. So instead of using an Uber-Twitterbot I&rsquo;m going to utilize a few free services:</p>
+<p>1. Change Detection -Configure the privacy page you want to monitor the same way in the section for getting email alerts. Instead of relying on emails for notifications, change detection allows you to create an RSS feed for each page you are monitoring.</p>
+<p>3. Twitter &ndash; Set up a new Twitter account that you can friend. If you are worried about privacy (people knowing which sites you are watching), set the updates to be protected so only &ldquo;friends&rdquo; can see them. Have the alert Twitter account friend you, log out and friend the account back with your main Twitter account.</p>
+<p>4. <a href="http://twitterfeed.com">Twitterfeed</a> -Take the feed from change detection, and pipe it through twitterfeed so it will put update notifications to your &ldquo;alert account&rdquo;. Now, whenever anything has changed you can watch updates from that account and you&rsquo;ll have almost real-time monitoring of any web page.</p>
 			</div><!-- .entry-content -->
 	</article>
 			
@@ -228,7 +238,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -248,7 +258,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -268,7 +278,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -288,7 +298,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -308,7 +318,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -328,7 +338,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -348,7 +358,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -368,7 +378,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

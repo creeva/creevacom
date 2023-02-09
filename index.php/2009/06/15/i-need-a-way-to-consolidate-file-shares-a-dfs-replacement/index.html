@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2009/06/15/i-need-a-way-to-consolidate-file-shares-a-dfs-replacement/">
 <link rel="shortlink" href="https://creeva.com/?p=4516">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,11 +193,11 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										I Need a Way To Consolidate File Shares &ndash; A DFS Replacement				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2009-06-15T13:20:07+00:00">June 15, 2009</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2009-06-15T13:20:07-05:00">June 15, 2009</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="500" height="500" data-srcset="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg 500w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-300x300.jpg 300w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-150x150.jpg 150w" data-src="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg" data-sizes="(max-width: 500px) 100vw, 500px" class="aligncenter size-full wp-image-102935 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-full wp-image-102935" src="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg" alt="" width="500" height="500" srcset="https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383.jpg 500w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-300x300.jpg 300w, https://creeva.com/wp-content/uploads/2009/01/270969697_fc9dcf3383-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px"></noscript></p>
-<p>File shares are a pain.&nbsp;&nbsp; In and of themselves they are not, but once you get past two or three &ndash; it gets painful.&nbsp;&nbsp; Now I have multiple computers with multiple drives with multiple file shares per drive spread across my network.&nbsp;&nbsp; What does this mean?&nbsp;&nbsp; Well, I&rsquo;m the only one with knowledge of what is on the network and where it exists.&nbsp;&nbsp; This means that the network is not only cumbersome for anyone else to use (and sometimes me) it makes it nearly impossible if I want to tell someone to grab something off of the network if they come over and hook up to my wifi.</p>
-<p>I&rsquo;ve put quite a bit of thought into this.&nbsp; I want something that essentially can act as a transparent gateway to my other file shares.&nbsp; Something like Microsoft&rsquo;s DFS but cross-platform.&nbsp; It would also be great if it could transform file shares but that isn&rsquo;t in the cards.&nbsp;&nbsp; Before I go much further let&rsquo;s go over the specifications I want.</p>
+<p>File shares are a pain. In and of themselves they are not, but once you get past two or three &ndash; it gets painful. Now I have multiple computers with multiple drives with multiple file shares per drive spread across my network. What does this mean? Well, I&rsquo;m the only one with knowledge of what is on the network and where it exists. This means that the network is not only cumbersome for anyone else to use (and sometimes me) it makes it nearly impossible if I want to tell someone to grab something off of the network if they come over and hook up to my wifi.</p>
+<p>I&rsquo;ve put quite a bit of thought into this. I want something that essentially can act as a transparent gateway to my other file shares. Something like Microsoft&rsquo;s DFS but cross-platform. It would also be great if it could transform file shares but that isn&rsquo;t in the cards. Before I go much further let&rsquo;s go over the specifications I want.</p>
 <ul>
 <li>It must use CIFS/SMB file sharing</li>
 <li>It must be able to combine file shares on demand into a single root</li>
@@ -198,7 +208,7 @@ a:hover,
 <li>It must be able to span shares on multiple computers</li>
 </ul>
 <p>Let&rsquo;s gove over each of these so I can give you my reasoning for each issue that I&rsquo;m looking for before I get a dozen answers that I already know about that could fit the bill in some ways if I&rsquo;m willing to sacrifice a requirement.</p>
-<p>CIFS and SMB file sharing may be the domain of Windows, but it&rsquo;s a standard that every operating system can speak.&nbsp; While I could use something like NFS and get it working for almost all of the clients on my network, if my grandmother comes over and wants to put family pictures onto her laptop, I am not going to tell her to download an NFS client to install on her laptop to grab the pictures.&nbsp;&nbsp; Unless I can direct her to a single file share it just won&rsquo;t work for me.</p>
+<p>CIFS and SMB file sharing may be the domain of Windows, but it&rsquo;s a standard that every operating system can speak. While I could use something like NFS and get it working for almost all of the clients on my network, if my grandmother comes over and wants to put family pictures onto her laptop, I am not going to tell her to download an NFS client to install on her laptop to grab the pictures. Unless I can direct her to a single file share it just won&rsquo;t work for me.</p>
 <p>I want to point to an example here is a sample layout I&rsquo;m looking for:</p>
 <p>\\10.10.10.10\share</p>
 <p>Included folders include:</p>
@@ -212,10 +222,10 @@ a:hover,
 <li>User2</li>
 <li>webroot</li>
 </ul>
-<p>Combining and splitting file shares I think this is one of the tricky ones.&nbsp;&nbsp; Let&rsquo;s give the example of the fact that I have multiple shares containing movies I&rsquo;ve ripped (larger hard drives would definitely help with this).&nbsp;&nbsp; So I end up with shares that exist like movies1 and movies2.&nbsp;&nbsp; What I would like is for all my movies to present themselves from the movies shared.&nbsp; I don&rsquo;t want to have movies1 and movies2 subdirectories displayed to the end user, I want them all in one directory.&nbsp; Alternatively for personal movies, like the ones I&rsquo;ve shot for the community band &ndash; I would like an option for that to link underneath my user directory as well as the movies directory.</p>
-<p>Cross-platform is a must.&nbsp; I choose CIFS/SMB as a standard because almost no extra software will need to be loaded on any computer to access them.&nbsp; Microsoft&rsquo;s DFS installed on windows servers does not work with non-MS operating systems &ndash; so this is a dead-end for me.</p>
-<p>The server control software needs to be windows or a dead simple web interface.&nbsp; Why?&nbsp; Well, I want anyone else using my network to be able to fix problems and reconfigure shares as needed without having to do it myself.&nbsp;&nbsp; If I must turn to another setup, I will &ndash; but I would really like this requirement to be met.</p>
-<p>Must be able to handle offline files gracefully.&nbsp;&nbsp; If a machine is turned off I want the file to just not be there, if it&rsquo;s a folder with combined shares &ndash; the offline files should be absent.&nbsp; All of this should happen without the server software flipping out at all.&nbsp;&nbsp; I&rsquo;ve seen some solutions that do this and they flip out without having everything accessible all the time.</p>
+<p>Combining and splitting file shares I think this is one of the tricky ones. Let&rsquo;s give the example of the fact that I have multiple shares containing movies I&rsquo;ve ripped (larger hard drives would definitely help with this). So I end up with shares that exist like movies1 and movies2. What I would like is for all my movies to present themselves from the movies shared. I don&rsquo;t want to have movies1 and movies2 subdirectories displayed to the end user, I want them all in one directory. Alternatively for personal movies, like the ones I&rsquo;ve shot for the community band &ndash; I would like an option for that to link underneath my user directory as well as the movies directory.</p>
+<p>Cross-platform is a must. I choose CIFS/SMB as a standard because almost no extra software will need to be loaded on any computer to access them. Microsoft&rsquo;s DFS installed on windows servers does not work with non-MS operating systems &ndash; so this is a dead-end for me.</p>
+<p>The server control software needs to be windows or a dead simple web interface. Why? Well, I want anyone else using my network to be able to fix problems and reconfigure shares as needed without having to do it myself. If I must turn to another setup, I will &ndash; but I would really like this requirement to be met.</p>
+<p>Must be able to handle offline files gracefully. If a machine is turned off I want the file to just not be there, if it&rsquo;s a folder with combined shares &ndash; the offline files should be absent. All of this should happen without the server software flipping out at all. I&rsquo;ve seen some solutions that do this and they flip out without having everything accessible all the time.</p>
 <p>It should be able to span multiple computers, while something may work on a single computer (for windows I could do hard links) &ndash; it doesn&rsquo;t fix the issue of spanning multiple computers and this is something that is needed badly in my network environment.</p>
 <p>So now I&rsquo;ve given my personal requirements, what do you have as a recommendation to do this?</p>
 			</div><!-- .entry-content -->
@@ -250,7 +260,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -270,7 +280,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -290,7 +300,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -310,7 +320,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -330,7 +340,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -350,7 +360,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -370,7 +380,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -390,7 +400,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

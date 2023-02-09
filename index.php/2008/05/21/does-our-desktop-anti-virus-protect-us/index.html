@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/05/21/does-our-desktop-anti-virus-protect-us/">
 <link rel="shortlink" href="https://creeva.com/?p=2820">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,18 +193,18 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Does Our Desktop Anti-Virus Protect Us?				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-05-21T10:34:11+00:00">May 21, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-05-21T10:34:11-05:00">May 21, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="1024" height="768" data-srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" data-src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="aligncenter size-large wp-image-97594 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-large wp-image-97594" src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" alt="" width="1024" height="768" srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></p>
-<p style="text-align: left;">Recently at work, there was a security incident where a worker was tricked into loading malware on their machine.&nbsp;&nbsp; I was asked if your desktop antivirus solution fully protected us against this.&nbsp; While I&rsquo;m sure most people that read my articles are aware of the answer I gave I thought I would share it with you (some parts have been rewritten from the original email)</p>
-<p>While our desktop antivirus solution does detect malware, spyware, and virii vectors into the machine, the vendor needs to release definitions to make sure it can detect them.&nbsp; Due to the fact that we don&rsquo;t have the name of the spyware in question, I can&rsquo;t verify whether the vendor has the definitions loaded to detect this particular piece of software.&nbsp; The problem with spyware and malware, in general, is the fast-moving vector in which it changes to code, when the code the definition was written for changes even slightly usually they won&rsquo;t be able to detect it.</p>
-<p>Our desktop solution does include heuristics to detect malicious activity done by a software program, but this only goes so far.&nbsp;&nbsp; Researchers and malicious code writers have even turned this into a game &ndash; http://www.infoworld.com/article/08/04/28/Security-vendors-slam-Defcon-virus-contest_1.html.</p>
-<p>Without knowing all the steps included I think that the vendor did not have the definitions for this particular attack.&nbsp; Not only would it have to bypass the desktop virus scanners, it would have had to bypass the web filters if it came via a web page, the mail servers scanners if it came in via e-mail, also possibly any network scanners and mail gateway scanners that we may utilize.</p>
-<p>Protecting from malicious software will always be a moving target that there will never be 100% protection against.&nbsp; There are things that can be done to minimize its effects:</p>
-<p>1.&nbsp; Layered security &ndash; scanning at the desktop, proxies, mail servers, mail gateways, and virus and IDS at the network level &ndash; these can help detect known attack vectors and suspicious activity.</p>
-<p>2. Vista &ndash; not something some people want to hear, but from a Windows perspective the UAC (User Access Controls) makes it more difficult for malware to get a foothold into the operating system.&nbsp;&nbsp; This is much more effective on machines where the users do not have administrative rights to their machines.&nbsp; While machines with Linux and OSX operating systems are essentially immune to virii ( there are more virii added to Windows AV Definition files in a week than have ever been discovered for these operating systems) there are not immune to all malicious software.</p>
-<p>3. Machine policies &ndash; group policies initiatives that lock down the machine lower the surface area that this malware can attack.&nbsp;&nbsp; Requiring users to only go to trusted sites and disabling unsigned active-X controls go a long way to minimizing these types of attacks from vectors outside of the just e-mail concerns.</p>
-<p>4.&nbsp; User education &ndash; the more educated a user is, and the more conscious of the possible repercussions of their actions the less this type of attack happens.</p>
+<p style="text-align: left;">Recently at work, there was a security incident where a worker was tricked into loading malware on their machine. I was asked if your desktop antivirus solution fully protected us against this. While I&rsquo;m sure most people that read my articles are aware of the answer I gave I thought I would share it with you (some parts have been rewritten from the original email)</p>
+<p>While our desktop antivirus solution does detect malware, spyware, and virii vectors into the machine, the vendor needs to release definitions to make sure it can detect them. Due to the fact that we don&rsquo;t have the name of the spyware in question, I can&rsquo;t verify whether the vendor has the definitions loaded to detect this particular piece of software. The problem with spyware and malware, in general, is the fast-moving vector in which it changes to code, when the code the definition was written for changes even slightly usually they won&rsquo;t be able to detect it.</p>
+<p>Our desktop solution does include heuristics to detect malicious activity done by a software program, but this only goes so far. Researchers and malicious code writers have even turned this into a game &ndash; http://www.infoworld.com/article/08/04/28/Security-vendors-slam-Defcon-virus-contest_1.html.</p>
+<p>Without knowing all the steps included I think that the vendor did not have the definitions for this particular attack. Not only would it have to bypass the desktop virus scanners, it would have had to bypass the web filters if it came via a web page, the mail servers scanners if it came in via e-mail, also possibly any network scanners and mail gateway scanners that we may utilize.</p>
+<p>Protecting from malicious software will always be a moving target that there will never be 100% protection against. There are things that can be done to minimize its effects:</p>
+<p>1. Layered security &ndash; scanning at the desktop, proxies, mail servers, mail gateways, and virus and IDS at the network level &ndash; these can help detect known attack vectors and suspicious activity.</p>
+<p>2. Vista &ndash; not something some people want to hear, but from a Windows perspective the UAC (User Access Controls) makes it more difficult for malware to get a foothold into the operating system. This is much more effective on machines where the users do not have administrative rights to their machines. While machines with Linux and OSX operating systems are essentially immune to virii ( there are more virii added to Windows AV Definition files in a week than have ever been discovered for these operating systems) there are not immune to all malicious software.</p>
+<p>3. Machine policies &ndash; group policies initiatives that lock down the machine lower the surface area that this malware can attack. Requiring users to only go to trusted sites and disabling unsigned active-X controls go a long way to minimizing these types of attacks from vectors outside of the just e-mail concerns.</p>
+<p>4. User education &ndash; the more educated a user is, and the more conscious of the possible repercussions of their actions the less this type of attack happens.</p>
 <p>While even all of these will never have 100% coverage combined gives the desktops the best chance of detecting these types of threats.</p>
 			</div><!-- .entry-content -->
 	</article>
@@ -228,7 +238,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -248,7 +258,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -268,7 +278,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -288,7 +298,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -308,7 +318,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -328,7 +338,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -348,7 +358,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -368,7 +378,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/04/24/internet-deadmans-switch-part-1/">
 <link rel="shortlink" href="https://creeva.com/?p=2748">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,14 +193,14 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Internet Deadman&rsquo;s Switch Part 1				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-24T14:47:37+00:00">April 24, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-24T14:47:37-05:00">April 24, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p style="text-align: center;"><img decoding="async" alt="" width="346" height="500" data-src="https://creeva.com/wp-content/uploads/2008/04/53424426_aac16f46ae.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" src="https://creeva.com/wp-content/uploads/2008/04/53424426_aac16f46ae.jpg" alt="" width="346" height="500"></noscript></p>
-<p>One thing I&rsquo;ve been working on for a while is an Internet <a href="http://en.wikipedia.org/wiki/Deadman%27s_switch">Deadman&rsquo;s Switch</a>.&nbsp; With all of my crossposting and media re-usage activities in the grand scheme, this should be fairly trivial.&nbsp;&nbsp; I am sure however that some things will slip me up.&nbsp;&nbsp; We&rsquo;ll start in this section by identifying the goals I wish to accomplish and working through some of the stages in part two.</p>
+<p>One thing I&rsquo;ve been working on for a while is an Internet <a href="http://en.wikipedia.org/wiki/Deadman%27s_switch">Deadman&rsquo;s Switch</a>. With all of my crossposting and media re-usage activities in the grand scheme, this should be fairly trivial. I am sure however that some things will slip me up. We&rsquo;ll start in this section by identifying the goals I wish to accomplish and working through some of the stages in part two.</p>
 <p><strong>What do I mean by Deadman&rsquo;s Switch?</strong></p>
-<p>A deadman&rsquo;s switch is something that is triggered normally to keep you alive.&nbsp;&nbsp; A quick example is the pressure plate on a riding lawn mower.&nbsp;&nbsp; The pressure plate must have weight on it or the mower will not start and if the weight is removed the lawn mower will shut off.&nbsp; So essentially one action causes another action to occur when certain variables are met.&nbsp;&nbsp; My trigger would be my death.&nbsp; If I didn&rsquo;t verify if I was alive after a certain period of time to a program/website/etc.&nbsp; the series of scripts and actions would trigger leaving behind all the information I wish to impart to those behind me.</p>
+<p>A deadman&rsquo;s switch is something that is triggered normally to keep you alive. A quick example is the pressure plate on a riding lawn mower. The pressure plate must have weight on it or the mower will not start and if the weight is removed the lawn mower will shut off. So essentially one action causes another action to occur when certain variables are met. My trigger would be my death. If I didn&rsquo;t verify if I was alive after a certain period of time to a program/website/etc. the series of scripts and actions would trigger leaving behind all the information I wish to impart to those behind me.</p>
 <p><strong>Why do I want a Deadman&rsquo;s Switch?</strong></p>
-<p>This idea started in my head about 7-8 years.&nbsp;&nbsp; There used to be a website that had you check in once a month and if you didn&rsquo;t log in it will send off emails to the ones you care about (or the ones you don&rsquo;t).&nbsp;&nbsp; This gives you the final word and allows you to send off those things that might be important.&nbsp;&nbsp; I can leave my wife information about all my accounts and password, any relevant information that she may need and won&rsquo;t be able to gather up, and parting words to friends and families.&nbsp;&nbsp; I would also thanks to my current setup be able to post to all my social networks and make an announcement of my death.&nbsp;&nbsp; This I find intriguing and I&rsquo;ll at least go through all the steps of implementing this (whether I actually use it and maintain it will remain to be seen).</p>
+<p>This idea started in my head about 7-8 years. There used to be a website that had you check in once a month and if you didn&rsquo;t log in it will send off emails to the ones you care about (or the ones you don&rsquo;t). This gives you the final word and allows you to send off those things that might be important. I can leave my wife information about all my accounts and password, any relevant information that she may need and won&rsquo;t be able to gather up, and parting words to friends and families. I would also thanks to my current setup be able to post to all my social networks and make an announcement of my death. This I find intriguing and I&rsquo;ll at least go through all the steps of implementing this (whether I actually use it and maintain it will remain to be seen).</p>
 <p><strong>What would I send?</strong></p>
 <p>I&rsquo;ve broken down what I would want to send into four sections:</p>
 <ul>
@@ -199,10 +209,10 @@ a:hover,
 <li>Friends &ndash; I would send each of my &ldquo;high-level&rdquo; friends an individual message &ndash; if somehow my whole family is taken out in one full attack &ndash; I don&rsquo;t think I&rsquo;m passing any of my personal information off to them.</li>
 <li>Public Internet at Large &ndash; this is broken into a few more sections, but essentially I&rsquo;ll be leaving a video, audio postings, status updates to my social networks (&ldquo;I&rsquo;m dead thanks for all the fish&rdquo;)), and a few final blog postings.</li>
 </ul>
-<p>The trick to all of this is of course is reliant on a few things.&nbsp;&nbsp; First and foremost being that I can send emails after I&rsquo;m dead.&nbsp;&nbsp; It also can not be reliant on my home PC (if a housefire hits or a tornado takes me out I don&rsquo;t want my home to be the weakest link).&nbsp;&nbsp; Finally whatever script I use must be able to pull from an FTP site (for the audio and video).&nbsp;&nbsp;&nbsp; Once those can be accomplished I&rsquo;m fairly sure I can get everything else done.</p>
+<p>The trick to all of this is of course is reliant on a few things. First and foremost being that I can send emails after I&rsquo;m dead. It also can not be reliant on my home PC (if a housefire hits or a tornado takes me out I don&rsquo;t want my home to be the weakest link). Finally whatever script I use must be able to pull from an FTP site (for the audio and video). Once those can be accomplished I&rsquo;m fairly sure I can get everything else done.</p>
 <p><strong>When would I send it?</strong></p>
-<p>This is the other conundrum, isn&rsquo;t it?&nbsp; How do you not tell everyone you have passed on while you are still alive (that could be embarrassing).&nbsp;&nbsp;&nbsp; You need to pick a time period that seems suitable to you (every 12 hours is not suitable).&nbsp; I&rsquo;m thinking either every two weeks or every month I would have to login and verify that yes I am still alive and kicking.&nbsp; The only problem this would really cause is if I&rsquo;m kidnapped or held hostage.&nbsp;&nbsp; The chances of those are so minimal that it is unlikely so I won&rsquo;t really take those into account.&nbsp;&nbsp; So to be safe I&rsquo;ll set it for somewhere between 14 and 31 days.</p>
-<p>Another thing I would like to do is configure it to be staggered.&nbsp; That way I&rsquo;ll be able to send a message to my wife warning her about the upcoming announcement of what is going to occur before it actually does.&nbsp; Then to family, then to friends, and finally to the Internet as a whole.&nbsp;&nbsp; This would keep it from being one big whirlwind hitting everyone at once like a ton of bricks.&nbsp;&nbsp; I don&rsquo;t want someone completely freaked out when they see a new youtube movie of me uploaded.&nbsp;&nbsp;&nbsp; So a staggered release would be the best scenario (if it&rsquo;s possible).</p>
+<p>This is the other conundrum, isn&rsquo;t it? How do you not tell everyone you have passed on while you are still alive (that could be embarrassing). You need to pick a time period that seems suitable to you (every 12 hours is not suitable). I&rsquo;m thinking either every two weeks or every month I would have to login and verify that yes I am still alive and kicking. The only problem this would really cause is if I&rsquo;m kidnapped or held hostage. The chances of those are so minimal that it is unlikely so I won&rsquo;t really take those into account. So to be safe I&rsquo;ll set it for somewhere between 14 and 31 days.</p>
+<p>Another thing I would like to do is configure it to be staggered. That way I&rsquo;ll be able to send a message to my wife warning her about the upcoming announcement of what is going to occur before it actually does. Then to family, then to friends, and finally to the Internet as a whole. This would keep it from being one big whirlwind hitting everyone at once like a ton of bricks. I don&rsquo;t want someone completely freaked out when they see a new youtube movie of me uploaded. So a staggered release would be the best scenario (if it&rsquo;s possible).</p>
 <p><strong>How am I going to do this?</strong></p>
 <p>You&rsquo;ll just have to wait for part 2.</p>
 			</div><!-- .entry-content -->
@@ -237,7 +247,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -257,7 +267,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -277,7 +287,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -297,7 +307,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -317,7 +327,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -337,7 +347,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -357,7 +367,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -377,7 +387,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 

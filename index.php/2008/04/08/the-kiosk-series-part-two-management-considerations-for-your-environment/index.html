@@ -46,7 +46,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta name="generator" content="WordPress 6.1.1">
 <link rel="canonical" href="https://creeva.com/index.php/2008/04/08/the-kiosk-series-part-two-management-considerations-for-your-environment/">
 <link rel="shortlink" href="https://creeva.com/?p=2685">
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2208178-3"></script>
 		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-2208178-3');
+		</script>
+
+			<script>
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 				<style>
@@ -183,22 +193,22 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										The Kiosk Series &ndash; Part Two &ndash; Management Considerations For Your Environment				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-08T11:15:26+00:00">April 8, 2008</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2008-04-08T11:15:26-05:00">April 8, 2008</time></div>			</header>
 			<div class="entry-content">
 				<p><img decoding="async" alt="" width="1024" height="768" data-srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" data-src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="aligncenter size-large wp-image-97594 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-large wp-image-97594" src="http://localhost/wordpress/wp-content/uploads/2022/06/switch-1-1024x768.jpg" alt="" width="1024" height="768" srcset="https://creeva.com/wp-content/uploads/2022/06/switch-1-1024x768.jpg 1024w, https://creeva.com/wp-content/uploads/2022/06/switch-1-300x225.jpg 300w, https://creeva.com/wp-content/uploads/2022/06/switch-1-768x576.jpg 768w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1536x1152.jpg 1536w, https://creeva.com/wp-content/uploads/2022/06/switch-1-1070x803.jpg 1070w, https://creeva.com/wp-content/uploads/2022/06/switch-1.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></p>
-<p>Recently I&rsquo;ve been put forth to design a kiosk solution for our internal environment.&nbsp;&nbsp; This is the second part of my kiosk series which is going to examine the testing and deployment of such a system.&nbsp; To read the first section go to Part One &ndash; Choices For Your Environment.</p>
+<p>Recently I&rsquo;ve been put forth to design a kiosk solution for our internal environment. This is the second part of my kiosk series which is going to examine the testing and deployment of such a system. To read the first section go to Part One &ndash; Choices For Your Environment.</p>
 <p>Kiosk System Management Strategy</p>
-<p>There are multiple issues involved with managing a &ldquo;kiosk system&rdquo;.&nbsp;&nbsp; We have to look at the problems we will face whether they are considered to be internal or external.&nbsp; From a security and management scope of this document, we are going to assume they are located on the company guest network.&nbsp; If the machines are located within the internal network the current maintenance procedures will apply.</p>
-<p>While this is still in the design period the final abilities of both the kiosk system and where it falls have not been decided upon.&nbsp;&nbsp; Until another strategy is decided upon we are going to assume that these systems will be a member of the domain.</p>
-<p><strong>Hotfix and Patching:</strong> Within the internal network we currently use a mixture of <a href="http://technet.microsoft.com/en-us/wsus/default.aspx">WSUS</a>, SMS, and <a href="http://www.symantec.com">Antivirus</a> servers to keep computers up to date.&nbsp;&nbsp; Something similar would have to be replicated either on the guest or DMZ network.&nbsp;&nbsp; If it is located on the DMZ network controls would have to be in place so that the communication is pushed to the client for updates instead of the client pulling the information.&nbsp; If the information absolutely must be pulled, this will be addressed in the section below titled &ldquo;Securing Connections&rdquo;.</p>
-<p><strong>Break/Fix Issues: </strong> Next to the computer there will have to be a phone located so users can report any issues that a kiosk should have.&nbsp;&nbsp; Upon receiving the call and logging it, normal break/fix procedures would apply.</p>
+<p>There are multiple issues involved with managing a &ldquo;kiosk system&rdquo;. We have to look at the problems we will face whether they are considered to be internal or external. From a security and management scope of this document, we are going to assume they are located on the company guest network. If the machines are located within the internal network the current maintenance procedures will apply.</p>
+<p>While this is still in the design period the final abilities of both the kiosk system and where it falls have not been decided upon. Until another strategy is decided upon we are going to assume that these systems will be a member of the domain.</p>
+<p><strong>Hotfix and Patching:</strong> Within the internal network we currently use a mixture of <a href="http://technet.microsoft.com/en-us/wsus/default.aspx">WSUS</a>, SMS, and <a href="http://www.symantec.com">Antivirus</a> servers to keep computers up to date. Something similar would have to be replicated either on the guest or DMZ network. If it is located on the DMZ network controls would have to be in place so that the communication is pushed to the client for updates instead of the client pulling the information. If the information absolutely must be pulled, this will be addressed in the section below titled &ldquo;Securing Connections&rdquo;.</p>
+<p><strong>Break/Fix Issues: </strong> Next to the computer there will have to be a phone located so users can report any issues that a kiosk should have. Upon receiving the call and logging it, normal break/fix procedures would apply.</p>
 <p><strong>Remote Desktop: </strong> Going from the DMZ to the guest network we should be able to <a href="http://en.wikipedia.org/wiki/Remote_Desktop_Protocol">RDP</a> into the kiosk unit.</p>
-<p><strong>Remote Monitoring:</strong> For the best security standpoint all of these units should include full auditing.&nbsp;&nbsp; The audit trail could be maintained locally with a remote server from the DMZ pulling in the logs via either a script or an off-the-shelf utility designed for pulling log files off of the machine.</p>
-<p><strong>Utilization Report:</strong> Similar to the Audit log we can get a utility that monitors the utilization of these units and pull them into the internal network.&nbsp; This can be done after tracking down a third-party program that allows for utilization monitoring or by parsing the audit log and turning that into a utilization report.</p>
+<p><strong>Remote Monitoring:</strong> For the best security standpoint all of these units should include full auditing. The audit trail could be maintained locally with a remote server from the DMZ pulling in the logs via either a script or an off-the-shelf utility designed for pulling log files off of the machine.</p>
+<p><strong>Utilization Report:</strong> Similar to the Audit log we can get a utility that monitors the utilization of these units and pull them into the internal network. This can be done after tracking down a third-party program that allows for utilization monitoring or by parsing the audit log and turning that into a utilization report.</p>
 <p><strong>Seat Type:</strong> A new seat type would have to be established to accommodate the additional costs incurred from the environment setup and maintenance of these units including but not limited to the additional costs possibly incurred by having a phone nearby to inform the help desk of any issues.</p>
-<p><strong>Security Plan:</strong> A new security plan would have to be established since there will configuration settings that do not fit into the current security plans that the company has established.&nbsp; While these will fall under a site security plan, none of our existing would not be able to fit these systems under their configuration options.</p>
-<p><strong>Privacy Controls:</strong> Depending on the kiosk solution we go with &ndash; whether it be a login-based solution where they have a full application suite or a web kiosk something must be done to maintain user privacy.&nbsp;&nbsp; After an inactivity time (amount to be specified later) which would either clear the process from memory or log the user out of the kiosk completely depending on which kiosk method we are using in a couple of methods. One would be an off-the-shelf software product to this, at this point, I would assume we would use all of their privacy and utilization reports. Another option would be to set up a script to kill the process or automatically log out the user and utilize the screensaver in the kiosk to run this functionality and monitor idle time.</p>
-<p><strong>Securing Connections:</strong> If the machines must pull information from the machines in the DMZ, then the best method would be to utilize <a href="http://en.wikipedia.org/wiki/IPsec%20">IPSEC</a>.&nbsp; This would limit the number of ports needed and allow us to lockdown communication to only the specific server that the kiosk would need to talk to.</p>
+<p><strong>Security Plan:</strong> A new security plan would have to be established since there will configuration settings that do not fit into the current security plans that the company has established. While these will fall under a site security plan, none of our existing would not be able to fit these systems under their configuration options.</p>
+<p><strong>Privacy Controls:</strong> Depending on the kiosk solution we go with &ndash; whether it be a login-based solution where they have a full application suite or a web kiosk something must be done to maintain user privacy. After an inactivity time (amount to be specified later) which would either clear the process from memory or log the user out of the kiosk completely depending on which kiosk method we are using in a couple of methods. One would be an off-the-shelf software product to this, at this point, I would assume we would use all of their privacy and utilization reports. Another option would be to set up a script to kill the process or automatically log out the user and utilize the screensaver in the kiosk to run this functionality and monitor idle time.</p>
+<p><strong>Securing Connections:</strong> If the machines must pull information from the machines in the DMZ, then the best method would be to utilize <a href="http://en.wikipedia.org/wiki/IPsec%20">IPSEC</a>. This would limit the number of ports needed and allow us to lockdown communication to only the specific server that the kiosk would need to talk to.</p>
 			</div><!-- .entry-content -->
 	</article>
 			
@@ -231,7 +241,7 @@ a:hover,
 																Playstation 4 &ndash; Remote Play And You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45+00:00">March 9, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -251,7 +261,7 @@ a:hover,
 																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08+00:00">March 5, 2017</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
 			
 	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -271,7 +281,7 @@ a:hover,
 																Setting up a Faux Landline So My Son Can Get Calls							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38+00:00">April 21, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94970" class="row postbox postboxloop post-94970 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -291,7 +301,7 @@ a:hover,
 																The Real Security Issue With The Cloud and the IoT &ndash; Loss of Access							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13+00:00">April 11, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-11T16:36:13-05:00">April 11, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94926" class="row postbox postboxloop post-94926 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -311,7 +321,7 @@ a:hover,
 																The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34+00:00">March 31, 2016</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-03-31T10:30:34-05:00">March 31, 2016</time></div>				</div>	
 			
 	</article>	<article id="post-94834" class="row postbox postboxloop post-94834 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -331,7 +341,7 @@ a:hover,
 																Get 1 Terabyte of Google Storage Space By Becoming a Local Guide							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08+00:00">November 19, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-19T14:41:08-05:00">November 19, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94820" class="row postbox postboxloop post-94820 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -351,7 +361,7 @@ a:hover,
 																Stop Losing Contacts &ndash; Consolidate on Google Contacts							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51+00:00">November 14, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-11-14T14:58:51-05:00">November 14, 2015</time></div>				</div>	
 			
 	</article>	<article id="post-94534" class="row postbox postboxloop post-94534 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
@@ -371,7 +381,7 @@ a:hover,
 																When Apple Customer Service Got It Wrong &ndash; And AT&amp;T Got It Right &ndash; WTF							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27+00:00">October 26, 2015</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2015-10-26T14:30:27-05:00">October 26, 2015</time></div>				</div>	
 			
 	</article>
 
