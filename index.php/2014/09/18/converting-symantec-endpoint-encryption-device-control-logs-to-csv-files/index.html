@@ -156,14 +156,14 @@ a:hover,
     </div>
 
     <div id="menu-container" class="menu-container">
-      <nav class="richprimarymenu" itemtype="http://schema.org/SiteNavigationElement" role="navigation"><ul id="menu-personal-stories" class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown"><li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-7"><a href="https://creeva.com/index.php/category/stories/">Stories</a></li>
-<li id="menu-item-102940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102940"><a href="https://creeva.com/index.php/category/geekery/">Geekery</a></li>
+      <nav class="richprimarymenu" itemtype="http://schema.org/SiteNavigationElement" role="navigation"><ul id="menu-personal-stories" class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown"><li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="https://creeva.com/index.php/category/stories/">Stories</a></li>
+<li id="menu-item-102940" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-102940"><a href="https://creeva.com/index.php/category/geekery/">Geekery</a></li>
 <li id="menu-item-100227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-100227"><a href="https://creeva.com/index.php/category/video-games/">Video Games</a></li>
 <li id="menu-item-102942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102942"><a href="https://creeva.com/index.php/about-me/">About Me</a></li>
 </ul></nav>     
       <ul id="iconmenu" class="menu richiconmenu">  
-          <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-7"><a href="https://creeva.com/index.php/category/stories/">Stories</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102940"><a href="https://creeva.com/index.php/category/geekery/">Geekery</a></li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="https://creeva.com/index.php/category/stories/">Stories</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-102940"><a href="https://creeva.com/index.php/category/geekery/">Geekery</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-100227"><a href="https://creeva.com/index.php/category/video-games/">Video Games</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102942"><a href="https://creeva.com/index.php/about-me/">About Me</a></li>
                     
@@ -188,23 +188,22 @@ a:hover,
 
 <div id="container" class="row">
   <div id="primary" class="large-7 medium-8 small-11 small-centered columns">
-  	<article class="articlebox post-93910 post type-post status-publish format-standard hentry category-stories">
+  	<article class="articlebox post-93910 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 		
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Converting Symantec Endpoint Encryption &ndash; Device Control Logs to CSV files.				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2014-09-18T14:14:07-05:00">September 18, 2014</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2014-09-18T14:14:07-05:00">September 18, 2014</time><time class="updated" datetime="2023-02-09T13:29:15-05:00">February 9, 2023</time></div>			</header>
 			<div class="entry-content">
-				<p>&nbsp;</p>
-<p>Recently I had to do some work on Symantec Endpoint Encryption &ndash; Device Control. One of the major issues was to take the logs and convert them to a more usable format. Since there is very little information on the web in regards to this product, I thought I would share my code.</p>
-<p>There are a couple steps to this process that can be shortened and made easier. I will be working on streamlining this process. While the initial work is done with the windows server I exported the logs from &ndash; the script is being run on OSX. I have run into some issues porting the script directly to windows, this is more of an issue with my experience with Sed (windows port specifically).</p>
-<p>Once you export the logs they are in an xml format. While it&rsquo;s plaintext underneath, there is quite a bit of extraneous information in the files. To strip this out I run this at the DOS command prompt on the server the logs are exported from:</p>
+				<p><img decoding="async" alt="" width="500" height="386" data-srcset="https://creeva.com/wp-content/uploads/2009/01/3038597_e5f95e2017.jpg 500w, https://creeva.com/wp-content/uploads/2009/01/3038597_e5f95e2017-300x232.jpg 300w" data-src="https://creeva.com/wp-content/uploads/2009/01/3038597_e5f95e2017.jpg" data-sizes="(max-width: 500px) 100vw, 500px" class="aligncenter size-full wp-image-102932 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-full wp-image-102932" src="https://creeva.com/wp-content/uploads/2009/01/3038597_e5f95e2017.jpg" alt="" width="500" height="386" srcset="https://creeva.com/wp-content/uploads/2009/01/3038597_e5f95e2017.jpg 500w, https://creeva.com/wp-content/uploads/2009/01/3038597_e5f95e2017-300x232.jpg 300w" sizes="(max-width: 500px) 100vw, 500px"></noscript></p>
+<p>Recently I had to do some work on Symantec Endpoint Encryption &ndash; Device Control. One of the major issues was to take the logs and convert them to a more usable format. Since there is very little information on the web in regard to this product, I thought I would share my code.</p>
+<p>There are a couple of steps to this process that can be shortened and made easier. I will be working on streamlining this process. While the initial work is done with the windows server I exported the logs from &ndash; the script is being run on OSX. I have run into some issues porting the script directly to windows, this is more of an issue with my experience with Sed (windows port specifically).</p>
+<p>Once you export the logs they are in an XML format. While it&rsquo;s plaintext underneath, there is quite a bit of extraneous information in the files. To strip this out I run this at the DOS command prompt on the server the logs are exported from:</p>
 <p>find &ldquo;EV Sequence&rdquo; &ldquo;*.xml&rdquo; &gt;log.txt</p>
 <p>This command gives you a file that is about half the size of the original .XML. Each line in the file will now look like this:</p>
 <blockquote><p> ClientHost=&rdquo;workstationname&rdquo; EventTime=&rdquo;3/14/2014 10:13:50 AM&rdquo; EventTimeLocal=&rdquo;3/14/2014 4:13:50 PM&rdquo; ServerTime=&rdquo;3/14/2014 10:13:50 AM&rdquo; CustomGroup=&rdquo;&rdquo; PolicyName=&rdquo;Allow-And-Log&rdquo; PolicyType=&rdquo;User&rdquo; DeviceDescription=&rdquo;Disk drive&rdquo; DeviceInfo=&rdquo;USB DISK 2.0 USB Device&rdquo; Port=&rdquo;USB&rdquo; BuiltinGroup=&rdquo;Removable Storage Devices&rdquo; DeviceVendor=&rdquo;XXX&rdquo; DeviceModel=&rdquo;XXX&rdquo; DeviceDistinctId=&rdquo;XXXX&rdquo; FileName=&rdquo;homevideo.flv&rdquo; FileExtension=&rdquo;flv&rdquo; FileSize=&rdquo;500987&Prime; FileCreationTime=&rdquo;3/14/2014 4:13:24 PM&rdquo; FileModifyTime=&rdquo;3/14/2014 4:13:26 PM&rdquo; FileOperation=&rdquo;Write&rdquo; Details=&rdquo;&rdquo; FileType=&rdquo;Multimedia&rdquo; ContentInspectionResult=&rdquo;0&Prime; ContentInspectionDetails=&rdquo;&rdquo; ContentInspectionTimeLocal=&rdquo;&rdquo; FileShadowingFingerprint=&rdquo;&rdquo; FileShadowingPath=&rdquo;&rdquo; FileShadowingFileName=&rdquo;&rdquo; /&gt;</p></blockquote>
 <p>Once this has been done I copy the file over to the OSX machine to run the script against. Thanks to the find command there is going to be a line at the top of the file you have to remove. You can remove this line before or after you the script against the file. As part of the script, we wanted to make sure that we strip out any extra commas from the file that can throw off the formatting. The script will take these commas and replace them with spaces.</p>
 <p>Here is the script:</p>
-<p>&nbsp;</p>
 <blockquote><p>##############################################################################################<br>
 #<br>
 # This script is to take the log export from the Symantec Endpoint Device Control Product, it<br>
@@ -236,16 +235,15 @@ echo User,Host,Server Event Time,Workstation Event Time,Policy Name,Device Descr
 cat log2.txt &gt;&gt;finished.csv<br>
 rm log1.txt<br>
 rm log2.txt</p></blockquote>
-<p>&nbsp;</p>
-<p>As part of the output we place headers at the top of the file to make this easy to work with in Excel. The fields we use are User, Host ,Server Event Time, Workstation Event Time, Policy Name, Device Description, Port, File Name, File Extension, File Size, Action, and File Type. In the output a log line will now look like this (with another significant size reduction for the full file):</p>
+<p>As part of the output, we place headers at the top of the file to make this easy to work with in Excel. The fields we use are User, Host, Server Event Time, Workstation Event Time, Policy Name, Device Description, Port, File Name, File Extension, File Size, Action, and File Type. In the output a log line will now look like this (with another significant size reduction for the full file):</p>
 <blockquote><p>user@company.com,workstationname,3/14/2014 10:13:50AM,3/14/2014 4:13:50PM,Allow-And-Log,Diskdrive,USB,homevideo.flv,flv,500987,Write,Multimedia,</p></blockquote>
-<p>You then have a file named finished.csv that you can edit or look at to you hearts content. Pay attention to the amount of lines in the file. If there are over a million lines you will have to split the file if you wish to use it in Excel.</p>
+<p>You then have a file named finished.csv that you can edit or look at to your heart&rsquo;s content. Pay attention to the number of lines in the file. If there are over a million lines you will have to split the file if you wish to use it in Excel.</p>
 <p>I hope this helps someone out.</p>
 			</div><!-- .entry-content -->
 	</article>
 			
 		<div class="entry-meta cat-and-tags">
-			<div id="categories"><span class="icon-archive"></span> <p><a href="https://creeva.com/index.php/category/stories/" rel="category tag">Stories</a></p></div>
+			<div id="categories"><span class="icon-archive"></span> <p><a href="https://creeva.com/index.php/category/geekery/" rel="category tag">Geekery</a></p></div>
 			    	</div>
 
     </div><!-- #primary -->
@@ -255,67 +253,7 @@ rm log2.txt</p></blockquote>
 
 	    	
 	 				
-	<article id="post-96170" class="row postbox postboxloop post-96170 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/06/09/the-more-we-stay-the-same-the-more-we-change/" rel="bookmark">
-									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2021/06/rogers-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2021/06/rogers-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/06/09/the-more-we-stay-the-same-the-more-we-change/" rel="bookmark">
-							<h5 class="entry-title">
-																The More We Stay The Same, The More We Change.							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96112" class="row postbox postboxloop post-96112 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/05/20/retrometrics-final-fantasy-x-and-x-2-remastered/" rel="bookmark">
-									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2021/03/2021-03-30-finalfantasyx2logo-blog-1-1142x706.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2021/03/2021-03-30-finalfantasyx2logo-blog-1-1142x706.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/05/20/retrometrics-final-fantasy-x-and-x-2-remastered/" rel="bookmark">
-							<h5 class="entry-title">
-																Retrometrics &ndash; Final Fantasy X and X-2 Remastered							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24-05:00">May 20, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-95581" class="row postbox postboxloop post-95581 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/05/03/lamenting-the-loss-of-everlasting-gobstoppers/" rel="bookmark">
-									<img width="500" height="500" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1.jpg 500w, https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1-300x300.jpg 300w, https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1-150x150.jpg 150w" data-src="https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1.jpg" data-sizes="(max-width: 500px) 100vw, 500px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="500" height="500" src="https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1.jpg 500w, https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1-300x300.jpg 300w, https://creeva.com/wp-content/uploads/2018/11/61HFRBhoS5L-1-150x150.jpg 150w" sizes="(max-width: 500px) 100vw, 500px"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/05/03/lamenting-the-loss-of-everlasting-gobstoppers/" rel="bookmark">
-							<h5 class="entry-title">
-																Lamenting the Loss of Everlasting Gobstoppers							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
 
 									<div class="medium-4 columns">
@@ -333,69 +271,9 @@ rm log2.txt</p></blockquote>
 																Yahoo Answers Shutting Down &ndash; Not All Data Exportable							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time><time class="updated" datetime="2023-02-09T23:00:12-05:00">February 9, 2023</time></div>				</div>	
 			
-	</article>	<article id="post-96108" class="row postbox postboxloop post-96108 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/03/30/playing-with-wordgrinder/" rel="bookmark">
-									<img width="603" height="375" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2021/03/2021-03-29_wordgrinder_blog_creeva-1.png 603w, https://creeva.com/wp-content/uploads/2021/03/2021-03-29_wordgrinder_blog_creeva-1-300x187.png 300w" data-src="https://creeva.com/wp-content/uploads/2021/03/2021-03-29_wordgrinder_blog_creeva-1.png" data-sizes="(max-width: 603px) 100vw, 603px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="603" height="375" src="https://creeva.com/wp-content/uploads/2021/03/2021-03-29_wordgrinder_blog_creeva-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2021/03/2021-03-29_wordgrinder_blog_creeva-1.png 603w, https://creeva.com/wp-content/uploads/2021/03/2021-03-29_wordgrinder_blog_creeva-1-300x187.png 300w" sizes="(max-width: 603px) 100vw, 603px"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/03/30/playing-with-wordgrinder/" rel="bookmark">
-							<h5 class="entry-title">
-																Playing With Wordgrinder							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96103" class="row postbox postboxloop post-96103 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/03/23/sometimes-the-right-text-editor-is-right-in-front-of-you/" rel="bookmark">
-									<img width="960" height="640" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2021/03/typewriter-1.jpg 960w, https://creeva.com/wp-content/uploads/2021/03/typewriter-1-300x200.jpg 300w, https://creeva.com/wp-content/uploads/2021/03/typewriter-1-768x512.jpg 768w" data-src="https://creeva.com/wp-content/uploads/2021/03/typewriter-1.jpg" data-sizes="(max-width: 960px) 100vw, 960px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="960" height="640" src="https://creeva.com/wp-content/uploads/2021/03/typewriter-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2021/03/typewriter-1.jpg 960w, https://creeva.com/wp-content/uploads/2021/03/typewriter-1-300x200.jpg 300w, https://creeva.com/wp-content/uploads/2021/03/typewriter-1-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/03/23/sometimes-the-right-text-editor-is-right-in-front-of-you/" rel="bookmark">
-							<h5 class="entry-title">
-																Sometimes The Right Text Editor is Right In Front of You							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96098" class="row postbox postboxloop post-96098 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/03/18/the-last-blockbuster/" rel="bookmark">
-									<img width="365" height="500" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2021/03/lastblockbuster-1.jpg 365w, https://creeva.com/wp-content/uploads/2021/03/lastblockbuster-1-219x300.jpg 219w" data-src="https://creeva.com/wp-content/uploads/2021/03/lastblockbuster-1.jpg" data-sizes="(max-width: 365px) 100vw, 365px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="365" height="500" src="https://creeva.com/wp-content/uploads/2021/03/lastblockbuster-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2021/03/lastblockbuster-1.jpg 365w, https://creeva.com/wp-content/uploads/2021/03/lastblockbuster-1-219x300.jpg 219w" sizes="(max-width: 365px) 100vw, 365px"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/03/18/the-last-blockbuster/" rel="bookmark">
-							<h5 class="entry-title">
-																The Last Blockbuster							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
 			
 
 									<div class="medium-4 columns">
@@ -413,7 +291,127 @@ rm log2.txt</p></blockquote>
 																Doing The RSS Feed Cleanup Dance							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time><time class="updated" datetime="2023-02-09T22:58:03-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95390" class="row postbox postboxloop post-95390 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2017/03/09/playstation-4-remote-play-and-you/" rel="bookmark">
+									<img width="747" height="309" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2017/03/ps4-logo-1.jpg 747w, https://creeva.com/wp-content/uploads/2017/03/ps4-logo-1-300x124.jpg 300w" data-src="https://creeva.com/wp-content/uploads/2017/03/ps4-logo-1.jpg" data-sizes="(max-width: 747px) 100vw, 747px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="747" height="309" src="https://creeva.com/wp-content/uploads/2017/03/ps4-logo-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2017/03/ps4-logo-1.jpg 747w, https://creeva.com/wp-content/uploads/2017/03/ps4-logo-1-300x124.jpg 300w" sizes="(max-width: 747px) 100vw, 747px"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2017/03/09/playstation-4-remote-play-and-you/" rel="bookmark">
+							<h5 class="entry-title">
+																Playstation 4 &ndash; Remote Play And You							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-09T13:45:45-05:00">March 9, 2017</time></div>				</div>	
+			
+	</article>	<article id="post-95271" class="row postbox postboxloop post-95271 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2017/03/05/how-to-use-two-sets-of-bluetooth-headphones-at-the-same-time-with-osxmacos/" rel="bookmark">
+									<img width="660" height="434" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2017/03/multi-1.png 660w, https://creeva.com/wp-content/uploads/2017/03/multi-1-300x197.png 300w" data-src="https://creeva.com/wp-content/uploads/2017/03/multi-1.png" data-sizes="(max-width: 660px) 100vw, 660px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="660" height="434" src="https://creeva.com/wp-content/uploads/2017/03/multi-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2017/03/multi-1.png 660w, https://creeva.com/wp-content/uploads/2017/03/multi-1-300x197.png 300w" sizes="(max-width: 660px) 100vw, 660px"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2017/03/05/how-to-use-two-sets-of-bluetooth-headphones-at-the-same-time-with-osxmacos/" rel="bookmark">
+							<h5 class="entry-title">
+																How To Use Two Sets of Bluetooth Headphones at the Same Time with OSX/MacOs							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2017-03-05T13:31:08-05:00">March 5, 2017</time></div>				</div>	
+			
+	</article>	<article id="post-95154" class="row postbox postboxloop post-95154 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2016/07/18/and-some-people-end-there-troubleshooting-when-a-web-page-doesnt-load/" rel="bookmark">
+									<img width="419" height="620" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2013/04/file0002042640992-1.jpg 419w, https://creeva.com/wp-content/uploads/2013/04/file0002042640992-1-203x300.jpg 203w" data-src="https://creeva.com/wp-content/uploads/2013/04/file0002042640992-1.jpg" data-sizes="(max-width: 419px) 100vw, 419px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="419" height="620" src="https://creeva.com/wp-content/uploads/2013/04/file0002042640992-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2013/04/file0002042640992-1.jpg 419w, https://creeva.com/wp-content/uploads/2013/04/file0002042640992-1-203x300.jpg 203w" sizes="(max-width: 419px) 100vw, 419px"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2016/07/18/and-some-people-end-there-troubleshooting-when-a-web-page-doesnt-load/" rel="bookmark">
+							<h5 class="entry-title">
+																And Some People End Their Troubleshooting When a Web Page Doesn&rsquo;t Load							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2016-07-18T14:11:35-05:00">July 18, 2016</time><time class="updated" datetime="2023-02-09T22:41:24-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95084" class="row postbox postboxloop post-95084 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2016/05/11/im-looking-for-a-product-that-can-take-one-airplay-stream-and-send-it-out-to-multiple-airplay-receivers/" rel="bookmark">
+									<img width="300" height="83" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2016/05/AirPlay-Logo-with-Text-300x83-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="300" height="83" src="https://creeva.com/wp-content/uploads/2016/05/AirPlay-Logo-with-Text-300x83-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2016/05/11/im-looking-for-a-product-that-can-take-one-airplay-stream-and-send-it-out-to-multiple-airplay-receivers/" rel="bookmark">
+							<h5 class="entry-title">
+																I&rsquo;m Looking For A Product That Can Take One Airplay Stream and Send It Out To Multiple Airplay Receivers							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2016-05-11T17:08:43-05:00">May 11, 2016</time><time class="updated" datetime="2023-02-09T21:54:20-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95080" class="row postbox postboxloop post-95080 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2016/05/10/just-added-voice-activation-for-household-lights-or-how-i-finally-took-my-other-raspberry-pi-out-of-the-box/" rel="bookmark">
+									<img width="720" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2016/05/2016-05-07-19.43.34-1-720x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="720" height="706" src="https://creeva.com/wp-content/uploads/2016/05/2016-05-07-19.43.34-1-720x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2016/05/10/just-added-voice-activation-for-household-lights-or-how-i-finally-took-my-other-raspberry-pi-out-of-the-box/" rel="bookmark">
+							<h5 class="entry-title">
+																Just Added Voice Activation For Household Lights or How I Finally Took My Other Raspberry Pi Out of The Box							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2016-05-10T14:16:47-05:00">May 10, 2016</time><time class="updated" datetime="2023-02-09T21:53:23-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95001" class="row postbox postboxloop post-95001 post type-post status-publish format-standard has-post-thumbnail hentry category-geekery">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2016/04/21/setting-up-a-faux-landline-so-my-son-can-get-calls/" rel="bookmark">
+									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2016/04/telephone-1055044_1920-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2016/04/telephone-1055044_1920-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2016/04/21/setting-up-a-faux-landline-so-my-son-can-get-calls/" rel="bookmark">
+							<h5 class="entry-title">
+																Setting up a Faux Landline So My Son Can Get Calls							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2016-04-21T11:31:38-05:00">April 21, 2016</time></div>				</div>	
 			
 	</article>
 

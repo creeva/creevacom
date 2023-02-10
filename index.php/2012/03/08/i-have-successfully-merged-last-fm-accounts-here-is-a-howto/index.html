@@ -193,12 +193,13 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										I Have Successfully Merged Last.fm Accounts &ndash; Here is a HOWTO				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2012-03-08T10:50:05-05:00">March 8, 2012</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2012-03-08T10:50:05-05:00">March 8, 2012</time><time class="updated" datetime="2023-02-09T08:08:27-05:00">February 9, 2023</time></div>			</header>
 			<div class="entry-content">
-				<p>I managed to do more work importing <a href="http://last.fm">Last.fm</a> data. &nbsp;Earlier I posted how nothing was working. &nbsp;I mentioned how there is no method to do this. &nbsp;I also mentioned how some of the migration methods available. &nbsp;Well below are the instructions on how to actually accomplish this. Dealing with the methods listed online, these were the only steps I found to merge two or more last.fm accounts.</p>
-<p>There is come caveats. &nbsp; I was not able to get all of my tracks down from the server. &nbsp; Most of this is because of bad metadata. &nbsp;Out of the my 23k submitted tracks I only managed to get about 20k of them downloaded. &nbsp; In the re-upload I lost another 6k.</p>
-<p>The reason for the loss is two-fold. &nbsp;I think the script has an issue with Kanji characters and skips them. &nbsp; This removed a few video game sound tracks from my track count. &nbsp; Other scripts I have found just died when they reached the bad metadata. &nbsp; Since this is the most data I can get, it is better than nothing.</p>
-<p>You will also lose the last play time. If this is important to you then I can&rsquo;t help you. Last.fm will not accept tracks with a play date of older than fourteen days. The API does not have a way around that restriction that I have seen. I did find a post that mentioned someone created a script that would rescrobble all of your old music and submit it in a manner that new accounts are able to perform, but he never released public. </p>
+				<p><img decoding="async" alt="" width="500" height="375" data-srcset="https://creeva.com/wp-content/uploads/2009/06/150020414_6d9c2d98bd.jpg 500w, https://creeva.com/wp-content/uploads/2009/06/150020414_6d9c2d98bd-300x225.jpg 300w" data-src="https://creeva.com/wp-content/uploads/2009/06/150020414_6d9c2d98bd.jpg" data-sizes="(max-width: 500px) 100vw, 500px" class="aligncenter size-full wp-image-102944 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" class="aligncenter size-full wp-image-102944" src="https://creeva.com/wp-content/uploads/2009/06/150020414_6d9c2d98bd.jpg" alt="" width="500" height="375" srcset="https://creeva.com/wp-content/uploads/2009/06/150020414_6d9c2d98bd.jpg 500w, https://creeva.com/wp-content/uploads/2009/06/150020414_6d9c2d98bd-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px"></noscript></p>
+<p>I managed to do more work importing <a href="http://last.fm">Last.fm</a> data. Earlier I posted how nothing was working. I mentioned how there is no method to do this. I also mentioned how some of the migration methods available. Well below are the instructions on how to actually accomplish this. Dealing with the methods listed online, these were the only steps I found to merge two or more last.fm accounts.</p>
+<p>There are some caveats. I was not able to get all of my tracks down from the server. Most of this is because of bad metadata. Out of my 23k submitted tracks, I only managed to get about 20k of them downloaded. In the re-upload, I lost another 6k.</p>
+<p>The reason for the loss is two-fold. I think the script has an issue with Kanji characters and skips them. This removed a few video game soundtracks from my track count. Other scripts I have found just died when they reached the bad metadata. Since this is the most data I can get, it is better than nothing.</p>
+<p>You will also lose the last playtime. If this is important to you then I can&rsquo;t help you. Last.fm will not accept tracks with a play date of older than fourteen days. The API does not have a way around that restriction that I have seen. I did find a post that mentioned someone created a script that would rescrobble all of your old music and submit it in a manner that new accounts are able to perform, but he never released publicly.</p>
 <p>Let&rsquo;s move to how to do this (as a side, I performed this on OSX &ndash; but this should easily work on Linux or Windows):</p>
 <p>Requirements:</p>
 <ul>
@@ -208,31 +209,29 @@ a:hover,
 <li>A spreadsheet package</li>
 <li>A text editor</li>
 </ul>
-<p>&nbsp;</p>
-<p>1. &nbsp;Go and download the lastexport.py script from this page</p>
-<p>2. Run the command &ldquo;python ./lastexport.py &ndash;user USERNAME&rdquo; &nbsp;and replace USERNAME with your account (or any other account) you want to export.</p>
-<p>3. &nbsp;When the script completes&nbsp;it will create a file named exported_tracks.txt, rename the extension to .csv so you can easily open it your spreadsheet. &nbsp; This file is tab-delimited.</p>
-<p>4. &nbsp;You should now have a spread sheet opened with all the data nicely arranged in columns. &nbsp; The first column is the timestamp. &nbsp; The second column is the track name. The third column is the artist name. &nbsp;The fourth column is the album name. &nbsp;The fifth column is the Musicbrainz artist ID. &nbsp;The last Column is the Musicbrainz song ID.</p>
+<p>1. Go and download the lastexport.py script from this page</p>
+<p>2. Run the command &ldquo;python ./lastexport.py &ndash;user USERNAME&rdquo; and replace USERNAME with your account (or any other account) you want to export.</p>
+<p>3. When the script completes it will create a file named exported_tracks.txt, and rename the extension to .csv so you can easily open it in your spreadsheet. This file is tab-delimited.</p>
+<p>4. You should now have a spreadsheet opened with all the data nicely arranged in columns. The first column is the timestamp. The second column is the track name. The third column is the artist&rsquo;s name. The fourth column is the album name. The fifth column is the MusicBrainz artist ID. The last Column is the MusicBrainz song ID.</p>
 <pre></pre>
-<p>You will now need to rearrange these columns to the following order:</p>
+<p>You will now need to rearrange these columns in the following order:</p>
 <pre> - artist name - album name (optional) - track name - track position on album (optional) - song duration in seconds - rating (L if listened at least 50% or S if skipped) - unix timestamp when song started playing - MusicBrainz Track ID (optional) </pre>
-<pre>
-</pre>
-<p>For the track position column I just auto-filled 1&rsquo;s in all the cells down the sheet. &nbsp;For the song duration column I filled in 180 (3 minutes) in all the cells down the sheet. &nbsp; For the rating columns I filled in L in all the cells down the sheet.</p>
-<p>The Unix timestamp is a tricky one.If any tracks on your list are older than fourteen days old you will need to change the time stamp or last.fm will ignore those submissions.</p>
-<p>Previously I had a friend generate a list of Unix times 180 seconds apart. &nbsp;I copied this in, but realized my 20k tracks took the time back older than fourteen days. &nbsp; I took the latest 2k times and just copy and pasted those 10 times down the list. &nbsp;&nbsp;To find the latest Unix time and understand the time stamps <a href="http://www.onlineconversion.com/unix_time.htm">go to this site</a>.</p>
-<p>At this point you should have all the columns filled out in the correct order to create a .scrobbler.log file. &nbsp; The website everyone points to for the .scrobbler.log file format details seems to be down when I was doing this. &nbsp;Here is a link to the page in the Internet Archive.</p>
-<p>I do have a theory with this method that all the tracks can have the same time stamp. &nbsp; One of the earlier methods I tried did not allow that, so if you don&rsquo;t want to figure out a bunch of random time stamps it is something you can test with. The difference in this article is&nbsp;how QTscrob is going to submit these tracks compared to how Libre.fm did in my other article.</p>
-<p>5. &nbsp;Select all the data in the spreadsheet and copy and past it straight into a text editor. &nbsp; You are going to add the following lines to the very top of the new file you created:</p>
+<pre></pre>
+<p>For the track position column, I just auto-filled 1&rsquo;s in all the cells down the sheet. For the song duration column, I filled in 180 (3 minutes) in all the cells down the sheet. For the rating columns, I filled in L in all the cells down the sheet.</p>
+<p>The Unix timestamp is a tricky one. If any tracks on your list are older than fourteen days old you will need to change the time stamp or last.fm will ignore those submissions.</p>
+<p>Previously I had a friend generate a list of Unix times 180 seconds apart. I copied this in, but realized my 20k tracks took time back older than fourteen days. I took the latest 2k times and just copy and pasted those 10 times down the list. To find the latest Unix time and understand the time stamps <a href="http://www.onlineconversion.com/unix_time.htm">go to this site</a>.</p>
+<p>At this point you should have all the columns filled out in the correct order to create a .scrobbler.log file. The website everyone points to for the .scrobbler.log file format details seems to be down when I was doing this. Here is a link to the page in the Internet Archive.</p>
+<p>I do have a theory with this method that all the tracks can have the same time stamp. One of the earlier methods I tried did not allow that, so if you don&rsquo;t want to figure out a bunch of random time stamps it is something you can test with. The difference in this article is&nbsp;how QTscrob is going to submit these tracks compared to how Libre.fm did in my other article.</p>
+<p>5. Select all the data in the spreadsheet and copy and paste it straight into a text editor. You are going to add the following lines to the very top of the new file you created:</p>
 <pre> #AUDIOSCROBBLER/1.0 #TZ/UTC #CLIENT/Rockbox h3xx 1.1</pre>
 <p>These lines are required for the file to be recognized as a .scrobbler.log file.</p>
-<p>6. You can now save the file. You must choose a Unix format or a format that will add <a href="http://en.wikipedia.org/wiki/Hard_return">hard&nbsp;breaks</a> at the end of each line. I believe this is what caused the file to fail on me earlier. If you editor allows it (mine did not) you can save the file name as .scrobbler.log (remember the &ldquo;.&rdquo; at the beginning of the file name.</p>
+<p>6. You can now save the file. You must choose a Unix format or a format that will add <a href="http://en.wikipedia.org/wiki/Hard_return">hard&nbsp;breaks</a> at the end of each line. I believe this is what caused the file to fail on me earlier. If your editor allows it (mine did not) you can save the file name as .scrobbler.log (remember the &ldquo;.&rdquo; at the beginning of the file name.</p>
 <p>7. If your text editor did not allow to save the file name as .scrobbler.log you must rename your file to this at the command line or terminal level.</p>
 <p>8. Start up QTscrob and select open .scrobbler.log. Browse to the directory where the file is. It is only looking for the containing directory so you will not be opening the file name directly.</p>
-<p>9. At this point (if you have done everything correctly and I&rsquo;m not going to troubleshoot files if you did not) you should see a list of tracks in the QTscrob interface. If everything looks good just click submit. &nbsp;This may take a few minutes depending on how many tracks you have.</p>
-<p>In theory someone could easily change the lastexport.py script so that it directly creates the .scrobbler.log file. &nbsp; If you are interested in doing this, you would have to change the field order, add the extra columns, and the header in the manner described in steps four and five.</p>
-<p>At different points I have spent days trying to find a good way to do this. &nbsp;With the bad metadata most archiving scripts just failed on me, so I&rsquo;m quite happy with the lastexport.py script.</p>
-<p>I couldn&rsquo;t find a single place online that told you directly how to make a .scrobbler.log manually. &nbsp; All the sites seemed to assumed that you must only be using software to do this and the programmers would only look at the file specifications. &nbsp; I could not even find an example file to compare to. &nbsp; If the Internet Archive had not mirrored the site with the file specifications I never would have gotten this far.</p>
+<p>9. At this point (if you have done everything correctly and I&rsquo;m not going to troubleshoot files if you did not) you should see a list of tracks in the QTscrob interface. If everything looks good just click submit. This may take a few minutes depending on how many tracks you have.</p>
+<p>In theory, someone could easily change the lastexport.py script so that it directly creates the .scrobbler.log file. If you are interested in doing this, you would have to change the field order, add the extra columns, and the header in the manner described in steps four and five.</p>
+<p>At different points, I have spent days trying to find a good way to do this. With the bad metadata most archiving scripts just failed me, so I&rsquo;m quite happy with the lastexport.py script.</p>
+<p>I couldn&rsquo;t find a single place online that told you directly how to make a .scrobbler.log manually. All the sites seemed to assume that you must only be using software to do this and the programmers would only look at the file specifications. I could not even find an example file to compare to. If the Internet Archive had not mirrored the site with the file specifications I never would have gotten this far.</p>
 <p>If this post has been useful to you, just please drop a note and let me know.</p>
 			</div><!-- .entry-content -->
 	</article>
@@ -266,27 +265,7 @@ a:hover,
 																The More We Stay The Same, The More We Change.							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96112" class="row postbox postboxloop post-96112 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/05/20/retrometrics-final-fantasy-x-and-x-2-remastered/" rel="bookmark">
-									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2021/03/2021-03-30-finalfantasyx2logo-blog-1-1142x706.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2021/03/2021-03-30-finalfantasyx2logo-blog-1-1142x706.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/05/20/retrometrics-final-fantasy-x-and-x-2-remastered/" rel="bookmark">
-							<h5 class="entry-title">
-																Retrometrics &ndash; Final Fantasy X and X-2 Remastered							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24-05:00">May 20, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time><time class="updated" datetime="2023-02-09T23:04:40-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-95581" class="row postbox postboxloop post-95581 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -306,27 +285,7 @@ a:hover,
 																Lamenting the Loss of Everlasting Gobstoppers							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/04/07/yahoo-answers-shutting-down-not-all-data-exportable/" rel="bookmark">
-									<img width="600" height="400" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg 600w, https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1-300x200.jpeg 300w" data-src="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg" data-sizes="(max-width: 600px) 100vw, 600px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="600" height="400" src="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg 600w, https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1-300x200.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/04/07/yahoo-answers-shutting-down-not-all-data-exportable/" rel="bookmark">
-							<h5 class="entry-title">
-																Yahoo Answers Shutting Down &ndash; Not All Data Exportable							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time><time class="updated" datetime="2023-02-09T23:00:36-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-96108" class="row postbox postboxloop post-96108 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -346,7 +305,7 @@ a:hover,
 																Playing With Wordgrinder							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time><time class="updated" datetime="2023-02-09T22:59:45-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-96103" class="row postbox postboxloop post-96103 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -366,7 +325,7 @@ a:hover,
 																Sometimes The Right Text Editor is Right In Front of You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time><time class="updated" datetime="2023-02-09T22:59:03-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-96098" class="row postbox postboxloop post-96098 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -386,27 +345,67 @@ a:hover,
 																The Last Blockbuster							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time><time class="updated" datetime="2023-02-09T22:58:49-05:00">February 9, 2023</time></div>				</div>	
 			
-	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+	</article>	<article id="post-96081" class="row postbox postboxloop post-96081 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
 
 									<div class="medium-4 columns">
 						<div class="postlistthumb">
 							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/03/16/doing-the-rss-feed-cleanup-dance/" rel="bookmark">
-									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2021/03/pexels-photo-801863-1-1142x706.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2021/03/pexels-photo-801863-1-1142x706.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+								<a href="https://creeva.com/index.php/2021/03/12/scripting-scripting-scripting-the-night-away/" rel="bookmark">
+									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
 							</div>
 						</div>
 					</div>
 								<div class=" medium-8 columns">
 					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/03/16/doing-the-rss-feed-cleanup-dance/" rel="bookmark">
+						<a href="https://creeva.com/index.php/2021/03/12/scripting-scripting-scripting-the-night-away/" rel="bookmark">
 							<h5 class="entry-title">
-																Doing The RSS Feed Cleanup Dance							</h5>
+																Scripting&hellip;Scripting..Scripting The Night Away&hellip;							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-12T14:10:56-05:00">March 12, 2021</time><time class="updated" datetime="2023-02-09T22:57:07-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95398" class="row postbox postboxloop post-95398 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2018/03/14/when-you-are-just-being-cruel-as-a-dm-part-1-freaking-lasers/" rel="bookmark">
+									<img width="883" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2017/03/Top-Secret-SI-Players-Guide-TSR-1987-1-1-883x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="883" height="706" src="https://creeva.com/wp-content/uploads/2017/03/Top-Secret-SI-Players-Guide-TSR-1987-1-1-883x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2018/03/14/when-you-are-just-being-cruel-as-a-dm-part-1-freaking-lasers/" rel="bookmark">
+							<h5 class="entry-title">
+																When You Are Just Being Cruel As A DM &ndash; Part 1 &ndash; Freaking Lasers							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2018-03-14T19:11:52-05:00">March 14, 2018</time><time class="updated" datetime="2023-02-09T22:55:10-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95474" class="row postbox postboxloop post-95474 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2018/01/24/on-the-road-and-pondering/" rel="bookmark">
+									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2018/01/2018-01-22-15.54.15-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2018/01/2018-01-22-15.54.15-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2018/01/24/on-the-road-and-pondering/" rel="bookmark">
+							<h5 class="entry-title">
+																On The Road and Pondering&hellip;							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2018-01-24T15:20:34-05:00">January 24, 2018</time><time class="updated" datetime="2023-02-09T22:52:05-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>
 

@@ -193,12 +193,12 @@ a:hover,
 			<header class="entry-header entry-header-single">
 				<h1 class="entry-title">
 										Scripting&hellip;Scripting..Scripting The Night Away&hellip;				</h1>
-				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-12T14:10:56-05:00">March 12, 2021</time></div>			</header>
+				<div class="entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-12T14:10:56-05:00">March 12, 2021</time><time class="updated" datetime="2023-02-09T22:57:07-05:00">February 9, 2023</time></div>			</header>
 			<div class="entry-content">
 				
-<figure class="wp-block-image size-large"><img decoding="async" alt="" data-src="http://localhost/wordpress/wp-content/uploads/2021/03/pexels-luis-gomes-546819-1024x680.jpg" class="wp-image-96082 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" src="http://localhost/wordpress/wp-content/uploads/2021/03/pexels-luis-gomes-546819-1024x680.jpg" alt="" class="wp-image-96082"></noscript></figure> <p><strong>The Start</strong></p> <p>For those that have known me for a while, one of my obsessions interests is archiving and keeping all the data I generate online. I do this to the best of my ability since obviously there are some services that you just can&rsquo;t get the data out of (at least not on a regular basis &ndash; obviously, some services allow you to bulk export your data and I have tons of that from services in the internet graveyard). So I&rsquo;ve always meant to do something with it. I figured way back when I would just script it. </p> <p>Originally it was all on my blog doing a daily dive of all my traffic and generating my lifestream. However, once you stop posting regularly it really gets spammy &ndash; so I stopped. Behind the scenes though &ndash; the spice kept flowing. Flow it did into tons of files with new information being generated each day. So about three years ago (well, after there was about 14 years&rsquo; worth of data I had collected) &ndash; I decided to throw it all into a wiki. Sounds great &ndash; I have plain text &ndash; I can do something with this. </p> <p><strong>The Plan</strong></p> <p>Which wiki to choose though? I was comfortable with Media-wiki &ndash; but similar to just using WordPress, it locks everything up in a database. Now I understand a database can be scripted, adjusted, poked and prodded. I&rsquo;m just not that great with scripting against databases. I have done it &ndash; when I was a consultant I wrote a script that could dump out information from MS-SQL or embedded DB2 databases. I just didn&rsquo;t like all my data in a single database file. I would rather lose one than lose them all. </p> <p>This lead me to look for a wiki that had flat files. Optimally the files would be plain text and accessible. After searching I decided upon Dokuwiki. It used plain text files for its pages &ndash; and worked just like a regular wiki from the end-user perspective (syntax differences aside). I installed it. Then I did nothing with it. I then installed it on the home network again. Then I did nothing with it again. This cycle went on for a while. I saved the pages in hopes of building something new from the ashes eventually. </p> <p><strong>Baby Steps</strong></p> <p>Honestly what made Dokuwiki stick was starting to do genealogy. I needed a way to capture documents in a better method than regular software was allowing me to do. I started entering data and formatting it, scrubbing it, tweaking it &ndash; essentially making it mine. Then one day I look up I&rsquo;m a regular DokuWiki user. Its regular use was finally ingrained into me. I would check and change things at least weekly. I started migrating some of my documentation over (the kind that can&rsquo;t be as easily scripted &ndash; but while we are on the subject, my scripts are in the wiki also). </p> <p>We even had the whole family involved &ndash; well my wife is reticent. She&rsquo;s finally seeing the value but is going to host her own version on her own Raspberry Pi. However, my son and I use the home network one hosted on a Mac. It even syncs across our machines, so in a pinch offline we can still use it. Maybe that use case will come to pass as we enter the final stretch of the pandemic and finally cross the finish line. </p> <p>So a year later (I mean this is a 14-year journey &ndash; time is meaningless in the vastness of the internet &ndash; it&rsquo;s either milliseconds or an eternity) I think &ldquo;Huh&rdquo; &ndash; you know what would be a great idea. I could use the wiki and actually do something with all that old data I have. I could also generate pages off of my stuff going forward. As I said this to myself, I also remembered that was the whole reason I started this in the first place. It wasn&rsquo;t meant for manual data transfer over time. It was meant for up-to-the-day scripted and gathered information. Now how to do it?</p> <p><strong>The Script</strong></p> <p>In theory, I knew what I was going to do. I wrote a MacOS script that parsed data as a customer project before. I&rsquo;ve used that as a starting point for other projects. Just a cat cat here and a sed sed there &ndash; here a grep there a grep &ndash; everywhere a grep grep grep. However, the plan is eventually to move this to a Raspberry Pi and have it run on a schedule to grab and sort the data. So that means time to do it on Linux. Because sometimes the quirks between a Linux and Mac script can be painful Thankfully I have both a Mac and Linux laptop. </p> <p>So time to go into Dokuwiki and make a template. I made what I originally considered the end all be all for what I needed in a template. Then I configured the script to generate it. Then as I&rsquo;m scripting I changed it at least two dozen times. But I finally generated what I thought was a good copy. I copied the file to the directory on the wiki and it worked in the browser without issues. I was like Strong Bad pounding away at the keyboard making it go. </p> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="680" alt="" data-srcset="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg 1024w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-300x199.jpg 300w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-768x510.jpg 768w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1536x1020.jpg 1536w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1070x711.jpg 1070w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1.jpg 2048w" data-src="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="wp-image-96082 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img decoding="async" width="1024" height="680" src="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg" alt="" class="wp-image-96082" srcset="https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1024x680.jpg 1024w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-300x199.jpg 300w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-768x510.jpg 768w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1536x1020.jpg 1536w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1-1070x711.jpg 1070w, https://creeva.com/wp-content/uploads/2021/03/pexels-luis-gomes-546819-scaled-1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></figure> <p><strong>The Start</strong></p> <p>For those that have known me for a while, one of my obsessions interests is archiving and keeping all the data I generate online. I do this to the best of my ability since obviously there are some services that you just can&rsquo;t get the data out of (at least not on a regular basis &ndash; obviously, some services allow you to bulk export your data and I have tons of that from services in the internet graveyard). So I&rsquo;ve always meant to do something with it. I figured way back when I would just script it. </p> <p>Originally it was all on my blog doing a daily dive of all my traffic and generating my lifestream. However, once you stop posting regularly it really gets spammy &ndash; so I stopped. Behind the scenes though &ndash; the spice kept flowing. Flow it did, into tons of files with new information being generated each day. So about three years ago (well, after there was about 14 years&rsquo; worth of data I had collected) &ndash; I decided to throw it all into a wiki. Sounds great &ndash; I have plain text &ndash; I can do something with this. </p> <p><strong>The Plan</strong></p> <p>Which wiki to choose though? I was comfortable with Media-wiki &ndash; but similar to just using WordPress, it locks everything up in a database. Now I understand a database can be scripted, adjusted, poked, and prodded. I&rsquo;m just not that great with scripting against databases. I have done it &ndash; when I was a consultant I wrote a script that could dump out information from MS-SQL or embedded DB2 databases. I just didn&rsquo;t like all my data in a single database file. I would rather lose one than lose them all. </p> <p>This lead me to look for a wiki that had flat files. Optimally the files would be plain text and accessible. After searching I decided upon Dokuwiki. It used plain text files for its pages &ndash; and worked just like a regular wiki from the end-user perspective (syntax differences aside). I installed it. Then I did nothing with it. I then installed it on the home network again. Then I did nothing with it again. This cycle went on for a while. I saved the pages in hopes of building something new from the ashes eventually. </p> <p><strong>Baby Steps</strong></p> <p>Honestly what made Dokuwiki stick was starting to do genealogy. I needed a way to capture documents in a better method than regular software was allowing me to do. I started entering data and formatting it, scrubbing it, tweaking it &ndash; essentially making it mine. Then one day I look up I&rsquo;m a regular DokuWiki user. Its regular use was finally ingrained into me. I would check and change things at least weekly. I started migrating some of my documentation over (the kind that can&rsquo;t be as easily scripted &ndash; but while we are on the subject, my scripts are in the wiki also). </p> <p>We even had the whole family involved &ndash; well my wife is reticent. She&rsquo;s finally seeing the value but is going to host her own version on her own Raspberry Pi. However, my son and I use the home network hosted on a Mac. It even syncs across our machines, so in a pinch offline we can still use it. Maybe that use case will come to pass as we enter the final stretch of the pandemic and finally cross the finish line. </p> <p>So a year later (I mean this is a 14-year journey &ndash; time is meaningless in the vastness of the internet &ndash; it&rsquo;s either milliseconds or an eternity) I think &ldquo;Huh&rdquo; &ndash; you know what would be a great idea. I could use the wiki and actually do something with all that old data I have. I could also generate pages off of my stuff going forward. As I said this to myself, I also remembered that was the whole reason I started this in the first place. It wasn&rsquo;t meant for manual data transfer over time. It was meant for up-to-the-day scripted and gathered information. Now how to do it?</p> <p><strong>The Script</strong></p> <p>In theory, I knew what I was going to do. I wrote a MacOS script that parsed data as a customer project before. I&rsquo;ve used that as a starting point for other projects. Just a cat cat here and a sed sed there &ndash; here a grep there a grep &ndash; everywhere a grep grep grep. However, the plan is eventually to move this to a Raspberry Pi and have it run on a schedule to grab and sort the data. So that means time to do it on Linux. Because sometimes the quirks between a Linux and Mac script can be painful Thankfully I have both a Mac and Linux laptop. </p> <p>So time to go into Dokuwiki and make a template. I made what I originally considered the end all be for what I needed in a template. Then I configured the script to generate it. Then as I&rsquo;m scripting I changed it at least two dozen times. But I finally generated what I thought was a good copy. I copied the file to the directory on the wiki and it worked in the browser without issues. I was like Strong Bad pounding away at the keyboard making it go. </p> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Strong Bad Email #58 - Dragon" width="871" height="490" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-src="https://www.youtube.com/embed/90X5NJleYJQ?feature=oembed" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe>
-</div></figure> <p>Because the up-to-the-minute generation of the file would be a pain in the butt, I decided I would use the Yesterday is Today approach. The file would generated on yesterday&rsquo;s data. Then I can add my own personal notes to fill in the gaps. The goal when this is automatic and I&rsquo;m not tweaking things at night is to make my notes in the morning. This isn&rsquo;t working well right now because I update the final page in the evening (of the day after it occurred). </p> <p>It&rsquo;s all working so far, and while I rely heavily on files generated by IFTTT, I hope to work on using more API calls to directly generate the information. That script section will be once everything is working though. It&rsquo;s a bigger project of knowledge &ndash; so I&rsquo;m on a bicycle version of script writing. It&rsquo;s not a motorcycle, but the training wheels are off as I clean up the spaghetti script regularly. </p> <p><strong>The Output</strong></p> <p>Now my daily journal has too much private data for me to share a screenshot of a page. Once I build test data (which I started yesterday) &ndash; where I can check everything and how it looks, you&rsquo;ll just have to read. </p> <p>The top of the page has the journal date a fancy graphic, and navigation to the journal archive &ndash; archive by year &ndash; archive of the current month &ndash; yesterday and tomorrow. Then we get to the sections</p> <ul>
+</div></figure> <p>Because the up-to-the-minute generation of the file would be a pain in the butt, I decided I would use the Yesterday is Today approach. The file would be generated on yesterday&rsquo;s data. Then I can add my own personal notes to fill in the gaps. The goal when this is automatic and I&rsquo;m not tweaking things at night is to make my notes in the morning. This isn&rsquo;t working well right now because I update the final page in the evening (of the day after it occurred). </p> <p>It&rsquo;s all working so far, and while I rely heavily on files generated by IFTTT, I hope to work on using more API calls to directly generate the information. That script section will be once everything is working though. It&rsquo;s a bigger project of knowledge &ndash; so I&rsquo;m on a bicycle version of script writing. It&rsquo;s not a motorcycle, but the training wheels are off as I clean up the spaghetti script regularly. </p> <p><strong>The Output</strong></p> <p>Now my daily journal has too much private data for me to share a screenshot of a page. Once I build test data (which I started yesterday) &ndash; where I can check everything and how it looks, you&rsquo;ll just have to read. </p> <p>The top of the page has the journal date a fancy graphic, and navigation to the journal archive &ndash; archive by year &ndash; archive of the current month &ndash; yesterday and tomorrow. Then we get to the sections</p> <ul>
 <li>Calendar
 <ul>
 <li>Lists each Google Calendar Event by the hour from the day</li>
@@ -260,7 +260,7 @@ a:hover,
 <li>Just personal information for cross reference, but this is just the start of the foot which is all static information. </li>
 </ul>
 </li>
-</ul> <p>That my friends is my project for the last week. It also includes sanitizing and normalizing the input data. I&rsquo;ve been a scripting fool and expect to keep at it for at least one more week. Then, maybe I&rsquo;ll be able to walk away from it &ndash; just fix things when they are broken. </p> <p>Though for what it&rsquo;s worth, it inspired me to write and use my blog. I guess that&rsquo;s something. </p>
+</ul> <p>That, my friends, is my project for the last week. It also includes sanitizing and normalizing the input data. I&rsquo;ve been a scripting fool and expect to keep at it for at least one more week. Then, maybe I&rsquo;ll be able to walk away from it &ndash; just fix things when they are broken. </p> <p>Though for what it&rsquo;s worth, it inspired me to write and use my blog. I guess that&rsquo;s something. </p>
 			</div><!-- .entry-content -->
 	</article>
 			
@@ -293,27 +293,7 @@ a:hover,
 																The More We Stay The Same, The More We Change.							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96112" class="row postbox postboxloop post-96112 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/05/20/retrometrics-final-fantasy-x-and-x-2-remastered/" rel="bookmark">
-									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2021/03/2021-03-30-finalfantasyx2logo-blog-1-1142x706.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2021/03/2021-03-30-finalfantasyx2logo-blog-1-1142x706.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/05/20/retrometrics-final-fantasy-x-and-x-2-remastered/" rel="bookmark">
-							<h5 class="entry-title">
-																Retrometrics &ndash; Final Fantasy X and X-2 Remastered							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-20T12:14:24-05:00">May 20, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-06-09T22:08:48-05:00">June 9, 2021</time><time class="updated" datetime="2023-02-09T23:04:40-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-95581" class="row postbox postboxloop post-95581 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -333,27 +313,7 @@ a:hover,
 																Lamenting the Loss of Everlasting Gobstoppers							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time></div>				</div>	
-			
-	</article>	<article id="post-96124" class="row postbox postboxloop post-96124 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
-			
-
-									<div class="medium-4 columns">
-						<div class="postlistthumb">
-							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/04/07/yahoo-answers-shutting-down-not-all-data-exportable/" rel="bookmark">
-									<img width="600" height="400" alt="" decoding="async" loading="lazy" data-srcset="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg 600w, https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1-300x200.jpeg 300w" data-src="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg" data-sizes="(max-width: 600px) 100vw, 600px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="600" height="400" src="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1.jpeg 600w, https://creeva.com/wp-content/uploads/2021/04/2021-04-07_yahoo_blog-1-300x200.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px"></noscript>								</a>
-							</div>
-						</div>
-					</div>
-								<div class=" medium-8 columns">
-					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/04/07/yahoo-answers-shutting-down-not-all-data-exportable/" rel="bookmark">
-							<h5 class="entry-title">
-																Yahoo Answers Shutting Down &ndash; Not All Data Exportable							</h5>
-						</a>
-					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-04-07T16:52:30-05:00">April 7, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-05-03T15:44:41-05:00">May 3, 2021</time><time class="updated" datetime="2023-02-09T23:00:36-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-96108" class="row postbox postboxloop post-96108 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -373,7 +333,7 @@ a:hover,
 																Playing With Wordgrinder							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-30T17:55:31-05:00">March 30, 2021</time><time class="updated" datetime="2023-02-09T22:59:45-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-96103" class="row postbox postboxloop post-96103 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -393,7 +353,7 @@ a:hover,
 																Sometimes The Right Text Editor is Right In Front of You							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-23T15:55:19-05:00">March 23, 2021</time><time class="updated" datetime="2023-02-09T22:59:03-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>	<article id="post-96098" class="row postbox postboxloop post-96098 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
@@ -413,27 +373,67 @@ a:hover,
 																The Last Blockbuster							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2021-03-18T11:30:04-05:00">March 18, 2021</time><time class="updated" datetime="2023-02-09T22:58:49-05:00">February 9, 2023</time></div>				</div>	
 			
-	</article>	<article id="post-96092" class="row postbox postboxloop post-96092 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+	</article>	<article id="post-95398" class="row postbox postboxloop post-95398 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
 			
 
 									<div class="medium-4 columns">
 						<div class="postlistthumb">
 							<div class="postlistthumbwrap">
-								<a href="https://creeva.com/index.php/2021/03/16/doing-the-rss-feed-cleanup-dance/" rel="bookmark">
-									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2021/03/pexels-photo-801863-1-1142x706.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2021/03/pexels-photo-801863-1-1142x706.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+								<a href="https://creeva.com/index.php/2018/03/14/when-you-are-just-being-cruel-as-a-dm-part-1-freaking-lasers/" rel="bookmark">
+									<img width="883" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2017/03/Top-Secret-SI-Players-Guide-TSR-1987-1-1-883x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="883" height="706" src="https://creeva.com/wp-content/uploads/2017/03/Top-Secret-SI-Players-Guide-TSR-1987-1-1-883x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
 							</div>
 						</div>
 					</div>
 								<div class=" medium-8 columns">
 					<header class="entry-header">
-						<a href="https://creeva.com/index.php/2021/03/16/doing-the-rss-feed-cleanup-dance/" rel="bookmark">
+						<a href="https://creeva.com/index.php/2018/03/14/when-you-are-just-being-cruel-as-a-dm-part-1-freaking-lasers/" rel="bookmark">
 							<h5 class="entry-title">
-																Doing The RSS Feed Cleanup Dance							</h5>
+																When You Are Just Being Cruel As A DM &ndash; Part 1 &ndash; Freaking Lasers							</h5>
 						</a>
 					</header>
-					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published updated" datetime="2021-03-16T13:30:33-05:00">March 16, 2021</time></div>				</div>	
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2018-03-14T19:11:52-05:00">March 14, 2018</time><time class="updated" datetime="2023-02-09T22:55:10-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95474" class="row postbox postboxloop post-95474 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2018/01/24/on-the-road-and-pondering/" rel="bookmark">
+									<img width="1142" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2018/01/2018-01-22-15.54.15-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1142" height="706" src="https://creeva.com/wp-content/uploads/2018/01/2018-01-22-15.54.15-1-1142x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2018/01/24/on-the-road-and-pondering/" rel="bookmark">
+							<h5 class="entry-title">
+																On The Road and Pondering&hellip;							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2018-01-24T15:20:34-05:00">January 24, 2018</time><time class="updated" datetime="2023-02-09T22:52:05-05:00">February 9, 2023</time></div>				</div>	
+			
+	</article>	<article id="post-95420" class="row postbox postboxloop post-95420 post type-post status-publish format-standard has-post-thumbnail hentry category-stories">
+			
+
+									<div class="medium-4 columns">
+						<div class="postlistthumb">
+							<div class="postlistthumbwrap">
+								<a href="https://creeva.com/index.php/2017/07/12/running-windows-programs-via-alexa/" rel="bookmark">
+									<img width="1000" height="706" alt="" decoding="async" loading="lazy" data-src="https://creeva.com/wp-content/uploads/2017/07/61aNSE-F9L._SL1000_-1-1000x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1000" height="706" src="https://creeva.com/wp-content/uploads/2017/07/61aNSE-F9L._SL1000_-1-1000x706.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy"></noscript>								</a>
+							</div>
+						</div>
+					</div>
+								<div class=" medium-8 columns">
+					<header class="entry-header">
+						<a href="https://creeva.com/index.php/2017/07/12/running-windows-programs-via-alexa/" rel="bookmark">
+							<h5 class="entry-title">
+																Running Windows Programs Via Alexa							</h5>
+						</a>
+					</header>
+					 <div class="postbox-entry-meta">creeva &middot; <span class="screen-reader-text">Posted on</span> <time class="entry-date published" datetime="2017-07-12T16:20:06-05:00">July 12, 2017</time><time class="updated" datetime="2023-02-09T22:51:04-05:00">February 9, 2023</time></div>				</div>	
 			
 	</article>
 
