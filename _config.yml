@@ -1,5 +1,6 @@
 title: Creeva's World 3.0
-baseurl: /testsite
+url: https://creeva.github.io
+baseurl: /creevacom
 description: Creeva's personal site
 
 exclude:
@@ -23,7 +24,7 @@ asciidoctor:
   attributes:
     - icons=font
     - idseparator=_
-    - imagesdir=/testsite/images
+    - imagesdir=/creevacom/images
     - source-highlighter=coderay
     - liquid
 
