@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last weekend around the campfire we were having a discussion about the Fifty Shades of Grey movie that is in the works. The most important item was the rating -- would the movie go with an R rating or a full-blown NC-17? I think anything other than NC-17 would be a disservice to the film world. I have not read the book, but I have read the scenes. My wife has also finished it and has no interest in completing the trilogy.
 :page-image: /images/397488557_732c8923e3_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/397488557_732c8923e3_m.jpg[,role="text-center"]
+image::/images/397488557_732c8923e3_m.jpg[,role="text-center"]
 
 Last weekend around the campfire we were having a discussion about the Fifty Shades of Grey movie that is in the works. The most important item was the rating -- would the movie go with an R rating or a full-blown NC-17? I think anything other than NC-17 would be a disservice to the film world. I have not read the book, but I have read the scenes. My wife has also finished it and has no interest in completing the trilogy.
 

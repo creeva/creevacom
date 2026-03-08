@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: In theory, unless you are afraid of heights, there is no terror in the sky. It is however a catchy title. In the last post, I said I would cover the Sky Ride and Star Voyager. This is the post you have anxiously been waiting for at the edge of your seat. I know -- not really -- but pretend to show some exciting people. Just wait until I get to the Cedar Pointer……
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 In theory, unless you are afraid of heights, there is no terror in the sky. It is however a catchy title. In the last post, I said I would cover the Sky Ride and Star Voyager. This is the post you have anxiously been waiting for at the edge of your seat. I know -- not really -- but pretend to show some exciting people. Just wait until I get to the Cedar Pointer……
 

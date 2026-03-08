@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: The image above looks so great taking on the Final Fantasy classic style. Now if it had felt like the classic style, I may have enjoyed both of these games more. I've owned both these games on multiple platforms (original PS2, PS3, PS4, Switch) -- I've owned the original since back when the PS2 was the dominant system. However, I never played them until now. Though I had the choice between two modern platforms, I chose the PS4. Enjoy the announcement trailer for when this first came to PS4 six years ago&#58;
 :page-image: /images/2021-03-30-finalfantasyx2logo-blog-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2021-03-30-finalfantasyx2logo-blog-1.png[,role="text-center"]
+image::/images/2021-03-30-finalfantasyx2logo-blog-1.png[,role="text-center"]
 
 The image above looks so great taking on the Final Fantasy classic style. Now if it had felt like the classic style, I may have enjoyed both of these games more. I've owned both these games on multiple platforms (original PS2, PS3, PS4, Switch) -- I've owned the original since back when the PS2 was the dominant system. However, I never played them until now. Though I had the choice between two modern platforms, I chose the PS4. Enjoy the announcement trailer for when this first came to PS4 six years ago:
 

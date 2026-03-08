@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: OK, I've repeated it a couple of times I think I'm ready to actually talk about it. Unlike some other services where I explain the community and the functions, I'm going to refrain from doing that for Myspace. While I do have a myspace account, I won't say that I truly like Myspace. I haven't even bothered to give myself the uber L33T t cool profile page. It's a thing, not a good thing, not really a cool thing, just a thing.
 :page-image: /images/99884142_2c404a6e8a_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/99884142_2c404a6e8a_m.jpg[,role="text-center"]
+image::/images/99884142_2c404a6e8a_m.jpg[,role="text-center"]
 
 _Picture from link:http://www.flickr.com/photos/swanksalot/99884142/[here]_
 
@@ -79,7 +79,7 @@ Because longer posts like this one won't show up in the myspace blog I just have
 
 If you have further questions on making this all work together, please drop a comment below. The next chapter in the crossposting god series is going to be on RSS feeds and making them work for you in broadcasting your information across the blogosphere in a controlled manner.
 
-image::/testsite/images/174050658_1d768ddb29.jpg[,role="text-center"]
+image::/images/174050658_1d768ddb29.jpg[,role="text-center"]
 
 _Picture from link:http://www.flickr.com/photos/moyix/174050658/[here]_
 

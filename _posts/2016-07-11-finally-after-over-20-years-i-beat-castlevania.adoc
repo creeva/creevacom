@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: I've always been a huge fan of the original Castlevania. From playing a borrowed cartridge on the original NES, to my first steps getting into emulation in the mid-90s, to playing the classic release on the gameboy advanced, back to the original NES cartridge and hardware, to finally using emulation. It was a long journey and one of the games I have spent the most time in and not beaten.
 :page-image: /images/Castlevania-2016-07-11-15.36.53-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Castlevania-2016-07-11-15.36.53-1.png[Castlevania 2016-07-11 15.36.53,role="text-center"]
+image::/images/Castlevania-2016-07-11-15.36.53-1.png[Castlevania 2016-07-11 15.36.53,role="text-center"]
 
 I've always been a huge fan of the original Castlevania. From playing a borrowed cartridge on the original NES, to my first steps getting into emulation in the mid-90s, to playing the classic release on the gameboy advanced, back to the original NES cartridge and hardware, to finally using emulation. It was a long journey and one of the games I have spent the most time in and not beaten.
 
@@ -18,8 +18,8 @@ The one thing that will come out of this is a better understanding of the game. 
 
 While I have beaten many video games in my life, this was one of the few unicorns. Now to tackle those other Unicorns -- TMNT and Mike Tyson's Punch-Out.
 
-image::/testsite/images/Castlevania-2016-07-11-15.36.41-1-1070x879.png[Castlevania 2016-07-11 15.36.41,role="text-center"]
+image::/images/Castlevania-2016-07-11-15.36.41-1-1070x879.png[Castlevania 2016-07-11 15.36.41,role="text-center"]
 
-image::/testsite/images/Castlevania-2016-07-11-15.36.44-1-1070x879.png[Castlevania 2016-07-11 15.36.44,role="text-center"]
+image::/images/Castlevania-2016-07-11-15.36.44-1-1070x879.png[Castlevania 2016-07-11 15.36.44,role="text-center"]
 
 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

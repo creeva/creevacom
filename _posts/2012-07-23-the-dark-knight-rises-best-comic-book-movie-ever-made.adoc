@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I would like to preface that while I feel for those that underwent the tragedy in Colorado last Friday, this is about the movie itself. I'm not going to allow myself to be pulled into the politics that are surrounding a senseless tragedy. I am also going to do my best to keep this review spoiler free. I might unintentionally reveal a minor plot point. If this is an issue, please stop reading now and come back after you have seen the movie.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I would like to preface that while I feel for those that underwent the tragedy in Colorado last Friday, this is about the movie itself. I'm not going to allow myself to be pulled into the politics that are surrounding a senseless tragedy. I am also going to do my best to keep this review spoiler free. I might unintentionally reveal a minor plot point. If this is an issue, please stop reading now and come back after you have seen the movie.
 

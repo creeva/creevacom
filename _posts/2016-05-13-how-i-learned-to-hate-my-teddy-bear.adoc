@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I have so many artifacts in my house from my childhood. I almost feel like the old man in Tusk when he starts in on the "I've had a long and storied life". I'm not yet at the age where I think it's long. Actually, I believe it's been a short life. While I'm shortly going to be turning forty, I still feel a lot of the time that I'm twelve. My office is surrounded by toys and artifacts. I've had artifacts I've lost over the years, some never even made it out of childhood. However, they are all precious things. Things that only I can cherish, that will be junk to all others after I'm gone. I'm still hoping that my stories will go on generations past my time, but who knows?
 :page-image: /images/249770_10150220022711121_7821323_n-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/249770_10150220022711121_7821323_n-1.jpg[,role="text-center"]
+image::/images/249770_10150220022711121_7821323_n-1.jpg[,role="text-center"]
 
 I have so many artifacts in my house from my childhood. I almost feel like the old man in Tusk when he starts in on the "I've had a long and storied life". I'm not yet at the age where I think it's long. Actually, I believe it's been a short life. While I'm shortly going to be turning forty, I still feel a lot of the time that I'm twelve. My office is surrounded by toys and artifacts. I've had artifacts I've lost over the years, some never even made it out of childhood. However, they are all precious things. Things that only I can cherish, that will be junk to all others after I'm gone. I'm still hoping that my stories will go on generations past my time, but who knows?
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Today while I was driving home from work and I noticed a new church sign put up on the roadside in front of a country church. The sign was one of those, change it weekly, amaze your worshippers, and make drivers think the type of sign. This week it only said, "Remember, Thou Shalt Not Covet". Now to preface this I consider myself a liberal Christian who doesn't believe in organized religion. I'd go more into that, but that's a discussion for another day. You may consider me a heathen, but I don't consider myself one.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 Today while I was driving home from work and I noticed a new church sign put up on the roadside in front of a country church. The sign was one of those, change it weekly, amaze your worshippers, and make drivers think the type of sign. This week it only said, "Remember, Thou Shalt Not Covet". Now to preface this I consider myself a liberal Christian who doesn't believe in organized religion. I'd go more into that, but that's a discussion for another day. You may consider me a heathen, but I don't consider myself one.
 

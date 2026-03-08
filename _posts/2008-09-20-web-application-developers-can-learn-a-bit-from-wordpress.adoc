@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Just the other day I wrote about cloud computing versus SaS terminology. A web application isn't necessarily a cloud computing or SaS platform. It can be one or the other, it can be both, it can be neither. Now that, that is out of the way let's move on to the meat.
 :page-image: /images/3778156_3a0d5068d0_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3778156_3a0d5068d0_m.jpg[,role="text-center"]
+image::/images/3778156_3a0d5068d0_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/nicolelee/3778156/[here]
 

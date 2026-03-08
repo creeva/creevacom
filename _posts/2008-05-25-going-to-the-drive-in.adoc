@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Tonight Xie and I went to the drive-in. The drive-in was America's greatest pastime decades ago. We were driving looking for a used computer store (which we never found) and stumbled across this drive-in. Within driving distance there are three drive-ins that we know about, this one happened to be playing the new Indiana Jones movie and Iron Man, neither of which we had seen.
 :page-image: /images/156696974_1e8cf2c902_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/156696974_1e8cf2c902_m.jpg[,role="text-center"]
+image::/images/156696974_1e8cf2c902_m.jpg[,role="text-center"]
 
 Tonight Xie and I went to the drive-in. The drive-in was America's greatest pastime decades ago. We were driving looking for a used computer store (which we never found) and stumbled across this drive-in. Within driving distance there are three drive-ins that we know about, this one happened to be playing the new Indiana Jones movie and Iron Man, neither of which we had seen.
 

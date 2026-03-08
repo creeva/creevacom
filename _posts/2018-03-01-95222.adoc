@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: While in the last couple days, I've visited known properties such as Popeye and Baseball Stars, today I'm going to go with a game I spent many hours with. Unfortunately (or likely, fortunately) most people have likely never heard of it. This title is Deadly Duck. I had to use the Atari image above because I can't seem to find the Vic-20 box art.
 :page-image: /images/weirdbox_large2-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/weirdbox_large2-1.jpg[,role="text-center"]
+image::/images/weirdbox_large2-1.jpg[,role="text-center"]
 
 While in the last couple days, I've visited known properties such as Popeye and Baseball Stars, today I'm going to go with a game I spent many hours with. Unfortunately (or likely, fortunately) most people have likely never heard of it. This title is _Deadly Duck_. I had to use the Atari image above because I can't seem to find the Vic-20 box art.
 
@@ -28,7 +28,7 @@ The game played in a frenzy. It went fast and the game was frantic. I almost thi
 
 The best part of the game was every time you shot bullets out of duck-bill, a quack sound effect played.   Being somewhere between 6-8 years old, this was awesome. I'm only assuming there are bullets since the cover art.  While he's an 8-bit blob on-screen the cover art makes him look like some mallard bionic experiment.   It's was the 80s -- it was all good.
 
-image::/testsite/images/archer-super-deluxe-competition-joystick-commodore-64-128-amiga-vic-20-12a8-box-8bfc9956bc181f6e5285bd38e4d1876d-1.jpg[,role="text-center"]
+image::/images/archer-super-deluxe-competition-joystick-commodore-64-128-amiga-vic-20-12a8-box-8bfc9956bc181f6e5285bd38e4d1876d-1.jpg[,role="text-center"]
 
 One of the best things though, my parents bought me a decent joystick.  It was identical to the one above.   They went above and beyond since they skipped the standard Commodore brand joysticks or a compatible Atari 2600 one.  I actually miss this joystick.   We went on wild romps together -- quacking, shooting bricks, other stuff.
 

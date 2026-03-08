@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Like half of America, I made a purchase yesterday that threw me into the Amazon ecosystem. Tomorrow I'll be the proud owner of a couple of Amazon Echo devices. One thing that really interested me was the ability to extend the system. With Siri, I managed to a raspberry pi and control my lights via voice, but the further extension was doable -- but painful. I wasn't positive about what I was going to do with it at first beyond the simple things. So, like any good geek, I started to research.
 :page-image: /images/61aNSE-F9L._SL1000_-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/61aNSE-F9L._SL1000_-1.jpg[,role="text-center"]
+image::/images/61aNSE-F9L._SL1000_-1.jpg[,role="text-center"]
 
 Like half of America, I made a purchase yesterday that threw me into the Amazon ecosystem. Tomorrow I'll be the proud owner of a couple of Amazon Echo devices. One thing that really interested me was the ability to extend the system. With Siri, I managed to a raspberry pi and control my lights via voice, but the further extension was doable -- but painful. I wasn't positive about what I was going to do with it at first beyond the simple things. So, like any good geek, I started to research.
 

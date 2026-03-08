@@ -5,9 +5,9 @@
 :page-excerpt: Now you know if you read my blog regularly that I don't have the highest respect for Myspace. I have been using Myspace more and the issues of its flaw just become more glaring to me over time. +
 Issues&#58;
 :page-image: /images/2683876182_fbed6866d0_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2683876182_fbed6866d0_m.jpg[,role="text-center"]
+image::/images/2683876182_fbed6866d0_m.jpg[,role="text-center"]
 
 Now you know if you read my blog regularly that I don't have the highest respect for Myspace. I have been using link:http://myspace.com[Myspace] more and the issues of its flaw just become more glaring to me over time. +
 Issues:

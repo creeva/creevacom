@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was looking through my draft posts, trying to clear off the cobwebs of antiquity and readdress the things I started and never finished. I came across one post which was personal, but I just don't think I can get into the mindset this particular post needed to continue as it is. This is not a normal thing for me though. I can normally capture the mindset and voice I had at different eras of my life. Granted you don't want to see my third-grade writing mindset, I mean it's painful.
 :page-image: /images/rogers-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/rogers-1.jpg[,role="text-center"]
+image::/images/rogers-1.jpg[,role="text-center"]
 
 I was looking through my draft posts, trying to clear off the cobwebs of antiquity and readdress the things I started and never finished. I came across one post which was personal, but I just don't think I can get into the mindset this particular post needed to continue as it is. This is not a normal thing for me though. I can normally capture the mindset and voice I had at different eras of my life. Granted you don't want to see my third-grade writing mindset, I mean it's painful.
 

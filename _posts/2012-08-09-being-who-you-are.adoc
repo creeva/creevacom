@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I've always been geek proud on my blog. I can flaunt where I am against social norms and where I excel at them. I'm also aware that my reality is not the same as everyone else's reality. That is the microcosm we all live in, a reality that is developed by what we receive from our experiences with others. There is no true accurate perception because even facts can be misleading.
 :page-image: /images/5546635461_aa8d7e59f8_z-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/5546635461_aa8d7e59f8_z-1.jpeg[,role="text-center"]
+image::/images/5546635461_aa8d7e59f8_z-1.jpeg[,role="text-center"]
 
 I've always been geek proud on my blog. I can flaunt where I am against social norms and where I excel at them. I'm also aware that my reality is not the same as everyone else's reality. That is the microcosm we all live in, a reality that is developed by what we receive from our experiences with others. There is no true accurate perception because even facts can be misleading.
 

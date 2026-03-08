@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I think I knew from our first date that my wife was going to be the one I was going to marry. Granted I literally broke up with my ex the day before I asked her out, but it all worked out. Though I was twenty-one and she was eighteen it was the first real date either of us had been on. We had started "going out" with people before, but it was always meeting and doing things in social situations then you were labeled as a couple, and doing things was just being together and not really a date. I did ask one girl out on a date previously, but it turned into a double date, so this was my first real date.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I think I knew from our first date that my wife was going to be the one I was going to marry. Granted I literally broke up with my ex the day before I asked her out, but it all worked out. Though I was twenty-one and she was eighteen it was the first real date either of us had been on. We had started "going out" with people before, but it was always meeting and doing things in social situations then you were labeled as a couple, and doing things was just being together and not really a date. I did ask one girl out on a date previously, but it turned into a double date, so this was my first real date.
 

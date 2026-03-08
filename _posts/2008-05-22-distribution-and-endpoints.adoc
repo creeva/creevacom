@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: When we think about crossposting, it actually is more in-depth than most people think. From a very simple level, you go from one site to another. At a higher level though you are publishing from a single source to tens if not hundreds of places. Used correctly crossposting is a very publishing tool that lets you gain readers very cheaply (or free), as long as you are willing to log in to all of these other sites to maintain readers and communities. If you are not willing to log in to all these remote services and address comments, suggestions, and criticisms; then crossposting is not for you.
 :page-image: /images/2245448147_96b0d70837_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2245448147_96b0d70837_m.jpg[,role="text-center"]
+image::/images/2245448147_96b0d70837_m.jpg[,role="text-center"]
 
 _Photo From link:http://www.flickr.com/photos/dazlambert/2245448147/[Here]_
 

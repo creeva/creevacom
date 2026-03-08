@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Yesterday I left you at entering the park. Once again it has been six years since I have been to Cedar Point, and there was something I was mentally prepared for -- the loss of the Demon Drop. I wasn't ready for the loss of it. The effect of the Demon Drop being gone from the entrance "skyline" is dramatic. Stranger still is the loss of hearing it running as you enter the park. It just felt a little surreal to me.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 Yesterday I left you at entering the park. Once again it has been six years since I have been to Cedar Point, and there was something I was mentally prepared for -- the loss of the Demon Drop. I wasn't ready for the loss of it. The effect of the Demon Drop being gone from the entrance "skyline" is dramatic. Stranger still is the loss of hearing it running as you enter the park. It just felt a little surreal to me.
 

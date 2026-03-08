@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: My earlier post about Palantir Technologies' intelligence sorting tool brought up that they used Netflix's data as part of their dataset analysis. Further research shows that Netflix routinely releases their full dataset with the user's private information scrubbed. So for a brief minute here Netflix is in the clear. This goes on further though from issues that have been discovered about this. Netflix didn't stay clear very long.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 My earlier post about Palantir Technologies' intelligence sorting tool brought up that they used Netflix's data as part of their dataset analysis. Further research shows that link:http://www.netflixprize.com/[Netflix routinely releases their full dataset] with the user's private information scrubbed. So for a brief minute here Netflix is in the clear. This goes on further though from issues that have been discovered about this. Netflix didn't stay clear very long.
 

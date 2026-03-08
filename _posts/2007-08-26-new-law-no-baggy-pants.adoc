@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: My thoughts on this exist in the fact that is an infringement of freedom of expression. The true issue is not that boxer shorts may be exposed, since saying going out in boxer shorts is a very slim indecent exposure charge. The legislators are going after the clothing style, which I may add that I don't like, but I don't think should be made illegal.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 The news article is link:http://abcnews.go.com/GMA/OnlyinAmerica/story?id=3519569[here.]
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The Sky Slide was one of the giant slide attractions that you will still see at county and state fairs across the country. Is it sad that I would trade a handful of Cedar Point spinning rides to get this back? I'm sure I feel stronger about this today because I have a child that I could share the experience with. I have the same feelings about Kid Arthur's Court
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 The Sky Slide was one of the giant slide attractions that you will still see at county and state fairs across the country. Is it sad that I would trade a handful of Cedar Point spinning rides to get this back? I'm sure I feel stronger about this today because I have a child that I could share the experience with. I have the same feelings about Kid Arthur's Court
 

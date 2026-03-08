@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The computer and the Internet have arrived at a destination that allows interactivity beyond anything that has ever come before it. Some people prophesied that the personal PC will stop becoming relevant in the course of this transition. While some of the next generations may be correct in their time, and I hope they are wrong, I am extremely skeptical that it will ever stop being something that normal people no longer own.
 :page-image: /images/undersea-cable-vietnam-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+image::/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
 
 The computer and the Internet have arrived at a destination that allows interactivity beyond anything that has ever come before it. Some people prophesied that the personal PC will stop becoming relevant in the course of this transition. While some of the next generations may be correct in their time, and I hope they are wrong, I am extremely skeptical that it will ever stop being something that normal people no longer own.
 

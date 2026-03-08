@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: …Companies like Grand Centralshould be put out of business -- they pose a threat to every online merchant who accepts credit cards.
 :page-image: /images/undersea-cable-vietnam-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+image::/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
 
 The original post is link:http://www.thealders.net/blogs/2007/08/24/grand-central/[here.]
 

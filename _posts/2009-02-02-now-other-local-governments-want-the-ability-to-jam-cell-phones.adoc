@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A few weeks ago I wrote about the NYPD wanting the ability to turn disable cellphone coverage in the case of a terrorist attack. Now it seems that states and local governments are fighting for their own ability to do that. In my previous story, I pointed out how fruitless and ineffective it would truly be during a terrorist attack, I think it's insane. The question I have now has anyone thought about how this is a terrorist attack against our own people?
 :page-image: /images/112234978_8a25568b79.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/112234978_8a25568b79.jpg[,role="text-center"]
+image::/images/112234978_8a25568b79.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/ice5nake/112234978/[here]
 

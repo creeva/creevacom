@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The other day I was browsing Craig's List and noticed a listing for some free software.   It wasn't anything I was interested in, but I did stop and think about it.   We talk all the time about verifying where you download software from.   We hear all the time about pirated software that looks the same as legitimate software.     So why would you take free software from Craig's List?
 :page-image: /images/346519139_4af4e316de.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/346519139_4af4e316de.jpg[,role="text-center"]
+image::/images/346519139_4af4e316de.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/klabusta/346519139/[here]
 

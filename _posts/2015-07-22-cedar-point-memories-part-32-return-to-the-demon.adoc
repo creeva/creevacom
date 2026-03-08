@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last year I wrote my memory piece about the Demon Drop. I won't say that it was my favorite ride at Cedar Point, but it was iconic and an important part of my growing up. If I was ever out of money for video games at Cedar Point, I would ride the Demon Drop and recover some more change. It was always the ride that kept on giving.
 :page-image: /images/2015-07-21-21.51.43-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2015-07-21-21.51.43-1.jpg[,role="text-center"]
+image::/images/2015-07-21-21.51.43-1.jpg[,role="text-center"]
 
 Last year I wrote my memory piece about the Demon Drop. I won't say that it was my favorite ride at Cedar Point, but it was iconic and an important part of my growing up. If I was ever out of money for video games at link:http://cedarpoint.com[Cedar Point], I would ride the link:https://en.wikipedia.org/wiki/Demon_Drop[Demon Drop] and recover some more change. It was always the ride that kept on giving.
 

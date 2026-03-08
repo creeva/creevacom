@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: One of the problems with dealing with an all-digital home media library is not only playback like I talked about in the last article, but centralized control. Playback is the easy part if you set parameters on what devices you are going to support and how open you are going to be with your media files. For example, none of the movies I'm ripping are being converted into a format playable on the iPod, why? Well, we don't really watch movies on the iPod so it's a waste of time, loss of quality, and space issues to deal with multiple formats.
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 *Control*
 

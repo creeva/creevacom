@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I was wondering today what the car market will be like in 10 years once hybrids as used cars become more common than they are today. I'm sure by that time the foundation technology that hybrids are built on will be rock solid, but what about from the used car perspective?
 :page-image: /images/166554450_9cabf30f4b_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/166554450_9cabf30f4b_m.jpg[,role="text-center"]
+image::/images/166554450_9cabf30f4b_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/jurvetson/166554450/[here]
 

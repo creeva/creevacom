@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: For those that have known me for a while, one of my obsessions interests is archiving and keeping all the data I generate online. I do this to the best of my ability since obviously there are some services that you just can't get the data out of (at least not on a regular basis -- obviously, some services allow you to bulk export your data and I have tons of that from services in the internet graveyard). So I've always meant to do something with it. I figured way back when I would just script it.
 :page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+image::/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
 
 *The Start*
 

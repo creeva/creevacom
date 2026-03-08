@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I was reading my Digg RSS feed and this strange story popped up, Best Buy Sells Ubuntu for Only $ 19.99 USD. Now normally getting on retail shelves would be a good thing. This however is a disservice to most users since Ubuntucan be freely downloaded from theirwebsite. Now you would think this is where it ends, but not quite.
 :page-image: /images/ubuntu-logo32.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+image::/images/ubuntu-logo32.png[,role="text-center"]
 
 I was reading my link:http://www.digg.com[Digg] RSS feed and this strange story popped up, Best Buy Sells Ubuntu for Only $ 19.99 USD. Now normally getting on retail shelves would be a good thing. This however is a disservice to most users since link:http://ubuntu.com[Ubuntu]can be freely downloaded from link:http://ubuntu.com[their]website. Now you would think this is where it ends, but not quite.
 

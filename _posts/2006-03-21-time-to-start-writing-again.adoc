@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Below I wrote the first part of the Creeva Murkado diaries -- outlining the early days of the being that became Creeva Murkado and a part of myself thrown in. The early days of SWG seem fresh in my mind, I would have down some of the early plot differently but due to some writing I did before I kind of painted myself into a corner. I should be free of that plot line soon and get to explore my writing talent more freely and hopefully give those from Intrepid a found memory back at once was and why we were all great. At the very least I get to write. This was always important for me, and some people are still pushing me to write (you know who you are).
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 Below I wrote the first part of the Creeva Murkado diaries -- outlining the early days of the being that became Creeva Murkado and a part of myself thrown in. The early days of SWG seem fresh in my mind, I would have down some of the early plot differently but due to some writing I did before I kind of painted myself into a corner. I should be free of that plot line soon and get to explore my writing talent more freely and hopefully give those from Intrepid a found memory back at once was and why we were all great. At the very least I get to write. This was always important for me, and some people are still pushing me to write (you know who you are).
 

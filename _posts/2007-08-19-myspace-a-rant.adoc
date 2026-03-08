@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I don't get MySpace addiction among so many people. I logged in tonight and hunted down some old friends to add, but this is a once-in-a-great-while occasion. I usually avoid MySpace like the plague unless I get a message that someone left a comment, friend request (usually spam using the same profile different pic), or mail.
 :page-image: /images/calligraphy-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+image::/images/calligraphy-1.jpg[,role="text-center"]
 
 I don't get MySpace addiction among so many people. I logged in tonight and hunted down some old friends to add, but this is a once-in-a-great-while occasion. I usually avoid MySpace like the plague unless I get a message that someone left a comment, friend request (usually spam using the same profile different pic), or mail.
 

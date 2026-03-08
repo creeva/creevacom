@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was King of the Circus. Seriously. When I was somewhere between four and six my mother won a radio contest where we got free tickets to see Barnum and Bailey's Circus at the Richfield Coliseum. Part of this prize pack included the child being crowned King or the Circus -- I also had a Queen of the Circus whose parental unit must have also won a contest. I don't know where my queen is, we haven't kept in touch.
 :page-image: /images/171060002_84c69ec7ac_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/171060002_84c69ec7ac_m.jpg[,role="text-center"]
+image::/images/171060002_84c69ec7ac_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/patrioux/171060002/[here]
 
@@ -28,7 +28,7 @@ But I don't hold a grudge.
 
 Bastards.
 
-image::/testsite/images/1344115235_13948a8c6d_m.jpg[,role="text-center"]
+image::/images/1344115235_13948a8c6d_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/85128884@N00/1344115235/[here]
 

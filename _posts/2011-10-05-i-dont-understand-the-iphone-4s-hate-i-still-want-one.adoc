@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Yesterday, like half the rest of the tech world, I waited with bated breath for details on the next iPhone. It had everything I expected. It was running Ios5. It had a faster processor. It had a better camera. It also had the added bonus of having a 64GB option (something I wanted the iPhone 4 to have). In the middle of the announcement, someone came back in the lab and was disappointed there was no iPhone 5, that it was only a 4s. Later on Facebook, I saw similar complaints. I heard that Apple's stock dropped 5% at the close of business yesterday because there was no real iPhone 5 released. I don't understand it.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 Yesterday, like half the rest of the tech world, I waited with bated breath for details on the next iPhone. It had everything I expected. It was running Ios5. It had a faster processor. It had a better camera. It also had the added bonus of having a 64GB option (something I wanted the iPhone 4 to have). In the middle of the announcement, someone came back in the lab and was disappointed there was no iPhone 5, that it was only a 4s. Later on Facebook, I saw similar complaints. I heard that Apple's stock dropped 5% at the close of business yesterday because there was no real iPhone 5 released. I don't understand it.
 

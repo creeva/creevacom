@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The Cedar Point Paddlewheel Excursions is very near to my heart.  I would say without pausing that it is my favorite ride in the park.   I liked it as a kid, but as a teenager, I rode it over and over.   Multiple times my friend (who stole the tokens) and I would go to the park to just ride the Paddlewheel.   Another one of our friends was dating the captain (Captain D), so we learned all about the ride and just hung out with him.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 The Cedar Point Paddlewheel Excursions is very near to my heart.  I would say without pausing that it is my favorite ride in the park.   I liked it as a kid, but as a teenager, I rode it over and over.   Multiple times my friend (who stole the tokens) and I would go to the park to just ride the Paddlewheel.   Another one of our friends was dating the captain (Captain D), so we learned all about the ride and just hung out with him.
 

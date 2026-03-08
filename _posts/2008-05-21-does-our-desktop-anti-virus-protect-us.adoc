@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Recently at work, there was a security incident where a worker was tricked into loading malware on their machine. I was asked if your desktop antivirus solution fully protected us against this. While I'm sure most people that read my articles are aware of the answer I gave I thought I would share it with you (some parts have been rewritten from the original email)
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Recently at work, there was a security incident where a worker was tricked into loading malware on their machine. I was asked if your desktop antivirus solution fully protected us against this. While I'm sure most people that read my articles are aware of the answer I gave I thought I would share it with you (some parts have been rewritten from the original email)
 

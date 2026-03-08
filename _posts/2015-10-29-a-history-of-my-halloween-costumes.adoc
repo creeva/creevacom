@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Seeing that it is Halloween on Saturday I wanted to go over some of the costumes from my past. I would love to have a complete record, but some costumes never had a picture taken of them. Other customers are in pictures lost to the sands of time. If you want to see larger versions of any of these pictures (and risk eye scarring) just click on them. I don't believe my parents dressed me up for Halloween at three months old, so the picture above would have been the first year I celebrated Halloween (15 months old). I guess they just wanted me to scare away the birds -- or just wanted the easiest outfit available.
 :page-image: /images/first-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/first-1.jpg[,role="text-center"]
+image::/images/first-1.jpg[,role="text-center"]
 
 _Scarecrow and Father_
 
@@ -14,27 +14,27 @@ Seeing that it is Halloween on Saturday I wanted to go over some of the costumes
 
 We are going to skip ahead a few years for the pictures. Some interim pictures are missing. At two years old I was Raggedy Andy. A few years later my mother sewed me up a pretty fine Raccoon Costume. I had a couple of those plastic mask vinyl sheet costumes. I think I was Luke Skywalker one year and C3PO another. I was also a vampire at some part of my Halloween career. That is all I can remember from the missing images.
 
-image::/testsite/images/odcs-1.jpg[,role="text-center"]
+image::/images/odcs-1.jpg[,role="text-center"]
 
 I actually think this was for a Thanksgiving Feast at Open Door. Abraham Lincoln marched right around with Pilgrims, cowboys, and native americans. I don't know if it was assigned or just a Bill and Tedesque visitation by Lincoln to this earlier time. At first, I was thinking that Open Door didn't have a Halloween celebration (being a Christian School celebrating a Pagan holiday), but they did. When we dressed up in a costume there was a big parade through the school. The thought was everyone could then see everyone else's costumes. I don't remember if it was the youngest class or oldest class that went first in the parade. The class would start and then parade through the next class, at the tail end of the parade that classroom joined the parade. This continued on until all classrooms were in the parade.
 
 While I was at Open Door I had a Halloween party every year between 2nd and 4th grade. I would invite the boys from my class and we would have candy, pizza, and treats at my house. Afterward, my father would pile us all in the car and we would go through a haunted house. We didn't experience the haunted house since our faces were all buried in my dad's jacket. It was like he was the sun and we were all in a fixated orbit around him.
 
-image::/testsite/images/billyj-1.jpg[,role="text-center"]
+image::/images/billyj-1.jpg[,role="text-center"]
 
 This was the first year I was lazy. I think it started because I had decided I was too old to go trick or treating. I was then told I would have to walk with my brother anyways. If I had to babysit, I sure was going to make a half-ass attempt to get candy. Seeing it was last minute I didn't have time to put together a great costume. This was my attempt at Billy Joel. We start with Billy Joel getting stabbed by Jason Voorhees. Then Jason and Billy are posing with a Ballerina and a Beauty Contestant. It all makes perfect sense.
 
 This is a couple of years later. I still had not given up the candy hall. I can tell you two things definitively about this costume and time period. I am wearing a suit, which means I was in high school. In high school I had a couple of suits -- today I have none (just laziness). Secondly, those are marching band gloves on my hands. This puts this picture at my Sophomore or Junior Year at the most likely time. So in this picture, we have a Ninja, A Skull Guy, I can't tell what my youngest sister is, and a Cheerleader.
 
-image::/testsite/images/skull-1.jpg[,role="text-center"]
+image::/images/skull-1.jpg[,role="text-center"]
 
 This is one of the images from my first year at the Vermilion Haunted School House. I know this is the first year since the costume is lame or lazy -- yet someone else took the time to do my makeup. I was never great at gradient shading. I would also learn that most of the haunted gradient makeup or extremely well-done makeup is a waste of time. The lights would be so dim you would never see detail. If you worked a greeter or a well-lit scene -- those are the ones that should have good makeup on.
 
-image::/testsite/images/3536675244_3d57db0d99_b-1.jpg[,role="text-center"]
+image::/images/3536675244_3d57db0d99_b-1.jpg[,role="text-center"]
 
 This was the Vermilion Photojournal from my first year. That is me dead center in the picture. A quick count of the image says at least 10 of those people are on my Facebook Friends List. I'll be seeing at least a handful of them this weekend. Xie is even in this picture for an extremely rare photographic appearance.
 
-image::/testsite/images/schoolhousegy-1.jpg[,role="text-center"]
+image::/images/schoolhousegy-1.jpg[,role="text-center"]
 
 This picture is extremely important. It was most likely taken on the second open weekend of my first year (1996). It was where I learned to work a scene. This scene is a graveyard -- out of all the scenes I have worked on -- it is my second favorite. Last year I had a customized Greeter I was running, so that was my first. The bad thing about this picture is you can't tell what is happening. I'm being suspended above a ramp that customers would walk beneath. I was strapped in by my ankles and the edge of the platform ended at the top of my upper thighs. I would wait until a group was coming, and they tell them to catch me. I would throw myself off the edge and catch myself a few inches above their head. It was a scare that worked every single time.
 
@@ -42,35 +42,35 @@ By the end of most nights, I would break a clip. It wasn't a big deal, normally 
 
 The next week they tried to get me up there to do it again. It was a fantastic scene, yet I knew how close I came to breaking my neck. I was never doing that stunt again. They did ask for other volunteers, but no one else was willing. I continued to work the Graveyard scene that season, but as a jumper. After this season unless I did it for a particular costume or whim for a week, I would have my goatee until this day.
 
-image::/testsite/images/2814717391_046207f3c3_o-1.jpg[,role="text-center"]
+image::/images/2814717391_046207f3c3_o-1.jpg[,role="text-center"]
 
 Ok, this wasn't Halloween. It was a science fiction convention we all went to called Marcon. That's me with the trumpet. That's me in the spotlight, losing my religion. Which is funny since I'm next to holy man. I wore the kilt to a couple of Marcons. I went as Neo one year, and another year I purchased the parts that would become my Vlad costume at the Haunted School House.
 
-image::/testsite/images/3535857645_61bf2ac676_b-1.jpg[,role="text-center"]
+image::/images/3535857645_61bf2ac676_b-1.jpg[,role="text-center"]
 
 This picture is from the School House's Photojournal shoot in my second year (1997). At this point, I'm doing my makeup and outfits. Normally I worked the greeting ramp and acted as a guide. If that was busy I would work with the greeter explaining the rules. I'm the one climbing the fence at the top.
 
 This is Vlad, really the character all the other years built up to. This is working in the greeter. I did this costume the last couple of years I worked the house. The only pieces I'm missing from this costume almost two decades later are the belt and the dagger. I don't have the same pants, but they were rotating between different dark pants. This would be my final year (2000) working at the School House.
 
-image::/testsite/images/vlad-1.jpg[,role="text-center"]
+image::/images/vlad-1.jpg[,role="text-center"]
 
 This is another picture of Vlad, It might even be by 1999 or 1998 this one is from, but I'm not sure. The reason is that the hat is still in good condition. By my final year that hat was beaten to hell. Today it's half-crumbled (purposely so). I had decided by the end of 2000 that I was done. I was retiring. I would come and hang out, but my makeup days were over for working at the School House. I was told I wouldn't be able to stay away, but the following day I was offered a job that moved me to the opposite side of the country to Oregon. Vlad was retired from the School House for all time.
 
 A group of us went to a haunted house in Oregon, the decorations and scenes were fantastic. The actors, however, fell flat. Two of us decided we wanted to play in the house. We talked to the organizers and they said we could come back the next night. We were definitely more into it than the rest of them and gave tips on how to work the scenes to their volunteers. We went the full costume and this is the last time I went full Vlad.
 
-image::/testsite/images/lexmade-1.jpg[,role="text-center"]
+image::/images/lexmade-1.jpg[,role="text-center"]
 
 Not really Halloween, but this is a costume that Lex put together when we were playing. I just thought I would share.
 
-image::/testsite/images/2015-10-29-17.55.07-1.jpg[,role="text-center"]
+image::/images/2015-10-29-17.55.07-1.jpg[,role="text-center"]
 
 This was Lex's second year as Darth Vader. The first year he did it Xie and I dressed as Dark Jedi following our Lord Vader around. This year we both went as Storm Troopers guarding our Lord Vader.
 
-image::/testsite/images/stshoes-1.jpg[,role="text-center"]
+image::/images/stshoes-1.jpg[,role="text-center"]
 
 On top of the Storm Trooper helmet, I also attempted to design my own imperial Chuck Taylor's.
 
-image::/testsite/images/dw-1.jpg[,role="text-center"]
+image::/images/dw-1.jpg[,role="text-center"]
 
 Last year I ended up similar to the Billy Joel costume idea all those years before. I hadn't really planned on dressing up to take Lex around the neighborhood. At the last minute, I grabbed a Doctor Who Fez off the shelf. Why a Fez? Because Fezs are cool.
 

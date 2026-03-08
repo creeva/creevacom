@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: My family has always talked about each other behind their backs. Back and forth, just some things don't get said. I'm more of a lay it on the line and let it hang out. My brother and I don't see eye to eye on most things. I've already started on my mother online. Is this however still talking behind their backs? They all have the URL to my homepage. Most of my family at least check my site out in passing. I don't see how I could be more public about it. I'm not secretive, but I also don't send out a blaring e-mail saying "I JUST WROTE ABOUT YOU ONLINE -- YOU BETTER READ IT NOW".
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 My family has always talked about each other behind their backs. Back and forth, just some things don't get said. I'm more of a lay it on the line and let it hang out. My brother and I don't see eye to eye on most things. I've already started on my mother online. Is this however still talking behind their backs? They all have the URL to my homepage. Most of my family at least check my site out in passing. I don't see how I could be more public about it. I'm not secretive, but I also don't send out a blaring e-mail saying "I JUST WROTE ABOUT YOU ONLINE -- YOU BETTER READ IT NOW".
 

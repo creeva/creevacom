@@ -7,9 +7,9 @@ Or that is how I seem +
 I'm active on all the networks +
 all in an elaborate scheme
 :page-image: /images/4757004_69f7ec8fea_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/4757004_69f7ec8fea_m.jpg[,role="text-center"]
+image::/images/4757004_69f7ec8fea_m.jpg[,role="text-center"]
 
 *The Social Crosspost*
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Yesterday I couldn't find my N810. The hunt started on Sunday night and was reinitiated yesterday morning. No N810, nowhere in sight. As the night waned on yesterday I renew the hunt. It was like I was looking for the great pumpkin Charlie Brown. Eventually, it was found where you always expect to find these things, behind a cushion on the couch.
 :page-image: /images/2390944828_e51c10a53a_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2390944828_e51c10a53a_m.jpg[,role="text-center"]
+image::/images/2390944828_e51c10a53a_m.jpg[,role="text-center"]
 
 Yesterday I couldn't find my N810. The hunt started on Sunday night and was reinitiated yesterday morning. No N810, nowhere in sight. As the night waned on yesterday I renew the hunt. It was like I was looking for the great pumpkin Charlie Brown. Eventually, it was found where you always expect to find these things, behind a cushion on the couch.
 

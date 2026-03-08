@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last night we were watching a Ted talk that dealt with memory. The basic explanation is memory is better once you can attach to a specific person, place, or thing that has meaning to you. At the end of the talk I went back and tried to figure out what is the earliest thing I memorized.
 :page-image: /images/260161_10150220035771121_780559_n-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/260161_10150220035771121_780559_n-1.jpg[,role="text-center"]
+image::/images/260161_10150220035771121_780559_n-1.jpg[,role="text-center"]
 
 Last night we were watching a Ted talk that dealt with memory. The basic explanation is memory is better once you can attach to a specific person, place, or thing that has meaning to you. At the end of the talk I went back and tried to figure out what is the earliest thing I memorized.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: iDea Labs &#58;&#58;&#58; Catch up with your network of Social Networks
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 link:http://ashish-sinha.blogspot.com/2006/11/catch-up-with-your-network-of-social.html#comments[iDea Labs ::: Catch up with your network of Social Networks]
 

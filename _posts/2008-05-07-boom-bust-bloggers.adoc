@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Why do you blog? Are you hear to make a quick buck? If you have investors in you then you stand to make an immediate living in it. For the ones that aren't making their dream income, do you continue writing in the hope of eventually getting a payday? Would you still do it if you knew it was never going to come?
 :page-image: /images/1817230787_06a845761a.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1817230787_06a845761a.jpg[,role="text-center"]
+image::/images/1817230787_06a845761a.jpg[,role="text-center"]
 
 Why do you blog? Are you hear to make a quick buck? If you have investors in you then you stand to make an immediate living in it. For the ones that aren't making their dream income, do you continue writing in the hope of eventually getting a payday? Would you still do it if you knew it was never going to come?
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: While shopping for cars this weekend, we decided to do a VIN history check against the cars we were looking out. While we didn't find any that had been in a flood or a wreck (the things they scare you into doing these checks), we did find a few cars that had been used as rental cars. When you are doing these checks there are really only two major companies to do them with, you have a choice of CarFax or Autocheck. I've used CarFax in the past, so I decided to try out Autocheck. Both offer the same information, and if I had to tell you to use one or the other, I would tell you to choose whichever is the cheapest for the day.
 :page-image: /images/3085421999_73a335f86e.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3085421999_73a335f86e.jpg[,role="text-center"]
+image::/images/3085421999_73a335f86e.jpg[,role="text-center"]
 
 While shopping for cars this weekend, we decided to do a VIN history check against the cars we were looking out. While we didn't find any that had been in a flood or a wreck (the things they scare you into doing these checks), we did find a few cars that had been used as rental cars. When you are doing these checks there are really only two major companies to do them with, you have a choice of link:http://carfax.com[CarFax] or link:http://autocheck.com[Autocheck]. I've used CarFax in the past, so I decided to try out Autocheck. Both offer the same information, and if I had to tell you to use one or the other, I would tell you to choose whichever is the cheapest for the day.
 

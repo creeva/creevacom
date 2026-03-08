@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A few months ago my website ran into an issue. WordPress crashed, and while I could take time to fix it -- I opted not to. At first, it was "I'll get around to it". Then it became "do I need it"? For quite a while I wanted to take my site to a static deployment -- removing the backend needs. This really was the opportunity to start on that. The problem was old data. I wanted that back.
 :page-image: /images/switcher.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switcher.jpg[,role="text-center"]
+image::/images/switcher.jpg[,role="text-center"]
 
 A few months ago my website ran into an issue. WordPress crashed, and while I could take time to fix it -- I opted not to. At first, it was "I'll get around to it". Then it became "do I need it"? For quite a while I wanted to take my site to a static deployment -- removing the backend needs. This really was the opportunity to start on that. The problem was old data. I wanted that back.
 

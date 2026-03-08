@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Currently, I'm looking at ripping all of my DVDs over to a network share so I don't have to go and dig them out anymore (since the collection is large enough that they are kept on a shelf in the basement these days to control space management). I have a few movies I've ripped already so I can play on-demand already on my TV (next section).
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 *Movies*
 

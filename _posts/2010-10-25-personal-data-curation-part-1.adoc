@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I have a different view of data than most. I have learned that after having countless discussions with people. I believe that my personal data is precious and needs to be saved. I have emails going back seven years (I really wish it went back about 16 years when I started email). I have close to 15k pictures on my Flickr account. I'm dealing with a way to save personal videos now that I have a kid. Why do I have this data? It is history. It may not be important history or something 99% of the world would ever care to see. It is mine.
 :page-image: /images/163896765_bedeab6dcc_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/163896765_bedeab6dcc_m.jpg[,role="text-center"]
+image::/images/163896765_bedeab6dcc_m.jpg[,role="text-center"]
 
 I have a different view of data than most. I have learned that after having countless discussions with people. I believe that my personal data is precious and needs to be saved. I have emails going back seven years (I really wish it went back about 16 years when I started email). I have close to 15k pictures on my Flickr account. I'm dealing with a way to save personal videos now that I have a kid. Why do I have this data? It is history. It may not be important history or something 99% of the world would ever care to see. It is mine.
 

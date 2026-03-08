@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Do you know the great thing about parties? At the end of the night, once the craziness winds down, things get a little more serious. Sometimes things turn violent. In the end, you always walk away with stories. In theory, you could run around town and brag about who is addicted to meth or who just received an abortion. The normal person doesn't. Those aren't your stories to share (and no neither of those tidbits of information came out of the party last weekend).
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Do you know the great thing about parties? At the end of the night, once the craziness winds down, things get a little more serious. Sometimes things turn violent. In the end, you always walk away with stories. In theory, you could run around town and brag about who is addicted to meth or who just received an abortion. The normal person doesn't. Those aren't your stories to share (and no neither of those tidbits of information came out of the party last weekend).
 

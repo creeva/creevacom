@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: There is something I've wanted to do for a long time, which is to import RSS feeds into Google Calendar. The best reason I have to give you for wanting to do this is an incremental time tracking and being able to pinpoint (not accounting for RSS lag) when an event took place. This would allow me to have a truly complete calendar picture of my life. Unfortunately, none of the RSS to iCal converters I've played with seem to be able to work. There are also very few of these tools. I have even tried Yahoo Pipes without success (so this truly is a pipe dream).
 :page-image: /images/367425390_722352b6ac.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/367425390_722352b6ac.jpg[,role="text-center"]
+image::/images/367425390_722352b6ac.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/joelanman/367425390/[here]
 

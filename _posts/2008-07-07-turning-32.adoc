@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Thirty-two -- what a long strange trip it's been. In some ways, I'm living the normal expected life for my age group. I own a house and pay a mortgage. I have car payments. I have a job with a cubicle. I have an expectant wife. These things are all normal and fall within the expected time I should have them. Nothing out of the ordinary.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 Thirty-two -- what a long strange trip it's been. In some ways, I'm living the normal expected life for my age group. I own a house and pay a mortgage. I have car payments. I have a job with a cubicle. I have an expectant wife. These things are all normal and fall within the expected time I should have them. Nothing out of the ordinary.
 

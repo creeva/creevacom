@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Yesterday during a windstorm we lost power. Well since my wife was out all day, it's more apt to say that I lost power. It's a lot harder for me these days when I lose power than it was when I was a kid. The first thing you think of is that it's ok I have a laptop.
 :page-image: /images/110415937_6cc0f551a6_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/110415937_6cc0f551a6_m.jpg[,role="text-center"]
+image::/images/110415937_6cc0f551a6_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/waldopepper/110415937/[here]
 

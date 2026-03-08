@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Maybe this is an Ohio idea, but there used a delineation between standard fast food restaurants and almost sit-down restaurant-style fast food. Looking back and what was considered fancy and standard seemed to be the likelihood of eating in the restaurant or taking the food out. Another 80's invention cemented in idea of a fancy fast food restaurant -- the salad bar.
 :page-image: /images/RaxROASTBeefPNG-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/RaxROASTBeefPNG-1.png[,role="text-center"]
+image::/images/RaxROASTBeefPNG-1.png[,role="text-center"]
 
 Maybe this is an Ohio idea, but there used a delineation between standard fast food restaurants and almost sit-down restaurant-style fast food. Looking back and what was considered fancy and standard seemed to be the likelihood of eating in the restaurant or taking the food out. Another 80's invention cemented in idea of a fancy fast food restaurant -- the salad bar.
 

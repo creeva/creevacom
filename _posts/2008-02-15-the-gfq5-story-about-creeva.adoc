@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: To give the history on this -- GF stood for Groovefest -- this was an in-game festival run by a play named Keltrienin the video game Star Wars Galaxies (SWG). The festival was on its fifth iteration and in celebration, there was going to be this elaborate quest written by a player named Niix. I was featured as part of this and somewhere out there is a video with my avatar in it. This story was written by Niix as being in the quest creator. This is the part that did feature me or rather my character Creeva. If Niix has any issue with this please let me know I am not taking credit nor robbing the original creator of any copyright he owns over this work.
 :page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+image::/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
 
 To give the history on this -- GF stood for Groovefest -- this was an in-game festival run by a play named link:http://www.sheagunther.org[Keltrien]in the video game link:http://www.starwarsgalaxies.com[Star Wars Galaxies] (SWG). The festival was on its fifth iteration and in celebration, there was going to be this elaborate quest written by a player named Niix. I was featured as part of this and somewhere out there is a video with my avatar in it. This story was written by Niix as being in the quest creator. This is the part that did feature me or rather my character Creeva. If Niix has any issue with this please let me know I am not taking credit nor robbing the original creator of any copyright he owns over this work.
 

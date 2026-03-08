@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I had an issue with my daily journal script. If I collected all the data from sources, generated my daily post, and then made notes -- I was leaving out too many details. If I kept a separate file with notes and then pasted it in, that didn't help me either. Especially if I'm away from my computer, I wanted something that I can use from my phone. It was important that it could sync through Dropbox (hence use it anywhere). Finally, it should be saved with plain text or a simple markup where I could script out the extra markup details.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I had an issue with my daily journal script. If I collected all the data from sources, generated my daily post, and then made notes -- I was leaving out too many details. If I kept a separate file with notes and then pasted it in, that didn't help me either. Especially if I'm away from my computer, I wanted something that I can use from my phone. It was important that it could sync through link:http://dropbox.com[Dropbox] (hence use it anywhere). Finally, it should be saved with plain text or a simple markup where I could script out the extra markup details.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Now I'm not going to say that I'm incapable of giving presentations, I've given my share. I've taught training classes. I've given pitches and reporting data to CIOs of Fortune 500 companies. I've given a couple of public presentations at a convention. I've done this before and I'll do it again. That doesn't make it any easier. We've moved up from being high school students that used note cards, now we're adults that use PowerPoint presentations. Essentially it is the same thing, but now everyone else can see your note cards. Since everyone else can see them don't be a complete putz and read them verbatim.
 :page-image: /images/154462206_cad1cb8c23.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/154462206_cad1cb8c23.jpg[,role="text-center"]
+image::/images/154462206_cad1cb8c23.jpg[,role="text-center"]
 
 Now I'm not going to say that I'm incapable of giving presentations, I've given my share. I've taught training classes. I've given pitches and reporting data to CIOs of Fortune 500 companies. I've given a couple of public presentations at a convention. I've done this before and I'll do it again. That doesn't make it any easier. We've moved up from being high school students that used note cards, now we're adults that use PowerPoint presentations. Essentially it is the same thing, but now everyone else can see your note cards. Since everyone else can see them don't be a complete putz and read them verbatim.
 

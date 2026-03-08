@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Went to Cedar Point at Saturday and we had a blast. Probably the most fun as a group we have all had in over a decade. You never realize that visiting an amusement that was a big part of your day to life as a teenager would be such a trip down memory lane. Before I moved to Oregon we always had season passes so it passed the time and was the same old same old every time we visited.
 :page-image: /images/millennium_force_13.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/millennium_force_13.jpg[,role="text-center"]
+image::/images/millennium_force_13.jpg[,role="text-center"]
 
 Went to Cedar Point at Saturday and we had a blast. Probably the most fun as a group we have all had in over a decade. You never realize that visiting an amusement that was a big part of your day to life as a teenager would be such a trip down memory lane. Before I moved to Oregon we always had season passes so it passed the time and was the same old same old every time we visited.
 

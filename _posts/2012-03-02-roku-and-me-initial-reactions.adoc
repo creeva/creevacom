@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Earlier this week we ordered aRoku device from Amazon. We purchased the complete bells and whistles XS model. The main reason for this was I wanted a wired connection for the device instead of a wireless one. I knew a couple of people that owned the devices and loved them. I thought I would give it a try.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 Earlier this week we ordered alink:http://roku.com[Rok]u device from link:http://amazon.com[Amazon]. link:http://www.amazon.com/gp/product/B005CLPP84/ref=as_li_ss_tl?ie=UTF8&tag=creswor20-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B005CLPP84[We purchased the complete bells and whistles XS model]. The main reason for this was I wanted a wired connection for the device instead of a wireless one. I knew a couple of people that owned the devices and loved them. I thought I would give it a try.
 

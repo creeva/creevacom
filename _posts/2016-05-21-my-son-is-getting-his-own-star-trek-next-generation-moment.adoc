@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: My parents disliked science fiction. That's a little bit unfair, my mother disliked science fiction. I only know of one science fiction movie she liked, The Last Starfighter. She took me to see that in the theater three times. My father had a disinterest in science fiction. I, however, couldn't get enough. I would watch any and all science fiction I would have a chance to. I guess with being hand carried to A New Hope, begging my grandmother to take me to see Flash Gordon at 4, and seeing countless other movies at the theater -- my family did indulge me in what I wanted to watch. I'm sure Gee (my mom's mom) was very confused sitting through Transformers the Movie at Midway Mall Theater, but they indulged me and I love them for it. However, they didn't understand.
 :page-image: /images/my-son-is-getting-his-own-star-t-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/my-son-is-getting-his-own-star-t-1.jpg[,role="text-center"]
+image::/images/my-son-is-getting-his-own-star-t-1.jpg[,role="text-center"]
 
 My parents disliked science fiction. That's a little bit unfair, my mother disliked science fiction. I only know of one science fiction movie she liked, The Last Starfighter. She took me to see that in the theater three times. My father had a disinterest in science fiction. I, however, couldn't get enough. I would watch any and all science fiction I would have a chance to. I guess with being hand carried to A New Hope, begging my grandmother to take me to see Flash Gordon at 4, and seeing countless other movies at the theater -- my family did indulge me in what I wanted to watch. I'm sure Gee (my mom's mom) was very confused sitting through Transformers the Movie at Midway Mall Theater, but they indulged me and I love them for it. However, they didn't understand.
 

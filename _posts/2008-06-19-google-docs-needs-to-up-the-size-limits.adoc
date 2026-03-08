@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I've been working diligently like a good Google zealot and have slowly over the last couple of months started migrating over to Google Docs. The one thing that keeps tripping me up is the space they offer each document. The space given is as follows&#58;
 :page-image: /images/1402161632_3e92defcea_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1402161632_3e92defcea_m.jpg[,role="text-center"]
+image::/images/1402161632_3e92defcea_m.jpg[,role="text-center"]
 
 I've been working diligently like a good link:http://www.google.com[Google] zealot and have slowly over the last couple of months started migrating over to link:http://docs.google.com[Google Docs]. The one thing that keeps tripping me up is the space they offer each document. The space given is as follows:
 

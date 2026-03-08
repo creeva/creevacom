@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: LiveJournal is another online blog that focuses on community. While it is not as active and communal as Vox, it is infinitely more focused on true interaction between users compared to Myspace, Facebook, or any other of the more traditional collect as many friends as you can pokemon style social network. I can say that in rankings of comments and feedback, I get back from readers that my live journal is only third to my vox and my main blog in terms of interaction. Livejournal has been so successful that there are derivative sites that use the live journal engine, the steps listed below should allow you (with some tweaking) to post to any of those sites as well.
 :page-image: /images/logo.gif
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/logo.gif[,role="text-center"]
+image::/images/logo.gif[,role="text-center"]
 
 link:http://www.livejournal.com[LiveJournal] is another online blog that focuses on community. While it is not as active and communal as link:http://www.vox.com[Vox], it is infinitely more focused on true interaction between users compared to link:http://www.myspace.com[Myspace], link:http://www.facebook.com[Facebook], or any other of the more traditional collect as many friends as you can pokemon style social network. I can say that in rankings of comments and feedback, I get back from readers that link:http://creeva.livejournal.com[my live journa]l is only third to my vox and link:https://creeva.com[my main blog] in terms of interaction. Livejournal has been so successful that there are link:http://en.wikipedia.org/wiki/Comparison_of_sites_using_the_LiveJournal_codebase[derivative sites that use the live journal engine], the steps listed below should allow you (with some tweaking) to post to any of those sites as well.
 

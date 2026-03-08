@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: No this is not a review or recommendation post -- the examining equipment posts cover the equipment I already own and what functions I wish to do with them. Ever find that the equipment manuals are terrible or you just can not find a yes or no answer on how something functions? That is my problem.
 :page-image: /images/B0000BZO58.01-A1NDBS7YGOPBD6._AA280_SCLZZZZZZZ_.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/B0000BZO58.01-A1NDBS7YGOPBD6._AA280_SCLZZZZZZZ_.jpg[,role="text-center"]
+image::/images/B0000BZO58.01-A1NDBS7YGOPBD6._AA280_SCLZZZZZZZ_.jpg[,role="text-center"]
 
 No this is not a review or recommendation post -- the examining equipment posts cover the equipment I already own and what functions I wish to do with them. Ever find that the equipment manuals are terrible or you just can not find a yes or no answer on how something functions? That is my problem.
 

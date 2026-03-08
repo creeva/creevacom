@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So last night I did try to turn my laptop into a Hackintosh, and it didn't turn out so well. After installation, I seemed to have an issue with my video not working (ironic that it works for the installation screens). I futzed with it for a while and since have given up on it. I'm willing to work around issues and change my methodology to do something because I'm not using it the way it's supposed to be used (part of the mantra of everything I do -- My old home network used to have 16 PC's on it). I can only go so far in futzing before it's more of a nuisance and gets in the way of getting things done.
 :page-image: /images/ubuntu-logo32.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+image::/images/ubuntu-logo32.png[,role="text-center"]
 
 So last night I did try to turn my laptop into a Hackintosh, and it didn't turn out so well. After installation, I seemed to have an issue with my video not working (ironic that it works for the installation screens). I futzed with it for a while and since have given up on it. I'm willing to work around issues and change my methodology to do something because I'm not using it the way it's supposed to be used (part of the mantra of everything I do -- My old home network used to have 16 PC's on it). I can only go so far in futzing before it's more of a nuisance and gets in the way of getting things done.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I visited the grave of a friend today. Previously I had written about him here. It still seems odd that though I am now in my thirties that I am young enough that have friends that died. When his death first happened I thought that part of my world had ended. Now looking back I can say part of it truly did.
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 I visited the grave of a friend today. Previously I had written about him here. It still seems odd that though I am now in my thirties that I am young enough that have friends that died. When his death first happened I thought that part of my world had ended. Now looking back I can say part of it truly did.
 

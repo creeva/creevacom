@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: This last weekend I went to a local used music/movie/video game store just to browse. I ended up walking out with seasons 1-3 of Star Wars&#58; The Clone Wars on Blu-Ray and some other things. I knew season 4 was out and wanted to pick that up also, so I went to Amazon.
 :page-image: /images/audio-cassette-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/audio-cassette-1.jpg[,role="text-center"]
+image::/images/audio-cassette-1.jpg[,role="text-center"]
 
 This last weekend I went to a local used music/movie/video game store just to browse. I ended up walking out with seasons 1-3 of Star Wars: The Clone Wars on Blu-Ray and some other things. I knew season 4 was out and wanted to pick that up also, so I went to Amazon.
 

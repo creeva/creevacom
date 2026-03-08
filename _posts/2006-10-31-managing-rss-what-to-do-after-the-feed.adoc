@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: RSS -- great technology or a flop. In a lot of ways, it's like the push technology developed by Netscape years ago -- great in theory less so in practice.
 :page-image: /images/200px-Feed-icon.svg1_-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/200px-Feed-icon.svg1_-1.png[,role="text-center"]
+image::/images/200px-Feed-icon.svg1_-1.png[,role="text-center"]
 
 RSS -- great technology or a flop. In a lot of ways, it's like the push technology developed by Netscape years ago -- great in theory less so in practice.
 

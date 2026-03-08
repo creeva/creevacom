@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was the oldest child in my family. I can also say I was a bastard older brother, mostly I think it was because I always wanted to be a single child. So far barring any other additions (extremely unlikely) I'm the oldest of eight. So my dreams of being a single child didn't really play out as expected. My sisters, well I was always protective of them. My brother on the other hand…. Well, we'll leave it with the fact that we have never gotten along for any length of time.
 :page-image: /images/2492846865_6400790908.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2492846865_6400790908.jpg[,role="text-center"]
+image::/images/2492846865_6400790908.jpg[,role="text-center"]
 
 I was the oldest child in my family. I can also say I was a bastard older brother, mostly I think it was because I always wanted to be a single child. So far barring any other additions (extremely unlikely) I'm the oldest of eight. So my dreams of being a single child didn't really play out as expected. My sisters, well I was always protective of them. My brother on the other hand…. Well, we'll leave it with the fact that we have never gotten along for any length of time.
 

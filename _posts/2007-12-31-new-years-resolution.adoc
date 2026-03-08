@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I have some projects I'm going to start as of January 1st, but they are more time-sensitive and include a pseudo photo diary. I wouldn't however call it a new year's resolution. I have tried the new year's resolution thing in the past and it never works out. So this year I'm going to have the new year's resolution that should stick with me for the rest of my life.
 :page-image: /images/42402447_newyork.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/42402447_newyork.jpg[,role="text-center"]
+image::/images/42402447_newyork.jpg[,role="text-center"]
 
 I have some projects I'm going to start as of January 1st, but they are more time-sensitive and include a pseudo photo diary. I wouldn't however call it a new year's resolution. I have tried the new year's resolution thing in the past and it never works out. So this year I'm going to have the new year's resolution that should stick with me for the rest of my life.
 

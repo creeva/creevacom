@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: It's been 18 months since Symantec and I parted ways. I've never blasted them once on my blog or to any person, beyond idle small complaints. I've always stood up for them as a company even though they were no longer my employer. However, the Swapdrive purchase is the most idiotic decision they've done since they ran the enterprise firewall into the ground.
 :page-image: /images/2264672497_ffb49200a5_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2264672497_ffb49200a5_m.jpg[,role="text-center"]
+image::/images/2264672497_ffb49200a5_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/amberica/2264672497/[here]
 

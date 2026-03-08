@@ -4,8 +4,8 @@
 :page-categories: video-games
 :page-excerpt: Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
 :page-image: /images/B00030GS8A.01._AA280_SCLZZZZZZZ_V64794424_.0.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/B00030GS8A.01._AA280_SCLZZZZZZZ_V64794424_.0.jpg[,role="text-center"]
+image::/images/B00030GS8A.01._AA280_SCLZZZZZZZ_V64794424_.0.jpg[,role="text-center"]
 
 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

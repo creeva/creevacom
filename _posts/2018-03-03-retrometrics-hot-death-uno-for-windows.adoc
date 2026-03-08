@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: I'm almost positive that most of the readers finding this page are familiar with how to play Uno. However, if you don't I highly suggest you go out now, get at least 2 more friends, and buy a deck. I think your other two friends can teach you because they already know how to play. Uno is one of those card games that every family seemed to play when I was growing up. My wife's family was big into Rummy, well mine was Uno all the way.
 :page-image: /images/uno-1.gif
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/uno-1.gif[,role="text-center"]
+image::/images/uno-1.gif[,role="text-center"]
 
 I'm almost positive that most of the readers finding this page are familiar with how to play Uno. However, if you don't I highly suggest you go out now, get at least 2 more friends, and buy a deck. I think your other two friends can teach you because they already know how to play. Uno is one of those card games that every family seemed to play when I was growing up. My wife's family was big into _Rummy,_ well mine was _Uno_ all the way.
 
@@ -22,7 +22,7 @@ I found link:https://phoneboy.com/hdu[a blog post that explains how to play it w
 
 Be warned, the cards have non-politically correct and harsh language. If you are going to make your own deck, click on one of the other links for the points of each card and clarifications for the rules.
 
-image::/testsite/images/pic1428230_md-1.jpg[,role="text-center"]
+image::/images/pic1428230_md-1.jpg[,role="text-center"]
 
 Double Skip -- This card skips the next two players
 
@@ -38,7 +38,7 @@ Luck o' the Irish -- This card reduces the amount of cards you have to draw by 1
 
 Harvester of Sorrows -- This card actually needs a background.    In _Hot Death Uno_ if a Draw 4 is played, the next person has to draw 4 or they can play their own draw 4.   This stacks so the next person has to draw 8.   This can continue until all draw 4's are used, adding 4 more cards to the draw each time.  The Harvester of Sorrows negate any further stacking after it is played.
 
-image::/testsite/images/pic1428231_md-1.jpg[,role="text-center"]
+image::/images/pic1428231_md-1.jpg[,role="text-center"]
 
 Delayed Blast Draw Four -- This operates as a skip and a draw 4. +
 
@@ -52,7 +52,7 @@ Fuck You -- This sends all the effects of a negative card back to the person tha
 
 Penn State -- This card is a defense against a Draw 2 spreader -- if shown, it sends the draw 2 spreader to backfire, and that played the spreader must draw 2.
 
-image::/testsite/images/pic1428229_md-1.jpg[,role="text-center"]
+image::/images/pic1428229_md-1.jpg[,role="text-center"]
 
 Mystery Draw -- You have to draw the number of cards that this was played on, so if the previous card was a 9, you draw 9. If it was a 1 you draw one.
 

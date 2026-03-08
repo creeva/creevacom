@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: On March 12 I went to the MC Chris at the Grog Shop in Cleveland. One of the highlights of the show to me was Mayor Wertz. He was the first band to open for the show. He is a Cleveland local, who (in my mind) needs to get out and do more shows. I would definitely like to see him perform again.
 :page-image: /images/944694_806577189454206_6039234972005177876_n-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/944694_806577189454206_6039234972005177876_n-1.png[,role="text-center"]
+image::/images/944694_806577189454206_6039234972005177876_n-1.png[,role="text-center"]
 
 On March 12 I went to the MC Chris at the Grog Shop in Cleveland. One of the highlights of the show to me was Mayor Wertz. He was the first band to open for the show. He is a Cleveland local, who (in my mind) needs to get out and do more shows. I would definitely like to see him perform again.
 

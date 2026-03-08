@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: What do I mean by out Scoble, Scoble himself? I'm not going to make as much money as he does, I'm not going to get as many followers as he does, and I'm not going to ever get to play with all the toys he does, and I'll never have his connections. So how am I going to outdo him?
 :page-image: /images/robert-scoble-727180-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/robert-scoble-727180-1.jpg[,role="text-center"]
+image::/images/robert-scoble-727180-1.jpg[,role="text-center"]
 
 What do I mean by out Scoble, link:http://scobleizer.com[Scoble himself]? I'm not going to make as much money as he does, I'm not going to get as many followers as he does, and I'm not going to ever get to play with all the toys he does, and I'll never have his connections. So how am I going to outdo him?
 

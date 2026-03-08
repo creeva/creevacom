@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Pseudo-lives are the ones we live when we want to give the appearance of existence. We do not always truly exists. Sometimes life just happens in the shadows. The periphery of life that no one really notices. This only truly becomes a problem when we don't notice it happening to ourselves.
 :page-image: /images/calligraphy-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+image::/images/calligraphy-1.jpg[,role="text-center"]
 
 Pseudo-lives are the ones we live when we want to give the appearance of existence. We do not always truly exists. Sometimes life just happens in the shadows. The periphery of life that no one really notices. This only truly becomes a problem when we don't notice it happening to ourselves.
 

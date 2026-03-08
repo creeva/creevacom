@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I've never really railed against the Boy Scouts of America on my blog. Though for the record I can do this for hours, so I will try my best to keep this under ten thousand words. I'll get to my general rant in a moment. We are going to start with a story of what just happened to a friend of mine.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I've never really railed against the Boy Scouts of America on my blog. Though for the record I can do this for hours, so I will try my best to keep this under ten thousand words. I'll get to my general rant in a moment. We are going to start with a story of what just happened to a friend of mine.
 

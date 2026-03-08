@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: This was a persuasion piece I wrote for work on how to quicker deployments and restores in the training lab. It seems we had employees several times a week who had hours of their time taken up by reloading PCs in the training rooms or in the testing labs. I wrote up this piece which is unfortunately light on detail (if you have questions post them here I'll answer them) for management to look at what we could do to script this solution out. Because of work security requirements, I did make some modifications to the information listed here, I kept the changes to a minimum though. I actually will be doing a follow-up to this article which will contain the reload scripts and technical nitty gritty. My idea has been at least going so far as to be tested (I have a VMware workstation on my work PC now).
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 _This was a persuasion piece I wrote for work on how to quicker deployments and restores in the training lab. It seems we had employees several times a week who had hours of their time taken up by reloading PCs in the training rooms or in the testing labs. I wrote up this piece which is unfortunately light on detail (if you have questions post them here I'll answer them) for management to look at what we could do to script this solution out. Because of work security requirements, I did make some modifications to the information listed here, I kept the changes to a minimum though. I actually will be doing a follow-up to this article which will contain the reload scripts and technical nitty gritty. My idea has been at least going so far as to be tested (I have a link:http://www.vmware.com[VMware workstation] on my work PC now)._
 

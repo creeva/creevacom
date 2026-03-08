@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: One of my co-workers passed away in his sleep last night. He was a nice guy that was always there and willing to help you out. He was someone with whom I could discuss cars. While his loss will be missed, most people here are taking it harder than I am. After being a pallbearer for my best friend, I'm not sure I could get upset with the loss of a co-worker/casual friend the same way ever again.
 :page-image: /images/87198917_a7b48924ca.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/87198917_a7b48924ca.jpg[,role="text-center"]
+image::/images/87198917_a7b48924ca.jpg[,role="text-center"]
 
 One of my co-workers passed away in his sleep last night. He was a nice guy that was always there and willing to help you out. He was someone with whom I could discuss cars. While his loss will be missed, most people here are taking it harder than I am. After being a pallbearer for my best friend, I'm not sure I could get upset with the loss of a co-worker/casual friend the same way ever again.
 

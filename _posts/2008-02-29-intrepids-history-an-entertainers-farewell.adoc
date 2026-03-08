@@ -4,11 +4,11 @@
 :page-categories: video-games
 :page-excerpt: [if gte mso 9]><xml> <w &#58;WordDocument> </w><w &#58;View>Normal</w> <w &#58;Zoom>0</w> <w &#58;PunctuationKerning></w> <w &#58;ValidateAgainstSchemas></w> <w &#58;SaveIfXMLInvalid>false</w> <w &#58;IgnoreMixedContent>false</w> <w &#58;AlwaysShowPlaceholderText>false</w> <w &#58;Compatibility> <w &#58;BreakWrappedTables></w> <w &#58;SnapToGridInCell></w> <w &#58;WrapTextWithPunct></w> <w &#58;UseAsianBreakRules></w> <w &#58;DontGrowAutofit></w> </w> <w &#58;BrowserLevel>MicrosoftInternetExplorer4</w> </xml>< ![endif] [if gte mso 9]><xml> <w &#58;LatentStyles DefLockedState="false" LatentStyleCount="156"> </w> </xml>< ![endif] [if !mso]><object classid="clsid&#58;38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object> <style> st1\&#58;{behavior&#58;url(#ieooui) } </style> < ![endif]
 :page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
 [if gte mso 9]><xml> <w :WordDocument> </w><w :View>Normal</w> <w :Zoom>0</w> <w :PunctuationKerning></w> <w :ValidateAgainstSchemas></w> <w :SaveIfXMLInvalid>false</w> <w :IgnoreMixedContent>false</w> <w :AlwaysShowPlaceholderText>false</w> <w :Compatibility> <w :BreakWrappedTables></w> <w :SnapToGridInCell></w> <w :WrapTextWithPunct></w> <w :UseAsianBreakRules></w> <w :DontGrowAutofit></w> </w> <w :BrowserLevel>MicrosoftInternetExplorer4</w> </xml>< ![endif] [if gte mso 9]><xml> <w :LatentStyles DefLockedState="false" LatentStyleCount="156"> </w> </xml>< ![endif] [if !mso]><object classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object> <style> st1\:*{behavior:url(#ieooui) } </style> < ![endif]
 
-image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+image::/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
 
 [if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} </style> < ![endif]
 

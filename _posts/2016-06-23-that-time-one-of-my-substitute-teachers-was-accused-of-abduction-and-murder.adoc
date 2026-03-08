@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Since you have read the headline I will say that the investigation is still ongoing. That I have no idea if the teacher in question is guilty or not. However, I have my doubts about the whole thing. Let's go back to the beginning though.
 :page-image: /images/classroom-students-and-teacher-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/classroom-students-and-teacher-1.jpg[,role="text-center"]
+image::/images/classroom-students-and-teacher-1.jpg[,role="text-center"]
 
 _Not the actual teacher_
 

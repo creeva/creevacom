@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I have been reading a bit lately. Taking my free time to read a bit here and there. Every night before I go to bed I read on my iPhone until I just about pass out. Last night I literally passed out. I woke up and I was holding my phone and it hadn't self-locked yet. I actually read a few more pages and then went to sleep properly.
 :page-image: /images/125128754_2c55a15448_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/125128754_2c55a15448_m.jpg[,role="text-center"]
+image::/images/125128754_2c55a15448_m.jpg[,role="text-center"]
 
 I have been reading a bit lately. Taking my free time to read a bit here and there. Every night before I go to bed I read on my iPhone until I just about pass out. Last night I literally passed out. I woke up and I was holding my phone and it hadn't self-locked yet. I actually read a few more pages and then went to sleep properly.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I can tell you the very first time I ever heard Nirvana. It was the high school homecoming dance during my sophomore year. Being an old person I can remember when the homecoming dance was after the football game. It wasn't trying to be the mini-prom that it is today. We were all stripped out of or wearing pieces of our marching band uniform at the dance when Smells Like Teen Spirit started playing. We loved and were "slam dancing" (what we called it before moshing) and having a great time.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I can tell you the very first time I ever heard Nirvana. It was the high school homecoming dance during my sophomore year. Being an old person I can remember when the homecoming dance was after the football game. It wasn't trying to be the mini-prom that it is today. We were all stripped out of or wearing pieces of our marching band uniform at the dance when Smells Like Teen Spirit started playing. We loved and were "slam dancing" (what we called it before moshing) and having a great time.
 

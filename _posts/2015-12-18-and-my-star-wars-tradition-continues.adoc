@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Star Wars has been an active part of my life literally as long as I can remember. There hasn't been a time since I've been able to remember that Star Wars hasn't been a key mythological piece of my life. Star Wars (later retitled Star Wars&#58; A New Hope) was the second movie I ever saw in a movie theater. The first movie was Rocky. Depending on when my parents managed to get to the theater I was under a year old or just had my birthday. We will just go with the fact that it was one of the greatest gifts my parents could have given one-year-old me.
 :page-image: /images/star-wars-force-awakens-official-poster-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/star-wars-force-awakens-official-poster-1.jpg[,role="text-center"]
+image::/images/star-wars-force-awakens-official-poster-1.jpg[,role="text-center"]
 
 Star Wars has been an active part of my life literally as long as I can remember. There hasn't been a time since I've been able to remember that Star Wars hasn't been a key mythological piece of my life. Star Wars (later retitled Star Wars: A New Hope) was the second movie I ever saw in a movie theater. The first movie was Rocky. Depending on when my parents managed to get to the theater I was under a year old or just had my birthday. We will just go with the fact that it was one of the greatest gifts my parents could have given one-year-old me.
 

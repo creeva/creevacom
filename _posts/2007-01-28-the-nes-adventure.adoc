@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: To justify my NES game collection -- I was told I should be actually playing the games to justify the purchases. So following Nintendo's "Official" NES release list (so I'll be bypassing the bootlegs) -- I'm going to go through and beat each game on the list. The advantage of beating them in order is that I get to buy the ones I don't have as I need to play them &#58;).
 :page-image: /images/nintendo_controller-jacket1-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/nintendo_controller-jacket1-1.jpg[,role="text-center"]
+image::/images/nintendo_controller-jacket1-1.jpg[,role="text-center"]
 
 To justify my NES game collection -- I was told I should be actually playing the games to justify the purchases. So following Nintendo's "Official" NES release list (so I'll be bypassing the bootlegs) -- I'm going to go through and beat each game on the list. The advantage of beating them in order is that I get to buy the ones I don't have as I need to play them :).
 

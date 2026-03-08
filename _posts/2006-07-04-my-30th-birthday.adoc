@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I had a party where the family came over and had food and the whole nine yards. By the end of the night, I was hammered though. I rarely drink, but this is one of those occasions. I expect my wife to go through a similar thing when she turns 30. Halfway through the night I hardly remembered my name let alone anything else.
 :page-image: /images/254277_10150220022591121_4296019_n-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/254277_10150220022591121_4296019_n-1.jpg[,role="text-center"]
+image::/images/254277_10150220022591121_4296019_n-1.jpg[,role="text-center"]
 
 I had a party where the family came over and had food and the whole nine yards. By the end of the night, I was hammered though. I rarely drink, but this is one of those occasions. I expect my wife to go through a similar thing when she turns 30. Halfway through the night I hardly remembered my name let alone anything else.
 

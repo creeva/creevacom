@@ -5,9 +5,9 @@
 :page-excerpt: I thought I was an enigma…… +
 I wasn't complex enough to be incomprehensible
 :page-image: /images/calligraphy-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+image::/images/calligraphy-1.jpg[,role="text-center"]
 
 Who Am I?
 

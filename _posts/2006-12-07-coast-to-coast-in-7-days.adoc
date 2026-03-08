@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last week I was in LA doing some work for a client -- I managed to meet a friend IRL that I had only known virtually through SWG. This was a very interesting experience in the sense that it is two worlds that were vastly different finally meeting. I've played SWG since June 2003, but yet in all my travels had not managed to meet up with anyone that has played the game. Luckily the first person I did get to meet is one of my oldest and dearest true virtual friends. I'm hoping to head back out to LA in a couple of weeks and we can do it again.
 :page-image: /images/2998675352_e3d9761b19_o-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2998675352_e3d9761b19_o-1.jpg[,role="text-center"]
+image::/images/2998675352_e3d9761b19_o-1.jpg[,role="text-center"]
 
 Last week I was in LA doing some work for a client -- I managed to meet a friend IRL that I had only known virtually through SWG. This was a very interesting experience in the sense that it is two worlds that were vastly different finally meeting. I've played SWG since June 2003, but yet in all my travels had not managed to meet up with anyone that has played the game. Luckily the first person I did get to meet is one of my oldest and dearest true virtual friends. I'm hoping to head back out to LA in a couple of weeks and we can do it again.
 

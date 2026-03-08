@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Traditionally (since I've been with Xie) we don't normally go to county fairs. Of course, there have been brief dabbles, a single visit or so to the Lorain County Fair or visits to the Lane County Fair when we lived in Eugene, but nothing planned ahead of time, more of a whim of the moment. Somehow this year is different.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Traditionally (since I've been with link:http://xielanthia.com[Xie]) we don't normally go to county fairs. Of course, there have been brief dabbles, a single visit or so to the link:http://www.loraincountyfair.com/[Lorain County Fair] or visits to the link:http://www.atthefair.com/[Lane County Fair] when we lived in link:http://en.wikipedia.org/wiki/Eugene,_Oregon[Eugene], but nothing planned ahead of time, more of a whim of the moment. Somehow this year is different.
 

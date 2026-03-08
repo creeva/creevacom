@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: There have been numerous reports of the 300 GBs DDoS going on in the last week. This morning Gizmodo discredited the effect this is really having on the Internet. I know I didn't notice any overt problems myself. I have experienced plenty of network outages at work or at home over the nineteen years I have been online, but rarely anything that caused problems on the Internet. I had to think, and there were two occasions when I did notice a problem.
 :page-image: /images/file0001628037487-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/file0001628037487-1.jpg[,role="text-center"]
+image::/images/file0001628037487-1.jpg[,role="text-center"]
 
 There have been link:http://boingboing.net/2013/03/27/ddos-storm-breaks-records-at-3.html[numerous] link:http://www.bbc.co.uk/news/technology-21954636[reports] of the link:http://www.huffingtonpost.com/2013/03/27/spamhaus-cyber-attack_n_2963632.html[300 GBs DDoS] going on in the last week. This morning link:http://gizmodo.com/5992652/that-internet-war-apocalypse-is-a-lie[Gizmodo discredited the effect this is really having on the Internet]. I know I didn't notice any overt problems myself. I have experienced plenty of network outages at work or at home over the nineteen years I have been online, but rarely anything that caused problems on the Internet. I had to think, and there were two occasions when I did notice a problem.
 

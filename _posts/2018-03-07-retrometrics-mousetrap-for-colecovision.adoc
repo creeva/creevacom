@@ -4,7 +4,7 @@
 :page-categories: video-games
 :page-excerpt: This piece was originally written for Duesr.com
 :page-image: /images/Mousetrap-2-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
 link:http://duesr.com/?p=563&preview=true[This piece was originally written for Duesr.com]
 
@@ -25,7 +25,7 @@ Ok, just typing out the overview of the game. I agree it's silly without much go
 
 === The Colecovision
 
-image::/testsite/images/Mousetrap-2-1.jpg[,role="text-center"]
+image::/images/Mousetrap-2-1.jpg[,role="text-center"]
 
 The Colecovision port was my only real experience with this game. Coleco made its name by getting the exclusive rights for a time period on arcade titles. This became an ongoing issue between Atari and Coleco. I think it all started when Coleco scored up the license to a game called _Donkey Kong_ and included it as a pack-in to the console. It's too bad it wasn't the _Popeye_ arcade game (link:http://duesr.com/index.php/2017/02/27/retrometrics-popeye-nes/[explanation here]).
 
@@ -51,6 +51,6 @@ I have played Mouse Trap on an emulator. I can say without an original Colecovis
 
 If I ever manage to track down a Colecovision for my own, I think this will be my only story about the system. I could play ROMs and rate them, but it's not the same. It's an abstract and not a personal experience with the game. So, let's all hope I manage to track one down.
 
-image::/testsite/images/Mousetrap-1982-Exidy-2017-03-06-15.23.01-1.png[,role="text-center"]
+image::/images/Mousetrap-1982-Exidy-2017-03-06-15.23.01-1.png[,role="text-center"]
 
 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

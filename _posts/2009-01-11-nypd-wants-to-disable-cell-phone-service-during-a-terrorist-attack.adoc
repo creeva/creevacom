@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: While I don't really blame NYPD for wanting to evolve and learn from other terrorist attacks, I think they are very short-sighted in the idea of blocking cell phone service in a terrorist attack. I first read about this story on a Wired.com blog entry, I thought how asinine an idea just reading the headline.
 :page-image: /images/2215069210_cdbf2b0bc5.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2215069210_cdbf2b0bc5.jpg[,role="text-center"]
+image::/images/2215069210_cdbf2b0bc5.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/scelera/2215069210/[here]
 

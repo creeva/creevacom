@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: 88 miles per hour is one of those magical spots. It's right up there with the number 42. Of course, it has a closer association with 1.21. Unless you have lived under a rock, or were born after 1990, you will always associate this with the movie Back To The Future.
 :page-image: /images/Back_to_the_future-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Back_to_the_future-1.jpeg[,role="text-center"]
+image::/images/Back_to_the_future-1.jpeg[,role="text-center"]
 
 88 miles per hour is one of those magical spots. It's right up there with the number 42. Of course, it has a closer association with 1.21. Unless you have lived under a rock, or were born after 1990, you will always associate this with the movie Back To The Future.
 

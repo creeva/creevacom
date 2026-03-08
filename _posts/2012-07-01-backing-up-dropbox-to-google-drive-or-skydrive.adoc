@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I use Dropbox to share files with friends and for use with third-party mobile or web applications. Very few applications have an API that directly interfaces with Google Docs..er Google Drive. The problem is that I store all my documents on Google Drive. I have a 200GB paid account that I love.
 :page-image: /images/108805307_c43af20f59.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+image::/images/108805307_c43af20f59.jpg[,role="text-center"]
 
 I use link:http://www.dropbox.com[Dropbox] to share files with friends and for use with third-party mobile or web applications. Very few applications have an API that directly interfaces with Google Docs..er link:http://drive.google.com[Google Drive]. The problem is that I store all my documents on Google Drive. I have a 200GB paid account that I love.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: This Nokia device will take a bit to get used to, but most of the problems stem from fat thumbs. The more I do it the faster it becomes.
 :page-image: /images/anothertime.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/anothertime.jpg[,role="text-center"]
+image::/images/anothertime.jpg[,role="text-center"]
 
 This Nokia device will take a bit to get used to, but most of the problems stem from fat thumbs. The more I do it the faster it becomes.
 

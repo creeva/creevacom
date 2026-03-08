@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: To start this, this story happened years ago. I have been married to my wife for 12 years and we have been together for 14. This story takes us back to my single college year. I was young, dumb, and eighteen. This is almost literally a full lifetime ago. To tell the story, I think some back story would be relevant.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 To start this, this story happened years ago. I have been married to my wife for 12 years and we have been together for 14. This story takes us back to my single college year. I was young, dumb, and eighteen. This is almost literally a full lifetime ago. To tell the story, I think some back story would be relevant.
 

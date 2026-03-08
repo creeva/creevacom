@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: What does a boy do when he has an extra Raspberry Pi computer sitting around that hasn't been taken out of the box in two years? He finds something to use it for. I had another Raspberry Pi that was being used as a media player, but Kodi was slow and didn't work that great. I had attempted to use it as an airplay device via Plex -- but that was a stuttering mess. On Reddit though, I found a post that allowed the Wink to be controlled via Siri. This was interesting enough to actually get something working.
 :page-image: /images/2016-05-07-19.43.34-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2016-05-07-19.43.34-1.jpg[,role="text-center"]
+image::/images/2016-05-07-19.43.34-1.jpg[,role="text-center"]
 
 What does a boy do when he has an extra Raspberry Pi computer sitting around that hasn't been taken out of the box in two years? He finds something to use it for. I had another Raspberry Pi that was being used as a media player, but Kodi was slow and didn't work that great. I had attempted to use it as an airplay device via Plex -- but that was a stuttering mess. On Reddit though, I found a post that allowed the Wink to be controlled via Siri. This was interesting enough to actually get something working.
 

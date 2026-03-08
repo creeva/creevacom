@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So your company has a requirement to maintain log files for a year?
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 So your company has a requirement to maintain log files for a year?
 

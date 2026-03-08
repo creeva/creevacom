@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Like Legion, this is another one where I just might be late to the party. I don't think so though. I think is something that people are not really aware of. The most important thing about this feature that you likely aren't using is that it is free. Free as in beer and not free as in speech. You do have to own the necessary components, but most people reading this site that are in the Playstation camp likely already have everything they need.
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 Like link:http://duesr.com/index.php/2017/03/09/want-fantastic-comic-book-tv-watch-legion-fx/[Legion], this is another one where I just might be late to the party. I don't think so though. I think is something that people are not really aware of. The most important thing about this feature that you likely aren't using is that it is free. Free as in beer and not free as in speech. You do have to own the necessary components, but most people reading this site that are in the Playstation camp likely already have everything they need.
 

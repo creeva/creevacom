@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I was accused the other day of spamming Myspace with all of my updates, though it was indirectly on a friend's blog via the comment section of a post he did on Twitter. The poster (I'm looking at you Tevy) thought I was using Twitter to crosspost to everything. Here was my reply&#58;
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 I was accused the other day of spamming Myspace with all of my updates, though it was indirectly on a friend's blog via the comment section of a post he did on Twitter. The poster (I'm looking at you Tevy) thought I was using Twitter to crosspost to everything. Here was my reply:
 

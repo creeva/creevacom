@@ -5,9 +5,9 @@
 :page-excerpt: +
 It seems that we can't do enough these days to always fully realize those that are close to us. Things change and we don't get to do all the things we want to or say what we can. 7 years ago I lost my best friend to an automobile accident. I had never thought I would be a pallbearer so early in my life.
 :page-image: /images/kilt.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/kilt.jpg[,role="text-center"]
+image::/images/kilt.jpg[,role="text-center"]
 
 +
 It seems that we can't do enough these days to always fully realize those that are close to us. Things change and we don't get to do all the things we want to or say what we can. 7 years ago I lost my best friend to an automobile accident. I had never thought I would be a pallbearer so early in my life.

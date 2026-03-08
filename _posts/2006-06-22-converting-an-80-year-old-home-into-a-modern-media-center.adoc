@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Moving on with getting settled into my home I'm working hard at getting everything modernized as far as the home wiring goes.
 :page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+image::/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
 
 Moving on with getting settled into my home I'm working hard at getting everything modernized as far as the home wiring goes.
 

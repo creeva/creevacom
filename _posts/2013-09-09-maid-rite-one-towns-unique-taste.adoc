@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: This last weekend we made the trip to Greenville, OH to visit -- but more importantly to get a Maid-Rite. For those uninitiated, a Maid-Rite is a loose meat sandwich that is best described as a sloppy joe without sauce. It's a big deal in Greenville and one of those local flavors that only exist trapped in time.
 :page-image: /images/2013-09-08-18.01.02-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2013-09-08-18.01.02-1.jpg[,role="text-center"]
+image::/images/2013-09-08-18.01.02-1.jpg[,role="text-center"]
 
 This last weekend we made the trip to Greenville, OH to visit -- but more importantly to get a Maid-Rite. For those uninitiated, a Maid-Rite is a loose meat sandwich that is best described as a sloppy joe without sauce. It's a big deal in Greenville and one of those local flavors that only exist trapped in time.
 
@@ -18,7 +18,7 @@ There is one cardinal rule to eating at Maid-Rites -- no Ketchup. While we are a
 
 There is one other part to this restaurant's tradition. The gum wall.
 
-image::/testsite/images/2013-09-08-18.00.18-1.jpg[,role="text-center"]
+image::/images/2013-09-08-18.00.18-1.jpg[,role="text-center"]
 
 Yes, that is a picture of years and years of gum stuck upon the wall. Some of the pieces I stuck on there as a child might even still be there. It's crazy. I'm sure when the gum wall started that it drove the owner nuts. They now however embrace it. It is one of the unique things that has made them famous.
 

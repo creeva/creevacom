@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I managed to do more work importing Last.fm data. Earlier I posted how nothing was working. I mentioned how there is no method to do this. I also mentioned how some of the migration methods available. Well below are the instructions on how to actually accomplish this. Dealing with the methods listed online, these were the only steps I found to merge two or more last.fm accounts.
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 I managed to do more work importing link:http://last.fm[Last.fm] data. Earlier I posted how nothing was working. I mentioned how there is no method to do this. I also mentioned how some of the migration methods available. Well below are the instructions on how to actually accomplish this. Dealing with the methods listed online, these were the only steps I found to merge two or more last.fm accounts.
 

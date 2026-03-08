@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A friend and I had a discussion about old technology disappearing and what gets lost in the migration. He put forth the example of the CD single. I stated that the CD single was still around, and he stated that it had completely disappeared. We were both right and wrong.
 :page-image: /images/1813781478_3a8d41dfd9_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1813781478_3a8d41dfd9_m.jpg[,role="text-center"]
+image::/images/1813781478_3a8d41dfd9_m.jpg[,role="text-center"]
 
 A friend and I had a discussion about old technology disappearing and what gets lost in the migration. He put forth the example of the CD single. I stated that the CD single was still around, and he stated that it had completely disappeared. We were both right and wrong.
 

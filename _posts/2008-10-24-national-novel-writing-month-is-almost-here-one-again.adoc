@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Two years doing National Novel Writing Month and two years of failure myself. This year however it should be cake. Chocolate cake, not white cake -- I dislike white cake it's like the step-father that no one likes in the cake world. Now I'm sure one of the first things going through your mind is "How is this slack ass that hasn't written an original article in two weeks going to write a novel". Well, I've been busy what can I say? I think I can do the novel this year. It's only 50k words and I can pop out 5k words in an hour when I put my mind to it.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Two years doing link:http://www.nanowrimo.org/[National Novel Writing Month] and two years of failure myself. This year however it should be cake. Chocolate cake, not white cake -- I dislike white cake it's like the step-father that no one likes in the cake world. Now I'm sure one of the first things going through your mind is "How is this slack ass that hasn't written an original article in two weeks going to write a novel". Well, I've been busy what can I say? I think I can do the novel this year. It's only 50k words and I can pop out 5k words in an hour when I put my mind to it.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Yesterday I posted about not deleting old accounts where there is a chance you will ever use them again or have made friends where your identity could be mistaken if someone used your old username. I knew what I was going to write about today, but a friend in the comments did make a mention of a term that has stuck with me -- "Winterize". A rose by any other name……
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 Yesterday I posted about not deleting old accounts where there is a chance you will ever use them again or have made friends where your identity could be mistaken if someone used your old username. I knew what I was going to write about today, but a friend in the comments did make a mention of a term that has stuck with me -- "Winterize". A rose by any other name……
 

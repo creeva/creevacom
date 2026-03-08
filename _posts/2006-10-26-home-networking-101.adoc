@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: While I already have a home network, looking at things to do with it online is a painful task. Unless I know what I am doing and have a topic to search on I can never seem to find anything new and interesting to do.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 While I already have a home network, looking at things to do with it online is a painful task. Unless I know what I am doing and have a topic to search on I can never seem to find anything new and interesting to do.
 

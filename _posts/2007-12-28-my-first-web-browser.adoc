@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So reading my RSS feed I came across an article from Mashable -- the article was a poll that asked what was your first web browser. While many people are mourning the loss of Netscape, which AOL announced today would be discontinued, it was not my first web browser.
 :page-image: /images/200px-lynx-wikipedia-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/200px-lynx-wikipedia-1.png[,role="text-center"]
+image::/images/200px-lynx-wikipedia-1.png[,role="text-center"]
 
 So reading my RSS feed I came across an article from link:http://www.mashable.com[Mashable] -- link:http://mashable.com/2007/12/28/web-browser-poll/[the article was a poll] that asked what was your first web browser. While many people are mourning the loss of Netscape, which AOL announced today would be link:http://mashable.com/2007/12/28/netscape-navigator-discontinued/[discontinued], it was not my first web browser.
 

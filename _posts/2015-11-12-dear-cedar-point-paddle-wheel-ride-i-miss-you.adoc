@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: It's been a few years since I reminisced about the Cedar Point Paddlewheel Excursions (or the Paddle Wheel ride as everyone I know called it). It will always be one of my favorite rides that are lost, never to be ridden again. I would take a return of that over The Pirate Ride (don't tell anyone, I'll get yelled at for that).
 :page-image: /images/22093359416_be34849d06_z-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/22093359416_be34849d06_z-1.jpg[,role="text-center"]
+image::/images/22093359416_be34849d06_z-1.jpg[,role="text-center"]
 
 It's been a few years since I reminisced about the Cedar Point Paddlewheel Excursions (or the Paddle Wheel ride as everyone I know called it). It will always be one of my favorite rides that are lost, never to be ridden again. I would take a return of that over The Pirate Ride (don't tell anyone, I'll get yelled at for that).
 

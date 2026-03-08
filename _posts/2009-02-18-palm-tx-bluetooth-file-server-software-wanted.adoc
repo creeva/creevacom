@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So this week I charged up my old Palm TX, I've been mourning over the death of Palm OS. I enjoyed Palm OS, but even I've moved on. I have to write my history with Palm hardware article soon. I paired the TX with my N810, and after verifying I could still get online with it through my phone. The TX"s web browser is weak compared to the N810's and other than a syncing contact manager (something the N810 is lacking at) I have no real use for the TX anymore.
 :page-image: /images/51G2VP9TBJL._SS500_.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/51G2VP9TBJL._SS500_.jpg[,role="text-center"]
+image::/images/51G2VP9TBJL._SS500_.jpg[,role="text-center"]
 
 So this week I charged up my old Palm TX, I've been mourning over the death of Palm OS. I enjoyed Palm OS, but even I've moved on. I have to write my history with Palm hardware article soon. I paired the TX with my N810, and after verifying I could still get online with it through my phone. The TX"s web browser is weak compared to the N810's and other than a syncing contact manager (something the N810 is lacking at) I have no real use for the TX anymore.
 

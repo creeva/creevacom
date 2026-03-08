@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A new iPhone is released. A boy has an upgrade on his contract. It is a match made in heaven -- until it isn't.
 :page-image: /images/39150253_5ded166fe1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+image::/images/39150253_5ded166fe1.jpg[,role="text-center"]
 
 A new iPhone is released. A boy has an upgrade on his contract. It is a match made in heaven -- until it isn't.
 

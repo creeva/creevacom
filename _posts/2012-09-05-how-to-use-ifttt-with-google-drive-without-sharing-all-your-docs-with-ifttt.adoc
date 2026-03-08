@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Yesterday IFTTT announced that they were adding support for Google Drive. I was initially excited. I could stop using Dropbox as a catch-all for all my IFTTT updates. There is a problem though, access to Google Drive is all or nothing. I haven't allowed the service access to my Gmail account, because I'm not really comfortable with another third-party company having access to my email archives. The Google Drive issue is also iffy for me. I don't necessarily feel secure giving a third-party access to all of my stored documents. I wanted to use it, but how.
 :page-image: /images/ifttt-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/ifttt-1.png[,role="text-center"]
+image::/images/ifttt-1.png[,role="text-center"]
 
 Yesterday link:https://twitter.com/IFTTT/statuses/243037845286182912[IFTTT announced that they were adding support for Google Drive]. I was initially excited. I could stop using Dropbox as a catch-all for all my link:http://ifttt.com[IFTTT] updates. There is a problem though, access to Google Drive is all or nothing. I haven't allowed the service access to my Gmail account, because I'm not really comfortable with another third-party company having access to my email archives. The Google Drive issue is also iffy for me. I don't necessarily feel secure giving a third-party access to all of my stored documents. I wanted to use it, but how.
 

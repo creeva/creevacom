@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was reading an article about Ice-T doing the Grammy show and how far rap has come over the last 50 years. I agree and it made me consider my own memories.
 :page-image: /images/fatboys-crushin.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/fatboys-crushin.jpg[,role="text-center"]
+image::/images/fatboys-crushin.jpg[,role="text-center"]
 
 I was reading an article about Ice-T doing the Grammy show and how far rap has come over the last 50 years. I agree and it made me consider my own memories.
 

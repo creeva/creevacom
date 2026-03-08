@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I have been saving my online data pretty much for three years. Most of it is backed up in email via some fashion or another. Some of it is stored in my blog. All of it is important. It is my history of that time span. It's my thoughts, my communications, and my media consumption. It is not a complete picture since it is only as good as what I place out in public or email via private. It is, however, a picture that echoes who I am. It is something that I will continue doing and will hopefully leave in good company to my family after I am gone in buried. They may however consider it trash and the only glimpses further generations out will get of me is via the web way back machine -- or the future equivalent. This opens up the question, what good is this data to me now?
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 I have been saving my online data pretty much for three years. Most of it is backed up in email via some fashion or another. Some of it is stored in my blog. All of it is important. It is my history of that time span. It's my thoughts, my communications, and my media consumption. It is not a complete picture since it is only as good as what I place out in public or email via private. It is, however, a picture that echoes who I am. It is something that I will continue doing and will hopefully leave in good company to my family after I am gone in buried. They may however consider it trash and the only glimpses further generations out will get of me is via the web way back machine -- or the future equivalent. This opens up the question, what good is this data to me now?
 

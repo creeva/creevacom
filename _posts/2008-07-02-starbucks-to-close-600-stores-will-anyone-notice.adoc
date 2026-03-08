@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Starbucks is closing 600 stores and laying off 12,000 people according to Reuters reporting. Is this really a problem? From the unemployment we may notice it, but from access to upper-class yuppie coffee will we? I read yesterday that someone in Portland, OR had 23 stores within 2 miles of their house. This guy has 43 within 5 miles and reports the highest density they have found is 170 stores around Broadway Ave in New York City.
 :page-image: /images/177302214_536665f681_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/177302214_536665f681_m.jpg[,role="text-center"]
+image::/images/177302214_536665f681_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/andrewmartin/177302214/[here]
 

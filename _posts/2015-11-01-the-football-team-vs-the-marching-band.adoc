@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Isn't it the eternal debate -- which is better, the Marching Band or the Football Team? Sometimes this is dependent on what school you went to. While we had a multitude of pride in our band, our town was all about football. There were other schools in the district that was all about the band. The quality and breadth of a football focus normally reflect on the football team (though my alma mater hasn't had a great season since my senior year). The inspiration and investment in a band program also heavily reflects in their quality.
 :page-image: /images/60957_446509856120_6861972_n-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/60957_446509856120_6861972_n-1.jpg[,role="text-center"]
+image::/images/60957_446509856120_6861972_n-1.jpg[,role="text-center"]
 
 Isn't it the eternal debate -- which is better, the Marching Band or the Football Team? Sometimes this is dependent on what school you went to. While we had a multitude of pride in our band, our town was all about football. There were other schools in the district that was all about the band. The quality and breadth of a football focus normally reflect on the football team (though my alma mater hasn't had a great season since my senior year). The inspiration and investment in a band program also heavily reflects in their quality.
 

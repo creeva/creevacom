@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Cross-posting to my livejournal account has been fixed. This was important to me since going from here, to livejournal, dandelife pulls in the information for my timeline widget there. It's all small and pretty much a petty thing, but it's part of my broadcasting to friends on other social networks. I still need to figure out why my crossposting to my MSN space isn't working. But all my other cross-posting functions are working.
 :page-image: /images/WordPress-Logo-1070x602.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/WordPress-Logo-1070x602.png[,role="text-center"]
+image::/images/WordPress-Logo-1070x602.png[,role="text-center"]
 
 Cross-posting to link:http://creeva.livejournal.com/[my livejournal] account has been fixed. This was important to me since going from here, to link:http://www.livejournal.com[livejournal], link:http://www.dandelife.com[dandelife] pulls in the information for my timeline widget there. It's all small and pretty much a petty thing, but it's part of my broadcasting to friends on other social networks. I still need to figure out why my crossposting to my MSN space isn't working. But all my other cross-posting functions are working.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: As I'm going through the daily journal generation script I previously mentioned, I made it to the point that I have most of what I can grab on a daily basis. I'm now working on "maybe one-day" items. So this led to Feedburner.com. You see, Feedburner and I go back a long time. Back when APIs were hard to come by and RSS feeds ruled the world -- I routed all my accounts through the Feedburner. It also has the advantage of generating daily emails of RSS items which I still have for historical tracking. I was using it as IFTTT before IFTTT was a thing. It was my central hub which I could manipulate data from.
 :page-image: /images/pexels-photo-801863-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pexels-photo-801863-1.jpeg[,role="text-center"]
+image::/images/pexels-photo-801863-1.jpeg[,role="text-center"]
 
 As I'm going through the daily journal generation script I previously mentioned, I made it to the point that I have most of what I can grab on a daily basis. I'm now working on "maybe one-day" items. So this led to Feedburner.com. You see, Feedburner and I go back a long time. Back when APIs were hard to come by and RSS feeds ruled the world -- I routed all my accounts through the Feedburner. It also has the advantage of generating daily emails of RSS items which I still have for historical tracking. I was using it as IFTTT before IFTTT was a thing. It was my central hub which I could manipulate data from.
 

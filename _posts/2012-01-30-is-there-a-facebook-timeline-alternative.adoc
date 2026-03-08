@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So last week I started filling out my Facebook timeline. The idea behind it is pretty cool in the sense you give yourself a time machine to look back at your life. I like the presentation and most of the options (some things are lacking). Overall it is a good experience, though I know many hate it. All the information it is displaying was there before -- it just is in an easier presentation method.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 So last week I started filling out my Facebook timeline. The idea behind it is pretty cool in the sense you give yourself a time machine to look back at your life. I like the presentation and most of the options (some things are lacking). Overall it is a good experience, though I know many hate it. All the information it is displaying was there before -- it just is in an easier presentation method.
 

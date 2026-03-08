@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The other day I wrote a piece on the Chick-Fil-A item going on around. I did get one fact wrong (and commented on the piece stating as such), that they are a private and not a public company. That out of the way, it is time to take a stance one way or the other.
 :page-image: /images/3535325944_e05497699a-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3535325944_e05497699a-1.jpeg[,role="text-center"]
+image::/images/3535325944_e05497699a-1.jpeg[,role="text-center"]
 
 The other day I wrote a piece on the Chick-Fil-A item going on around. I did get one fact wrong (and commented on the piece stating as such), that they are a private and not a public company. That out of the way, it is time to take a stance one way or the other.
 

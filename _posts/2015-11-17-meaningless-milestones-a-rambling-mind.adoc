@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Milestones are how we mark certain aspects of our lives that meaning. Some are meaningful and some are meaningless. A perfect example of important milestones is the ones associated with growing up. The first day of kindergarten, hitting puberty, being able to drive a car, graduating, turning 18, turning 21 -- these are all things that everyone experiences and can identify with you on. Other things like starting a new job or hitting a goal weight are just as meaningful. The only thing that separates them from standard life experiences is that not everyone can identify with them in the same way.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Milestones are how we mark certain aspects of our lives that meaning. Some are meaningful and some are meaningless. A perfect example of important milestones is the ones associated with growing up. The first day of kindergarten, hitting puberty, being able to drive a car, graduating, turning 18, turning 21 -- these are all things that everyone experiences and can identify with you on. Other things like starting a new job or hitting a goal weight are just as meaningful. The only thing that separates them from standard life experiences is that not everyone can identify with them in the same way.
 

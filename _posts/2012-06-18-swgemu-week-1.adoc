@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: t has been one full week that I have been in the Emu. What I want to do keeps changing in the game. I was going to grind up Rifleman, but I didn't have a rifle yet. I decided to use my CDEF pistol and grind up that line for now. Unfortunately, everything in the game hits a lot hard than I remember.
 :page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+image::/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
 
 t has been one full week that I have been in the Emu. What I want to do keeps changing in the game. I was going to grind up Rifleman, but I didn't have a rifle yet. I decided to use my CDEF pistol and grind up that line for now. Unfortunately, everything in the game hits a lot hard than I remember.
 

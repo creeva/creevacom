@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I'm a geek. There is no doubt or question about that. We've established this now, let's move forward. I had a great idea today. I was going to hook up a Bluetooth adapter to my windows file server at home and make a blue tooth file server at home. I also wanted to be uber geeky and send a welcome message via blue tooth to any new blue tooth devices that came within range.
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 I'm a geek. There is no doubt or question about that. We've established this now, let's move forward. I had a great idea today. I was going to hook up a Bluetooth adapter to my windows file server at home and make a blue tooth file server at home. I also wanted to be uber geeky and send a welcome message via blue tooth to any new blue tooth devices that came within range.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A couple of news sources are reporting today (here, here, and here) that the LA Times is suspending its program of using a wiki for editorials. Now in a controlled environment like Wikipedia where they have the volunteers to handle un-authorized edits, wiki's can be a great thing. In the hands of exposing your edits to the audience of a major newspaper -- I wouldn't have gone that route.
 :page-image: /images/1087784387_6d9c189214_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1087784387_6d9c189214_m.jpg[,role="text-center"]
+image::/images/1087784387_6d9c189214_m.jpg[,role="text-center"]
 
 Picture from link:http://flickr.com/photos/ari/1087784387/[here]
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I stopped by a flea market the other day. They had a sign in front that said they had offered game consoles for sale. Being a collector of video games past, present, and future I had meant to stop for a couple of months now but never had a chance or it was too late in the day to be open. However, I eventually managed to stop
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 I stopped by a flea market the other day. They had a sign in front that said they had offered game consoles for sale. Being a collector of video games past, present, and future I had meant to stop for a couple of months now but never had a chance or it was too late in the day to be open. However, I eventually managed to stop
 

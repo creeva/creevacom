@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Currently, I've managed to disseminate my blog articles to several different blogs (coming in how localhost/WordPress works part 3). One thing I'm looking for is a way to sync photographs from multiple sites. Like using WordPress as my front end to multiple sites, I truly love Flickr and its tools and plans on always using it as my primary photo storage site. I could manually upload to other sites I use, but what fun is that? Making everything work behind the scenes by itself is one of my sick little pleasures.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Currently, I've managed to disseminate my blog articles to several different blogs (coming in how localhost/WordPress works part 3). One thing I'm looking for is a way to sync photographs from multiple sites. Like using WordPress as my front end to multiple sites, I truly love Flickr and its tools and plans on always using it as my primary photo storage site. I could manually upload to other sites I use, but what fun is that? Making everything work behind the scenes by itself is one of my sick little pleasures.
 

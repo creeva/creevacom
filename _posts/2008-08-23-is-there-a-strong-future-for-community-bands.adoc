@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I've done the community band circuit for a year now and I've played with two community bands. The one thing I have noticed is that the bands don't really seem to be growing. When they do grow it's usually by an older member who decides to join the band. The youth market seems to be completely disenfranchised. I can understand part of that, though I declined to join the VCMA when it was first formed due to not liking the director. It wasn't because I didn't want to play, I still had the yearly Vermilion Alumni Band to play in, then I moved to Oregon. While there I hardly ever pulled out my trumpet and when I did it was just for a half-hour stint every few months. My lips didn't have the range or stamina they once did. After blowing out my lip the last couple of years at Alumni after moving back to Ohio, I decided I need to bring more regular playing into my life. This led me to a community band. Since I am young(er) I have had a different perspective on the band.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 I've done the community band circuit for a year now and I've played with two community bands. The one thing I have noticed is that the bands don't really seem to be growing. When they do grow it's usually by an older member who decides to join the band. The youth market seems to be completely disenfranchised. I can understand part of that, though I declined to join the VCMA when it was first formed due to not liking the director. It wasn't because I didn't want to play, I still had the yearly Vermilion Alumni Band to play in, then I moved to Oregon. While there I hardly ever pulled out my trumpet and when I did it was just for a half-hour stint every few months. My lips didn't have the range or stamina they once did. After blowing out my lip the last couple of years at Alumni after moving back to Ohio, I decided I need to bring more regular playing into my life. This led me to a community band. Since I am young(er) I have had a different perspective on the band.
 
@@ -78,7 +78,7 @@ I've gotten the link:http://vcma.net[VCMA website] in a stable place. I can quic
 
 In my band, I'm still considered just a kid, though my father had his fourth child by my age. I'm too young for them to be anything but a kid so what do I know? I'm too old for any of the young people to truly listen to me, plus I'm over thirty so I'm too young to be trusted. If we go by link:http://craphound.com/[Cory Doctorow]'s book link:http://craphound.com/littlebrother/[_Little Brother_] -- they don't trust anyone over 22. Somehow I'm stuck in the adult version of the tweens. So no one will truly pay attention, but that doesn't mean this shouldn't be said.
 
-image::/testsite/images/448431787_765075e244.jpg[,role="text-center"]
+image::/images/448431787_765075e244.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/mfajardo/448431787/[here]
 

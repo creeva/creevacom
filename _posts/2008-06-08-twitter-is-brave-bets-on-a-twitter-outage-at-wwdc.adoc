@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: It seems that Twitter is a being a little excited about the next big tech event, WWDC (World Wide Developers Conference -- it's an Apple thing). I first got the news from the Techcrunch article linked above, but it seems that Twitter made an announcement that there will be no downtime tomorrow -- I call shenanigans. They outlined the precautions in this article, among them are the following&#58;
 :page-image: /images/cloud-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cloud-1.jpg[,role="text-center"]
+image::/images/cloud-1.jpg[,role="text-center"]
 
 It seems that link:http://www.twitter.com[Twitter] is a being a little excited about the next big tech event, link:http://developer.apple.com/wwdc/%20[WWDC] (World Wide Developers Conference -- it's an Apple thing). I first got the news from the Techcrunch article linked above, but it seems that Twitter made an announcement that there will be no downtime tomorrow -- I call shenanigans. They outlined the precautions link:http://blog.twitter.com/2008/06/twitterapple.html[in this article], among them are the following:
 

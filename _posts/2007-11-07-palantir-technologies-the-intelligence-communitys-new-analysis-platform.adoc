@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The Intelligence Community's New Analysis Platform is the webinar I am attending today. It is hosted by Carahsoft -- the same people who hosted the Symantec Webinar I attended. The company whose products this is about is called Palantir Technologies. They have widespread financial and government data analysis tools. Today's webinar focuses on the government sectors.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 link:http://www.carahsoft.com/events/palantir/11-07-07/palantir11-07-07.html[The Intelligence Community's New Analysis Platform] is the webinar I am attending today. It is hosted by link:http://www.carahsoft.com/[Carahsoft] -- the same people who hosted the Symantec Webinar I attended. The company whose products this is about is called Palantir Technologies. They have widespread financial and government data analysis tools. Today's webinar focuses on the government sectors.
 

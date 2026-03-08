@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I know most people don't care about this post, but I don't want to ever hunt for the information again. Hopefully, this helps someone out.
 :page-image: /images/39150253_5ded166fe1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+image::/images/39150253_5ded166fe1.jpg[,role="text-center"]
 
 I know most people don't care about this post, but I don't want to ever hunt for the information again. Hopefully, this helps someone out.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: On Saturday Ghoulishcharm, Xie Lanthia, and myself went to NASA's Glenn Research Center Open house celebration. They were throwing this in celebration of 50 years of NASA. We had been planning to go for a few weeks and we managed to make it. This is out of the realm of normality for us. Xie and I woke up early (for a Saturday) and got around taking care of the pets, eating a snack, and getting out the door surprisingly well. We actually left when we were planning on leaving. We drove an hour to go pick up Ghoulish and proceeded on the hour drive to NASA, all three in a Miata (don't ask but I can say it involved clowns and midgets).
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 On Saturday Ghoulishcharm, link:http://twitter.com/XieLanthia[Xie Lanthia], and link:http://twitter.com/creeva[myself] went to NASA's Glenn Research Center Open house celebration. They were throwing this in celebration of 50 years of NASA. We had been planning to go for a few weeks and we managed to make it. This is out of the realm of normality for us. Xie and I woke up early (for a Saturday) and got around taking care of the pets, eating a snack, and getting out the door surprisingly well. We actually left when we were planning on leaving. We drove an hour to go pick up Ghoulish and proceeded on the hour drive to NASA, all three in a Miata (don't ask but I can say it involved clowns and midgets).
 

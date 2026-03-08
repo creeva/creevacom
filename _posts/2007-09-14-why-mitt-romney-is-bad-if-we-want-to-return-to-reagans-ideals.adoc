@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Most of the Republicans on the ticket keep trying to summon the ghost of Ronald Reagan. This is not surprising since he was voted the greatest American that ever lived. Reading through Reagan's autobiography I was surprised to see a Romney who was trying to get the republican nomination in 1968. George Romney (Mitt's father) had run and lost the nomination to Richard Nixon.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 Most of the Republicans on the ticket keep trying to summon the ghost of Ronald Reagan. This is not surprising since he was voted the greatest American that ever lived. Reading through Reagan's autobiography I was surprised to see a Romney who was trying to get the republican nomination in 1968. link:http://en.wikipedia.org/wiki/George_W._Romney[George Romney] (Mitt's father) had run and lost the nomination to Richard Nixon.
 

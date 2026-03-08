@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Was it worth it? That's a silly question. It is always worth it. Who really needs a class reunion when you get to have a regular reunion every year? This was the first time (except when I first joined the Alumni Band) that there wasn't a single song in the show that I had played before. I took this opportunity to play second and third trumpets on every piece that wasn't included in the "standards" (Fight Song/Anchor's Away, Fanfare, Alma Mater, and The Star Spangled Banner).
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Was it worth it? That's a silly question. It is always worth it. Who really needs a class reunion when you get to have a regular reunion every year? This was the first time (except when I first joined the Alumni Band) that there wasn't a single song in the show that I had played before. I took this opportunity to play second and third trumpets on every piece that wasn't included in the "standards" (Fight Song/Anchor's Away, Fanfare, Alma Mater, and The Star Spangled Banner).
 

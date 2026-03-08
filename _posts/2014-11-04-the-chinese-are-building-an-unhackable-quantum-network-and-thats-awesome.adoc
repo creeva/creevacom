@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Earlier today I received an email from a public relations person that I work with. The only text was "Scary" and this was the Hyperlink --
 :page-image: /images/file0001628037487-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/file0001628037487-1.jpg[,role="text-center"]
+image::/images/file0001628037487-1.jpg[,role="text-center"]
 
 Earlier today I received an email from a public relations person that I work with. The only text was "Scary" and this was the Hyperlink --
 

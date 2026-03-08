@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Sometimes things aren't obvious being obsolete in the world of computers. If you are a Windows user it's completely obvious that you are using an older version of windows immediately when you start using it. Whether the signs are when you sit down and see Windows 98 striped across the start menu or the older version of Internet Explorer 5.0 that starts up, you catch these things and it is noticeable. The same thing also holds true for Linux, but this is more of aesthetic issues that become apparent, usually graphic issues that are sorted out on newer versions you catch on the older ones.
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 Sometimes things aren't obvious being obsolete in the world of computers. If you are a Windows user it's completely obvious that you are using an older version of windows immediately when you start using it. Whether the signs are when you sit down and see Windows 98 striped across the start menu or the older version of Internet Explorer 5.0 that starts up, you catch these things and it is noticeable. The same thing also holds true for Linux, but this is more of aesthetic issues that become apparent, usually graphic issues that are sorted out on newer versions you catch on the older ones.
 

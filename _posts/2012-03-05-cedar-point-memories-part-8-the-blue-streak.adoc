@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The Blue Streak was built in 1964. I wouldn't rate it as being one of my favorite roller coasters. It is however a classic. The Blue Streak (followed by the Mean Streak) taught me that I'm not the largest fan of wooden roller coasters. The ride is rough though.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 The Blue Streak was built in 1964. I wouldn't rate it as being one of my favorite roller coasters. It is however a classic. The Blue Streak (followed by the Mean Streak) taught me that I'm not the largest fan of wooden roller coasters. The ride is rough though.
 

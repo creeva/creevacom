@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: We've had a good couple of years. I don't want to breakup, we will always be friends. I do say I hang out with Myspace sometimes, but they are not as interesting as you. What I'm having though is questions about our relationship. If something should happen to you, what am I going to do about all the data I've lent you over the years? I have no assurance that I will be getting back in any form. Right before we went to the funeral for Pownce, Pownce was nice enough to give me back all the data that I had lent to it over time. This was very nice of them. They have even started the wave of other web companies opening up and handing out their data before closing their doors.
 :page-image: /images/2077892948_656f5f96a9.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2077892948_656f5f96a9.jpg[,role="text-center"]
+image::/images/2077892948_656f5f96a9.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/avlxyz/2077892948/[here]
 

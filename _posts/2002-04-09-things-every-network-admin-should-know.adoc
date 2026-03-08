@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: These are private notes that came out of exasperation when I worked as phone support.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 These are private notes that came out of exasperation when I worked as phone support.
 

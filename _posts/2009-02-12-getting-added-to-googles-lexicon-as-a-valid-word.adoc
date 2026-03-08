@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: What a long strange trip it's been. Back before I started a blog, I was just a person on the swg forum with the name Creeva in his signature. I did a random Google search and I had less than 100 entries, about 3 years ago I was still stuck at 419 entries. These days my number fluctuates for 20k-60K entries in Google depending on the day. I'm still proud of having the number one entry in Google for "the greatest accomplishment of mankind" and not so happy about being number one for "afk entertainer" (UPDATE ON THE SECOND ONE -- I've been bumped to number 2 -- yay me). One thing always bothered me when I started this trip of seeding Google, the fact that originally when I searched for "Creeva" Google sent me back the suggestion "Did you mean Creeval?" -- this continued on when I had more hits for Creeva in the database then existed for Creeval.
 :page-image: /images/108805307_c43af20f59.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+image::/images/108805307_c43af20f59.jpg[,role="text-center"]
 
 What a long strange trip it's been. Back before I started a blog, I was just a person on the link:http://www.starwarsgalaxies.com[swg] forum with the name link:https://creeva.com[Creeva] in his signature. I did a random link:http://google.com[Google] search and I had less than 100 entries, about 3 years ago I was still stuck at 419 entries. These days link:http://www.google.com/search?hl=en&q=creeva&btnG=Google+Search&aq=f&oq=[my number fluctuates for 20k-60K entries in Google] depending on the day. I'm still proud of having the number one entry in Google for "the greatest accomplishment of mankind" and not so happy about being number one for "link:http://www.google.com/search?hl=en&q=afk+entertainer&btnG=Search[afk entertainer]" (UPDATE ON THE SECOND ONE -- I've been bumped to number 2 -- yay me). One thing always bothered me when I started this trip of seeding Google, the fact that originally when I searched for "Creeva" Google sent me back the suggestion "Did you mean _Creeval_?" -- this continued on when I had more hits for Creeva in the database then existed for Creeval.
 

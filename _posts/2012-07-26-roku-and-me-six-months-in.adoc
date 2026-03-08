@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: A few months ago I wrote about my initial reactions to my Roku box. I'm a bit easier on it now. Shortly after writing that piece, we stopped using Roku. My jailbroken Apple TV2 ruled the roost on the TV, and I wasn't using the Roku to watch Amazon Prime (the reason we purchased it). We did, however, purchase a new TV earlier this month. This meant we once again had a TV in our bedroom. The ATV2 stayed downstairs, so it was time to give the Roku another chance.
 :page-image: /images/64247370_214a799ece.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/64247370_214a799ece.jpg[,role="text-center"]
+image::/images/64247370_214a799ece.jpg[,role="text-center"]
 
 A few months ago I wrote about my initial reactions to my Roku box. I'm a bit easier on it now. Shortly after writing that piece, we stopped using Roku. My jailbroken Apple TV2 ruled the roost on the TV, and I wasn't using the Roku to watch Amazon Prime (_the reason we purchased it_). We did, however, purchase a new TV earlier this month. This meant we once again had a TV in our bedroom. The ATV2 stayed downstairs, so it was time to give the Roku another chance.
 

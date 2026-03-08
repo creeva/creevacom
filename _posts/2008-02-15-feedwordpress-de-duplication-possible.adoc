@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I had my hopes up that feedwordpress had updated their plugin to handle duplicate posts. At one point a couple of months ago I thought feedwordpress was going to be my life caching savior. The goal of feedwordpress is to pull in RSS feed items immediately and post them into your WordPress blog. After a couple of weeks of testing it, I saw massive duplication from RSS feed items. It took me hours to clean up duplicate posts and I'm sure all my Twitter followers just loved being spammed to high heaven.
 :page-image: /images/WordPress-Logo-1070x602.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/WordPress-Logo-1070x602.png[,role="text-center"]
+image::/images/WordPress-Logo-1070x602.png[,role="text-center"]
 
 I had my hopes up that feedwordpress had updated their plugin to handle duplicate posts. At one point a couple of months ago I thought feedwordpress was going to be my life caching savior. The goal of feedwordpress is to pull in RSS feed items immediately and post them into your WordPress blog. After a couple of weeks of testing it, I saw massive duplication from RSS feed items. It took me hours to clean up duplicate posts and I'm sure all my Twitter followers just loved being spammed to high heaven.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Since Ocean Motion now occupies the old Demon Drop site, I thought this would be the best follow-up to the last story. When I was young I always enjoyed Ocean Motion. It's a giant swinging ride shaped like a Viking ship. I started riding this whatever year I became tall enough.
 :page-image: /images/100_8116__medium__0-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/100_8116__medium__0-1.jpg[,role="text-center"]
+image::/images/100_8116__medium__0-1.jpg[,role="text-center"]
 
 Since Ocean Motion now occupies the old Demon Drop site, I thought this would be the best follow-up to the last story. When I was young I always enjoyed Ocean Motion. It's a giant swinging ride shaped like a Viking ship. I started riding this whatever year I became tall enough.
 

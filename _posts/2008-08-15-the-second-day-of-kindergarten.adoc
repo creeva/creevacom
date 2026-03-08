@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I would write about the first day of kindergarten, except I don't remember that. I'm assuming on the first day of kindergarten I came home and didn't like it very much. On the second day however it was a different story. I remember my mother driving me to school and parking up near the door. For some reason, I was late to school (on my second day ever -- thanks mom), and I didn't want to go in. I was kicking and screaming and refusing to leave the car.
 :page-image: /images/535085503_a1a24ebe98_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/535085503_a1a24ebe98_m.jpg[,role="text-center"]
+image::/images/535085503_a1a24ebe98_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/swisscan/535085503/[here]
 

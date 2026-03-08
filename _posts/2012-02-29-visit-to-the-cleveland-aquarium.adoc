@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: As part of Lex's birthday weekend, we went to the Greater Cleveland Aquarium. This year we didn't do the whole birthday party thing. Last year we went on a train ride and had dinner at IHOP. We invited along family and ten of us mingled through the aquarium. We managed to get my father, my stepmother, two of my brothers, Xie's parents and Brian to come along.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 As part of Lex's birthday weekend, we went to the link:http://greaterclevelandaquarium.com/[Greater Cleveland Aquarium]. This year we didn't do the whole birthday party thing. Last year we went on a train ride and had dinner at IHOP. We invited along family and ten of us mingled through the aquarium. We managed to get my father, my stepmother, two of my brothers, Xie's parents and Brian to come along.
 

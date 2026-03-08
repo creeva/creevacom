@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Not a month goes by where someone I know hasn't broken a phone or lost pictures on their computer. I would say about 80% of the time a solution is found and they manage to get the images back. I'm sure it is a massive heart attack as they try different things, all in hopes of recovering the pictures of your child's first steps that only exist on your phone. It's a monthly Facebook freak-out from someone on my friend list.
 :page-image: /images/Untitled_22389441676_o-e1446483354548-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Untitled_22389441676_o-e1446483354548-1.jpg[,role="text-center"]
+image::/images/Untitled_22389441676_o-e1446483354548-1.jpg[,role="text-center"]
 
 Not a month goes by where someone I know hasn't broken a phone or lost pictures on their computer. I would say about 80% of the time a solution is found and they manage to get the images back. I'm sure it is a massive heart attack as they try different things, all in hopes of recovering the pictures of your child's first steps that only exist on your phone. It's a monthly Facebook freak-out from someone on my friend list.
 

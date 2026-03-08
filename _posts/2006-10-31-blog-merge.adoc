@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Ok, I took all my blogs -- with the exception of SNN, and migrated them all into this page. Hopefully, this will give a more concise reading experience to my friends, family, and suffering folks that read my writings.
 :page-image: /images/200px-Feed-icon.svg1_-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/200px-Feed-icon.svg1_-1.png[,role="text-center"]
+image::/images/200px-Feed-icon.svg1_-1.png[,role="text-center"]
 
 Ok, I took all my blogs -- with the exception of link:http://stars-of-intrepid.blogspot.com/[SNN], and migrated them all into this page. Hopefully, this will give a more concise reading experience to my friends, family, and suffering folks that read my writings.
 

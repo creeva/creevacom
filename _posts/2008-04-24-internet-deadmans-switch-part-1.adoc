@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: One thing I've been working on for a while is an Internet Deadman's Switch. With all of my crossposting and media re-usage activities in the grand scheme, this should be fairly trivial. I am sure however that some things will slip me up. We'll start in this section by identifying the goals I wish to accomplish and working through some of the stages in part two.
 :page-image: /images/53424426_aac16f46ae.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/53424426_aac16f46ae.jpg[,role="text-center"]
+image::/images/53424426_aac16f46ae.jpg[,role="text-center"]
 
 One thing I've been working on for a while is an Internet link:http://en.wikipedia.org/wiki/Deadman%27s_switch[Deadman's Switch]. With all of my crossposting and media re-usage activities in the grand scheme, this should be fairly trivial. I am sure however that some things will slip me up. We'll start in this section by identifying the goals I wish to accomplish and working through some of the stages in part two.
 

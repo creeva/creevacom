@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Two nights ago my wife and were in the hotel sharing a room with my son. The last time this happened my son stayed up most of the night since my wife and I couldn't fall asleep early. So this time we both brought bluetooth headphones and were going to watch Netflix. Since my son was on the sofa bed, we could position the laptop to not keep him awake. We thought this was going to be an easy exercise, but it was harder than we thought. After 30-40 minutes we had the whole thing working. I thought I would write it up so no one else had to go through this.
 :page-image: /images/39150253_5ded166fe1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+image::/images/39150253_5ded166fe1.jpg[,role="text-center"]
 
 Two nights ago my wife and were in the hotel sharing a room with my son. The last time this happened my son stayed up most of the night since my wife and I couldn't fall asleep early. So this time we both brought bluetooth headphones and were going to watch Netflix. Since my son was on the sofa bed, we could position the laptop to not keep him awake. We thought this was going to be an easy exercise, but it was harder than we thought. After 30-40 minutes we had the whole thing working. I thought I would write it up so no one else had to go through this.
 

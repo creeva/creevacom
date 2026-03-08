@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: This is just a friendly reminder to everyone in the online nether regions. You hear all the time about people quitting Facebook, MySpace, blogger, etc. There is a problem with that. Most of the time when you delete your account from these services your username is now free. This means anyone else in the world can sign up for that username and then receive emails from you, impersonate you, etc. It is simply better to wipe off as much information as you can and then just stop using the account.
 :page-image: /images/346519139_4af4e316de.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/346519139_4af4e316de.jpg[,role="text-center"]
+image::/images/346519139_4af4e316de.jpg[,role="text-center"]
 
 This is just a friendly reminder to everyone in the online nether regions. You hear all the time about people quitting Facebook, MySpace, blogger, etc. There is a problem with that. Most of the time when you delete your account from these services your username is now free. This means anyone else in the world can sign up for that username and then receive emails from you, impersonate you, etc. It is simply better to wipe off as much information as you can and then just stop using the account.
 

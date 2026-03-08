@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: At work, I just overheard one lady telling another guy to get in the twenty-first century and get cable. Now it is just maybe me, but in my mind cable is very twentieth-century technology. Sure they can gussy it up and take it out to the party by saying "BUT IT'S NOW IN HD!!!!" but the cable is still showing its age.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 At work, I just overheard one lady telling another guy to get in the twenty-first century and get cable. Now it is just maybe me, but in my mind cable is very twentieth-century technology. Sure they can gussy it up and take it out to the party by saying "BUT IT'S NOW IN HD!!!!" but the cable is still showing its age.
 

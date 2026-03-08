@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Cedar Point was a large part of my childhood. It almost seems like a constant in my life, old stability that you grew up with and will always remember fondly. I'm guessing people in Orlando feel the same way about Disney World. This was different. Cedar Point was the king of coasters. It gives the thrills in the same way Disney gives the magic. It's a different experience, and at some point, it essentially became a clubhouse.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 link:http://www.cedarpoint.com[Cedar Point] was a large part of my childhood. It almost seems like a constant in my life, old stability that you grew up with and will always remember fondly. I'm guessing people in Orlando feel the same way about Disney World. This was different. Cedar Point was the king of coasters. It gives the thrills in the same way Disney gives the magic. It's a different experience, and at some point, it essentially became a clubhouse.
 

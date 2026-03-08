@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A couple of days ago I asked the blogosphere if I should I get an N810 and like the blogosphere normally answers I got nothing back. That's fine, I'm used to talking to myself on my blog. However, I decided that I would give it a go. I knew that if things didn't work out I would return it. It arrived last night and I thought I would describe what I went through. It is also interesting that this morning from the blogosphere I got a comment on my article that was crossposted to my vox blog (hey I'm sorry vox users get weird characters).
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 A couple of days ago I asked the blogosphere if I should I get an N810 and like the blogosphere normally answers I got nothing back. That's fine, I'm used to talking to myself on my blog. However, I decided that I would give it a go. I knew that if things didn't work out I would return it. It arrived last night and I thought I would describe what I went through. It is also interesting that this morning from the blogosphere I got a comment on my article that was crossposted to my vox blog (hey I'm sorry vox users get weird characters).
 

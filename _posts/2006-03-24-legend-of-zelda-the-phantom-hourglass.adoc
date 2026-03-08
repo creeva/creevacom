@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Just watched the video, if I don't get off my butt to get DS because of the new Super Mario Bros. game I will get it for this.
 :page-image: /images/The_Legend_of_Zelda_Phantom_Hourglass_Game_Cover-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/The_Legend_of_Zelda_Phantom_Hourglass_Game_Cover-1.jpg[,role="text-center"]
+image::/images/The_Legend_of_Zelda_Phantom_Hourglass_Game_Cover-1.jpg[,role="text-center"]
 
 Just watched the video, if I don't get off my butt to get DS because of the new Super Mario Bros. game I will get it for this.
 

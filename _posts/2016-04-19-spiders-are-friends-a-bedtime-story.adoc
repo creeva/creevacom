@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: This story started out as a Facebook post by my wife. I thought I would expand upon it and turn it into a story for my son. This is what I'm going to read to him for the bedtime story tonight.
 :page-image: /images/tiger-spider-13773658076EA-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/tiger-spider-13773658076EA-1.jpg[,role="text-center"]
+image::/images/tiger-spider-13773658076EA-1.jpg[,role="text-center"]
 
 _This story started out as a Facebook post by my wife. I thought I would expand upon it and turn it into a story for my son. This is what I'm going to read to him for the bedtime story tonight._
 

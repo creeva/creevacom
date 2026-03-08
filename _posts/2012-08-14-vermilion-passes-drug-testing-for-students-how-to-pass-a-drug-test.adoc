@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Yesterday I was heated against the Vermilion School Board passing possible drug testing. Vermilion is my Alma Mater, but I don't live in Vermilion. This directive does not affect me. That doesn't mean I don't believe in the right to privacy that has been codified in the constitution. It didn't help that I was spun up from this act passing that I watched an episode of the West Wing that covered drug testing and privacy rights. Last night was the perfect storm of outrage that I couldn't fall asleep until almost 3 AM.
 :page-image: /images/2854766045_bb32209626-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2854766045_bb32209626-1.jpeg[,role="text-center"]
+image::/images/2854766045_bb32209626-1.jpeg[,role="text-center"]
 
 Yesterday I was heated against the Vermilion School Board passing possible drug testing. Vermilion is my Alma Mater, but I don't live in Vermilion. This directive does not affect me. That doesn't mean I don't believe in the right to privacy that has been codified in the constitution. It didn't help that I was spun up from this act passing that I watched an episode of the West Wing that covered drug testing and privacy rights. Last night was the perfect storm of outrage that I couldn't fall asleep until almost 3 AM.
 

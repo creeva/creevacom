@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: When I was four years old I really wanted to see Flash Gordon, even at that young age I was a sci-fi junkie. Neither of my parents however was too keen on seeing this, I think the answer was always no. I'm not sure why -- I think Queen was still popular at the time. I know that it was based on pop ideals and all in all it wasn't that great of the movie -- but geeze when your four-year-old is obsessed with something this small and it isn't going to hurt him in any way, indulge him.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 When I was four years old I really wanted to see link:http://www.imdb.com/title/tt0080745/[Flash Gordon], even at that young age I was a sci-fi junkie. Neither of my parents however was too keen on seeing this, I think the answer was always no. I'm not sure why -- I think Queen was still popular at the time. I know that it was based on pop ideals and all in all it wasn't that great of the movie -- but geeze when your four-year-old is obsessed with something this small and it isn't going to hurt him in any way, indulge him.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Yes, I know that this software is available for a while. I actually had it months ago until Netflix stopped working on my Apple TV2(for the rest of the post the Apple TV2 will be referred to as ATV). When Netflix stopped working I was forced to try and upgrade the firmware. Unfortunately, this fixed the problem and left me without XBMC. I didn't really need to have time to dig into it before, but I'm in a completely different spot right now for my media needs. So let's get into this.
 :page-image: /images/25241898_aa45084bd8.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/25241898_aa45084bd8.jpg[,role="text-center"]
+image::/images/25241898_aa45084bd8.jpg[,role="text-center"]
 
 Yes, I know that this software is available for a while. I actually had it months ago until Netflix stopped working on my link:http://www.apple.com/appletv/[Apple TV2](for the rest of the post the Apple TV2 will be referred to as ATV). When Netflix stopped working I was forced to try and upgrade the firmware. Unfortunately, this fixed the problem and left me without XBMC. I didn't really need to have time to dig into it before, but I'm in a completely different spot right now for my media needs. So let's get into this.
 

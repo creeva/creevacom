@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: When I wrote up the piece on backing up your photos I mentioned how this is a regular complaint on Facebook. The other thing that I don't understand in this era is losing contacts. Currently, in my cleaned and trimmed address book, I have over 2600 contacts. At my high point, I had over 4000, until I standardized, cleaned up, and backed up everything. I took the pain so you don't have to. This article should give you a shortcut for what took me many years to learn.
 :page-image: /images/108805307_c43af20f59.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+image::/images/108805307_c43af20f59.jpg[,role="text-center"]
 
 When I wrote up the piece on backing up your photos I mentioned how this is a regular complaint on Facebook. The other thing that I don't understand in this era is losing contacts. Currently, in my cleaned and trimmed address book, I have over 2600 contacts. At my high point, I had over 4000, until I standardized, cleaned up, and backed up everything. I took the pain so you don't have to. This article should give you a shortcut for what took me many years to learn.
 

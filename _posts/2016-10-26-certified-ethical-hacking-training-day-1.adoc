@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Today I started taking the training courses for the Certified Ethical Hacker training. Until today, I've been working on reading through the manuals and other books. I wanted to write about it, just to lock some of the training to a point in time for my memory. The online training is a little kludgy on how they approach things. You have to sign up for four accounts -- your video training account, your transcender account (which doesn't work on OSX/Chrome combo, so I'll need to troubleshoot that), a site for your courseware to download (I'm still downloading, about 30GB or more), and the virtual labs account.
 :page-image: /images/ceh-center-text-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/ceh-center-text-1.png[,role="text-center"]
+image::/images/ceh-center-text-1.png[,role="text-center"]
 
 Today I started taking the training courses for the Certified Ethical Hacker training. Until today, I've been working on reading through the manuals and other books. I wanted to write about it, just to lock some of the training to a point in time for my memory. The online training is a little kludgy on how they approach things. You have to sign up for four accounts -- your video training account, your transcender account (which doesn't work on OSX/Chrome combo, so I'll need to troubleshoot that), a site for your courseware to download (I'm still downloading, about 30GB or more), and the virtual labs account.
 

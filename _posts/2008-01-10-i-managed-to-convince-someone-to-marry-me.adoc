@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I had purchased a second-hand suit and she wore a simple dress (she rarely wears dresses). We had arranged a few weeks before to go down to the Elyria City Offices for our marriage certificate and managed to get up and around to go to the mayor's office. Ironically getting married by the mayor had its unique appeal, few people did it, we managed to keep our ceremony private, and it gives it the old-time feel of years gone past.
 :page-image: /images/love-1317028-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/love-1317028-1.jpg[,role="text-center"]
+image::/images/love-1317028-1.jpg[,role="text-center"]
 
 I had purchased a second-hand suit and she wore a simple dress (she rarely wears dresses). We had arranged a few weeks before to go down to the Elyria City Offices for our marriage certificate and managed to get up and around to go to the mayor's office. Ironically getting married by the mayor had its unique appeal, few people did it, we managed to keep our ceremony private, and it gives it the old-time feel of years gone past.
 

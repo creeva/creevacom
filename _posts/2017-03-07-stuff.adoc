@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I have a few friends that like the minimalistic lifestyle. Believe it or not, so do I. Obviously, if you looked into my office, you would go "Oh My God, you are a hoarder". I don't deny that at all, but at some point, there is a difference between artifacts and "stuff".
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I have a few friends that like the minimalistic lifestyle. Believe it or not, so do I. Obviously, if you looked into my office, you would go "Oh My God, you are a hoarder". I don't deny that at all, but at some point, there is a difference between artifacts and "stuff".
 

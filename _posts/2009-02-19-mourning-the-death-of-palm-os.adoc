@@ -4,21 +4,21 @@
 :page-categories: geekery
 :page-excerpt: I wrote yesterday about trying to find a solution to turn my Palm TX into a Bluetooth file server. So far no answers, but I wanted to record my history with Palm OS. Palm software has been part of my life for over nine years now, through a total of 3 different devices I have had a long history of trying to make it work and do what I wanted it to do. I didn't eventually reach Palm nirvana until the TX, but I made due in one way or the other.
 :page-image: /images/41F2ERN3SVL._SS400_.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/41F2ERN3SVL._SS400_.jpg[,role="text-center"]
+image::/images/41F2ERN3SVL._SS400_.jpg[,role="text-center"]
 
 I wrote yesterday about trying to find a solution to turn my Palm TX into a Bluetooth file server. So far no answers, but I wanted to record my history with Palm OS. Palm software has been part of my life for over nine years now, through a total of 3 different devices I have had a long history of trying to make it work and do what I wanted it to do. I didn't eventually reach Palm nirvana until the TX, but I made due in one way or the other.
 
-image::/testsite/images/41F2ERN3SVL._SS400_.jpg[,role="text-center"]
+image::/images/41F2ERN3SVL._SS400_.jpg[,role="text-center"]
 
 My first Palm-based device was the Handspring Visor Deluxe, which I got at Best Buy in 2000. While Handspring wasn't owned by Palm at this time, it was the superior device. It had a licensed Palm OS and it was expandable. It had more memory and features, which was the selling point for me. I never actually bought any of the modules (I wanted the Ethernet jack one), but when I purchased it I thought i would. It was great for my train commute at the time and I finished quite a few e-books by using this device. I synced my outlook, wrote e-mails offline, and synced them when I got to the office. It used triple-A batteries and would last a week or two before they needed charging (mind you I used this thing all the time.
 
-image::/testsite/images/51WTxEMAqKL._SL500_AA280_.jpg[,role="text-center"]
+image::/images/51WTxEMAqKL._SL500_AA280_.jpg[,role="text-center"]
 
 My second palm was from the Zire line, I think it was the Zire 31, but I'm not going to go hunting through boxes to find out for sure. The expandability of an SD card slot was great for me, I used to watch movies on this and once again synced my contacts and e-mail for offline work. This was my substitute for an Ipod, so it was my all-around media player and business-like gaming machine when I was consulting.
 
-image::/testsite/images/51G2VP9TBJL._SS500_.jpg[,role="text-center"]
+image::/images/51G2VP9TBJL._SS500_.jpg[,role="text-center"]
 
 The Palm TX was my final Palm device. The main selling points for me were wifi and bluetooth access. I used this a bit during my final ruin in consulting. I used this and the Zire as universal remotes, but other than an e-mail machine it wasn't much use. The technology wasn't keeping up with my activities. It was a great machine and will always have a place in my heart, but I replaced it with my N810 and I'm not looking back.
 

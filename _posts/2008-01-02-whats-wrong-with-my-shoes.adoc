@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The other day at work I had mentioned my 9th wedding anniversary coming up and of course, as per custom my co-workers congratulated me. After the first sentence, you are probably wondering what the title has to do with this post. Well, let's get into that.
 :page-image: /images/love-1317028-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/love-1317028-1.jpg[,role="text-center"]
+image::/images/love-1317028-1.jpg[,role="text-center"]
 
 The other day at work I had mentioned my 9th wedding anniversary coming up and of course, as per custom my co-workers congratulated me. After the first sentence, you are probably wondering what the title has to do with this post. Well, let's get into that.
 

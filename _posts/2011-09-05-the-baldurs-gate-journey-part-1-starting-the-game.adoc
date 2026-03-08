@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Baldur's Gate is a game that has tortured me since it came in 1998. It's the game I have always wanted to beat but never have. Part of that is my fault, and part of it I can pass the blame around. I haven't beaten any of Bioware's epic classic PC RPGs. I purchased and played Baldur's Gate, Baldur's Gate 2, Icewind Dale, Icewind Dale 2, Planescape Torment, and all the expansions that were created for these games. Yet, I've never beaten any of them. The only ones that kind of count are Baldur's Gate&#58; Dark Alliance 1 & 2 for the PS2 which Xie and I played through together and beat. This whole path started 13 years ago in the ancient times of 1998.
 :page-image: /images/baldur.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/baldur.jpg[,role="text-center"]
+image::/images/baldur.jpg[,role="text-center"]
 
 Baldur's Gate is a game that has tortured me since it came in 1998. It's the game I have always wanted to beat but never have. Part of that is my fault, and part of it I can pass the blame around. I haven't beaten any of Bioware's epic classic PC RPGs. I purchased and played Baldur's Gate, Baldur's Gate 2, Icewind Dale, Icewind Dale 2, Planescape Torment, and all the expansions that were created for these games. Yet, I've never beaten any of them. The only ones that kind of count are Baldur's Gate: Dark Alliance 1 & 2 for the PS2 which Xie and I played through together and beat. This whole path started 13 years ago in the ancient times of 1998.
 

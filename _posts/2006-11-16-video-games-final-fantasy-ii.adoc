@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: The game is kicking my butt -- my problem is the final boss -- while I strolled through the rest of the game -- this last boss is just not having any of it. According to the game walk-through, I am way too low to be here, and since I'm not a heavy magic user I need to back and power level my spells -- which takes forever. So now I'm just stuck with mind-numbing leveling -- last night's battle with the boss took 3 hours before I called it quits. more power leveling tomorrow
 :page-image: /images/2016-05-23-13.32.13-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2016-05-23-13.32.13-1.jpg[,role="text-center"]
+image::/images/2016-05-23-13.32.13-1.jpg[,role="text-center"]
 
 The game is kicking my butt -- my problem is the final boss -- while I strolled through the rest of the game -- this last boss is just not having any of it. According to the game walk-through, I am way too low to be here, and since I'm not a heavy magic user I need to back and power level my spells -- which takes forever. So now I'm just stuck with mind-numbing leveling -- last night's battle with the boss took 3 hours before I called it quits. more power leveling tomorrow
 

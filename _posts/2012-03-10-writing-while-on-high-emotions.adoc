@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The other day Xie was upset. She wanted to go out and blast the world with what was going on. She was either going to go to Facebook or her blog and just let it out. I advised her not to. This is not her story, but a viewpoint on why I suggested waiting a couple of days.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 The other day Xie was upset. She wanted to go out and blast the world with what was going on. She was either going to go to Facebook or her blog and just let it out. I advised her not to. This is not her story, but a viewpoint on why I suggested waiting a couple of days.
 

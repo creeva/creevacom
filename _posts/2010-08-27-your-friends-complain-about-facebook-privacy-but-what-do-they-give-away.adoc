@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Ah…The Facebook privacy issues.
 :page-image: /images/5129332_b75d25f016_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
+image::/images/5129332_b75d25f016_m.jpg[,role="text-center"]
 
 Ah…The Facebook privacy issues.
 

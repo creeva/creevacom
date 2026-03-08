@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: We have reached that dreaded age that every parent must face. The one where your child wants to be able to make their own phone calls and receive calls from friends. My child is young enough that we thought we had at least a couple more years before this became a thing. We were wrong though. This started last year and I got a half-baked solution working. It was a bit too complex for him (my wife would say the most things I architect are a bit too complex). In fairness, it wasn't dumb easy, but he had it. The problem was it didn't work reliably. It used third-party solutions and was ugly. However, it did route through a google voice number tied to my son's email account.
 :page-image: /images/108805307_c43af20f59.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+image::/images/108805307_c43af20f59.jpg[,role="text-center"]
 
 We have reached that dreaded age that every parent must face. The one where your child wants to be able to make their own phone calls and receive calls from friends. My child is young enough that we thought we had at least a couple more years before this became a thing. We were wrong though. This started last year and I got a half-baked solution working. It was a bit too complex for him (my wife would say the most things I architect are a bit too complex). In fairness, it wasn't dumb easy, but he had it. The problem was it didn't work reliably. It used third-party solutions and was ugly. However, it did route through a google voice number tied to my son's email account.
 

@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: This is my parody song from the SWG which our group the Def Stars used to win the first Intrepid Jam Bonanaza. It is a parody of The Entertainer by Billy Joel.
 :page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+image::/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
 
 This is my parody song from the SWG which our group the Def Stars used to win the first Intrepid Jam Bonanaza. It is a parody of The Entertainer by Billy Joel.
 

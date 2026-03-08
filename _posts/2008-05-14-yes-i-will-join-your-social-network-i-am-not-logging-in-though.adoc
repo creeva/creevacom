@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Last night I got into a discussion with Xie on how my crossposting and data centralization to the data broadcast system works. I was sad, I built a big flow chart with arrows and everything. I've gone over enough times on all the sites I crosspost too, so the what, when, and how are not due to be written about again for the next two months. My concern right now is why.
 :page-image: /images/myspace.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/myspace.png[,role="text-center"]
+image::/images/myspace.png[,role="text-center"]
 
 Last night I got into a discussion with link:http://xielanthia.com[Xie] on how my crossposting and data centralization to the data broadcast system works. I was sad, I built a big flow chart with arrows and everything. I've gone over enough times on all the sites I crosspost too, so the what, when, and how are not due to be written about again for the next two months. My concern right now is why.
 

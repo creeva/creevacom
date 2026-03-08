@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Vox is a blog community that really focuses on the community aspect. When Xie first started blogging on vox I kind of poo-pooed it. However, I didn't find some people that I knew from SWG that posted there, and ever since I can tell you it is definitely a close-knit community. Since I'm a crossposter I'm kind of on the outside, but I reply to comments, and Oh My Yod! is a blog I visit every other day.
 :page-image: /images/280433761_65835e5959_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/280433761_65835e5959_m.jpg[,role="text-center"]
+image::/images/280433761_65835e5959_m.jpg[,role="text-center"]
 
 link:http://www.vox.com[Vox] is a blog community that really focuses on the community aspect. When link:http://www.xielanthia.com[Xie] first started blogging on vox I kind of poo-pooed it. However, I didn't find some people that I knew from link:http://www.starwarsgalaxies.com[SWG] that posted there, and ever since I can tell you it is definitely a close-knit community. Since I'm a crossposter I'm kind of on the outside, but I reply to comments, and Oh My Yod! is a blog I visit every other day.
 

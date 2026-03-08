@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The other day I wrote an article in which I briefly discussed cloud computing and how I accomplish it in my life. I wanted to start a new series called "Living in the Clouds" which goes over the functions that you can do to migrate over to a cloud computing setup yourself.
 :page-image: /images/65927497_af44dde29d_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/65927497_af44dde29d_m.jpg[,role="text-center"]
+image::/images/65927497_af44dde29d_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/ancawonka/65927497/[here]
 

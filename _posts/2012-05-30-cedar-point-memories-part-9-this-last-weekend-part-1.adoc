@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: This last weekend was our first trip to Cedar Point in years. Our son is now three and we decided to let him enjoy the world of Cedar Point. Sunday while he was still at his grandmother's, Xie and I both went up to the park. I can say it is weird to have a season pass again, yet there are some changes since the last time around. Keep in mind that it has been six years since I crossed into the park where I spent so much of my youth in.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 This last weekend was our first trip to Cedar Point in years. Our son is now three and we decided to let him enjoy the world of Cedar Point. Sunday while he was still at his grandmother's, Xie and I both went up to the park. I can say it is weird to have a season pass again, yet there are some changes since the last time around. Keep in mind that it has been six years since I crossed into the park where I spent so much of my youth in.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I will first start off with a couple of disclaimers. I don't do this at work, I don't need to. I respect my corporate policies and completely recognize why they are there. This was a mental exercise that stemmed out of a misconception about how our local firewall works. I love the mental exercises on how I would do something and then drop it since I've essentially completed my goal and do not need to test it. If however, you do feel the need to test this at your school or work I take no responsibility for your actions. You are on your own and responsible for your own actions.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 I will first start off with a couple of disclaimers. I don't do this at work, I don't need to. I respect my corporate policies and completely recognize why they are there. This was a mental exercise that stemmed out of a misconception about how our local firewall works. I love the mental exercises on how I would do something and then drop it since I've essentially completed my goal and do not need to test it. If however, you do feel the need to test this at your school or work I take no responsibility for your actions. You are on your own and responsible for your own actions.
 

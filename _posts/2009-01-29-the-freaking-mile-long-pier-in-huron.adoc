@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The stupid mile-long pier. It's located in Huron, Ohio, and at the end of the pier is the Huron Lighthouse. Growing up in Vermilion, Ohio there wasn't much to do that we didn't do on a regular basis. One of the odd-ball things we did was go out to the mile-long pier. The official name wasn't the mile-long pier, but it is supposedly a mile long -- so the local nickname stuck. For some reason, the trips were a bit more frequent once I managed to get the woman who would one day be my wife.
 :page-image: /images/2234211295_84372ca36b.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2234211295_84372ca36b.jpg[,role="text-center"]
+image::/images/2234211295_84372ca36b.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/upnorthmemories/2234211295/[here]
 

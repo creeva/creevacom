@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Reading the headlines and the fact that I'm an analytics geek, my answer at first is YES!. I'm not quite sure what information we will get out of it though. I'm not sure how reliable it will be.
 :page-image: /images/7605479306_7fdbd5af2e-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/7605479306_7fdbd5af2e-1.jpeg[,role="text-center"]
+image::/images/7605479306_7fdbd5af2e-1.jpeg[,role="text-center"]
 
 Reading the headlines and the fact that I'm an analytics geek, my answer at first is YES!. I'm not quite sure what information we will get out of it though. I'm not sure how reliable it will be.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I mentioned the other day about creating a mash-up blog for friends. I have worked at trying to work around how everyone else uses the Internet and normalizes it. The first problem is everyone that uses Facebook. Even if I could get the content out easily or automatically, I need to worry about what they mean to share with just Facebook friends or sharing in general. I don't want to worry about their security, privacy, or intention of publishing -- this means that I will have to teach some of them to share.
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 Annoyed working on a project….
 

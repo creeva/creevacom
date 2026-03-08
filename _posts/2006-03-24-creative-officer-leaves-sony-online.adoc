@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Raph Koster, Chief Creative Officer of Sony Online, has left the company. More importantly, Sony might lose the rights to the Star Wars license.
 :page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+image::/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
 
 _Raph Koster, Chief Creative Officer of Sony Online, has left the company. More importantly, Sony might lose the rights to the Star Wars license_.
 

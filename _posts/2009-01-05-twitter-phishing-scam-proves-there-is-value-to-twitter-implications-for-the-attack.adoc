@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The recent Twitter phishing scam had nontwitter users scratching their heads on why this service would be targeted for a phishing scam at all.. Most people view little or no monetary value to twitter accounts. For most people, this may actually be true. For people like Scoble or companies that promote themselves over Twitter, well the brand name damage caused by a hijacked Twitter account could be quite costly.
 :page-image: /images/watch_out.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/watch_out.png[,role="text-center"]
+image::/images/watch_out.png[,role="text-center"]
 
 The link:http://blog.twitter.com/2009/01/gone-phishing.html[recent Twitter phishing scam] had nontwitter users scratching their heads on why this service would be targeted for a link:http://en.wikipedia.org/wiki/Phishing[phishing scam] at all.. Most people view little or no monetary value to twitter accounts. For most people, this may actually be true. For people like link:http://twitter.com/Scobleizer[Scoble] or companies that promote themselves over Twitter, well the brand name damage caused by a hijacked Twitter account could be quite costly.
 

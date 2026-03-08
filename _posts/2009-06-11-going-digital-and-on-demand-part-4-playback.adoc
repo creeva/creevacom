@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The biggest problem of course with moving to digital is how are you going to get the videos or music to where you want them to be. I've really fought with this problem literally for over a decade now (yes in 1995 I had a computer hooked up to a stereo and a TV).
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 The biggest problem of course with moving to digital is how are you going to get the videos or music to where you want them to be. I've really fought with this problem literally for over a decade now (yes in 1995 I had a computer hooked up to a stereo and a TV).
 

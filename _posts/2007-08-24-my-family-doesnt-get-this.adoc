@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: My family doesn't really realize why I write online. It's kind of a foreign concept to them that people want to share their thoughts online and be open and expressive. I guess they should have realized something was odd about when I had my first poem published when I was 15 or 16 (It was one of those stupid poetry contests where they sell you the book at the end -- I didn't buy the book -- but hopefully I'm in the library of congress because of it).
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 My family doesn't really realize why I write online. It's kind of a foreign concept to them that people want to share their thoughts online and be open and expressive. I guess they should have realized something was odd about when I had my first poem published when I was 15 or 16 (It was one of those stupid poetry contests where they sell you the book at the end -- I didn't buy the book -- but hopefully I'm in the library of congress because of it).
 

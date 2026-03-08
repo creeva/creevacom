@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: If you tell people you are a Christian Republican these days there are many assumptions made about you. You are immediately stereotyped to fit into some small bubble that they perceived that you must be in. For the most part, I don't fit into those bubbles, yet I still identify myself with those ideals.
 :page-image: /images/2172958892_23548e8bb4-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2172958892_23548e8bb4-1.jpeg[,role="text-center"]
+image::/images/2172958892_23548e8bb4-1.jpeg[,role="text-center"]
 
 _Me -- circa 1999-2000_
 

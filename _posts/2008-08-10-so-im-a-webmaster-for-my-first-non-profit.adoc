@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: So I've taken over the position of webmaster for the VCMA (Vermilion Community Music Association). This is going to start a new series as I'm going to use them as guinea pigs for what I've felt non-profits need to do to survive and thrive in the web 2.0 world. They are not a big organization, and I'm sure I received this position for my background and not my witty personality.
 :page-image: /images/378372229_3068555380_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/378372229_3068555380_m.jpg[,role="text-center"]
+image::/images/378372229_3068555380_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/andresv/378372229/[here]
 
@@ -16,13 +16,13 @@ I've been working on the site for a couple of weeks and here is what I've found 
 
 I'm working on a better and more secure solution while maintaining the balance of ease of use. I don't want to burden them too much on the security side. I'm sure some of the older members would blink at me with a blank stare if I handed them secureID tokens to access their newsletters.
 
-image::/testsite/images/2423302929_e3d2c4e1e0_m.jpg[,role="text-center"]
+image::/images/2423302929_e3d2c4e1e0_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/dwwebber/2423302929/[here]
 
 The next thing I discovered is that code each web page by hand, ugh. There was no way I was going to maintain each HTML manually and hope for any semblance of style and continuity between pages (an issue they had in the past). They had been using FrontPage and offered to buy me a copy. First no, no, and no -- currently I'm using Linux on my main computer (Ok I dual boot into XP, and between link:http://worldofwarcraft.com[WoW] and link:http://netflix.com[Netflix] streaming I don't get into link:http://ubuntu.com[Ubuntu] as much as I should), so Frontpage was out. They were insistent at first that this is how it was done, I however readjusted things. I moved them to WordPress which I'm not using as a blog but rather as a CMS (Content Management System).
 
-image::/testsite/images/3778156_3a0d5068d0_m.jpg[,role="text-center"]
+image::/images/3778156_3a0d5068d0_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/nicolelee/3778156/[here]
 

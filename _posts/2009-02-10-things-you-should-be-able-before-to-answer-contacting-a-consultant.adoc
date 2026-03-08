@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Someone I know came to me the other day about a consulting project that may or may not happen. What essentially he wants to be done is an overhaul of IT infrastructure. They want more automation in their operation and they deal with physical goods. So from receiving to shipping to everything in between they are looking to streamline. They want to do more with less, less equipment if possible, fewer people if possible, and less stress if possible. In other words, they want what every other company in the world wants.
 :page-image: /images/264662649_f33f418a58_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/264662649_f33f418a58_m.jpg[,role="text-center"]
+image::/images/264662649_f33f418a58_m.jpg[,role="text-center"]
 
 Someone I know came to me the other day about a consulting project that may or may not happen. What essentially he wants to be done is an overhaul of IT infrastructure. They want more automation in their operation and they deal with physical goods. So from receiving to shipping to everything in between they are looking to streamline. They want to do more with less, less equipment if possible, fewer people if possible, and less stress if possible. In other words, they want what every other company in the world wants.
 

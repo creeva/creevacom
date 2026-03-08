@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: That's the point of this blog, isn't it? Getting me back in shape to write the great American novel? At least to the point that I can finish a novel during the national novel-writing month this year.
 :page-image: /images/logo.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/logo.jpg[,role="text-center"]
+image::/images/logo.jpg[,role="text-center"]
 
 +
 Writing to write.

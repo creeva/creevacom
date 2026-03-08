@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The sex talk, it's something teenagers dread and so do parents. I think I was a pre-teen the first time my parents tried to broach the subject. I had already been aware from enough TV shows where a parent attempted to have a sex talk with their child that it was not a good thing. I avoided it like the plague, just not wanting to deal with it.
 :page-image: /images/177496023_93d027f284_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/177496023_93d027f284_m.jpg[,role="text-center"]
+image::/images/177496023_93d027f284_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/stuckincustoms/177496023/[here]
 

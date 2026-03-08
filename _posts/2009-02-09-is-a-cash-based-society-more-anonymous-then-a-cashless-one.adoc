@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: A little over ten years ago, before debit cards became ubiquitous and people cared more about having actual bits of paper for their monetary worth, I had a discussion with a friend about how the world would eventually move to a cashless society. I argued over the cost and extent of such a venture going forward. He did have one good point in his argument -- anonymity.
 :page-image: /images/61056391_31343afdc6.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/61056391_31343afdc6.jpg[,role="text-center"]
+image::/images/61056391_31343afdc6.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/tracy_olson/61056391/[here]
 

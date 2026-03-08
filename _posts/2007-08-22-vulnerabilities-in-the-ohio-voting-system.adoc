@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: One of my readers (yes I actually have at least one that's not related or an outside friend) pointed out an article that he was working on that has been picked up by the media.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 One of my readers (yes I actually have at least one that's not related or an outside friend) pointed out an article that he was working on that has been picked up by the media.
 

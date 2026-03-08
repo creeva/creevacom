@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: A couple of weeks ago when the VCMA had their concert in Vermilion, OH there were school teachers wandering around the downtown area (the picture above is not my hometown) protesting. I can't say I understand completely what they were protesting, but before I go into a rant about the protesting -- I'll give you my understanding of what I got out of it and what others told me.
 :page-image: /images/5129332_b75d25f016_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
+image::/images/5129332_b75d25f016_m.jpg[,role="text-center"]
 
 A couple of weeks ago when the VCMA had their concert in Vermilion, OH there were school teachers wandering around the downtown area (the picture above is not my hometown) protesting. I can't say I understand completely what they were protesting, but before I go into a rant about the protesting -- I'll give you my understanding of what I got out of it and what others told me.
 

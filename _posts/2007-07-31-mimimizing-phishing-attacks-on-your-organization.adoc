@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Organizations of all shapes and sizes are vulnerable to social engineering attacks. It's human nature to want to be helpful and to trust those that ask questions of us. This is especially true from people or organizations we feel has authority over us. This is why phishing attacks are so successful. We give our information over to emails and websites because we feel there is a bond of trust. It's not about being suspicious or not, we are taught from a young age to trust those within places of power. So our bank asking for validation of our information at first glance doesn't seem suspicious. Our company reporting a password incident and asking for remediation is perfectly plausible. The problem is unless you've heard about the policies from these companies on how they will handle this, the request may be genuine and you want to do all you can to help.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Organizations of all shapes and sizes are vulnerable to social engineering attacks. It's human nature to want to be helpful and to trust those that ask questions of us. This is especially true from people or organizations we feel has authority over us. This is why phishing attacks are so successful. We give our information over to emails and websites because we feel there is a bond of trust. It's not about being suspicious or not, we are taught from a young age to trust those within places of power. So our bank asking for validation of our information at first glance doesn't seem suspicious. Our company reporting a password incident and asking for remediation is perfectly plausible. The problem is unless you've heard about the policies from these companies on how they will handle this, the request may be genuine and you want to do all you can to help.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A few weeks ago I was having a discussion with one of my family members about website design and blogging. He stated that he was going to be starting some sort of manga/anime fansite based on a certain character. I stated that he should be a bit wary about the images he used and that he may have to worry about copyright issues since the images were trademarked and copyrighted. Keep in mind this was the same brother that wanted to set up a website for a girl so you couldn't download the images (and I called him out on the futile nature of that). Kind of ironic when he wants to control it, he thinks one way -- but when he wants to use it he thinks another.
 :page-image: /images/trumpet.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/trumpet.jpg[,role="text-center"]
+image::/images/trumpet.jpg[,role="text-center"]
 
 A few weeks ago I was having a discussion with one of my family members about website design and blogging. He stated that he was going to be starting some sort of manga/anime fansite based on a certain character. I stated that he should be a bit wary about the images he used and that he may have to worry about copyright issues since the images were trademarked and copyrighted. Keep in mind this was the same brother that wanted to set up a website for a girl so you couldn't download the images (and I called him out on the futile nature of that). Kind of ironic when he wants to control it, he thinks one way -- but when he wants to use it he thinks another.
 

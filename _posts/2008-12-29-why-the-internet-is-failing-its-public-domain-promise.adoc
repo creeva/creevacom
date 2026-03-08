@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The Internet with its promise of a revolution has succeeded in its goal of changing the landscape of information and how it is disseminated to the public at large. We deal with issues that new media and remixing are causing in the areas of old copyright. I'm one of those that bemoan the constant increase of time before work enters the public domain. I would like to see more information enter into the public domain quicker and I think the creative commons idea is the future of copyright law, but this isn't about that. It's about the loss of public domain works.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 The Internet with its promise of a revolution has succeeded in its goal of changing the landscape of information and how it is disseminated to the public at large. We deal with issues that new media and remixing are causing in the areas of old copyright. I'm one of those that bemoan the constant increase of time before work enters the link:http://en.wikipedia.org/wiki/Public_domain[public domain]. I would like to see more information enter into the public domain quicker and I think the link:http://en.wikipedia.org/wiki/Creative_Commons[creative commons] idea is the future of copyright law, but this isn't about that. It's about the loss of public domain works.
 

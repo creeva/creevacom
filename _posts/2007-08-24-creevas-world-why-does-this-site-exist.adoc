@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: First and foremost the site is for me. It allows me to save my poetry, short stories, and thoughts online. It allows me to delve into technical issues that may be insightful or interesting to others. Some things I write and put together just because I can't find them anywhere else and want to save others the rework of tracking down something that took me hours/days to piece together.
 :page-image: /images/alcohol.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/alcohol.jpg[,role="text-center"]
+image::/images/alcohol.jpg[,role="text-center"]
 
 First and foremost the site is for me. It allows me to save my poetry, short stories, and thoughts online. It allows me to delve into technical issues that may be insightful or interesting to others. Some things I write and put together just because I can't find them anywhere else and want to save others the rework of tracking down something that took me hours/days to piece together.
 

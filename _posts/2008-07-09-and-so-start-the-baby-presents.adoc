@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: You know I thought people at least waited a bit until they started getting out the baby presents. Xie is only eight weeks pregnant and yet we already have our first baby gifts. Last weekend it seems that her mother bought us a crib, we haven't seen it yet but we have a crib. We told her mother we don't even want it until we were well into the second trimester. Her grandmother, not wanting to be left out of the fun, purchased us a playpen, something we won't need for at least a few months after the baby is born.
 :page-image: /images/530951739_001ce592a1_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/530951739_001ce592a1_m.jpg[,role="text-center"]
+image::/images/530951739_001ce592a1_m.jpg[,role="text-center"]
 
 You know I thought people at least waited a bit until they started getting out the baby presents. Xie is only eight weeks pregnant and yet we already have our first baby gifts. Last weekend it seems that her mother bought us a crib, we haven't seen it yet but we have a crib. We told her mother we don't even want it until we were well into the second trimester. Her grandmother, not wanting to be left out of the fun, purchased us a playpen, something we won't need for at least a few months after the baby is born.
 

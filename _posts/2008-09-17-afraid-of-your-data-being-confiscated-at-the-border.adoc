@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: We've all read the articles flying around online over the last couple of months about your data being confiscated at the border and analyzed by the border patrol. The simplest solution of course is sending your data across the internet if you have to go through a border crossing and you are worried about your data being compromised (cloud computing FTW). The next best solution is using True Crypt and using a real encrypted volume and a hidden volume. You risk having to disclose your encryption keys to unlock our visible volume, and with hidden encrypted partitions becoming a common theory, they may be on to you.
 :page-image: /images/397488557_732c8923e3_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/397488557_732c8923e3_m.jpg[,role="text-center"]
+image::/images/397488557_732c8923e3_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/robnwatkins/397488557/[here].
 

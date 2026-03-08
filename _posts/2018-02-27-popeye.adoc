@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Ahhhhh -- Popeye for the Nintendo Entertainment System, it's one of the grandpa cartridges from the NES era. When the NES was first launched in North America, Nintendo standardized the packaging design for the first 30 cartridges they published. They had different series lines such as "action series", "sports series", and "lightgun series". Popeye and a few other titles fell under the "arcade series".
 :page-image: /images/2362121-nes_popeye_gb-1-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2362121-nes_popeye_gb-1-1.jpg[,role="text-center"]
+image::/images/2362121-nes_popeye_gb-1-1.jpg[,role="text-center"]
 
 Ahhhhh -- link:https://en.wikipedia.org/wiki/Popeye_(video_game)[Popeye] for the Nintendo Entertainment System, it's one of the grandpa cartridges from the NES era. When the NES was first launched in North America, Nintendo standardized the packaging design for the first 30 cartridges they published. They had different series lines such as "action series", "sports series", and "lightgun series". Popeye and a few other titles fell under the "arcade series".
 
@@ -26,7 +26,7 @@ This game isn't something I just pulled out of a hat to discuss though. This gam
 
 My family would take regular trips to visit my family in Greenville, OH. My Godmother and Mother were close so we would visit her every time I visited. I can think of great times hanging out with her son -- watching the premiere of the Thriller Video, taking two dollars up the road to Teefers and buying an obscene amount of candy, getting the scar on my chin that is hidden by my beard these days -- you know, the usual childhood best friend that you only see two-three times a year stuff.
 
-image::/testsite/images/Popeye-2017-02-27-16.36.34-1-1070x879.png[,role="text-center"]
+image::/images/Popeye-2017-02-27-16.36.34-1-1070x879.png[,role="text-center"]
 
 +
 _Trying Out Popeye Again_
@@ -35,7 +35,7 @@ Now before you think I've gone off the rails, on one of my visits we were playin
 
 Since the gameplay is very repetitive (like most arcade games), I remember being quite good at this game. If I would have had a chance back then to translate into arcade prowess -- I may have been middling decent at it. Not "OMG This is the most amazing player in the arcade" good, but enough that I wouldn't feel embarrassed going around more seasoned players. However, knowing how other things go gamepad skills were a bit different from arcade joystick stills.
 
-image::/testsite/images/IMG_6904-1.jpg[,role="text-center"]
+image::/images/IMG_6904-1.jpg[,role="text-center"]
 
 _My Actual Cartridge_
 

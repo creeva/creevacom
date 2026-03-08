@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: In part 8 I was going to write about crossposting to blogger, but that's been delayed for the time being.  I'll get back to that subject as soon as I get a chance.   Let's move on to monitoring your cross-posting.
 :page-image: /images/264662649_f33f418a58_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/264662649_f33f418a58_m.jpg[,role="text-center"]
+image::/images/264662649_f33f418a58_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/estherase/264662649/[here]
 

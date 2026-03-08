@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Original From Journey To Get Paid&#58; Google's Next Service Should Be -- Google Reporting.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Original From Journey To Get Paid: Google's Next Service Should Be -- Google Reporting.
 

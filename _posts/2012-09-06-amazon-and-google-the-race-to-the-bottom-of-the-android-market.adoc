@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Amazon announced its new Kindle lines today. The first thing that is going to hit everyone is the price drops. If we focus on the Android-based tablet line, Amazon released the new Kindle Fire for 159.99. This is obviously in response to Google Nexus 7 tablet. The only thing they have via each brand is an ecosystem (both comparatively similar out of the box) and price. Let's also be realistic. The majority of Americans still will just look at the price and think two things. The first is they will buy the cheapest thing available and believe it is comparable to everything else. The second that more savvy Americans will think is that it's a piece of junk.
 :page-image: /images/a.com_logo_RGB1-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/a.com_logo_RGB1-1.jpeg[,role="text-center"]
+image::/images/a.com_logo_RGB1-1.jpeg[,role="text-center"]
 
 Amazon announced its new Kindle lines today. The first thing that is going to hit everyone is the price drops. If we focus on the Android-based tablet line, Amazon released the new Kindle Fire for 159.99. This is obviously in response to Google Nexus 7 tablet. The only thing they have via each brand is an ecosystem (both comparatively similar out of the box) and price. Let's also be realistic. The majority of Americans still will just look at the price and think two things. The first is they will buy the cheapest thing available and believe it is comparable to everything else. The second that more savvy Americans will think is that it's a piece of junk.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last night, in regard to the story I posted yesterday, Xie asked me why am I always writing about the past. My answer is that I want to get enough down that if I ever become famous someone can write a pretty authentic biography. The conversation did also move into my belief in preserving the past.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Last night, in regard to the story I posted yesterday, Xie asked me why am I always writing about the past. My answer is that I want to get enough down that if I ever become famous someone can write a pretty authentic biography. The conversation did also move into my belief in preserving the past.
 

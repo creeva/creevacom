@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Before anyone thinks that this might be about anyone in particular, it is just as much about myself as it is about anyone else. I'm in my mid-thirties, and from what I remember of my parents at this age (and I was 14 when my father was this age) is that I'm a lot more immature than they were at my age. My parents like most of my friend's parents didn't go out and party (granted we don't really do that by a large contingent of people we know do). They didn't collect toys. They didn't play video games. They didn't watch cartoons unless the kids were also watching. They didn't do much. They lived. They lived the life that my generation said they would rather die before they reached 30 because it was all downhill from there. We have learned it's not.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Before anyone thinks that this might be about anyone in particular, it is just as much about myself as it is about anyone else. I'm in my mid-thirties, and from what I remember of my parents at this age (and I was 14 when my father was this age) is that I'm a lot more immature than they were at my age. My parents like most of my friend's parents didn't go out and party (granted we don't really do that by a large contingent of people we know do). They didn't collect toys. They didn't play video games. They didn't watch cartoons unless the kids were also watching. They didn't do much. They lived. They lived the life that my generation said they would rather die before they reached 30 because it was all downhill from there. We have learned it's not.
 

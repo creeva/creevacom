@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Recently I've been put forth to design a kiosk solution for our internal environment. This is the second part of my kiosk series which is going to examine the testing and deployment of such a system. To read the first section go to Part One -- Choices For Your Environment.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Recently I've been put forth to design a kiosk solution for our internal environment. This is the second part of my kiosk series which is going to examine the testing and deployment of such a system. To read the first section go to Part One -- Choices For Your Environment.
 

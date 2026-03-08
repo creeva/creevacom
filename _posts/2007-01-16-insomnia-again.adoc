@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Lately, I just have not been able to get into a normal sleep pattern at all and it's killing me. That being said -- let's move on.
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 Lately, I just have not been able to get into a normal sleep pattern at all and it's killing me. That being said -- let's move on.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: While driving into work today I was listening to This Week in Law. There was a discussion on mistrials that are occurring because jury members have been using Twitter or looking up information online. You can't put the genie back into the lamp for the internet, so it's something the legal system is grappling with now. This caused me to drift off and start thinking like any good person that likes to manipulate the system, especially if it is within the rules of the system.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 While driving into work today I was listening to This Week in Law. There was a discussion on mistrials that are occurring because jury members have been using Twitter or looking up information online. You can't put the genie back into the lamp for the internet, so it's something the legal system is grappling with now. This caused me to drift off and start thinking like any good person that likes to manipulate the system, especially if it is within the rules of the system.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A few months ago my home server lost all of my MP3s from a share. I was freaking out thinking some process had magically deleted them. Then I noticed the partition was missing. I spent a few days banging my head against the wall trying to recover the data and nothing helped. Since I'm a listener of Security Now, I attempted to use Spin Rite on the drive, even this didn't help it. I was freaking out.
 :page-image: /images/5129332_b75d25f016_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
+image::/images/5129332_b75d25f016_m.jpg[,role="text-center"]
 
 Picture from link:http://flickr.com/photos/belljar/5129332/[here]
 

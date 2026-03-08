@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Yesterday I was talking with my thirteen-year-old brother. He told me about how he was going to set up a website for this girl he knows. He was going to configure it so you couldn't take the images off the page and use them somewhere else. I explained that it truly couldn't be done.
 :page-image: /images/504886535_6215cd104a_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/504886535_6215cd104a_m.jpg[,role="text-center"]
+image::/images/504886535_6215cd104a_m.jpg[,role="text-center"]
 
 Yesterday I was talking with my thirteen-year-old brother. He told me about how he was going to set up a website for this girl he knows. He was going to configure it so you couldn't take the images off the page and use them somewhere else. I explained that it truly couldn't be done.
 

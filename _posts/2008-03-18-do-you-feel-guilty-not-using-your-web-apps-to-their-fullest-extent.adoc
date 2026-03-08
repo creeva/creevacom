@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I know we all reach fatigue when it comes to using certain web apps/sites / etc. but at what point do you feel guilty?
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 I know we all reach fatigue when it comes to using certain web apps/sites / etc. but at what point do you feel guilty?
 

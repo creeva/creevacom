@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Life caching is setting up sites that you have complete control over to save data from sites over which you only have varied levels of control. Getting all of your metadata in one place. Saving each detail of data in its place so it's saved, used, and recyclable. Life caching is the next stage as the Data Portability Group moves forward. This is not the goal of the Data Portability Group -- it is just what their goal enables you to do. The work, however, is burdened on to you and I can say there is no easy way to do this and some data leakage and loss will always slip through the cracks, at least at this stage of the game.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 *Life Caching:*
 
@@ -27,7 +27,7 @@ The rub is that 99% of life streams only save the links of the RSS feeds and do 
 
 *How is this different from the Data Portability Group?*
 
-image::/testsite/images/logo.png[,role="text-center"]
+image::/images/logo.png[,role="text-center"]
 
 In some aspects, like the concepts of lifestreaming, life caching shares a few steps in common with the Data Portability Group. What the link:http://www.dataportability.org/[Data Portability Group] means to give are methods and standards that give you tools to do with your data what you will. However, this doesn't actually mean you will do anything with it or that there will be a standard out-of-the-box configuration for you. The responsibility is on you to act and use these tools that will hopefully emerge.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Recently I was re-architecting my home network. One of the main things I wanted to work with was whole-house audio. In two rooms of the house currently, we have Apple TVs hooked up -- so I wanted to use an Airplay solution. However, I did not want to invest money into another Apple TV just yet -- and at the same price is the Airport Express. Since I didn't want to take a $99.00 per room hit I hit up E-Bay. Since this was going to be audio only (and I wanted to stay away from HDMI or optical cable solutions offered by the Apple TV) I wanted to pick up some older Airport Express access points. I figured this would be a cheap way to get the end result I was looking for. Since it was Apple, it should be a simple configuration right? Well……… not at all.
 :page-image: /images/Apple_airport_express-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Apple_airport_express-1.jpg[,role="text-center"]
+image::/images/Apple_airport_express-1.jpg[,role="text-center"]
 
 Recently I was re-architecting my home network. One of the main things I wanted to work with was whole-house audio. In two rooms of the house currently, we have Apple TVs hooked up -- so I wanted to use an Airplay solution. However, I did not want to invest money into another Apple TV just yet -- and at the same price is the Airport Express. Since I didn't want to take a $99.00 per room hit I hit up E-Bay. Since this was going to be audio only (and I wanted to stay away from HDMI or optical cable solutions offered by the Apple TV) I wanted to pick up some older Airport Express access points. I figured this would be a cheap way to get the end result I was looking for. Since it was Apple, it should be a simple configuration right? Well……… not at all.
 

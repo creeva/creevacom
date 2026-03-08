@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I'm the crossposting whore -- I write once and I have everything designed to publish everywhere (well at least when things aren't broken like Ping.fm to Myspace blogs). This however is not syncing, it's distribution and publishing. A true sync across all platforms would be amazing.
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/jazzmasterson/3038597/[here]
 

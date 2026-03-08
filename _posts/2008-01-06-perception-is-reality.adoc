@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Perception is reality, but that statement in and of itself can be deep or petty. To others around us, the perception of who we are is truly their reality. Whether it be because of things we do while being around them, or the actions we perform. That does not conclusively make us who we are or the reality of our being.
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 Perception is reality, but that statement in and of itself can be deep or petty. To others around us, the perception of who we are is truly their reality. Whether it be because of things we do while being around them, or the actions we perform. That does not conclusively make us who we are or the reality of our being.
 

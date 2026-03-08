@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Wow. This was news I was not expecting to hear last night. My son had just finished eating dinner and I sat down on the couch for a quick RSS read-through on the iPhone. There it was on from the Mashable feed -- Steve Jobs Has Died. Quickly I scroll down, this can't be right. Steve is still going to lead technology design into the future. Mashable must have been hacked. Then I saw Tech Crunch announce it, then another, and another. It sunk in and I told Xie. It didn't hit her at first either. We saw the news before it exploded online, and we didn't know how to take it.
 :page-image: /images/39150253_5ded166fe1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+image::/images/39150253_5ded166fe1.jpg[,role="text-center"]
 
 Wow. This was news I was not expecting to hear last night. My son had just finished eating dinner and I sat down on the couch for a quick RSS read-through on the iPhone. There it was on from the Mashable feed -- link:http://mashable.com/2011/10/05/breaking-steve-jobs-has-died/[Steve Jobs Has Died]. Quickly I scroll down, this can't be right. Steve is still going to lead technology design into the future. Mashable must have been hacked. Then I saw Tech Crunch announce it, then another, and another. It sunk in and I told Xie. It didn't hit her at first either. We saw the news before it exploded online, and we didn't know how to take it.
 

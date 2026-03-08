@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Picture from here by Pablo Defendi
 :page-image: /images/2527139261_0bf374fce4_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2527139261_0bf374fce4_m.jpg[,role="text-center"]
+image::/images/2527139261_0bf374fce4_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/10771242@N08/2527139261/[here] by link:http://www.defendini.com/[Pablo Defendi]
 
@@ -24,6 +24,6 @@ I would also recommend watching link:http://www.defendini.com/[Pablo Defendi's s
 
 Finally, check out the ParanoidLinux Distribution inspired by the book.
 
-image::/testsite/images/51DP3KqlRcL._SS500_.jpg[,role="text-center"]
+image::/images/51DP3KqlRcL._SS500_.jpg[,role="text-center"]
 
 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

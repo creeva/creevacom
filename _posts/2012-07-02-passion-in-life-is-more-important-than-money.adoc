@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was talking to someone the other day about the future. I explained to him that for his future career, I would choose something he loved more than something that might pay well. Sometimes you need to choose a stepping stone job you don't like to get to the one you do. If you are doing a stepping stone job to get to another job just because it pays more and you'll still hate it, you are doing it wrong.
 :page-image: /images/61056391_31343afdc6.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/61056391_31343afdc6.jpg[,role="text-center"]
+image::/images/61056391_31343afdc6.jpg[,role="text-center"]
 
 I was talking to someone the other day about the future. I explained to him that for his future career, I would choose something he loved more than something that might pay well. Sometimes you need to choose a stepping stone job you don't like to get to the one you do. If you are doing a stepping stone job to get to another job just because it pays more and you'll still hate it, you are doing it wrong.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: This was my first chance back to march with the alumni band since 2000. I felt honored to march under David Henry -- the band director I marched under in High School. I was in his final class before retirement. It was good to march in the Vermilion High School Marching Band Festival again.
 :page-image: /images/woolybearfest-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/woolybearfest-1.jpg[,role="text-center"]
+image::/images/woolybearfest-1.jpg[,role="text-center"]
 
 This was my first chance back to march with the alumni band since 2000. I felt honored to march under David Henry -- the band director I marched under in High School. I was in his final class before retirement. It was good to march in the Vermilion High School Marching Band Festival again.
 

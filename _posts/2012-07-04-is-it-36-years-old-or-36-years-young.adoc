@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Today I celebrate my thirty-sixth birthday. I'm at the crossroads where I'm supposed to change my verbiage when someone asks how old I am. I don't think I'm really at the stage of saying I am thirty-six years old. However, since I'm still reading comics and collecting toys -- doesn't thirty-six years young kind of fit?
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Today I celebrate my thirty-sixth birthday. I'm at the crossroads where I'm supposed to change my verbiage when someone asks how old I am. I don't think I'm really at the stage of saying I am thirty-six years old. However, since I'm still reading comics and collecting toys -- doesn't thirty-six years young kind of fit?
 

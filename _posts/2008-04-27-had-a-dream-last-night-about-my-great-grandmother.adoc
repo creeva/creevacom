@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last night was strange. The first part is strange is that I actually had a dream that I can remember. From my normal perspective, I dream next to never. I'm aware of the human dream mechanisms that everyone does dream, but normally I am unaware that I do it myself.
 :page-image: /images/110415937_6cc0f551a6_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/110415937_6cc0f551a6_m.jpg[,role="text-center"]
+image::/images/110415937_6cc0f551a6_m.jpg[,role="text-center"]
 
 Last night was strange. The first part is strange is that I actually had a dream that I can remember. From my normal perspective, I dream next to never. I'm aware of the human dream mechanisms that everyone does dream, but normally I am unaware that I do it myself.
 

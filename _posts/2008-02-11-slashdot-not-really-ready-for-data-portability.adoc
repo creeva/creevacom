@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I've been a Slashdot member for years (I would show you my uber l33t low(er) number but I can't find the password). The other account has very little in the way of comments since I've been more of a reader than a commenter. Thinking that Slashdot really managed to get inroads as an open-source news site it's odd that they are essentially stuck in the same mindset as they were about 10 years ago.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 I've been a link:http://www.slashdot.org[Slashdot] member for years (I would show you my uber l33t low(er) number but I can't find the password). The other account has very little in the way of comments since I've been more of a reader than a commenter. Thinking that Slashdot really managed to get inroads as an open-source news site it's odd that they are essentially stuck in the same mindset as they were about 10 years ago.
 

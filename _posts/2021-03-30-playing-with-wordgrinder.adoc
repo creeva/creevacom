@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I have an overall goal of trying to move one laptop over to a terminal-based only laptop one day. However, I can't do that until I can survive more than a day or two in the shell. It's not a goal of "only" having a system that is GUI-free. I have multiple systems. I just want one singular system that is terminal only and mobile (because I do have multiple headless Raspberry Pis in my environment.
 :page-image: /images/2021-03-29_wordgrinder_blog_creeva-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2021-03-29_wordgrinder_blog_creeva-1.png[,role="text-center"]
+image::/images/2021-03-29_wordgrinder_blog_creeva-1.png[,role="text-center"]
 
 I have an overall goal of trying to move one laptop over to a terminal-based only laptop one day. However, I can't do that until I can survive more than a day or two in the shell. It's not a goal of "only" having a system that is GUI-free. I have multiple systems. I just want one singular system that is terminal only and mobile (because I do have multiple headless Raspberry Pis in my environment.
 

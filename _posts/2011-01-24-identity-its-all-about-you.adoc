@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Identity, what is it? There are multiple definitions, both from a dictionary standpoint to a legal standpoint -- these don't encompass the true philosophy of what identity truly is. The reason we can't truly have a good definition is that everyone has a different thing that they feel defines them. Some people feel it's the possessions they own, some think it is the money they make, and some think it is their career. Those people seem to be some outward goal in needing self-worth and actualization of what makes someone worthy. This is the me that I was following my mother's upbringing (thanks mom -- now you know why we haven't talked in years -- k bye-bye). This has never been me, but some people do point out that parts of this escape into my personality.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Identity, what is it? There are multiple definitions, both from a dictionary standpoint to a legal standpoint -- these don't encompass the true philosophy of what identity truly is. The reason we can't truly have a good definition is that everyone has a different thing that they feel defines them. Some people feel it's the possessions they own, some think it is the money they make, and some think it is their career. Those people seem to be some outward goal in needing self-worth and actualization of what makes someone worthy. This is the me that I was following my mother's upbringing (thanks mom -- now you know why we haven't talked in years -- k bye-bye). This has never been me, but some people do point out that parts of this escape into my personality.
 
@@ -20,13 +20,13 @@ Is there an answer for anyone? What defines you? What makes you unique in your o
 
 === i·den·ti·ty
 
-image::/testsite/images/thinsp.png[,role="text-center"]
+image::/images/thinsp.png[,role="text-center"]
 
-image::/testsite/images/thinsp.png[,role="text-center"]
+image::/images/thinsp.png[,role="text-center"]
 
-image::/testsite/images/dictionary_questionbutton_default.gif[,role="text-center"]
+image::/images/dictionary_questionbutton_default.gif[,role="text-center"]
 
-image::/testsite/images/dictionary_questionbutton_default.gif[,role="text-center"]
+image::/images/dictionary_questionbutton_default.gif[,role="text-center"]
 
 /a??d?nt?ti, ??d?n-/  Show Spelled[ahy-den-ti-tee, ih-den--]  Show IPA
 

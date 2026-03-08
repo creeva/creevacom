@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Lex has been obsessed with the Dark Lord of the Sith since the Superbowl Commercial last year. We have spent the last year either having to play the Imperial March or hearing Lex sing it pretty much daily for hours on end. The "Darth Vader Song" is his most played track on his iPhone. We picked him up the costume about a month ago and we knew he would wear it out if he had access to it. He did remember all the pieces it included.
 :page-image: /images/star-wars-butterfly-hance-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/star-wars-butterfly-hance-1.jpg[,role="text-center"]
+image::/images/star-wars-butterfly-hance-1.jpg[,role="text-center"]
 
 Lex has been obsessed with the Dark Lord of the Sith since the Superbowl Commercial last year. We have spent the last year either having to play the Imperial March or hearing Lex sing it pretty much daily for hours on end. The "Darth Vader Song" is his most played track on his iPhone. We picked him up the costume about a month ago and we knew he would wear it out if he had access to it. He did remember all the pieces it included.
 

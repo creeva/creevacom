@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The Wildcat was a fantastic coaster. I think it had an image problem though. I have a few friends (and a wife), who say they have never ridden the Wildcat. They thought it was a kiddie ride so they never gave it a chance. They were missing out.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 The Wildcat was a fantastic coaster. I think it had an image problem though. I have a few friends (_and a wife_), who say they have never ridden the Wildcat. They thought it was a kiddie ride so they never gave it a chance. They were missing out.
 

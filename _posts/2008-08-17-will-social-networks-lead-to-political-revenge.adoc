@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Yesterday I saw an article about Barack Obama being the new number-one person on Twitter. If you don't know what Twitter is, I don't know how you managed to find my blog, but beyond that, it's a micro-blogging site. I've been on twitterfor a while now and I enjoy it, different people get different things out of it.
 :page-image: /images/2586969604_bce15321dc_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2586969604_bce15321dc_m.jpg[,role="text-center"]
+image::/images/2586969604_bce15321dc_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/mallix/2586969604/[here]
 

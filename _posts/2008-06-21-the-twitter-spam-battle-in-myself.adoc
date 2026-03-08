@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I'm a Twitter addict. I'm not going to be apologetic about it. I love twitter. I'll be happier when the rewrite occurs and it becomes a stable messaging platform. The problem I have is balancing the number of tweets I do with the number of my real-life friends are willing to read.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 I'm a Twitter addict. I'm not going to be apologetic about it. link:http://www.twitter.com/creeva[I love twitter]. I'll be happier when the rewrite occurs and it becomes a stable messaging platform. The problem I have is balancing the number of tweets I do with the number of my real-life friends are willing to read.
 

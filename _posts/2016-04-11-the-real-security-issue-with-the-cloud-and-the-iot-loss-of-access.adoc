@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The most important thing for anyone in IT is control over your assets and investments. The loss of control can cause you to be vulnerable and helpless even if what you have lost is menial. In the modern corporate world businesses are outsourcing projects and infrastructure at an accelerated rate. This means you have to rely on the companies in which you have invested time and effort. If these companies suddenly disappear large investments might be needed to re-architect a solution. I'm sure some of you reading this have had to deal with that exact situation.
 :page-image: /images/346519139_4af4e316de.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/346519139_4af4e316de.jpg[,role="text-center"]
+image::/images/346519139_4af4e316de.jpg[,role="text-center"]
 
 The most important thing for anyone in IT is control over your assets and investments. The loss of control can cause you to be vulnerable and helpless even if what you have lost is menial. In the modern corporate world businesses are outsourcing projects and infrastructure at an accelerated rate. This means you have to rely on the companies in which you have invested time and effort. If these companies suddenly disappear large investments might be needed to re-architect a solution. I'm sure some of you reading this have had to deal with that exact situation.
 

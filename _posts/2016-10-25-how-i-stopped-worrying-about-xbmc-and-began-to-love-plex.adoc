@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: For a long time, I juggled around with many media players on my home network. I'll be honest if I'm playing something quick and locally VLC has been my go-to choice. It hasn't mattered if I was running Windows, OSX, or Linux -- VLC has been my player. However, once you are dealing with file shares, a family wanting to access media, and cross-platform use -- there were only two players in town, Kodi (formerly XBMC) and Plex.
 :page-image: /images/plex-logo-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/plex-logo-1.jpg[,role="text-center"]
+image::/images/plex-logo-1.jpg[,role="text-center"]
 
 For a long time, I juggled around with many media players on my home network. I'll be honest if I'm playing something quick and locally VLC has been my go-to choice. It hasn't mattered if I was running Windows, OSX, or Linux -- VLC has been my player. However, once you are dealing with file shares, a family wanting to access media, and cross-platform use -- there were only two players in town, link:http://kodi.tv[Kodi] (formerly XBMC) and link:http://plex.tv[Plex].
 

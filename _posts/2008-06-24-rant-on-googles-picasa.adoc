@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: The other day I had my rant on Google Docs, you would think I would end my Google criticism there, but I have a few more complaints. Picasa is a utility I would love to be in love with. Unfortunately for online photo sharing Flickr still has my heart.
 :page-image: /images/1405701348_b0c0602641_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1405701348_b0c0602641_m.jpg[,role="text-center"]
+image::/images/1405701348_b0c0602641_m.jpg[,role="text-center"]
 
 The other day I had my rant on Google Docs, you would think I would end my Google criticism there, but I have a few more complaints. Picasa is a utility I would love to be in love with. Unfortunately for online photo sharing link:http://www.flickr.com[Flickr] still has my heart.
 

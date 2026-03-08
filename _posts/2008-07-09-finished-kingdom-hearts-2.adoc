@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: I know, I'm a little bit behind the times finishing Kingdom Hearts 2 today. I finished the first one a few years ago, and while I've chomped at the bit to play this one, I held off. I was under the impression that I was going t finish that horrendous GBA card game version (which I bought when it was originally released). I however couldn't stand the card gameplay, to those that enjoy that type of game, more power to you.
 :page-image: /images/5186ItZ7ZwL._SL500_AA280_.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/5186ItZ7ZwL._SL500_AA280_.jpg[,role="text-center"]
+image::/images/5186ItZ7ZwL._SL500_AA280_.jpg[,role="text-center"]
 
 I know, I'm a little bit behind the times finishing Kingdom Hearts 2 today. I finished the first one a few years ago, and while I've chomped at the bit to play this one, I held off. I was under the impression that I was going t finish that horrendous GBA card game version (which I bought when it was originally released). I however couldn't stand the card gameplay, to those that enjoy that type of game, more power to you.
 

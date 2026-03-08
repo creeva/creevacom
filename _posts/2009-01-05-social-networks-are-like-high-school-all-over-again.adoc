@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Do you ever notice that when you are on social networks you seem to seek people out that you only have the most tentative of connections with? I'm as bad as anyone. I'm speaking of this after a true friend added me yesterday on Facebook. It's someone I messaged back and forth a few times with, and may mildly keep in touch with. After that, I went through my graduating class and added more people. Some people I'm interested in from afar, some I'm interested in communicating with, and some I have a passing interest in. I also didn't add a few that I wouldn't be interested in, but I would friend them back if they connected to me.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 Do you ever notice that when you are on social networks you seem to seek people out that you only have the most tentative of connections with? I'm as bad as anyone. I'm speaking of this after a true friend added me yesterday on link:http://facebook.com[Facebook]. It's someone I messaged back and forth a few times with, and may mildly keep in touch with. After that, I went through my graduating class and added more people. Some people I'm interested in from afar, some I'm interested in communicating with, and some I have a passing interest in. I also didn't add a few that I wouldn't be interested in, but I would friend them back if they connected to me.
 

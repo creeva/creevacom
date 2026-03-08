@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: So I put hair gel in my hair today. We'll prefix this with the fact that I don't usually use any "hair stay in place" products. Why did I use it? I'm not sure. All I can say is I won't be doing this again anytime soon -- but I finally answered an age-old question.
 :page-image: /images/calligraphy-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+image::/images/calligraphy-1.jpg[,role="text-center"]
 
 So I put hair gel in my hair today. We'll prefix this with the fact that I don't usually use any "hair stay in place" products. Why did I use it? I'm not sure. All I can say is I won't be doing this again anytime soon -- but I finally answered an age-old question.
 

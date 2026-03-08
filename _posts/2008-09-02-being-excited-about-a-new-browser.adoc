@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: It's been a long time since I've been excited about a new browser. Theoretically, I've never been excited about a new browser that was announced. I remember being excited when AOL resurrected Netscape -- but that turned into a flaming pile of poo and Netscape lost dominance being THE browser to use. Like many users at that time frame, I used Internet Explorer 5 and at the time it was best of breed, then a new challenger arose.
 :page-image: /images/logo.gif
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/logo.gif[,role="text-center"]
+image::/images/logo.gif[,role="text-center"]
 
 It's been a long time since I've been excited about a new browser. Theoretically, I've never been excited about a new browser that was announced. I remember being excited when link:http://aol.com[AOL] resurrected link:http://netscape.com[Netscape] -- but that turned into a flaming pile of poo and Netscape lost dominance being THE browser to use. Like many users at that time frame, I used Internet Explorer 5 and at the time it was best of breed, then a new challenger arose.
 

@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: So yesterday I opened up an ask me anything post on Facebook. I knew before I wrote it that no one out would respond (know your friends people). However one of my friends from Star Wars Galaxies did reply. Her question? It was to see what I remember about the first time we met (virtually, we have never met in real life). Her challenge was that I didn't remember. To be fair, I'm not sure I actually do. I am however one of those people who can remember and pull out little details.
 :page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+image::/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
 
 So yesterday I opened up an ask me anything post on Facebook. I knew before I wrote it that no one out would respond (know your friends people). However one of my friends from Star Wars Galaxies did reply. Her question? It was to see what I remember about the first time we met (virtually, we have never met in real life). Her challenge was that I didn't remember. To be fair, I'm not sure I actually do. I am however one of those people who can remember and pull out little details.
 

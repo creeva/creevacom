@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Here is a basic refresher on Pavlov for those that have forgotten. Pavlov was a famous psychologist who that proved with repetition a response could be conditioned. He was investigating the salivary glands in dogs. He noticed the dogs salivate shortly before eating. So every time he fed the dogs he would ring a bell. After a certain amount of times, the dogs expected food every time the bell would ring. This would cause them to start drooling. They would salivate whether the food was present or not. He called this conditioned response the "Pavlovian Response". To think, he didn't want to prove to condition, he just wanted dog drool.
 :page-image: /images/thps2.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/thps2.jpeg[,role="text-center"]
+image::/images/thps2.jpeg[,role="text-center"]
 
 Here is a basic refresher on Pavlov for those that have forgotten. Pavlov was a famous psychologist who that proved with repetition a response could be conditioned. He was investigating the salivary glands in dogs. He noticed the dogs salivate shortly before eating. So every time he fed the dogs he would ring a bell. After a certain amount of times, the dogs expected food every time the bell would ring. This would cause them to start drooling. They would salivate whether the food was present or not. He called this conditioned response the "Pavlovian Response". To think, he didn't want to prove to condition, he just wanted dog drool.
 

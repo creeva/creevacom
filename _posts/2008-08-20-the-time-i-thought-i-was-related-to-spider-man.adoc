@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: You know those moments when you are a kid and you find something that you can do that you think is extraordinary? I had one of those moments and it dealt with climbing walls. I was so convinced it was extraordinary that I thought I had been bitten by a mutant spider. I think it helped that I was into Spider-Man at the time thanks to the Electric Company.
 :page-image: /images/501531275_1579a786da_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/501531275_1579a786da_m.jpg[,role="text-center"]
+image::/images/501531275_1579a786da_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/cbcastro/501531275/[here]
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I'm one of those people. The people that are annoying. The people that don't want you walking across their lawn. The ones that threaten loudly to call the police about trespassing (but never do). I have a theory about this. I was one of those kids that hiked across a lot of lawns. As a matter of fact, there were about 3 lawns I hiked through every single day I was in middle school since it cut about a quarter mile off of my walk. Granted I had to cut straight through the area between two houses and I didn't do it when there was someone in the driving (a lot of 12-year-olds that are alone don't usually have that brazen of an attitude to flaunt it in front of authority.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 I'm one of those people. The people that are annoying. The people that don't want you walking across their lawn. The ones that threaten loudly to call the police about trespassing (but never do). I have a theory about this. I was one of those kids that hiked across a lot of lawns. As a matter of fact, there were about 3 lawns I hiked through every single day I was in middle school since it cut about a quarter mile off of my walk. Granted I had to cut straight through the area between two houses and I didn't do it when there was someone in the driving (a lot of 12-year-olds that are alone don't usually have that brazen of an attitude to flaunt it in front of authority.
 

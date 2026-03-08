@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I'm a child of the pop culture generation that has been targeted the most. Seriously, the eighties and nineties were all about pop culture. The TV and Radio had all of our attention. Even the books we read had a communal feeling as we all worked through Beverly Cleary, Roald Dahl, and C.S. Lewis. Of course, there were alternative media we could turn to, but as children, we were spoon-fed pop culture. I ate it up (obviously). To be fair though so did most people I know.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I'm a child of the pop culture generation that has been targeted the most. Seriously, the eighties and nineties were all about pop culture. The TV and Radio had all of our attention. Even the books we read had a communal feeling as we all worked through Beverly Cleary, Roald Dahl, and C.S. Lewis. Of course, there were alternative media we could turn to, but as children, we were spoon-fed pop culture. I ate it up (obviously). To be fair though so did most people I know.
 

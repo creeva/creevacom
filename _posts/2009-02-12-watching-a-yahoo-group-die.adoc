@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: A long long time ago I ran a Yahoo Group entitled Marcon Drinkers it was started in 2001. Before this group was started my circle of friends had another message board we were using. One of the administrators went off the deep end and started banning people and deleting posts. He eventually found it funny just to delete the message board altogether. This is where I came into the picture.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 A long long time ago I ran a link:http://groups.yahoo.com[Yahoo Group] entitled link:http://groups.yahoo.com/groups/marcondrinkers[Marcon Drinkers] it was started in 2001. Before this group was started my circle of friends had another message board we were using. One of the administrators went off the deep end and started banning people and deleting posts. He eventually found it funny just to delete the message board altogether. This is where I came into the picture.
 

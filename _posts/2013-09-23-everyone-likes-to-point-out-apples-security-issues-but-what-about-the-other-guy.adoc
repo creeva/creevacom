@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: All last week (I'll also assume this upcoming week), people have been chiming and laughing over security vulnerabilities in IOS7. The main reason this is in the news is the operating systems have just been released. They should have also learned from past mistakes.
 :page-image: /images/397488557_732c8923e3_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/397488557_732c8923e3_m.jpg[,role="text-center"]
+image::/images/397488557_732c8923e3_m.jpg[,role="text-center"]
 
 All last week (I'll also assume this upcoming week), people have been chiming and laughing over security vulnerabilities in IOS7. The main reason this is in the news is the operating systems have just been released. They should have also learned from past mistakes.
 

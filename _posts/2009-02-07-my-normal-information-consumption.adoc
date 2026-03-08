@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I consume a ton of information a day. Some people think that they receive and process mass amounts of information, and some like Scoble definitely outpace by any measure of the word. Other people just seem to flip out if they have more than five emails that are not spam. We are going to just look at the last 30 days.
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 I consume a ton of information a day. Some people think that they receive and process mass amounts of information, and some like Scoble definitely outpace by any measure of the word. Other people just seem to flip out if they have more than five emails that are not spam. We are going to just look at the last 30 days.
 

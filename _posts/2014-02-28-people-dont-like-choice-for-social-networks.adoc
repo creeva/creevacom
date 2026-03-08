@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: About six or seven years ago I saw the writing on the wall. Facebook was going to become the dominant social network. This had its benefits such as a singular point to find and interact with people. The downsides were much more obvious. Back in 2008, Facebook was already dealing with privacy backlash over changes. Similar to the way it is today, every change required you to go in and verify your privacy settings to make sure you were not sharing too much online.
 :page-image: /images/Social_network_film_poster-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Social_network_film_poster-1.jpg[,role="text-center"]
+image::/images/Social_network_film_poster-1.jpg[,role="text-center"]
 
 About six or seven years ago I saw the writing on the wall. link:http://facebook.com[Facebook] was going to become the dominant social network. This had its benefits such as a singular point to find and interact with people. The downsides were much more obvious. Back in 2008, Facebook was already dealing with privacy backlash over changes. Similar to the way it is today, every change required you to go in and verify your privacy settings to make sure you were not sharing too much online.
 

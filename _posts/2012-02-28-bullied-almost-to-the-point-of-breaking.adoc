@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was a victim of extreme bullying growing up. Surprise, surprise a fairly hard-core geek was picked on. What I realized today is how many people don't understand the difference between being picked on and being bullied is. They think they should just stand up and be a man. Fight back and they will back down. Those are the people who back then were either doing the bullying or mostly just left alone for other reasons.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I was a victim of extreme bullying growing up. Surprise, surprise a fairly hard-core geek was picked on. What I realized today is how many people don't understand the difference between being picked on and being bullied is. They think they should just stand up and be a man. Fight back and they will back down. Those are the people who back then were either doing the bullying or mostly just left alone for other reasons.
 

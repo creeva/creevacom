@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Andrew Shuttleworth has written a piece and made a graph of all the online networks he uses and how the information is then passed from web service to web service before being saved onto his own sites (though I still think he cheats since he only posts an RSS widget on his site -- hence he lifestreams the data and doesn't life cache it properly). That being said it's an insane amount of data traversing anywhere and everywhere at once.
 :page-image: /images/trumpet.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/trumpet.jpg[,role="text-center"]
+image::/images/trumpet.jpg[,role="text-center"]
 
 Andrew Shuttleworth has written a piece and made a graph of all the online networks he uses and how the information is then passed from web service to web service before being saved onto his own sites (though I still think he cheats since he only posts an RSS widget on his site -- hence he lifestreams the data and doesn't life cache it properly). That being said it's an insane amount of data traversing anywhere and everywhere at once.
 

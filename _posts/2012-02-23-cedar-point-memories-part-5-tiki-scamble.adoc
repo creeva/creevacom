@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Do you know how hard it is to find a picture of the Tiki Twirl? I hunted and hunted for a picture of this ride hoping that it would jog a memory. I finally found an image in this forum here.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 Do you know how hard it is to find a picture of the Tiki Twirl? I hunted and hunted for a picture of this ride hoping that it would jog a memory. I finally link:http://www.fraternalorderofmoai.org/huimalu/viewtopic.php?f=9&t=3774[found an image in this forum here].
 

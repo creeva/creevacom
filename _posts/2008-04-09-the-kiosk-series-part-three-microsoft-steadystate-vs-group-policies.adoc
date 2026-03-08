@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: One of the programs that management wants us to look at for our kiosk implementation is Microsoft Steadystate, Microsoft's all-in-one wizard creates a kiosk solution.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 One of the programs that management wants us to look at for our kiosk implementation is Microsoft Steadystate, link:http://www.microsoft.com[Microsoft]'s all-in-one wizard creates a kiosk solution.
 

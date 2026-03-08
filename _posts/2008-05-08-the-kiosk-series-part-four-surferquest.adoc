@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Going further into my reviews of kiosk systems we acquired the Surferquest system here at work. Unlike my piece on SteadyState I'm not going to have a bunch of screenshots to show you this time. However, I will give you my analysis and what I've found out.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Going further into my reviews of kiosk systems we acquired the Surferquest system here at work. Unlike my piece on SteadyState I'm not going to have a bunch of screenshots to show you this time. However, I will give you my analysis and what I've found out.
 

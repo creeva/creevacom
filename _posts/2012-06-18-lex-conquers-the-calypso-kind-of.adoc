@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: We went to Cedar Point on Saturday with Lex. He had a great time and I think he rode more rides than he has on any other visit. The big news of the day was Lex conquered his first adult "thrill" ride. He has done the train, the antique cars, and the turnpike cars -- but beyond that, he had not ridden any of the other adult rides. That changed with two new additions.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 We went to Cedar Point on Saturday with Lex. He had a great time and I think he rode more rides than he has on any other visit. The big news of the day was Lex conquered his first adult "thrill" ride. He has done the train, the antique cars, and the turnpike cars -- but beyond that, he had not ridden any of the other adult rides. That changed with two new additions.
 

@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Now you are playing with power. That is what Nintendo was telling us in the late eighties. I was a complete Nintendo boy. I got my first job just to get an NES. Eventually, my grandparents got me a subscription to Nintendo Power, the promotional magazine for Nintendo for Christmas 1990. The year before the Powerfest I was buying each issue as it came along.
 :page-image: /images/1-1-300x159.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1-1-300x159.jpg[,role="text-center"]
+image::/images/1-1-300x159.jpg[,role="text-center"]
 
 Now you are playing with power. That is what Nintendo was telling us in the late eighties. I was a complete Nintendo boy. I got my first job just to get an NES. Eventually, my grandparents got me a subscription to Nintendo Power, the promotional magazine for Nintendo for Christmas 1990. The year before the Powerfest I was buying each issue as it came along.
 

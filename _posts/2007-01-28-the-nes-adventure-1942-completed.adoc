@@ -4,15 +4,15 @@
 :page-categories: video-games
 :page-excerpt: In my quest to beat every game officially released for the NES system -- I started with 1942 the first game on the list.
 :page-image: /images/1039657168-00.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
 In my quest to beat every game officially released for the NES system -- I started with 1942 the first game on the list.
 
-image::/testsite/images/1039657168-00.jpg[,role="text-center"]
+image::/images/1039657168-00.jpg[,role="text-center"]
 
-image::/testsite/images/1039657165-00.jpg[,role="text-center"]
+image::/images/1039657165-00.jpg[,role="text-center"]
 
-image::/testsite/images/1039657167-00.jpg[,role="text-center"]
+image::/images/1039657167-00.jpg[,role="text-center"]
 
 Today was the first time I ever played 1942. Early in the day, I had to continue multiple times on the first level. Thank God this game has unlimited continues. This game is a top-down vertical scroller game. While I can get some enjoyment from these games, generally I loathe them over time and can't play them for more than a few rounds.
 
@@ -36,11 +36,11 @@ Ending -- 1/10 -- It says congratulations -- that's it no credits or anything --
 
 Fun -- 7/10 -- since I don't really like this type of game normally and enjoyed myself I'm giving it higher than I normally would have.
 
-image::/testsite/images/1942_NES_ScreenShot1.jpg[,role="text-center"]
+image::/images/1942_NES_ScreenShot1.jpg[,role="text-center"]
 
-image::/testsite/images/1942_NES_ScreenShot4.jpg[,role="text-center"]
+image::/images/1942_NES_ScreenShot4.jpg[,role="text-center"]
 
-image::/testsite/images/1942_NES_ScreenShot2.jpg[,role="text-center"]
+image::/images/1942_NES_ScreenShot2.jpg[,role="text-center"]
 
 Since I'm not sure about the quality of my review link:http://www.gamespot.com/nes/action/1942/player_review.html?id=168479[here is the link] to a Gamespot player review.
 

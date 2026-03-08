@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: If you haven't noticed, America is cheering because it was announced last night that Osama Bin Laden was killed. Some people feel this is justice. Some people feel that we won the war. Some people, like myself, feel nothing has changed. Do you feel safer today than you did the last week? I'm not a person that lives in fear of a terrorist attack, but I also don't think most Americans feel it is going to hit their hometowns.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 If you haven't noticed, America is cheering because it was announced last night that Osama Bin Laden was killed. Some people feel this is justice. Some people feel that we won the war. Some people, like myself, feel nothing has changed. Do you feel safer today than you did the last week? I'm not a person that lives in fear of a terrorist attack, but I also don't think most Americans feel it is going to hit their hometowns.
 

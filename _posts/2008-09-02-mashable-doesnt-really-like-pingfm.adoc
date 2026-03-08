@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: There was an article on mashable today questioning if ping.fm and hellotxt were helping the web world or hurting it. I understand the author's point that if you are using these services you are not taking an interest and active use in the social community that you are using these services to post to. I can say from hits for ping.fm beta code requests on my blog, that lots of people are interested in getting access to ping.fm. Now that it's out of private beta I'm sure I'll lose my number one spot in google for the term "ping.fm beta code".
 :page-image: /images/2046930099_fe46d87a77_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2046930099_fe46d87a77_m.jpg[,role="text-center"]
+image::/images/2046930099_fe46d87a77_m.jpg[,role="text-center"]
 
 There was an link:http://mashable.com/2008/09/02/pingfm-solving-the-problem-or-exacerbating-it/[article on mashable today] questioning if link:http://ping.fm[ping.f]link:http://ping.fm[m] and link:http://hellotxt.com[hellotx]t were helping the web world or hurting it. I understand the author's point that if you are using these services you are not taking an interest and active use in the social community that you are using these services to post to. I can say from hits for ping.fm beta code requests on my blog, that lots of people are interested in getting access to ping.fm. Now that it's out of private beta I'm sure I'll lose my number one spot in google for the term "ping.fm beta code".
 

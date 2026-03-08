@@ -3,7 +3,7 @@
 :page-navtitle: Retrometrics First Play Through -- MTV Remote Control On The NES
 :page-categories: video-games
 :page-excerpt: This week I thought I would do something different. I would take a game I've never played before and do a first play-through. This is going to be an ongoing series going forward. The rules are that I can't remember ever playing the game before. The videos will end when a few different things occur, 30 minutes have passed while playing, I have hit a Game Over Screen, or I beat the game (which will likely be very few). With a few of the games I've played in the past -- expect some very short videos.  I'll be doing some mainstream games, and like this week's, some esoteric ones.
-:imagesdir: /testsite/images
+:imagesdir: /images
 
 This week I thought I would do something different. I would take a game I've never played before and do a first play-through. This is going to be an ongoing series going forward. The rules are that I can't remember ever playing the game before. The videos will end when a few different things occur, 30 minutes have passed while playing, I have hit a Game Over Screen, or I beat the game (which will likely be very few). With a few of the games I've played in the past -- expect some very short videos.  I'll be doing some mainstream games, and like this week's, some esoteric ones.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So the Apple issue hit the web news yesterday. All the "OMG HAXXX" and Fox News proclaiming your spouse or employee can monitor your every move stories hit the web and to the non-technical people, this seemed like the worst thing ever. The first thing that came to my mind? I thought "This is awesome what can I do with my own data". I'm not alone with this, my wife's first reaction. "Ohmygodthisisawesomewhatcanwedowiththis?" She is also an extremely private person and more privacy-conscious than I am. I am privacy concerned on issues -- when they are real issues. This, so far, is a fair nonissue. My favorite quote about this yesterday was by @adambaldwin -- " iPhone stores a record of every place you visit. In other news your browser can also set cookies."
 :page-image: /images/39150253_5ded166fe1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+image::/images/39150253_5ded166fe1.jpg[,role="text-center"]
 
 So the Apple issue hit the web news yesterday. All the "OMG HAXXX" and Fox News proclaiming your spouse or employee can monitor your every move stories hit the web and to the non-technical people, this seemed like the worst thing ever. The first thing that came to my mind? I thought "This is awesome what can I do with my own data". I'm not alone with this, my wife's first reaction. "Ohmygodthisisawesomewhatcanwedowiththis?" She is also an extremely private person and more privacy-conscious than I am. I am privacy concerned on issues -- when they are real issues. This, so far, is a fair nonissue. My favorite quote about this yesterday was by link:https://twitter.com/adam_baldwin[@adambaldwin] -- " iPhone stores a record of every place you visit. In other news your browser can also set cookies."
 

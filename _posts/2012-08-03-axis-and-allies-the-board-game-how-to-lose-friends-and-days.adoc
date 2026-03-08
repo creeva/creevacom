@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I'll admit it. I'm a recovered Axis and Allies, addict. It's part of the reason I will not touch Settlers of Catan with a ten-foot pole. Any strategy game I've played I get really involved in. My wife won't even play Monopoly with me. My son, however, will be trained to be a Monopoly master.
 :page-image: /images/640px-Axis__Allies_Map__Pieces-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/640px-Axis__Allies_Map__Pieces-1.jpeg[,role="text-center"]
+image::/images/640px-Axis__Allies_Map__Pieces-1.jpeg[,role="text-center"]
 
 I'll admit it. I'm a recovered link:http://en.wikipedia.org/wiki/Axis_%26_Allies[Axis and Allies], addict. It's part of the reason I will not touch link:http://en.wikipedia.org/wiki/Settlers_of_Catan[Settlers of Catan] with a ten-foot pole. Any strategy game I've played I get really involved in. My wife won't even play link:http://en.wikipedia.org/wiki/Monopoly_(game)[Monopoly] with me. My son, however, will be trained to be a Monopoly master.
 

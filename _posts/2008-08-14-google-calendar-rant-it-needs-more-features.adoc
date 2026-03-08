@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Previously I railed against Google Docs and my issues with them there, now it's the Google Calendar's Team that I'm having issues with. I want to love Gcal. I really truly and deeply do. I do love it more than Microsoft Outlook's Calendar, but that is still an issue since it doesn't have complete integration with Microsoft Exchange. I have however recently configured my Outlook calendar to sync with Gcal with a nifty tool Google released. For that I bless them. No more hacks or workarounds, or siphoning data through Plaxo to get this going. I still use Plaxo, but I don't need a desktop client for it anymore, it replicates the back-end internet data now.
 :page-image: /images/163896765_bedeab6dcc_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/163896765_bedeab6dcc_m.jpg[,role="text-center"]
+image::/images/163896765_bedeab6dcc_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/thedoubleduchess/163896765/[here]
 

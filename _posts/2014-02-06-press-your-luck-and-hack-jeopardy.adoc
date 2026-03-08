@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Earlier this morning in my news feed there showed up an article about hacking Jeopardy.  I highly suggest reading the article.   It's about Arthur Chu and his unorthodox method of controlling the Jeopardy board.   He has been highly successful with this strategy.   From the article, there are many fans upset since "he isn't playing right".   I say more power to him.
 :page-image: /images/Press_Your_Luck-1.gif
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Press_Your_Luck-1.gif[,role="text-center"]
+image::/images/Press_Your_Luck-1.gif[,role="text-center"]
 
 Earlier this morning in my news feed there showed up an article about link:http://kotaku.com/meet-the-man-who-hacked-jeopardy-1516792430[hacking Jeopardy].  I highly suggest reading the article.   It's about Arthur Chu and his unorthodox method of controlling the link:http://en.wikipedia.org/wiki/Jeopardy[Jeopardy] board.   He has been highly successful with this strategy.   From the article, there are many fans upset since "he isn't playing right".   I say more power to him.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So joining into another step of the twenty-first-century lifestyle -- we got Vonage installed in the house. After hooking it up I am disappointed that the Linksys PAP2 that I purchased for the service has very limited options for configurations. Since the documentation assumes you would run the device via DHCP they do not list a default IP address for configuration.
 :page-image: /images/undersea-cable-vietnam-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+image::/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
 
 So joining into another step of the twenty-first-century lifestyle -- we got Vonage installed in the house. After hooking it up I am disappointed that the link:http://www.amazon.com/Linksys-PAP2-Adapter-Internet-Service/dp/B0002V8KX6[Linksys PAP2] that I purchased for the service has very limited options for configurations. Since the documentation assumes you would run the device via DHCP they do not list a default IP address for configuration.
 

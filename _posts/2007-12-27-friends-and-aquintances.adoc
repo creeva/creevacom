@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I have a friend that I somewhat regularly talk with over instant messenger. He keeps pressuring me to write more about our life in high school. The highlights we did and the little things that made life back then great. Soon I'm hoping to share some of those stories with which I can get away with and share.
 :page-image: /images/alcohol.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/alcohol.jpg[,role="text-center"]
+image::/images/alcohol.jpg[,role="text-center"]
 
 I have a friend that I somewhat regularly talk with over instant messenger. He keeps pressuring me to write more about our life in high school. The highlights we did and the little things that made life back then great. Soon I'm hoping to share some of those stories with which I can get away with and share.
 

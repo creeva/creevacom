@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Sometimes in my weaker moments, I am the writer I have always aspired to be. I had always yearned to self-publish and with the lucky era I live in it is much cheaper than it was when I first dreamed of it. Technology has enabled us in strange ways. It allows us to look forward and back with digital clarity that was not before possible.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 Sometimes in my weaker moments, I am the writer I have always aspired to be. I had always yearned to self-publish and with the lucky era I live in it is much cheaper than it was when I first dreamed of it. Technology has enabled us in strange ways. It allows us to look forward and back with digital clarity that was not before possible.
 

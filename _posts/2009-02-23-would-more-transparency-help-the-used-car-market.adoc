@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Seeing we've recently been used car shopping, I've noticed some problems in an industry which is at least a secondary issue with the automakers that exist currently. We can say automakers are focused on new cars and could care less about the used car markets, but the dealerships that sell new cars also deal in used cars. A sale for these people is a sale all around. I understand that they use tricks to sell you what they want to sell instead of what you really want to buy, but buyers are getting savvier and the old tricks do not work.
 :page-image: /images/3085421999_73a335f86e.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3085421999_73a335f86e.jpg[,role="text-center"]
+image::/images/3085421999_73a335f86e.jpg[,role="text-center"]
 
 Seeing we've recently been used car shopping, I've noticed some problems in an industry which is at least a secondary issue with the automakers that exist currently. We can say automakers are focused on new cars and could care less about the used car markets, but the dealerships that sell new cars also deal in used cars. A sale for these people is a sale all around. I understand that they use tricks to sell you what they want to sell instead of what you really want to buy, but buyers are getting savvier and the old tricks do not work.
 

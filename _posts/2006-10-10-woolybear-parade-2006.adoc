@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: This was my first Woolybear Festival since the year 2000, before I moved to Oregon. It was an experience and the first time that I ever heard of where the local band festival on a different weekend than the Woolybear.
 :page-image: /images/woolybearfest-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/woolybearfest-1.jpg[,role="text-center"]
+image::/images/woolybearfest-1.jpg[,role="text-center"]
 
 This was my first Woolybear Festival since the year 2000, before I moved to Oregon. It was an experience and the first time that I ever heard of where the local band festival on a different weekend than the Woolybear.
 

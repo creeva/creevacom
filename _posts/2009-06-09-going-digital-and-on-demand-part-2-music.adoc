@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A few months ago I lost all of the MP3s that I had been accumulating for over 10 years. It was a bad hard drive crash and over 200GB of music was lost in this tragedy. One blessing of this is that we got to start from scratch. Until a couple of weeks, I managed to keep putting off the long haul of going through hundreds of CDs to rip them to MP3 so we can put them on our iPods and listen to our heart's content.
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 A few months ago I lost all of the MP3s that I had been accumulating for over 10 years. It was a bad hard drive crash and over 200GB of music was lost in this tragedy. One blessing of this is that we got to start from scratch. Until a couple of weeks, I managed to keep putting off the long haul of going through hundreds of CDs to rip them to MP3 so we can put them on our iPods and listen to our heart's content.
 

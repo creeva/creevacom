@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A couple of weeks ago I was talking with a friend about an idea for a new web service. The web service would have you enter all the services and sites you use and have an account with online, and then send you a twitter alert when the policy changed and it would show you which text changed. My problem is while I could come up with the design, function, and architecture I couldn't figure out any way to monetize such a service. I let it languish and said I would eventually write a blog article on how to roll your own. This is that article.
 :page-image: /images/54296664_ab6a666dff_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/54296664_ab6a666dff_m.jpg[,role="text-center"]
+image::/images/54296664_ab6a666dff_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/cobalt/54296664/[here]
 

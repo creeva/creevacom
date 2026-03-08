@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: This post has multiple parts to it, so fair warning I'm guessing this one is going to be long. Lately, I've been more and more annoyed at traditional hard-copy media. It's a pain in the butt to deal with and takes up way too much physical space (for those that know me you find that sentence greatly amusing).
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 This post has multiple parts to it, so fair warning I'm guessing this one is going to be long. Lately, I've been more and more annoyed at traditional hard-copy media. It's a pain in the butt to deal with and takes up way too much physical space (for those that know me you find that sentence greatly amusing).
 

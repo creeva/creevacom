@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Everyone else is writing about network neutrality today (here, here, and here), so I'm jumping on the bandwagon. Actually, I meant to write this last night, so since I'm slow and lazy the others beat me to the punch. Late last night I saw the first posts about Google's Measurement Labs sneak across the RSS feeds. What the tools you can get from that website do is find out if your ISP is doing any funny stuff to your internet data.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 +
 Image from link:http://flickr.com/photos/nathangibbs/270969697/[here]

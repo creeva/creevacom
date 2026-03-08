@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: You ever get one of those times that you step away from your blog for a few days (ok a couple of weeks for me) and it seems that you need to go through the steps to clean up your drafts, finish your writing, and then you may feel complete. I'm having one of those days.
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 You ever get one of those times that you step away from your blog for a few days (ok a couple of weeks for me) and it seems that you need to go through the steps to clean up your drafts, finish your writing, and then you may feel complete. I'm having one of those days.
 

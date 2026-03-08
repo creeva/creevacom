@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I know looking at the title you are thinking to yourself, but I just saw Gobstoppers in the candy aisle at the local big box store just the other day.  That these are the Gobstoppers that you remember and have loved your whole life.   But that life is a lie.  I don't mean the crazy-shaped Gobstoppers from the movie that have weird ends coming out of them.    Those were never made and sold to the general public -- if a candy version of those were ever made at all.    I'm talking about the Gobstoppers that you could buy in a two-pack for a dime or a quarter (depending on where you got them).
 :page-image: /images/61HFRBhoS5L-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/61HFRBhoS5L-1.jpg[,role="text-center"]
+image::/images/61HFRBhoS5L-1.jpg[,role="text-center"]
 
 I know looking at the title you are thinking to yourself, but I just saw Gobstoppers in the candy aisle at the local big box store just the other day.  That these are the Gobstoppers that you remember and have loved your whole life.   But that life is a lie.  I don't mean the crazy-shaped Gobstoppers from the movie that have weird ends coming out of them.    Those were never made and sold to the general public -- if a candy version of those were ever made at all.    I'm talking about the Gobstoppers that you could buy in a two-pack for a dime or a quarter (depending on where you got them).
 

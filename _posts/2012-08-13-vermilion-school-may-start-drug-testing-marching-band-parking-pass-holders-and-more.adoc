@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: My Alma Mater in Vermilion, Ohio is having a discussion to be one of the first states to do wide-scale drug testing on students. Of course, this just isn't all students, just the ones that are doing extracurricular activities. The testing also starts as young as middle school. I know some people who I still have ties with back there would think of it as a good thing. It isn't. It is a waste that is a huge invasion of privacy.
 :page-image: /images/2172164251_f4a3564315-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2172164251_f4a3564315-1.jpeg[,role="text-center"]
+image::/images/2172164251_f4a3564315-1.jpeg[,role="text-center"]
 
 My Alma Mater in Vermilion, Ohio is having a discussion to be one of the first states to do wide-scale drug testing on students. Of course, this just isn't all students, just the ones that are doing extracurricular activities. The testing also starts as young as middle school. I know some people who I still have ties with back there would think of it as a good thing. It isn't. It is a waste that is a huge invasion of privacy.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: File shares are a pain. In and of themselves they are not, but once you get past two or three -- it gets painful. Now I have multiple computers with multiple drives with multiple file shares per drive spread across my network. What does this mean? Well, I'm the only one with knowledge of what is on the network and where it exists. This means that the network is not only cumbersome for anyone else to use (and sometimes me) it makes it nearly impossible if I want to tell someone to grab something off of the network if they come over and hook up to my wifi.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 File shares are a pain. In and of themselves they are not, but once you get past two or three -- it gets painful. Now I have multiple computers with multiple drives with multiple file shares per drive spread across my network. What does this mean? Well, I'm the only one with knowledge of what is on the network and where it exists. This means that the network is not only cumbersome for anyone else to use (and sometimes me) it makes it nearly impossible if I want to tell someone to grab something off of the network if they come over and hook up to my wifi.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: There are times when you can just be cruel as a DM.   This isn't about the scenarios where you make elaborate traps to either kill or dissuade your party into following the line you have made.  This is solely the fact that you take petty revenge that makes no sense in the mechanics of the game.  As long as it isn't a constant every time you play with that type of behavior, it doesn't make you a bad DM.  It does however show that you are having a tantrum because it is a game where people think and follow their desires.   You can set up the stage however you like, it doesn't mean players will follow.
 :page-image: /images/Top-Secret-SI-Players-Guide-TSR-1987-1-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Top-Secret-SI-Players-Guide-TSR-1987-1-1.jpg[,role="text-center"]
+image::/images/Top-Secret-SI-Players-Guide-TSR-1987-1-1.jpg[,role="text-center"]
 
 === About DM Cruelty
 

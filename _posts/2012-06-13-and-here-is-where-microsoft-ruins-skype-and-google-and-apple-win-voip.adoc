@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Today Microsoft updated Skype to now included "Conversation Ads". Looking at the review on Ars Technica, this is all sorts of terrible. I think Microsoft shot itself in the foot big time with this one.
 :page-image: /images/5129332_b75d25f016_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
+image::/images/5129332_b75d25f016_m.jpg[,role="text-center"]
 
 Today link:http://www.skype.com/intl/en-us/home[Microsoft updated Skype] to now included "Conversation Ads". Looking at link:http://arstechnica.com/information-technology/2012/06/skype-calls-to-feature-ads-big-enough-to-interrupt-any-conversation/[the review on Ars Technica], this is all sorts of terrible. I think Microsoft shot itself in the foot big time with this one.
 

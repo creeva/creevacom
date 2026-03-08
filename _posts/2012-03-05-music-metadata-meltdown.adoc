@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: A little over a year ago I was almost done with getting my mp3 metadata into shape. I had a few stragglers but the majority was complete and I would get to it eventually. Over the last year, my collection has grown a lot. That small part that was probably under 10% of the collection had ballooned to 25-30% with all the new items that I was too lazy to update. For those curious, I have a ton of classical and video game music. The local library has also helped my collection grow.
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 A little over a year ago I was almost done with getting my mp3 metadata into shape. I had a few stragglers but the majority was complete and I would get to it eventually. Over the last year, my collection has grown a lot. That small part that was probably under 10% of the collection had ballooned to 25-30% with all the new items that I was too lazy to update. For those curious, I have a ton of classical and video game music. The local library has also helped my collection grow.
 

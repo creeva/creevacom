@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: This story hopped across my feed reader today, it piqued my interest since before I expanded it I only had the title, "Search giants join to tidy up Web addresses". I wasn't sure from the title if they were looking at trying to apply pressure before any new TLDs were going to be added, if they were looking at the URL shortening issue that seems to be proliferating across the net, or whatever else they were trying to do. So much can be derived from that simple sentence that I felt I just had to read that article.
 :page-image: /images/108805307_c43af20f59.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+image::/images/108805307_c43af20f59.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/keso/108805307/[here]
 

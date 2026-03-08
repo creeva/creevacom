@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Remember about four or five years ago when commenting was all the rage? Blogs would have to adapt and develop new commenting systems. Companies such as Disqus and Intense Debate rose in prominence just because they offered integrated commenting solutions that were better than native ones. Looking around the blogosphere today it seems like a desolate wasteland when it comes to comments.
 :page-image: /images/2998675628_1f1ffdb931_o-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2998675628_1f1ffdb931_o-1.jpeg[,role="text-center"]
+image::/images/2998675628_1f1ffdb931_o-1.jpeg[,role="text-center"]
 
 Remember about four or five years ago when commenting was all the rage? Blogs would have to adapt and develop new commenting systems. Companies such as link:http://disqus.com[Disqus] and link:http://intensedebate.com[Intense Debate] rose in prominence just because they offered integrated commenting solutions that were better than native ones. Looking around the blogosphere today it seems like a desolate wasteland when it comes to comments.
 

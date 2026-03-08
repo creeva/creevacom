@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Last night like hundreds of thousands of people around the states I waited in line for a Nintendo Wii. We arrived at Super K in Lorain, OH to get our chance at the elusive new console. We started waiting at 11 PM for the midnight drawing. Instead of the normal line, Super K was doing a lottery which I assumed would increase my chances without camping out for 2-3 days ahead of time.
 :page-image: /images/wiistock-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/wiistock-1.jpg[,role="text-center"]
+image::/images/wiistock-1.jpg[,role="text-center"]
 
 Last night like hundreds of thousands of people around the states I waited in line for a Nintendo Wii. We arrived at Super K in Lorain, OH to get our chance at the elusive new console. We started waiting at 11 PM for the midnight drawing. Instead of the normal line, Super K was doing a lottery which I assumed would increase my chances without camping out for 2-3 days ahead of time.
 

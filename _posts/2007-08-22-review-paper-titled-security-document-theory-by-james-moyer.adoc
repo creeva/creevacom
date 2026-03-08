@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Someone accidentally sent me a link yesterday to a security document that I was meant to read. I read the document (located here) and later discovered he sent me the wrong link. Overall the paper is well-written and has some strong theories behind it. I did have some concerns over this paper which I can address here.
 :page-image: /images/poetry.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/poetry.jpg[,role="text-center"]
+image::/images/poetry.jpg[,role="text-center"]
 
 Someone accidentally sent me a link yesterday to a security document that I was meant to read. I read the document (link:http://papers.ssrn.com/sol3/papers.cfm?abstract_id=700528[located here]) and later discovered he sent me the wrong link. Overall the paper is well-written and has some strong theories behind it. I did have some concerns over this paper which I can address here.
 

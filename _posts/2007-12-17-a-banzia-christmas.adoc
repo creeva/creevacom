@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: This is a quick little ditty I wrote for the SWG Intrepid Forums off the top of my head. It's unpolished and rough -- but for who it's written about it works. For those in the know, I'm sure you will at least be amused -- for those in the dark -- I apologize, but it may be time to invest in a light bulb 🙂
 :page-image: /images/star-wars-butterfly-hance-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/star-wars-butterfly-hance-1.jpg[,role="text-center"]
+image::/images/star-wars-butterfly-hance-1.jpg[,role="text-center"]
 
 This is a quick little ditty I wrote for the SWG Intrepid Forums off the top of my head. It's unpolished and rough -- but for who it's written about it works. For those in the know, I'm sure you will at least be amused -- for those in the dark -- I apologize, but it may be time to invest in a light bulb 🙂
 

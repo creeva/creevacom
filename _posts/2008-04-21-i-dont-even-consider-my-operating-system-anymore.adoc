@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I guess that's the point. Most people use windows and take for granted what OS they are using. I however am I bit different. I move between XP, Ubuntu, and OSX in a seamless fashion. I do a lot of work via the browser so I'm sure that is part of it, but I utilize the application that is suited for their purposes within the individual OS as they are meant to be.
 :page-image: /images/ubuntu-logo32.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+image::/images/ubuntu-logo32.png[,role="text-center"]
 
 I guess that's the point. Most people use windows and take for granted what OS they are using. I however am I bit different. I move between XP, Ubuntu, and OSX in a seamless fashion. I do a lot of work via the browser so I'm sure that is part of it, but I utilize the application that is suited for their purposes within the individual OS as they are meant to be.
 

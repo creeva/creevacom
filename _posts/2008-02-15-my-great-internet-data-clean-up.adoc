@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Do you know how every once in a while you need to just sit back and look at all of you that's out there on the Internet? Granted I'm definitely the wrong person to be discussing or pondering about how much of you exist on the wide-open Internet. I use a ton of sites, well a few tons if you count all the hardware to run all the sites I do use. What I am running into is site fatigue. I sign up for every new and shiny service and play with it for a week too. If I can't figure out how to synchronize it with my blog in some fashion, RSS or other, or if it doesn't provide a function I can get elsewhere that site just succumbs to digital rot.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Do you know how every once in a while you need to just sit back and look at all of you that's out there on the Internet? Granted I'm definitely the wrong person to be discussing or pondering about how much of you exist on the wide-open Internet. I use a ton of sites, well a few tons if you count all the hardware to run all the sites I do use. What I am running into is site fatigue. I sign up for every new and shiny service and play with it for a week too. If I can't figure out how to synchronize it with my blog in some fashion, RSS or other, or if it doesn't provide a function I can get elsewhere that site just succumbs to digital rot.
 

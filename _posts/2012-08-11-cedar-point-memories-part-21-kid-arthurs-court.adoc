@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Finally, a post where I can use my own retro image. I'm the one falling down. My brother is the one hanging onto the post. This rope ladder complex was on the left-hand side of Kid Arthur's Court. Sorry, I was distracted for a minute. You don't even know what Kid Arthur's Court is yet.
 :page-image: /images/3140666440_a2cea700df_z-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3140666440_a2cea700df_z-1.jpeg[,role="text-center"]
+image::/images/3140666440_a2cea700df_z-1.jpeg[,role="text-center"]
 
 Finally, a post where I can use my own retro image. I'm the one falling down. My brother is the one hanging onto the post. This rope ladder complex was on the left-hand side of Kid Arthur's Court. Sorry, I was distracted for a minute. You don't even know what Kid Arthur's Court is yet.
 

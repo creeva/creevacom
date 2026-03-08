@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Super Mario Land was one of those games that I never got around to finishing back when it was time appropriate. Back in the 90s when the Gameboy was in style, I didn't own one. It's amusing since counting different iterations I own about 8 today. That isn't to say that I didn't have a Gameboy in my possession. We had a great one that we used to broker debts.
 :page-image: /images/super-mario-land-gb-cover-front-26011-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/super-mario-land-gb-cover-front-26011-1.jpg[,role="text-center"]
+image::/images/super-mario-land-gb-cover-front-26011-1.jpg[,role="text-center"]
 
 Super Mario Land was one of those games that I never got around to finishing back when it was time appropriate. Back in the 90s when the Gameboy was in style, I didn't own one. It's amusing since counting different iterations I own about 8 today. That isn't to say that I didn't have a Gameboy in my possession. We had a great one that we used to broker debts.
 

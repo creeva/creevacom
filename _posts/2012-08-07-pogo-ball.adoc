@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I can get caught up in fads just like everyone else. One fad from 1987 that I was swept up in was the Pogo Ball. I think what appealed to me was that I was not allowed to have a pogo stick. I still don't have a pogo stick. I would go buy one for myself, but I know that is a straight trip to the hospital for me. My famous last words would be "Look what I can do".
 :page-image: /images/pogoball-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pogoball-1.jpeg[,role="text-center"]
+image::/images/pogoball-1.jpeg[,role="text-center"]
 
 I can get caught up in fads just like everyone else. One fad from 1987 that I was swept up in was the Pogo Ball. I think what appealed to me was that I was not allowed to have a pogo stick. I still don't have a pogo stick. I would go buy one for myself, but I know that is a straight trip to the hospital for me. My famous last words would be "Look what I can do".
 

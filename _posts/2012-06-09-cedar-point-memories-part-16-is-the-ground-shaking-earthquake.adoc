@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Yesterday I talked about The Pirate Ride which was a dark ride that Cedar Point. In 1965 when they purchased The Pirate Ride from Freedomland they also purchased another dark ride, Earthquake. Looking at dates of operation Earthquake was open a full year at Cedar Point before The Pirate Ride opened.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 Yesterday I talked about The Pirate Ride which was a dark ride that Cedar Point. In 1965 when they purchased The Pirate Ride from link:http://en.wikipedia.org/wiki/Freedomland_U.S.A.[Freedomland] they also purchased another dark ride, Earthquake. Looking at dates of operation Earthquake was open a full year at Cedar Point before The Pirate Ride opened.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last night I watched Gone With the Wind. Contrary to belief (since I'm the go-to movie guy) I have never seen this movie. It wasn't any reason in particular that I hadn't seen it. I had wanted to see it for a long time, I just never had gotten around to it.
 :page-image: /images/41Dj4vbPEUL._AA280_.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/41Dj4vbPEUL._AA280_.jpg[,role="text-center"]
+image::/images/41Dj4vbPEUL._AA280_.jpg[,role="text-center"]
 
 Last night I watched Gone With the Wind. Contrary to belief (since I'm the go-to movie guy) I have never seen this movie. It wasn't any reason in particular that I hadn't seen it. I had wanted to see it for a long time, I just never had gotten around to it.
 

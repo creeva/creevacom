@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: First of all this is just a thought on where things are headed. As far as I know for the moment none of the loyalty cards I use have an RFID chip embedded in them. I did sit and imagined what the stores could do with this information. Currently, the stores do take your loyalty card information and track what you purchase, give you targeted coupons, and create specials in towns to raise sales on certain objects within those towns. We all like these cards, we all like to save a buck. There are whole websites devoted to getting the most out of your income using loyalty cards. What about when they take it to the next level?
 :page-image: /images/15413771_c41b005091_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/15413771_c41b005091_m.jpg[,role="text-center"]
+image::/images/15413771_c41b005091_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/ecyrd/15413771/[here]
 

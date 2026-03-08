@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Two weekends ago we went to a Halloween-themed flea market at Now That's Class in Cleveland. It's in an area of Cleveland that runs together with Lakewood and it's hard to tell where one ends and the other begins. The culture and the neighborhood reflect this congregation of space. Earlier this year we made our first visit to this space to see the Screaming Females. It's small and while extremely interesting, space is tight. The venue is great for concerts -- not so great for browsing a flea market selection.
 :page-image: /images/2015-10-26-19.41.32-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2015-10-26-19.41.32-1.jpg[,role="text-center"]
+image::/images/2015-10-26-19.41.32-1.jpg[,role="text-center"]
 
 Two weekends ago we went to a Halloween-themed flea market at Now That's Class in Cleveland. It's in an area of Cleveland that runs together with Lakewood and it's hard to tell where one ends and the other begins. The culture and the neighborhood reflect this congregation of space. Earlier this year we made our first visit to this space to see the Screaming Females. It's small and while extremely interesting, space is tight. The venue is great for concerts -- not so great for browsing a flea market selection.
 

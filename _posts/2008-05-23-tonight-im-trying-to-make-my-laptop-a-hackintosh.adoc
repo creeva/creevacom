@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: So most of you know that I was running Ubuntu Hardy Heron, but during some patching, I hit some data corruption that caused my laptop to go all screwy. The first thing I noticed was the touchpad stopped working. Um….ok. Then I was getting errors on boot up, more or less when I logged in some packages kept crashing and wouldn't restart. Upon trying to fix and reinstall packages I managed to lose gnome and then I couldn't do anything.
 :page-image: /images/ubuntu-logo32.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+image::/images/ubuntu-logo32.png[,role="text-center"]
 
 So most of you know that I was running Ubuntu Hardy Heron, but during some patching, I hit some data corruption that caused my laptop to go all screwy. The first thing I noticed was the touchpad stopped working. Um….ok. Then I was getting errors on boot up, more or less when I logged in some packages kept crashing and wouldn't restart. Upon trying to fix and reinstall packages I managed to lose gnome and then I couldn't do anything.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Friday night we went out shopping after I managed to get home from work. We were out later than normal. We went out to dinner so Lex could get to bed as close to his normal time as possible. We decided on Denny's because it was quick and cheap. We could also lie to ourselves that it is not fast food. As we went to pay, my card was declined. Then it was declined again. It was declined a third time. I was not a happy camper.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Friday night we went out shopping after I managed to get home from work. We were out later than normal. We went out to dinner so Lex could get to bed as close to his normal time as possible. We decided on Denny's because it was quick and cheap. We could also lie to ourselves that it is not fast food. As we went to pay, my card was declined. Then it was declined again. It was declined a third time. I was not a happy camper.
 

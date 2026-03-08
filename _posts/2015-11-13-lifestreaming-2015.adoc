@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Technology is a wonderful thing. It enables the public to do so much, but at the same time, it allows so much to be taken for granted. About seven-eight years ago there was a strong movement for lifestreaming and data portability. I took the lifestreaming concept a bit further and added in the ability for long-term storage, I dubbed this term Life Caching. The ability to back up and maintain the personal data that you create.
 :page-image: /images/11902520_10153008536101121_5395641058694998404_n-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/11902520_10153008536101121_5395641058694998404_n-1.jpg[,role="text-center"]
+image::/images/11902520_10153008536101121_5395641058694998404_n-1.jpg[,role="text-center"]
 
 Technology is a wonderful thing. It enables the public to do so much, but at the same time, it allows so much to be taken for granted. About seven-eight years ago there was a strong movement for lifestreaming and data portability. I took the lifestreaming concept a bit further and added in the ability for long-term storage, I dubbed this term Life Caching. The ability to back up and maintain the personal data that you create.
 

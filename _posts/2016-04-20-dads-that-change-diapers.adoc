@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I shared the above picture on Facebook yesterday to elevate the discussion that diaper changing is still considered a woman's job. In the time we are having an unnecessary discussion on which bathroom a transgendered individual uses, the fact that men can't universally have a spot to change diapers is ridiculous.
 :page-image: /images/2016-04-18-05.28.57-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2016-04-18-05.28.57-1.jpg[,role="text-center"]
+image::/images/2016-04-18-05.28.57-1.jpg[,role="text-center"]
 
 I shared the above picture on Facebook yesterday to elevate the discussion that diaper changing is still considered a woman's job. In the time we are having an unnecessary discussion on which bathroom a transgendered individual uses, the fact that men can't universally have a spot to change diapers is ridiculous.
 

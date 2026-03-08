@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Work has always blocked social networks (ironically facebook always worked), but now in the days of internet applications, news sources, and social networks, the distinction is getting blurred. This is not a good thing. I understand blocking users' access to myspace (and Facebook), but today the web blocking finally really interfered with me.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 Work has always blocked social networks (ironically facebook always worked), but now in the days of internet applications, news sources, and social networks, the distinction is getting blurred. This is not a good thing. I understand blocking users' access to myspace (and Facebook), but today the web blocking finally really interfered with me.
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I thought the teens and pre-teens were the sounding board for tomorrow's technology. Well, this isn't always the case. I previously mentioned talking with my brother over the weekend. Well, there is more to it than just the security post that came out of it. He complained that he wasn't getting confirmation e-mails for some of the web services he was using and he thought they may be getting caught by his spam filter. I asked him which e-mail provider he was using. He's using his ISP…………..
 :page-image: /images/320088107_14cbc75a39_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/320088107_14cbc75a39_m.jpg[,role="text-center"]
+image::/images/320088107_14cbc75a39_m.jpg[,role="text-center"]
 
 Picture from here
 

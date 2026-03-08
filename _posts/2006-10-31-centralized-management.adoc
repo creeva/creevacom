@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Now from a corporate network perspective not all of my ideas are sound and productive goals to go about things -- but from a small home network we can get away with a bit more.
 :page-image: /images/i-knew-it-shouting-at-your-compu-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/i-knew-it-shouting-at-your-compu-1.jpg[,role="text-center"]
+image::/images/i-knew-it-shouting-at-your-compu-1.jpg[,role="text-center"]
 
 Now from a corporate network perspective not all of my ideas are sound and productive goals to go about things -- but from a small home network we can get away with a bit more.
 

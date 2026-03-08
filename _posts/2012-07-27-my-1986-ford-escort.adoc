@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: My first car was a 1986 Ford Escort base model. It also was beaten down by the time it finally went to the great junkyard in the sky. There is nothing like the times I had in that car. I loved that car. In fact, after all the cars I've owned, this is my third favorite (the two others being Camaros).
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 My first car was a 1986 Ford Escort base model. It also was beaten down by the time it finally went to the great junkyard in the sky. There is nothing like the times I had in that car. I loved that car. In fact, after all the cars I've owned, this is my third favorite (_the two others being Camaros_).
 

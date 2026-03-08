@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I was reading a story on slashdot about how Skyhook Wireless has been wardriving the United States mapping MAC addresses from the wireless routers it detects to your geographic location. Now first for those paranoid, they probably are not going to get your exact physical address but it will be "close" -- close is defined as within 500 feet.
 :page-image: /images/265039683_939c0061d2_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/265039683_939c0061d2_m.jpg[,role="text-center"]
+image::/images/265039683_939c0061d2_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/ori0n/265039683/[here]
 
@@ -24,7 +24,7 @@ You can get more documentation on the API from here and link:http://loki.com/dev
 
 Sometimes people over think the problem when a simpler and more elegant solution can be utilized. If in the end Skyhook data can't be trusted, it will not be used.
 
-image::/testsite/images/32109651_1c2f1a2fc7.jpg[,role="text-center"]
+image::/images/32109651_1c2f1a2fc7.jpg[,role="text-center"]
 
 Image from link:http://www.flickr.com/photos/queenroly/32109651/[here]
 

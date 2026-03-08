@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Have you ever noticed that you seem to always want to find a picture of a certain person or certain event and it just doesn't exist? I have cars I've owned that somehow I don't have pictures of. People I knew and hung out with for years that I don't have pictures of. Events that somehow were photographically free.
 :page-image: /images/calligraphy-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+image::/images/calligraphy-1.jpg[,role="text-center"]
 
 Have you ever noticed that you seem to always want to find a picture of a certain person or certain event and it just doesn't exist? I have cars I've owned that somehow I don't have pictures of. People I knew and hung out with for years that I don't have pictures of. Events that somehow were photographically free.
 

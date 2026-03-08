@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: E-mail in the clouds. Essentially back in 1996 when Hotmail was first released (in the pre-purchased by Microsoft era) the dawn of popular cloud computing for e-mail began. The main issue was storage space. I believe that Hotmail launched with 5 megs of storage space for all of your e-mail. It is frustrating to know all the e-mails that have been lost over the years due to inadequate storage space. I now have single pictures in my email archive that are larger than 5 megs. Times change and space get's cheap.
 :page-image: /images/268086085_c21b704c03_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/268086085_c21b704c03_m.jpg[,role="text-center"]
+image::/images/268086085_c21b704c03_m.jpg[,role="text-center"]
 
 E-mail in the clouds. Essentially back in 1996 when link:http://www.hotmail.com[Hotmail] was first released (in the pre-purchased by link:http://www.microsoft.com[Microsoft] era) the dawn of popular cloud computing for e-mail began. The main issue was storage space. I believe that Hotmail launched with 5 megs of storage space for all of your e-mail. It is frustrating to know all the e-mails that have been lost over the years due to inadequate storage space. I now have single pictures in my email archive that are larger than 5 megs. Times change and space get's cheap.
 

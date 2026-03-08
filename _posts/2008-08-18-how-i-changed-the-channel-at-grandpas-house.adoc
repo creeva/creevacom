@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: My grandfather, I loved him, but when I was a young kid I really didn't enjoy his choice in television programming. Grandpa had cable, so he had all the cool channels I could get at home with our normal broadcast television. I wanted to watch You Can't Do That on Television or Danger Mouse. Grandpa had other ideas.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 My grandfather, I loved him, but when I was a young kid I really didn't enjoy his choice in television programming. Grandpa had cable, so he had all the cool channels I could get at home with our normal broadcast television. I wanted to watch You Can't Do That on Television or Danger Mouse. Grandpa had other ideas.
 

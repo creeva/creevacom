@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: You would think that on a blog named parent phobia, when I start a blog post off with the title "Planting Trees" I'm going to be speaking in the metaphorical sense. Well, your half right.
 :page-image: /images/172185123_098d5910d3_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/172185123_098d5910d3_m.jpg[,role="text-center"]
+image::/images/172185123_098d5910d3_m.jpg[,role="text-center"]
 
 You would think that on a blog named parent phobia, when I start a blog post off with the title "Planting Trees" I'm going to be speaking in the metaphorical sense. Well, your half right.
 

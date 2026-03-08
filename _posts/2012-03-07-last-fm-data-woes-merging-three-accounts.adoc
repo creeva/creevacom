@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Let me give you some background before I get into this issue. A few years ago I signed up for last.fm, it is a service that records what music you listen to. I actually aggregate this data into other places. Xie had her only account, but only rarely used it. Once Lex was born we were listening to music all the time, though mostly instrumental stuff. Instead of scrobbling (sending my track information) to my account, I created a family account.
 :page-image: /images/3038597_e5f95e2017.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+image::/images/3038597_e5f95e2017.jpg[,role="text-center"]
 
 Let me give you some background before I get into this issue. A few years ago I signed up for link:http://last.fm[last.fm], it is a service that records what music you listen to. I actually aggregate this data into other places. Xie had her only account, but only rarely used it. Once Lex was born we were listening to music all the time, though mostly instrumental stuff. Instead of scrobbling (sending my track information) to my account, I created a family account.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Picture From Vermilion Ohio News
 :page-image: /images/3088767556_52e231d10e_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3088767556_52e231d10e_m.jpg[,role="text-center"]
+image::/images/3088767556_52e231d10e_m.jpg[,role="text-center"]
 
 Picture From link:http://www.vermilionohionews.com/%20[Vermilion Ohio News]
 
@@ -16,16 +16,16 @@ From this performance the band was featured on the Vermilion Photojournal's fron
 
 A friend of Ruth Tanner's took these following pictures of the band (click through to see larger versions):
 
-image::/testsite/images/3088767556_52e231d10e_m.jpg[,role="text-center"]
+image::/images/3088767556_52e231d10e_m.jpg[,role="text-center"]
 
-image::/testsite/images/3087928861_006ab7512b_m.jpg[,role="text-center"]
+image::/images/3087928861_006ab7512b_m.jpg[,role="text-center"]
 
-image::/testsite/images/3087928771_f5568ebdba_m.jpg[,role="text-center"]
+image::/images/3087928771_f5568ebdba_m.jpg[,role="text-center"]
 
-image::/testsite/images/3087928587_d2b7ed685f_m.jpg[,role="text-center"]
+image::/images/3087928587_d2b7ed685f_m.jpg[,role="text-center"]
 
-image::/testsite/images/3087928501_9213165d81_m.jpg[,role="text-center"]
+image::/images/3087928501_9213165d81_m.jpg[,role="text-center"]
 
-image::/testsite/images/3087928223_03dcfa392b_m.jpg[,role="text-center"]
+image::/images/3087928223_03dcfa392b_m.jpg[,role="text-center"]
 
 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

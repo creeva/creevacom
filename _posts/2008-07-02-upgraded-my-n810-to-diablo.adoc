@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Sunday night I was bored, so like all bored geeks I updated my device to the bleeding edge. The N810 feels peppier, but then again that could be my imagination or just the fact of cleaning out all the programs. Either way, it feels faster.
 :page-image: /images/2519584320_e07808e9d3_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2519584320_e07808e9d3_m.jpg[,role="text-center"]
+image::/images/2519584320_e07808e9d3_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/25800646@N04/2519584320/[here]
 

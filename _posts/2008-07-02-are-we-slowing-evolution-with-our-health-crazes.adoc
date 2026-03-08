@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: There is always a new health craze that will make us live longer, be smarter, procreate faster, etc., etc. The question I have is whether this is truly the right thing to do. It seems kind of selfish to me. For example pregnant women these days can't smoke, can't drink alcohol, can't drink caffeine, can't change litter boxes and that's just the tip of the iceberg. They also must take vitamin after vitamin to ensure a healthy pregnancy. I'm not saying it's wrong. I am also not saying it's something that should be changed. I am saying however it's selfish.
 :page-image: /images/388295178_c586d5886d_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/388295178_c586d5886d_m.jpg[,role="text-center"]
+image::/images/388295178_c586d5886d_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/atomicshark/388295178/[here]
 

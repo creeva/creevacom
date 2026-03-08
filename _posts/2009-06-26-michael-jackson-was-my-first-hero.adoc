@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: When I was eight years old and the Thriller album came out, this was the first album I was completely in love with. Nothing topped it. I remember getting a pair of red parachute pants as a present and thought they were the greatest thing in the world. About a month later I had put holes in my knees to them from constantly sliding across the floor. I lusted for a few years after that to get the red jacket, but it never emerged. I would have still bought one up to a couple of years ago -- it was never meant to be though.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 When I was eight years old and the Thriller album came out, this was the first album I was completely in love with. Nothing topped it. I remember getting a pair of red parachute pants as a present and thought they were the greatest thing in the world. About a month later I had put holes in my knees to them from constantly sliding across the floor. I lusted for a few years after that to get the red jacket, but it never emerged. I would have still bought one up to a couple of years ago -- it was never meant to be though.
 

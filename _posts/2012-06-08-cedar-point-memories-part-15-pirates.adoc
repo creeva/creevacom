@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I'm all screwed up on the timeline for getting these articles in order.   So for the moment, I'm going to throw the order aside and write about a beloved Cedar Point ride that no longer exists.   The ride is "The Pirate Ride" and it was located next to the Blue Streak.  It was a pirate-themed dark ride.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 I'm all screwed up on the timeline for getting these articles in order.   So for the moment, I'm going to throw the order aside and write about a beloved Cedar Point ride that no longer exists.   The ride is "The Pirate Ride" and it was located next to the Blue Streak.  It was a pirate-themed dark ride.
 

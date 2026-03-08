@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I have friends that work at a haunted house and business from my perspective seemed to be down -- but once again I only went up there on nights when business would have been slow anyways. I was thinking yesterday and today about how best to market a haunted house in the Web 2.0 World.
 :page-image: /images/alcohol.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/alcohol.jpg[,role="text-center"]
+image::/images/alcohol.jpg[,role="text-center"]
 
 I have friends that work at a haunted house and business from my perspective seemed to be down -- but once again I only went up there on nights when business would have been slow anyways. I was thinking yesterday and today about how best to market a haunted house in the Web 2.0 World.
 

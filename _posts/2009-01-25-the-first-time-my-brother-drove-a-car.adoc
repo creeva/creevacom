@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I'm going to go out on a limb and call out ages here, I could be wrong. The first time my brother operated a vehicle he was four years old, which would make me around nine at the time. The location -- my grandparent's house. My grandparent's driveway used to be on a hill. I always enjoyed just speeding a bike down that hill -- if I had to guess it was probably about five cars deep. So it was about fifty feet long with about twenty of that being mostly flat.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 I'm going to go out on a limb and call out ages here, I could be wrong. The first time my brother operated a vehicle he was four years old, which would make me around nine at the time. The location -- my grandparent's house. My grandparent's driveway used to be on a hill. I always enjoyed just speeding a bike down that hill -- if I had to guess it was probably about five cars deep. So it was about fifty feet long with about twenty of that being mostly flat.
 

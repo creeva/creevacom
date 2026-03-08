@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Ars Technica is reporting that a school in Pennsylvania has suspended 2 students for creating a Myspace profile of their principal mocking him. A federal judge upheld this ruling when they were sued by one of the students for suspending them for something they created on their own time outside of school. Personally, I find this disturbing on two levels.
 :page-image: /images/479913918_2962ac953a_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/479913918_2962ac953a_m.jpg[,role="text-center"]
+image::/images/479913918_2962ac953a_m.jpg[,role="text-center"]
 
 Picture from link:http://flickr.com/photos/8060641@N07/479913918/[here]
 

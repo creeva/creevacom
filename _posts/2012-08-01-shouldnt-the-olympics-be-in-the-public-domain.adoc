@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was going to find a picture of the Olympic rings for this piece. I didn't want to worry about the copyright implications. So I show you a picture of my start in a swimming career that went nowhere (seriously how did I grow up in a boating community that doesn't have a swim team). The copyright angle is important. Copyright is what the International Olympic Committee (IOC) is fighting to control. It can not copyright the statistics or facts that occur in the game, but it can control the performance.
 :page-image: /images/3140447394_01cdf84ff3-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/3140447394_01cdf84ff3-1.jpeg[,role="text-center"]
+image::/images/3140447394_01cdf84ff3-1.jpeg[,role="text-center"]
 
 I was going to find a picture of the Olympic rings for this piece. I didn't want to worry about the copyright implications. So I show you a picture of my start in a swimming career that went nowhere (_seriously how did I grow up in a boating community that doesn't have a swim team_). The copyright angle is important. Copyright is what the International Olympic Committee (IOC) is fighting to control. It can not copyright the statistics or facts that occur in the game, but it can control the performance.
 

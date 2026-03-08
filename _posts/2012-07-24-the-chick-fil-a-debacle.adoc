@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Unless you have been living under a rock you have heard in the news of Chick-Fil-A's latest scandal and their support to anti-gay groups. For the record, I do not agree with this because if anything else it is a poor business decision. There is however nothing wrong with sticking to your moral guns in most scenarios. I remember this every time in the past that I have attempted to get Chick-Fil-A on a Sunday.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Unless you have been living under a rock you have heard in the news of Chick-Fil-A's latest scandal and their support to anti-gay groups. For the record, I do not agree with this because if anything else it is a poor business decision. There is however nothing wrong with sticking to your moral guns in most scenarios. I remember this every time in the past that I have attempted to get Chick-Fil-A on a Sunday.
 

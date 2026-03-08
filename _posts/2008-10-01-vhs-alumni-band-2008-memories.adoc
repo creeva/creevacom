@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Saturday was the VHS Alumni Bands' 22nd performance at the Vermilion High School Band Festival. I originally marched for the Vermilion High School Sailor Marching Band from my Sophomore to Senior years (Senior Year Video) which encompass the fall of 1991 through the summer of 1994. I had the option to put on the band uniform one last time for the Vermilion Fish Festival in 1994, but I declined because that was the first time I performed with the VHS Alumni Band.
 :page-image: /images/cloud-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cloud-1.jpg[,role="text-center"]
+image::/images/cloud-1.jpg[,role="text-center"]
 
 Saturday was the VHS Alumni Bands' 22nd performance at the Vermilion High School Band Festival. I originally marched for the Vermilion High School Sailor Marching Band from my Sophomore to Senior years (Senior Year Video) which encompass the fall of 1991 through the summer of 1994. I had the option to put on the band uniform one last time for the Vermilion Fish Festival in 1994, but I declined because that was the first time I performed with the VHS Alumni Band.
 

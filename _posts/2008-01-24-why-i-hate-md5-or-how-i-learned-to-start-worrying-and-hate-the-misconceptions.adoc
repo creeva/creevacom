@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Most people in the technical field that have delved into cryptographic, public keys, or file authenticity have at one time or another at least heard of MD5. MD5 is a fingerprint that is unique to a file. It is that signature line that is included at the most reputable Linux download sites to make sure the file you downloaded is not corrupt. It is the thing that is the current bane of my existence.
 :page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+image::/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
 
 Most people in the technical field that have delved into cryptographic, public keys, or file authenticity have at one time or another at least heard of link:http://en.wikipedia.org/wiki/Md5[MD5]. MD5 is a fingerprint that is unique to a file. It is that signature line that is included at the most reputable Linux download sites to make sure the file you downloaded is not corrupt. It is the thing that is the current bane of my existence.
 

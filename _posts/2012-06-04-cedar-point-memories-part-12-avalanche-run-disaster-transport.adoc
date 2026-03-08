@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The summer of 1985 was great.  Getting ready for the annual trip to Cedar Point was one of the highlights until we moved closer and got Season Passes.   There was a new roller coaster that year and I really wanted to ride it.   It was called Avalanche Run and it looked so different from all the coasters I had seen before.  Today and it is a shadow of its former self.   This will also be the last year it is going to exist.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 The summer of 1985 was great.  Getting ready for the annual trip to Cedar Point was one of the highlights until we moved closer and got Season Passes.   There was a new roller coaster that year and I really wanted to ride it.   It was called Avalanche Run and it looked so different from all the coasters I had seen before.  Today and it is a shadow of its former self.   This will also be the last year it is going to exist.
 

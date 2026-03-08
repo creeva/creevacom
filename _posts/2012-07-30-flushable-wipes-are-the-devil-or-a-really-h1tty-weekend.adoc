@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: This last weekend was no fun. Let's start with Friday night. Xie was still sick from what has lasted for the last week. Lex still had a cough that he had prescription medicine for. Xie then proceeded to accidentally break her glasses. I logged in online and scheduled an exam for Lenscrafters the next day at 4&#58;00 PM. Everything cinched up right? Not quite.
 :page-image: /images/5129332_b75d25f016_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
+image::/images/5129332_b75d25f016_m.jpg[,role="text-center"]
 
 This last weekend was no fun. Let's start with Friday night. Xie was still sick from what has lasted for the last week. Lex still had a cough that he had prescription medicine for. Xie then proceeded to accidentally break her glasses. I logged in online and scheduled an exam for Lenscrafters the next day at 4:00 PM. Everything cinched up right? Not quite.
 

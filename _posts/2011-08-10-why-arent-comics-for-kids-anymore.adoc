@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I just finished reading a great piece about how comicbook makers are not targeting kids under 12 anymore (read the piece here). I was thinking about this, my greatest diversity of reading comics was in my pre-teen years. I loved the Star Comics line by Marvel (almost every title geared towards preteens), Archie Comics, Richie Rich, and the Carl Barks Scrooge Stories. Those are all books I would still pick up and read today, and some are quite infantile. That was a time and place in my life that I was reading anything I could get my hands on.
 :page-image: /images/501531275_1579a786da_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/501531275_1579a786da_m.jpg[,role="text-center"]
+image::/images/501531275_1579a786da_m.jpg[,role="text-center"]
 
 I just finished reading a great piece about how comicbook makers are not targeting kids under 12 anymore (link:http://www.bleedingcool.com/2011/08/10/how-marvel-dc-and-you-can-save-the-comic-industry-by-phil-hampton/[read the piece here]). I was thinking about this, my greatest diversity of reading comics was in my pre-teen years. I loved the Star Comics line by Marvel (almost every title geared towards preteens), Archie Comics, Richie Rich, and the Carl Barks Scrooge Stories. Those are all books I would still pick up and read today, and some are quite infantile. That was a time and place in my life that I was reading anything I could get my hands on.
 

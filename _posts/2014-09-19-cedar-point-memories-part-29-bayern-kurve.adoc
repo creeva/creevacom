@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: It's been a while since I've done a Cedar Point memories post. I can't say I truly remember Bayern Kurve. It gets mixed up in my mind (from an experience perspective) with the Trabant and the Himalayas. It is ironic all the family rides that Cedar Point got rid of over the years in the name of coasters. The reason it is ironic is all the focus these days they have on doing family rides.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 It's been a while since I've done a Cedar Point memories post. I can't say I truly remember Bayern Kurve. It gets mixed up in my mind (from an experience perspective) with the Trabant and the Himalayas. It is ironic all the family rides that Cedar Point got rid of over the years in the name of coasters. The reason it is ironic is all the focus these days they have on doing family rides.
 

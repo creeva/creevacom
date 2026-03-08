@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Saturday night I was at a party and while it was a good time, the great moment of the evening is when things are winding down and the discussions start getting pulled out. People are all in different states of inebriation and some of them accidentally let their guards down. There are others that purposely let their guards down, but pretend it's accidental. Regardless of how it gets to that point, that is where some of the honest conversations come out of the evening.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 Saturday night I was at a party and while it was a good time, the great moment of the evening is when things are winding down and the discussions start getting pulled out. People are all in different states of inebriation and some of them accidentally let their guards down. There are others that purposely let their guards down, but pretend it's accidental. Regardless of how it gets to that point, that is where some of the honest conversations come out of the evening.
 

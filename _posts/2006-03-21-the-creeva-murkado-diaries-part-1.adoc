@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: Talus, it was an odd place. How did I end up here? Why am I here? Why am I during personal introspection? That's right I want to make a name for myself, a place in the universe that I can carve out on my own. I want to be Creeva Murkado.
 :page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+image::/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
 
 Talus, it was an odd place. How did I end up here? Why am I here? Why am I during personal introspection? That's right I want to make a name for myself, a place in the universe that I can carve out on my own. I want to be Creeva Murkado.
 

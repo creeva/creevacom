@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: On March 9th I received the following email from IFTTT&#58;
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 On March 9th I received the following email from link:http://ifttt.com/[IFTTT]:
 

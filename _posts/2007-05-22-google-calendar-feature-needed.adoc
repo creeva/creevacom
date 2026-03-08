@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I have the tumble blog and that's great. I have a superglu site, but that's slowly getting replaced by the tumble blog. What I still want is an easy simple way to archive my personal RSS feeds (Not normal news ala Digg -- but to each their own) and look at them at a quick glance.
 :page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+image::/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
 
 I have the tumble blog and that's great. I have a link:https://creeva.com/[superglu] site, but that's slowly getting replaced by the tumble blog. What I still want is an easy simple way to archive my personal RSS feeds (Not normal news ala Digg -- but to each their own) and look at them at a quick glance.
 

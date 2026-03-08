@@ -4,21 +4,21 @@
 :page-categories: stories
 :page-excerpt: You would think from the image I chose for the header that I was doing something cool with the Nintendo Entertainment System. This unfortunately is not the case. Where the Nintendo came into play was that it was the object of my desire. I desperately wanted an NES. This was sometime around seventh or eighth grade so the years would have 1988--1989 and the Nintendo was in full swing.
 :page-image: /images/140px-Nintendo_entertainment_system.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/140px-Nintendo_entertainment_system.jpeg[,role="text-center"]
+image::/images/140px-Nintendo_entertainment_system.jpeg[,role="text-center"]
 
 You would think from the image I chose for the header that I was doing something cool with the link:http://en.wikipedia.org/wiki/Nintendo_Entertainment_System[Nintendo Entertainment System]. This unfortunately is not the case. Where the Nintendo came into play was that it was the object of my desire. I desperately wanted an NES. This was sometime around seventh or eighth grade so the years would have link:http://en.wikipedia.org/wiki/1988[1988]--link:http://en.wikipedia.org/wiki/1989[1989] and the Nintendo was in full swing.
 
 Now my father didn't believe in video games. About five years earlier he got us a link:http://en.wikipedia.org/wiki/Commodore_VIC-20[Commodore Vic-20], this is all fine and dandy -- my parents fell for the whole "give your kid a computer and he'll be computer literate for life" crap that they were handing out in the eighties. A computer was meant for learning and yes there were a few games we had for it, but it was meant to learn something. I learned I never wanted to be a programmer, that's what I learned. I could go to my neighbor and play the link:http://en.wikipedia.org/wiki/Atari_2600[Atari 2600] or play link:http://en.wikipedia.org/wiki/Ultima[Ultima] on his link:http://en.wikipedia.org/wiki/Macintosh_Classic[Mac Classic] -- but -- I was going to have the Vic-20 and like it, because I wasn't getting anything else.
 
-image::/testsite/images/295127334_2083ffda82.jpg[,role="text-center"]
+image::/images/295127334_2083ffda82.jpg[,role="text-center"]
 
 Picture from link:http://flickr.com/photos/ajkandy/295127334/[here]
 
 We moved to Vermilion the summer before my seventh-grade year. I'm sure I started begging for an NES around that time if not earlier. I'm sure the logic explained to me was that if I wanted a Nintendo I was going to have to earn it. This meant getting a job. I don't know about your area but for link:http://en.wikipedia.org/wiki/Vermilion,_Ohio[Vermilion, OH] there wasn't much call in the workforce for 12-13-year-old kids. The one thing that did open up was the ability to get a paper route. The area where we lived in link:http://en.wikipedia.org/wiki/Elyria,_Ohio[Elyria] was a bit too rough for an 11-12 year old to deliver papers, but Vermilion was a quiet small town where such things almost seem nostalgic.
 
-image::/testsite/images/2629268375_c9aa71cf5e.jpg[,role="text-center"]
+image::/images/2629268375_c9aa71cf5e.jpg[,role="text-center"]
 
 Picture from link:http://flickr.com/photos/cazatoma/2629268375/[here] (not me)
 
@@ -28,7 +28,7 @@ You may say that I learned character and fiscal responsibility because of that j
 
 I get home, but my mother isn't there. I go do my paper route and get back home, but my mother isn't there. I sit in the grass in the front yard and wait. Eventually, my mother pulls up in that blue dodge caravan (minivan) we had. She had done other shopping and had a ton of bags. Which one was my Nintendo?????
 
-image::/testsite/images/Ms1v1.png[,role="text-center"]
+image::/images/Ms1v1.png[,role="text-center"]
 
 My mother stopped me and said she talked to the salesperson who told her the link:http://en.wikipedia.org/wiki/Sega_Master_System[Sega Master System] was the better system to buy since it was faster and supported more colors. WTF? I had worked my butt off in a job and hated to have my mother go out and buy me a Sega Master System. No one owned a Sega Master System, only people with no friends owned a Sega Master System. I was not going to own a Sega Master System. I told her with certainty that she had no right to spend the money I earned to buy a Sega Master System. We were going to get back in the car right then, go to the store and exchange it for a Nintendo Entertainment System.
 

@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I was randomly thinking about my past the other day and teenage mutant ninja turtles popped into my head while driving. Out loud I said (quite loudly out loud) I can believe my mom is so freaking stupid. My wife turns to me and asks what the hell I'm talking about. She won't argue that my mother sometimes lacks common sense and because of this, her intelligence is somehow in question. I told her a story of something that happened 18-20 years ago.
 :page-image: /images/333979587_3132877a00_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/333979587_3132877a00_m.jpg[,role="text-center"]
+image::/images/333979587_3132877a00_m.jpg[,role="text-center"]
 
 I was randomly thinking about my past the other day and teenage mutant ninja turtles popped into my head while driving. Out loud I said (quite loudly out loud) I can believe my mom is so freaking stupid. My wife turns to me and asks what the hell I'm talking about. She won't argue that my mother sometimes lacks common sense and because of this, her intelligence is somehow in question. I told her a story of something that happened 18-20 years ago.
 

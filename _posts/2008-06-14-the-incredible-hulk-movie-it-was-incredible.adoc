@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I really wish it didn't have such a cheesy title, but the movie was incredible. Unlike the movie released a couple of years ago this movie actually felt like the Incredible Hulk (granted when I saw the last one the CGI wasn't finished but the story and acting still sucked). Edward Norton played proper homage to the Bruce (David) Banner character made famous by Bill Bixby. A lot of his acting and character motivation literally felt like Bill Bixby and I could have asked for anything better.
 :page-image: /images/41AqycVHmbL._SS500_.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/41AqycVHmbL._SS500_.jpg[,role="text-center"]
+image::/images/41AqycVHmbL._SS500_.jpg[,role="text-center"]
 
 I really wish it didn't have such a cheesy title, but the movie was incredible. Unlike the movie released a couple of years ago this movie actually felt like the Incredible Hulk (granted when I saw the last one the CGI wasn't finished but the story and acting still sucked). Edward Norton played proper homage to the Bruce (David) Banner character made famous by Bill Bixby. A lot of his acting and character motivation literally felt like Bill Bixby and I could have asked for anything better.
 

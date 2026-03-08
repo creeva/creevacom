@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: For the second half of Lex's birthday weekend, we took him to the Cleveland Zoo on Monday. We arrived around 1&#58;30 since we knew it was going to be a short day. Lex wanted to ride in the stroller for a change and we stuffed his winter jacket in the bottom pocket.
 :page-image: /images/333979587_3132877a00_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/333979587_3132877a00_m.jpg[,role="text-center"]
+image::/images/333979587_3132877a00_m.jpg[,role="text-center"]
 
 For the second half of Lex's birthday weekend, we took him to the Cleveland Zoo on Monday. We arrived around 1:30 since we knew it was going to be a short day. Lex wanted to ride in the stroller for a change and we stuffed his winter jacket in the bottom pocket.
 

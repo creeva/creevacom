@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Saturday we wandered up to the Fish Festival to see what was going on. Over the last couple of years, it's been a 30-minute walk-through and leave affair, there really has been no reason to go other than it's in our cursed Vermilion blood. This year however was a different affair altogether.
 :page-image: /images/1280343534_65ed021e0b_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1280343534_65ed021e0b_m.jpg[,role="text-center"]
+image::/images/1280343534_65ed021e0b_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/ronnie44052/1280343534/[here]
 

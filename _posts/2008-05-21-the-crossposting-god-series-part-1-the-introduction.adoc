@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I've mentioned in passing in the past that I do crosspost across the interwebs. I've stated before, yet I'll mention it again for this series that I do it so readers can access me where they want. Yesterday I posted that I was making it a goal of mine to see how many possible services. Since I'm doing this I figured that could I get my information to my readers on how to do this, the why is a little tougher to answer. While this information could theoretically be used for spam blogs, I sincerely hope that you do it to keep in touch with your friends.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 I've mentioned in passing in the past that I do crosspost across the interwebs. I've stated before, yet I'll mention it again for this series that I do it so readers can access me where they want. Yesterday I posted that I was making it a goal of mine to see how many possible services. Since I'm doing this I figured that could I get my information to my readers on how to do this, the why is a little tougher to answer. While this information could theoretically be used for spam blogs, I sincerely hope that you do it to keep in touch with your friends.
 

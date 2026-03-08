@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: For years I ran a lifestream on my site. I started the stream because it would take all the events I did in a single day and save them in a tidy WordPress blog post. I would then have something to reference for any given day. The auto posting stopped working somewhere around two years ago.
 :page-image: /images/typewriter-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+image::/images/typewriter-1.jpg[,role="text-center"]
 
 For years I ran a link:http://en.wikipedia.org/wiki/Lifestreaming[lifestream] on my site. I started the stream because it would take all the events I did in a single day and save them in a tidy WordPress blog post. I would then have something to reference for any given day. The auto posting stopped working somewhere around two years ago.
 

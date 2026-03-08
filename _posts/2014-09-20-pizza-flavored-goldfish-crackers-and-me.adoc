@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: When I was a kid we didn't have the debate of whether Goldfish crackers are good for you or not. I read an article a few years ago about how Goldfish crackers were one of the worst things you can eat and have nothing to offer you other than calories. I couldn't find that link to this post. I did a search and there are many views on both sides of the Goldfish debate. Ever since that article, I have stayed away from them -- until recently.
 :page-image: /images/l_goldfish_crackers_pizza-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/l_goldfish_crackers_pizza-1.jpg[,role="text-center"]
+image::/images/l_goldfish_crackers_pizza-1.jpg[,role="text-center"]
 
 When I was a kid we didn't have the debate of whether Goldfish crackers are good for you or not. I read an article a few years ago about how Goldfish crackers were one of the worst things you can eat and have nothing to offer you other than calories. I couldn't find that link to this post. I did a search and there are many views on both sides of the Goldfish debate. Ever since that article, I have stayed away from them -- until recently.
 

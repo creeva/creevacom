@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: We hear time and time again about all the newspapers and magazines going out of business. How much longer will they survive in the same sense that we have seen during our lifetime? More importantly, how are we going to explain them? In one sense we can it would be easy to explain to them since we'll still have them in libraries aging the perfect yellow gracefully, surviving on microfiche since the companies and libraries don't seem too interested in digitally converting them, and being used as padding in boxes in the dark reaches of the attic. So there will be some visual styling and physical copies that they can examine. What was their purpose though?
 :page-image: /images/1054181478_16b8e5ec3d.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/1054181478_16b8e5ec3d.jpg[,role="text-center"]
+image::/images/1054181478_16b8e5ec3d.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/e-strategycom/1054181478/[here]
 

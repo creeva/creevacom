@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Today I saw more complaints about Facebook moving people to timelines. The strange thing I originally thought that the roll-out was supposed to be complete in the Spring of this year. It is strange that everyone doesn't already have it already. I snuck into testing with the developer preview hack last September, so it is old news to me.
 :page-image: /images/500px-Facebook-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/500px-Facebook-1.png[,role="text-center"]
+image::/images/500px-Facebook-1.png[,role="text-center"]
 
 Today I saw more complaints about Facebook moving people to timelines. The strange thing I originally thought that the roll-out was supposed to be complete in the Spring of this year. It is strange that everyone doesn't already have it already. I snuck into testing with the developer preview hack last September, so it is old news to me.
 

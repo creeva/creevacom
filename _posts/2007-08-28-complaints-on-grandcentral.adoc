@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: I've drunk then kool-aid and I can say I am a Google fanboy, for the most part. Though the company has the motto "Do No Evil" -- the motto has changed over time and the power of the information they hold is probably some of the most valuable in the world. Temptation begets evil. This post however is not about the evils can do, it is about one of their newest acquisitions -- GrandCentral.
 :page-image: /images/undersea-cable-vietnam-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+image::/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
 
 I've drunk then kool-aid and I can say I am a Google fanboy, for the most part. Though the company has the motto "Do No Evil" -- the motto has changed over time and the power of the information they hold is probably some of the most valuable in the world. Temptation begets evil. This post however is not about the evils can do, it is about one of their newest acquisitions -- link:http://www.grandcentral.com[GrandCentral].
 

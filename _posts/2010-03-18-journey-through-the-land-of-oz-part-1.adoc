@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Over the last few months, I have been reading Lex a bedtime story every night consisting of a chapter from Frank Baum's Land of Oz books. The first thing Xie said when I told her that I wanted to work through these books with him was "There is more than one?". It seems that there are quite a few people that think the story begins and ends with "The Wonderful Wizard of Oz". Obviously, this is not the case.
 :page-image: /images/Wizard_title_page.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Wizard_title_page.jpg[,role="text-center"]
+image::/images/Wizard_title_page.jpg[,role="text-center"]
 
 Over the last few months, I have been reading Lex a bedtime story every night consisting of a chapter from Frank Baum's Land of Oz books. The first thing Xie said when I told her that I wanted to work through these books with him was "There is more than one?". It seems that there are quite a few people that think the story begins and ends with "The Wonderful Wizard of Oz". Obviously, this is not the case.
 

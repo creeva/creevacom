@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Google reader, I love you -- I also hate you. You are like a bad relationship that I can't break. You save me so much time on the web since I no longer have to jump from site to site. You however do not give me any good reason to use you and save items. You are a cruel mistress who mistreats me and wastes my time. Here are the things you need to work on.
 :page-image: /images/50791989_2f7fa50cdd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/50791989_2f7fa50cdd.jpg[,role="text-center"]
+image::/images/50791989_2f7fa50cdd.jpg[,role="text-center"]
 
 Image from link:http://flickr.com/photos/colinzhu/50791989/[here]
 

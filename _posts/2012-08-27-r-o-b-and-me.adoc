@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Ever since the NES was first announced I wanted a R.O.B. unit. When I was saving my money to buy my first NES, I almost saved the money to buy the deluxe set just so I could get R.O.B., but I decided on the action set. The reasons were simple, the action set came with Super Mario Bros. and Duck Hunt. The Deluxe set came with Duckhunt and Gyromite. I didn't want to have to buy Super Mario Bros. separately. I also knew that R.O.B. wasn't a great accessory. I saved my money and continued my path into the world of the NES without R.O.B. I would eventually regret that decision.
 :page-image: /images/18-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/18-1.jpeg[,role="text-center"]
+image::/images/18-1.jpeg[,role="text-center"]
 
 _Say hello to R.O.B._
 

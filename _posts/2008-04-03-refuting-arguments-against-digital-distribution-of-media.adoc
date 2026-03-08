@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: This was a post on a discussion for a forum I frequent. Thought it was applicable to bring it here. This is a response to a blog article entitled 5 Reasons Why Microsoft is Betting On the Wrong Horse Again.
 :page-image: /images/calligraphy-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+image::/images/calligraphy-1.jpg[,role="text-center"]
 
 This was a post on a discussion for a forum I frequent. Thought it was applicable to bring it here. This is a response to a blog article entitled link:http://hornymelon.com/?p=77[5 Reasons Why Microsoft is Betting On the Wrong Horse Again.]
 

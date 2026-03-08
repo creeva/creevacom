@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: When I first go my RAZR 3 months ago from t-mobile I managed to track down online how to pair it to my palm TX. The ongoing issue I was having the past 6 weeks was that it would still connect but it stopped passing data. I knew it wasn't my palm since my wife was having the same issue.
 :page-image: /images/undersea-cable-vietnam-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+image::/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
 
 When I first go my RAZR 3 months ago from t-mobile I managed to track down online how to pair it to my palm TX. The ongoing issue I was having the past 6 weeks was that it would still connect but it stopped passing data. I knew it wasn't my palm since my wife was having the same issue.
 

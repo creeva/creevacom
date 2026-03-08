@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Lately, I've been playing with utterz, it's kind of hard to explain but think of it as the gateway to blog from your cell phone. It's a short-term blip-based podcast -- call in and leave a message and it can post the audio to your blog. Send Utterz a picture, it will send it to your blog or service. Send it a video and utterz will post it on your blog and youtube.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Lately, I've been playing with link:http://www.utterz.com[utterz], it's kind of hard to explain but think of it as the gateway to blog from your cell phone. It's a short-term blip-based podcast -- call in and leave a message and it can post the audio to your blog. Send Utterz a picture, it will send it to your blog or service. Send it a video and utterz will post it on your blog and link:http://www.youtube.com[youtube].
 

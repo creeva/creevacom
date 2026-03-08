@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Earlier today a friend sent me a video titled "Why You and I Have to Cover What The Rich Don't Pay". She asked my opinion on it. Normally I agree with her on most political issues. These are normally topics such as gay rights, women's rights, and healthcare reform. I'm very left-leaning on most of these topics, but at heart, I'm still a republican. I'm not a right-wing republican, but much closer to a moderate. That being said let's go over the points raised in the video.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 Earlier today a friend sent me a video titled "link:http://www.upworthy.com/why-you-and-i-have-to-cover-what-the-rich-dont-pay?c=bl3[Why You and I Have to Cover What The Rich Don't Pay]". She asked my opinion on it. Normally I agree with her on most political issues. These are normally topics such as gay rights, women's rights, and healthcare reform. I'm very left-leaning on most of these topics, but at heart, I'm still a republican. I'm not a right-wing republican, but much closer to a moderate. That being said let's go over the points raised in the video.
 

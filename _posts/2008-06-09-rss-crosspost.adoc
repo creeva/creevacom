@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: RSS, I love RSS. RSS makes crossposting easy. It also allows me to read all of my news in Google Reader instead of jumping to 50 different sites that I used to visit once a day. RSS allows users to subscribe to your site and read them where they want to, this may be good or bad based on your advertising style. If you are like me and don't really make a dime on your blog, then it doesn't really matter.
 :page-image: /images/2452196744_622f4549ef_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2452196744_622f4549ef_m.jpg[,role="text-center"]
+image::/images/2452196744_622f4549ef_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/pimkie_fotos/2452196744/[here]
 
@@ -22,7 +22,7 @@ With WordPress there is a plugin called feedwordpress that aggregates feeds and 
 
 Now click the logo to subscribe to link:https://creeva.com[Creeva's World 2.0:]
 
-image::/testsite/images/2451370317_431916ec4d_m.jpg[,role="text-center"]
+image::/images/2451370317_431916ec4d_m.jpg[,role="text-center"]
 
 Image from link:http://www.flickr.com/photos/pimkie_fotos/2451370317/[here]
 

@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: For years there has been a myth going around online. The detrimental myth hurts many and makes them feel inferior. The myth is that HTML is very easy. I read many books on the history of technology and most of them went into the HTML revolution. The fact that HTML allows everyone to participate online and create their own content. The fact that it is so easy that even the family dog can do it.
 :page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+image::/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
 
 For years there has been a myth going around online. The detrimental myth hurts many and makes them feel inferior. The myth is that HTML is very easy. I read many books on the history of technology and most of them went into the HTML revolution. The fact that HTML allows everyone to participate online and create their own content. The fact that it is so easy that even the family dog can do it.
 

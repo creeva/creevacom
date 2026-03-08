@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: We all pretend to be politically correct. We are not. We all pretend to have blinders to race and religion. We don't. All I hear on the radio and the news is the fact of what minority group is voting this way. What majority group is voting that way? Really I hate demographics of any kind since it just shows how we must have ways to separate people into divisions. We have democrats who never dare say they are anti-abortion -- this would disenfranchise too many of their core constituents. We can't have Republicans say that they are pro-choice -- the complaints from the bible belt would be heard by aborigines in the Australian outback.
 :page-image: /images/justice_icon-1.png
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/justice_icon-1.png[,role="text-center"]
+image::/images/justice_icon-1.png[,role="text-center"]
 
 We all pretend to be politically correct. We are not. We all pretend to have blinders to race and religion. We don't. All I hear on the radio and the news is the fact of what minority group is voting this way. What majority group is voting that way? Really I hate demographics of any kind since it just shows how we must have ways to separate people into divisions. We have democrats who never dare say they are anti-abortion -- this would disenfranchise too many of their core constituents. We can't have Republicans say that they are pro-choice -- the complaints from the bible belt would be heard by aborigines in the Australian outback.
 

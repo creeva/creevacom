@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The next attraction in my weird chronology at Cedar Point is the Midway Carousel. This carousel came to the park in 1946 and I'm going to say that it was one of my first rides at the park. I've ridden it a few times, but I don't really have any interesting pointers or stories about it. I'm sure my son will love it for a few years. Let's move to the Midway in general. While I am going to go more in-depth about the general attractions later if you want a complete run-through of the Midway from a personal view check out this page I found over here. I can remember the Midway through its different ages, unfortunately, I think it has been 6 years since I've been to CP. Looking at the current map a lot of the Midway's heart is missing -- but that is only from an abstract sketch.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 The next attraction in my weird chronology at Cedar Point is the Midway Carousel. This carousel came to the park in 1946 and I'm going to say that it was one of my first rides at the park. I've ridden it a few times, but I don't really have any interesting pointers or stories about it. I'm sure my son will love it for a few years. Let's move to the Midway in general. While I am going to go more in-depth about the general attractions later if you want a complete run-through of the Midway from a personal view check out link:http://www.tour-the-point.com/MainMidway.htm[this page I found over here]. I can remember the Midway through its different ages, unfortunately, I think it has been 6 years since I've been to CP. Looking at the current map a lot of the Midway's heart is missing -- but that is only from an abstract sketch.
 

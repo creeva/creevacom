@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: They (don't ask me who "they" are) say that to grow a blog you need to create a social environment around your blog. This theoretically will make people want to come back and read your blog again and again.
 :page-image: /images/68668349_8c886b904f_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/68668349_8c886b904f_m.jpg[,role="text-center"]
+image::/images/68668349_8c886b904f_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/fabiovenni/68668349/[here]
 

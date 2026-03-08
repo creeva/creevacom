@@ -4,15 +4,15 @@
 :page-categories: video-games
 :page-excerpt: Like Baseball Stars, Double Dribble is another game that started out as a cabinet based on the NES Play Choice 10. I was never able to find a dedicated Baseball Stars cabinet, but it seems there was at least one (or a conversion kit) made for Double Dribble. I believe I have seen one for locally once upon a time, but it isn't an arcade cabinet I would jump on if available.
 :page-image: /images/343-2-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/343-2-1.jpg[,role="text-center"]
+image::/images/343-2-1.jpg[,role="text-center"]
 
 === History
 
 Like _link:http://duesr.com/index.php/2017/02/28/retrometrics-magical-copy-baseball-stars-nes/[Baseball Stars]_, _Double Dribble_ is another game that started out as a cabinet based on the NES Play Choice 10. I was never able to find a dedicated _Baseball Stars_ cabinet, but it seems there was at least one (or a conversion kit) made for _Double Dribble_. I believe I have seen one for locally once upon a time, but it isn't an arcade cabinet I would jump on if available.
 
-image::/testsite/images/100_6482-1.jpg[,role="text-center"]
+image::/images/100_6482-1.jpg[,role="text-center"]
 
 _I found the link:http://www.502streetscene.net/forum/showthread.php?t=169485[image for the cabinet on this thread]_
 

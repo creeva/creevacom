@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: This week it was announced that Yahoo Answers was shutting down. In that fact, I kind of go maybe it's time, Reddit has replaced it. The current ownership of Yahoo is not putting in money or updating properties. Likely it's time. Though Ars Technica had an article that the far right is saying this is to silence their speech, this far more falls into a straight business decision to turn off the lights of a very lightly used service than to actually put the thought into what happens if they do.
 :page-image: /images/2021-04-07_yahoo_blog-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/2021-04-07_yahoo_blog-1.jpeg[,role="text-center"]
+image::/images/2021-04-07_yahoo_blog-1.jpeg[,role="text-center"]
 
 This week it was announced that Yahoo Answers was shutting down. In that fact, I kind of go maybe it's time, Reddit has replaced it. The current ownership of Yahoo is not putting in money or updating properties. Likely it's time. link:https://arstechnica.com/information-technology/2021/04/yahoo-answers-to-end-as-trump-fans-see-plot-to-silence-conservatives/[Though Ars Technica had an article that the far right is saying this is to silence their speech], this far more falls into a straight business decision to turn off the lights of a very lightly used service than to actually put the thought into what happens if they do.
 

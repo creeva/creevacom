@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Lifehacker posed the question how did you break the TV habit? Since I can't post on the Lifehacker comments due to their screening process that I haven't yet passed and I'm too lazy to go through I thought I would place my answer here.
 :page-image: /images/switch-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/switch-1.jpg[,role="text-center"]
+image::/images/switch-1.jpg[,role="text-center"]
 
 Lifehacker posed the question link:http://lifehacker.com/software/ask-the-readers/break-your-tv-habit-327462.php[how did you break the TV habit]? Since I can't post on the Lifehacker comments due to their screening process that I haven't yet passed and I'm too lazy to go through I thought I would place my answer here.
 

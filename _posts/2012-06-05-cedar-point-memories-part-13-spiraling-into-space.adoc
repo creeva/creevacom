@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Yesterday I wrote about the removal of Disaster Transport during or at the end of this season. The other casualty that I mentioned briefly is the Space Spiral. This is a ride that I remember actually standing in line for in the 1980s. Granted for the most part this is just a walk-on ride today, but back then it was the tallest ride in the park.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 Yesterday I wrote about the removal of Disaster Transport during or at the end of this season. The other casualty that I mentioned briefly is the Space Spiral. This is a ride that I remember actually standing in line for in the 1980s. Granted for the most part this is just a walk-on ride today, but back then it was the tallest ride in the park.
 

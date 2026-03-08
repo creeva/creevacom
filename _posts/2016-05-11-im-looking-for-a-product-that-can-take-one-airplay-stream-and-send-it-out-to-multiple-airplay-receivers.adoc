@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: Now that I have the lights voice-activated, the next thing I go back to is whole house audio. Currently, I have 5 zones to that I can send audio. I have at least 3 and up to 5 more zones I want to put into the house for music. From a computer I can use iTunes and Airplay music out to all zones at once. I also can use the Remote App on the iPhone to control the remote iTunes instance. So in this scenario, I have some control over the whole house audio. While I do have a massive iTunes library, what if I wanted to use something else? What if I wanted to play the music that was directly on my phone?
 :page-image: /images/39150253_5ded166fe1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+image::/images/39150253_5ded166fe1.jpg[,role="text-center"]
 
 Now that I have the lights voice-activated, the next thing I go back to is whole house audio. Currently, I have 5 zones to that I can send audio. I have at least 3 and up to 5 more zones I want to put into the house for music. From a computer I can use iTunes and Airplay music out to all zones at once. I also can use the Remote App on the iPhone to control the remote iTunes instance. So in this scenario, I have some control over the whole house audio. While I do have a massive iTunes library, what if I wanted to use something else? What if I wanted to play the music that was directly on my phone?
 

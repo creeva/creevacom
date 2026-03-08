@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Last night our community band practice moved to a church for the night. Ironically it was the church of the girl I lived with before I was with my wife (over a decade ago). I wish I could tell you that we broke up over a mutual disagreement where we went our own separate ways but it didn't work out like that. Since at one point in time she was once a huge point of my life I thought I would document her, at that point, the facts will be recorded and I'll put the past behind me.
 :page-image: /images/270969697_fc9dcf3383.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+image::/images/270969697_fc9dcf3383.jpg[,role="text-center"]
 
 Last night our community band practice moved to a church for the night. Ironically it was the church of the girl I lived with before I was with my wife (over a decade ago). I wish I could tell you that we broke up over a mutual disagreement where we went our own separate ways but it didn't work out like that. Since at one point in time she was once a huge point of my life I thought I would document her, at that point, the facts will be recorded and I'll put the past behind me.
 

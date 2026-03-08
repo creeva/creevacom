@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Yesterday it was announced that Nintendo Power will soon be publishing its final issue. In the wide world of publishing, this isn't going to affect me very much. In the last decade, I have maybe purchased two or three issues of the magazine. I guess I am part of the problem. I am now and will always be a Nintendo fanboy. Nintendo is a big part of it.
 :page-image: /images/Nintendo_Power-1.jpeg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/Nintendo_Power-1.jpeg[,role="text-center"]
+image::/images/Nintendo_Power-1.jpeg[,role="text-center"]
 
 Yesterday it was announced that link:http://arstechnica.com/gaming/2012/08/source-nintendo-power-magazine-to-cease-publication/[Nintendo Power will soon be publishing its final issue]. In the wide world of publishing, this isn't going to affect me very much. In the last decade, I have maybe purchased two or three issues of the magazine. I guess I am part of the problem. I am now and will always be a Nintendo fanboy. Nintendo is a big part of it.
 

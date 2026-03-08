@@ -4,9 +4,9 @@
 :page-categories: geekery
 :page-excerpt: First and foremost I don't believe there is such a thing as sharing too much information. That being said I want to control what I share, I also want to be aware of what is being seen, searched, and digested. I will happily write about anything and everything in my life, even to the annoyance of friends, family, and of course readers who have to put up with my inanity.
 :page-image: /images/142455033_49ce50a89b_m.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/142455033_49ce50a89b_m.jpg[,role="text-center"]
+image::/images/142455033_49ce50a89b_m.jpg[,role="text-center"]
 
 Picture from link:http://www.flickr.com/photos/ryanr/142455033/[here]
 

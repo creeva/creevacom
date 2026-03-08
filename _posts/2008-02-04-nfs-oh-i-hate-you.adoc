@@ -4,13 +4,13 @@
 :page-categories: geekery
 :page-excerpt: Lately, we've had a security product at work that allows for secure end-to-end file sharing via NFS. That is about the best thing I can say about NFS at this point. For those not familiar with NFS Wikipedia has this description&#58;
 :page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+image::/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
 
 Lately, we've had a security product at work that allows for secure end-to-end file sharing via NFS. That is about the best thing I can say about NFS at this point. For those not familiar with NFS Wikipedia has link:http://en.wikipedia.org/wiki/Network_File_System_%28protocol%29[this description]:
 
-image::/testsite/images/Nohat-logo-nowords-bgwhite-200px.jpg[,role="text-center"]
+image::/images/Nohat-logo-nowords-bgwhite-200px.jpg[,role="text-center"]
 
 [quote]
 ____

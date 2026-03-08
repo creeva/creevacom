@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: I have to say as Lex grows up the music issue will probably get to me. Him thinking that my favorite bands are terrible. Of course, I will think all his music is derivative or noise. It's the generational chasm that all of us eventually cross, however. This is going to be the worst when he is a teenager. More than likely he won't have the wide range of music appreciation that he may gain later in life.
 :page-image: /images/150020414_6d9c2d98bd.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+image::/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
 
 I have to say as Lex grows up the music issue will probably get to me. Him thinking that my favorite bands are terrible. Of course, I will think all his music is derivative or noise. It's the generational chasm that all of us eventually cross, however. This is going to be the worst when he is a teenager. More than likely he won't have the wide range of music appreciation that he may gain later in life.
 

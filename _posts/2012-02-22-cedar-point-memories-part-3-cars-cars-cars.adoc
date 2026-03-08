@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: The cars at Cedar Point. You either loved them or hated them. Part of that also depended on your age group. When I was young I loved these, especially the turnpike cars. For the most part except on extremely busy days, these are all walk-on rides. Since there is never a wait, generally these are your throw-away quick rides. The ones you hit while your friends are using the restrooms.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 The cars at Cedar Point. You either loved them or hated them. Part of that also depended on your age group. When I was young I loved these, especially the turnpike cars. For the most part except on extremely busy days, these are all walk-on rides. Since there is never a wait, generally these are your throw-away quick rides. The ones you hit while your friends are using the restrooms.
 

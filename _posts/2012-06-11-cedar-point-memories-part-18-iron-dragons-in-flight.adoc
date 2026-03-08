@@ -4,9 +4,9 @@
 :page-categories: stories
 :page-excerpt: Until this past weekend, I was going to wait to do the Iron Dragon post. Talking to Xie, this post became a priority. It all was because of a revelation I had in early in 1989. I shared it with her. She encouraged me to get this story out sooner for all Gen-X Cedar Point Guests. This theory is of the highest importance. However, we will get to that in just a minute.
 :page-image: /images/cedarpoint.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+image::/images/cedarpoint.jpg[,role="text-center"]
 
 Until this past weekend, I was going to wait to do the Iron Dragon post. Talking to Xie, this post became a priority. It all was because of a revelation I had in early in 1989. I shared it with her. She encouraged me to get this story out sooner for all Gen-X Cedar Point Guests. This theory is of the highest importance. However, we will get to that in just a minute.
 

@@ -4,9 +4,9 @@
 :page-categories: video-games
 :page-excerpt: STARS of Intrepid started out as a dream of Xie 'lanthia and myself, at first, it seemed to be a new idea, a resurgence of truth and entertainment post-NGE. At first, I thought that was what it was also, but it isn't. Xie might believe it is, but that doesn't matter. It is a dream that's finally come to fulfillment.
 :page-image: /images/screenShot0026.jpg
-:imagesdir: /testsite/images
+:imagesdir: /images
 
-image::/testsite/images/screenShot0026.jpg[,role="text-center"]
+image::/images/screenShot0026.jpg[,role="text-center"]
 
 STARS of Intrepid started out as a dream of Xie 'lanthia and myself, at first, it seemed to be a new idea, a resurgence of truth and entertainment post-NGE. At first, I thought that was what it was also, but it isn't. Xie might believe it is, but that doesn't matter. It is a dream that's finally come to fulfillment.
 

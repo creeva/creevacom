@@ -3,7 +3,7 @@
 :page-navtitle: Uploading Photos To Flickr From a Nokia N810
 :page-categories: geekery
 :page-excerpt: One thing I've wanted to do is upload images from my Nokia N810 to my Flickr Account. I've mucked with mailing photos, but that's never fun with bulk amount of images. You might think that because the N810 doesn't have a normal sd slot, going for the micro-sd instead that I wouldn't have a lot of photos on here. Ironically whenever I take photos on my RAZR cell phone the only way I can get them off is via my N810, in which it works right away.
-:imagesdir: /testsite/images
+:imagesdir: /images
 
 One thing I've wanted to do is upload images from my Nokia N810 to link:http://flickr.com/photos/creeva/[my Flickr Account]. I've mucked with mailing photos, but that's never fun with bulk amount of images. You might think that because the N810 doesn't have a normal sd slot, going for the micro-sd instead that I wouldn't have a lot of photos on here. Ironically whenever I take photos on my RAZR cell phone the only way I can get them off is via my N810, in which it works right away.
 
