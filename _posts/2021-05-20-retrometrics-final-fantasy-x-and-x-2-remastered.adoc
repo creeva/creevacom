@@ -10,9 +10,8 @@ image::/images/2021-03-30-finalfantasyx2logo-blog-1.png[,role="text-center"]
 
 The image above looks so great taking on the Final Fantasy classic style. Now if it had felt like the classic style, I may have enjoyed both of these games more. I've owned both these games on multiple platforms (original PS2, PS3, PS4, Switch) -- I've owned the original since back when the PS2 was the dominant system. However, I never played them until now. Though I had the choice between two modern platforms, I chose the PS4. Enjoy the announcement trailer for when this first came to PS4 six years ago:
 
-++++
-<iframe src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-++++
+video::j3AUTerXl5M[youtube, width=640, height=360, align=center]
+
 
 I guess my biggest issue with both these games is that I felt the story was uninteresting and I just didn't care. From Final Fantasy X the only character I cared for was Auron, and that is because he shows up in the Kingdom Hearts franchise. I get that tons of people like this game and have fond memories of it -- but since my last RPG was Dragon Quest XI -- this is very hollow (which truly is an unfair comparison).
 
