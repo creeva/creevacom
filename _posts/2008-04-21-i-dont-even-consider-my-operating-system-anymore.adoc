@@ -1,0 +1,15 @@
+= I Don't Even Consider My Operating System Anymore
+:page-layout: post
+:page-navtitle: I Don't Even Consider My Operating System Anymore
+:page-categories: geekery
+:page-excerpt: I guess that's the point. Most people use windows and take for granted what OS they are using. I however am I bit different. I move between XP, Ubuntu, and OSX in a seamless fashion. I do a lot of work via the browser so I'm sure that is part of it, but I utilize the application that is suited for their purposes within the individual OS as they are meant to be.
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+I guess that's the point. Most people use windows and take for granted what OS they are using. I however am I bit different. I move between XP, Ubuntu, and OSX in a seamless fashion. I do a lot of work via the browser so I'm sure that is part of it, but I utilize the application that is suited for their purposes within the individual OS as they are meant to be.
+
+Granted some programs are cross-platform like I use Firefox 3.0 on everything now. But for the most part, I can be with each operating system and work with its unique flow. Sometimes I get privately annoyed that a tool is available for one OS or another, but that gets put aside quickly as I look for the right solution for my platform.
+
+Because of this approach, I am really looking forward to cloud computing and ubiquitous web interfaces. I'm not sure the back end matters at all anymore as much as it does when the functions are there to get the job done. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

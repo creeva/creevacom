@@ -1,0 +1,23 @@
+= Super Mario Land For The Original Gameboy
+:page-layout: post
+:page-navtitle: Super Mario Land For The Original Gameboy
+:page-categories: video-games
+:page-excerpt: Super Mario Land was one of those games that I never got around to finishing back when it was time appropriate. Back in the 90s when the Gameboy was in style, I didn't own one. It's amusing since counting different iterations I own about 8 today. That isn't to say that I didn't have a Gameboy in my possession. We had a great one that we used to broker debts.
+:page-image: /images/super-mario-land-gb-cover-front-26011-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/super-mario-land-gb-cover-front-26011-1.jpg[,role="text-center"]
+
+Super Mario Land was one of those games that I never got around to finishing back when it was time appropriate. Back in the 90s when the Gameboy was in style, I didn't own one. It's amusing since counting different iterations I own about 8 today. That isn't to say that I didn't have a Gameboy in my possession. We had a great one that we used to broker debts.
+
+I had a friend with a Gameboy and a handful of games. Occasionally he would borrow money from me. Normally this amount was in the $20.00 range or so. When this happened he gave me the Gameboy as collateral. Then eventually I would need money and it swings the other way. While I was responsible for batteries, I definitely got my use out of my time with them. On a few occasions, it was months at a time. I think I beat a few games on it, but that always annoyed me Super Mario Land.
+
+I had beaten all the Mario Bros. games for the NES, so this should have been a piece of cake. However, even though it was liberal on the extra guys as long as you exited the top door, I couldn't lick it. It could have been time, or the running out of battery, but I prefer to think it was because the physics rules were different compared to the NES games. The fireballs would hit the ground in front of you and blast into space. Turtles would explode after you jumped on them. The jumps didn't feel solid, but more of a hope and a prayer as the collision detection didn't always match up. The fact that there were "vehicle" levels that you played like a side-scrolling shooter. Whatever the reason it was one of the games that I never finished.
+
+When I first moved in with the woman who would become my life in 1998, she brought a Gameboy into the relationship. Originally she also had Super Mario Land, but she had lost it. Mostly we used as a Tetris playing machine. Occasionally we discussed Gameboy games, but it was more my thing than hers. When those discussions arose, there was always some mild complaining about Super Mario Land. Mostly it was lead by me. Super Mario Land 2 was much more in line with feeling of the NES games. The original Super Mario Land would have been perfectly at home on a graphing calculator (which I have seen the ports of and they were near perfect).
+
+Having recently finished Castlevania I thought this would be the next game to tackle. This and the Lost Levels are the only retro side-scrolling Mario Bros. game I haven't completed. So I fired up the emulator and was prepared to save my game and pound through it. What I found was that it wasn't as bad as I remembered. While the quirks I mentioned about the feel no longer exist, the fact that I had a controller and wasn't holding a physical Gameboy might have helped out. Whatever the issue, I made it through to the final without much issue. It wasn't even until the final boss that I had to load a save state at all.
+
+I think I reloaded the state about 4-5 times. All of those were just figuring out the movement required to beat the second form of the final boss. Then I beat it and saw the end credits. They weren't anything special. A small animation and a list of people that worked on the game. It was something that I accomplished and I'm happy with it.
+
+There wasn't an overwhelming feeling of joy -- just satisfaction. It was the accomplishment of having beat the game that I wasted hours on during family trips to Greenville. Trying to get jumps correct during the times that random streetlights would brighten the backseat of the car so I could play for a few brief minutes. It was a struggle of first-world 90s proportions. Having beaten it like this, and seeing the whole game, I don't think I would have a problem these days besting the game on an actual Gameboy. I'm not sure I actually have the cartridge, but it might be time to start digging for it. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

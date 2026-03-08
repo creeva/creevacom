@@ -1,0 +1,15 @@
+= And So Start The Baby Presents
+:page-layout: post
+:page-navtitle: And So Start The Baby Presents
+:page-categories: stories
+:page-excerpt: You know I thought people at least waited a bit until they started getting out the baby presents. Xie is only eight weeks pregnant and yet we already have our first baby gifts. Last weekend it seems that her mother bought us a crib, we haven't seen it yet but we have a crib. We told her mother we don't even want it until we were well into the second trimester. Her grandmother, not wanting to be left out of the fun, purchased us a playpen, something we won't need for at least a few months after the baby is born.
+:page-image: /images/530951739_001ce592a1_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/530951739_001ce592a1_m.jpg[,role="text-center"]
+
+You know I thought people at least waited a bit until they started getting out the baby presents. Xie is only eight weeks pregnant and yet we already have our first baby gifts. Last weekend it seems that her mother bought us a crib, we haven't seen it yet but we have a crib. We told her mother we don't even want it until we were well into the second trimester. Her grandmother, not wanting to be left out of the fun, purchased us a playpen, something we won't need for at least a few months after the baby is born.
+
+It seems everyone wants to get into the celebration and be a part of the pregnancy. The best sign of that is that it seems we will have an excellent support network to draw from. Of course, there is always the chance that after the baby is born everyone disappears when we need help. I don't think that will be the case.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,27 @@
+= Sometimes Obsolete Operating Systems Aren't Obvious
+:page-layout: post
+:page-navtitle: Sometimes Obsolete Operating Systems Aren't Obvious
+:page-categories: geekery
+:page-excerpt: Sometimes things aren't obvious being obsolete in the world of computers. If you are a Windows user it's completely obvious that you are using an older version of windows immediately when you start using it. Whether the signs are when you sit down and see Windows 98 striped across the start menu or the older version of Internet Explorer 5.0 that starts up, you catch these things and it is noticeable. The same thing also holds true for Linux, but this is more of aesthetic issues that become apparent, usually graphic issues that are sorted out on newer versions you catch on the older ones.
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+Sometimes things aren't obvious being obsolete in the world of computers. If you are a Windows user it's completely obvious that you are using an older version of windows immediately when you start using it. Whether the signs are when you sit down and see Windows 98 striped across the start menu or the older version of Internet Explorer 5.0 that starts up, you catch these things and it is noticeable. The same thing also holds true for Linux, but this is more of aesthetic issues that become apparent, usually graphic issues that are sorted out on newer versions you catch on the older ones.
+
+But what about OS X?
+
+My sister has been having a problem with her iPod nano she got for Christmas. Itunes wouldn't recognize it, she would have to upgrade iTunes. Fair enough. Well, iTunes won't load on her Operating System, which was OS X 10.3.2. Ironically the latest version of Itunes works on windows 98 and will work with the Nano. 10.3.2 is newer than Windows 98, but yet still is forcing the upgrade on OSX users. Normally I wouldn't really have a problem with this, I'm also not a nuanced Mac user. I can't however tell graphically an immediate difference (once the machine is booted) between my sister's 10.3.2 desktop and my 10.5.1 desktop on my Mac Air.
+
+Do people just one day stop writing code that should graphically look the same from the OSX desktop to the OSX desktop?
+
+I'm just confused I guess. Mac is supposed to just work, then please just work.
+
+I'm upgrading my sister's computer to 10.4, then she should be able to load the proper iTunes and be able to sync her iPod. It's just annoying. I'm not scared of other operating systems, I fixed a networking problem she had for months that my "computer genius" step-father had tried to correct but couldn't do anything "because it's a mac". I knew there was a reason I don't talk to that side of the family. Currently, my "regular" computing devices include -- XP Desktop for work, Mac Air Book 10.5 for work, Hardy Heron Laptop for myself, XP desktop for home games and movies, and a Windows 2k3 server for home. My micro OSes include Maemo on my soon-to-be-delivered n810 and Palm OS and my TX.
+
+At work I'm the main person to say that Mac is not built for the enterprise, they have poorly designed business software when it comes to managing a mixed environment. Now the argument back is that Microsoft should make tools to manage Macs, I believe for acceptance in the full enterprise that needs to be reversed. Apple needs to roll over backward to fit itself in, I mean I have an easier time working with Linux in an enterprise environment than with Mac. The ironic thing is I never heard anyone ever say "Linux just works".
+
+My stepfather is scared of alternative Operating Systems, like the big scary Mac. It took my wife and me a total of 15 minutes in which she used her N810 tethered via Bluetooth to her phone to google the questions I asked her. She fed me back the information after she filtered it and bang -- working networking.
+
+If you are not willing to work out of your comfort zone and approach new things, you will never grow. This means no matter how you look on the outside and what your resume says about you, like sitting down at the 10.3.2 desktop and not noticing anything different, you still need to be upgraded or replaced. At this point, you are no longer truly useful except for some obscure things and can not compete in modern thought. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

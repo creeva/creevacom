@@ -1,0 +1,19 @@
+= Is there a Facebook timeline alternative?
+:page-layout: post
+:page-navtitle: Is there a Facebook timeline alternative?
+:page-categories: geekery
+:page-excerpt: So last week I started filling out my Facebook timeline. The idea behind it is pretty cool in the sense you give yourself a time machine to look back at your life. I like the presentation and most of the options (some things are lacking). Overall it is a good experience, though I know many hate it. All the information it is displaying was there before -- it just is in an easier presentation method.
+:page-image: /images/270969697_fc9dcf3383.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+
+So last week I started filling out my Facebook timeline. The idea behind it is pretty cool in the sense you give yourself a time machine to look back at your life. I like the presentation and most of the options (some things are lacking). Overall it is a good experience, though I know many hate it. All the information it is displaying was there before -- it just is in an easier presentation method.
+
+As I'm filling it out one of my friends left a message that I should stop fiddling with my timeline since no one cares. Granted that is not true since I care, but every life object I added spammed all my friends that I add X, Y, and Z to my timeline. I had already done a bit, so I decided to slow down my importing information. Overnight I decided that since I can not get my data out of Facebook, I really didn't want to put it in. Privacy and sharing don't bother me. Most of the information I was going to add is mostly publicly accessible via my blog or other public means. Why would I want to spend hours upon hours doing this on Facebook, when only I would enjoy it and there is no long-term strategy to migrate the data out into another format?
+
+I am on the hunt for an alternative. I posted yesterday that I am aware of the WordPress plugin (which unfortunately doesn't give you date ranges). I am also aware of link:http://memolane.com[Memolane], which from my reading didn't have a method it outputs the data in a reliable format (I don't think you can output it at all). Currently, there doesn't seem to be any method to do anything similar with any open data standards. I would love to have a private (in my home) timeline that would include details and things that I would never share on the open Internet. The dream would be for it to subscribe to a calendar and pull in data from there, arrange pictures by date taken, and be able to pull in data sources from RSS feeds, Twitter, and other sources to give a comprehensive view of my life that I could work backward in time from.
+
+Once the data sourcing problem is solved I would love it if videos, pictures, and text in flat HTML files/ directories as well as a database. This would give me the power of portability with the speed and comparison of data that you could do with a database. For me, this would be a win/win design. Your data would always be able to be recovered, copied, moved, and backed up easily.
+
+I was explaining to Xie last night that it is a catch-22. I don't obsessively record my data since there is no good way to store or visualize it. Since I can't find a method to store and visualize it to my liking -- I don't obsessively record my data. I do have a WordPress installation on my laptop that aggregates more information than even my public blog does -- it really however is a hack and not really good enough. The hunt continues…. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

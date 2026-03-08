@@ -1,0 +1,17 @@
+= How I Changed The Channel At Grandpa's House
+:page-layout: post
+:page-navtitle: How I Changed The Channel At Grandpa's House
+:page-categories: stories
+:page-excerpt: My grandfather, I loved him, but when I was a young kid I really didn't enjoy his choice in television programming. Grandpa had cable, so he had all the cool channels I could get at home with our normal broadcast television. I wanted to watch You Can't Do That on Television or Danger Mouse. Grandpa had other ideas.
+:page-image: /images/typewriter-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+
+My grandfather, I loved him, but when I was a young kid I really didn't enjoy his choice in television programming. Grandpa had cable, so he had all the cool channels I could get at home with our normal broadcast television. I wanted to watch You Can't Do That on Television or Danger Mouse. Grandpa had other ideas.
+
+Grandpa liked watching war documentaries, to an eight-year-old I might as well have been watching paint job. Since it was a 4-hour ride to Grandpa's house that meant it was normally a big trip. Big trips meant I couldn't bring a lot of stuff with me, so TV was the entertainment (though I read quite a few books on trips to Grandpa's house). Not only did Grandpa watch war documentaries incessantly he also fell asleep watching TV quite often (an affliction my wife says I have also). This means that the TV was stuck on war documentaries and the only person that cared about them was asleep and not enjoying them. So no conscious person in the room was enjoying the television. Dilemmas, Dilemmas.
+
+So being a young child I discovered if I turned down the volume on the TV and then changed the channel, I could then raise the volume slowly and listen and watch whatever I wanted -- until Grandpa woke up. So we had 15-20 minutes of TV in between him waking up and changing the channel back to what he was watching.
+
+I did this for years and eventually, most of my cousins caught on also. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

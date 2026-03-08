@@ -1,0 +1,15 @@
+= The Crossposting God Series Part 1 -- The Introduction
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 1 -- The Introduction
+:page-categories: geekery
+:page-excerpt: I've mentioned in passing in the past that I do crosspost across the interwebs. I've stated before, yet I'll mention it again for this series that I do it so readers can access me where they want. Yesterday I posted that I was making it a goal of mine to see how many possible services. Since I'm doing this I figured that could I get my information to my readers on how to do this, the why is a little tougher to answer. While this information could theoretically be used for spam blogs, I sincerely hope that you do it to keep in touch with your friends.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+I've mentioned in passing in the past that I do crosspost across the interwebs. I've stated before, yet I'll mention it again for this series that I do it so readers can access me where they want. Yesterday I posted that I was making it a goal of mine to see how many possible services. Since I'm doing this I figured that could I get my information to my readers on how to do this, the why is a little tougher to answer. While this information could theoretically be used for spam blogs, I sincerely hope that you do it to keep in touch with your friends.
+
+Crossposting did start out as keeping in touch with friends in other services so I didn't have to login into them. Very truly there are only a handful of web services that I truly interact with, I'll leave comments or talk to users when I actually do log in, but the path where I create original content is quite narrow. link:https://creeva.com[My blog] (where you may be reading this) of course is my primary outlet where I write, the secondary service I use incessantly is link:http://twitter.com/creeva[twitter]. Pictures and movies of course have completely different avenues of entries into the interwebs, but I do so much more when it comes to text. Through the course of this series, I will be covering text, video, audio, and metadata crossposting.
+
+Later today I will be starting with crossposting to Vox and from there I'll write an article per service, there will be some overlapping techniques to get data into service, but I won't be using the same technique on the same day. So if I use e-mail crossposting as a method, the next will be either an RSS entry or a helper site. I won't be releasing all of my secret sauce, but just enough of it so you should be able to figure out the missing pieces for yourself. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

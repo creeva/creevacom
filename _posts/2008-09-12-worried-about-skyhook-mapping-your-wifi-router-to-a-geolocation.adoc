@@ -1,0 +1,31 @@
+= Worried About Skyhook Mapping Your Wifi Router To a GeoLocation?
+:page-layout: post
+:page-navtitle: Worried About Skyhook Mapping Your Wifi Router To a GeoLocation?
+:page-categories: geekery
+:page-excerpt: I was reading a story on slashdot about how Skyhook Wireless has been wardriving the United States mapping MAC addresses from the wireless routers it detects to your geographic location. Now first for those paranoid, they probably are not going to get your exact physical address but it will be "close" -- close is defined as within 500 feet.
+:page-image: /images/265039683_939c0061d2_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/265039683_939c0061d2_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/ori0n/265039683/[here]
+
+I was reading link:http://hardware.slashdot.org/hardware/08/09/12/1255218.shtml[a story on slashdot] about how link:http://www.skyhookwireless.com/[Skyhook Wireless] has been link:http://en.wikipedia.org/wiki/Wardriving[wardriving] the United States mapping link:http://en.wikipedia.org/wiki/Mac_Address[MAC addresses] from the wireless routers it detects to your geographic location. Now first for those paranoid, they probably are not going to get your exact physical address but it will be "close" -- close is defined as within 500 feet.
+
+Following the discussions on the slashdot posting, you can see that some geeks are freaked out. They are worried about getting spam to their physical location (my email address has nothing to do with my physical location). They are stating to change your mac address so it obsoletes the database. While this is doable, there is another better scenario for this. If you should find your MAC address on this database or you wish to preemptively strike against this mapping when it comes to your MAC address, you are going to have to change your mac address.
+
+Most wireless routers allow you to change the MAC Address on your wifi segment. If your router does not allow you to do this please purchase a new router if you wish to proceed. While a MAC address needs to be unique on a network segment (so the computers can talk to each other) they do not have to be unique in the universe, in the world, in the country, in the state, or even in the same town. If the signals are weak and shielded enough to prevent interference you could have duplicate MAC addresses in the same apartment building, though I wouldn't recommend that and it would negate this exercise anyways.
+
+Now you are all ready to change your MAC address, what do you change it to? How about the same as McDonald's in times square? Your friend can snag you one from Panera Bread in Anchorage, Alaska. Maybe you want your house to have the same MAC address as the wifi routers in Disney World. If you want to be boring go up to your local Best Buy and look at what their MAC address is set to, though it would still be local to you somewhat then. I'm not going to go through and state how to get these MAC addresses, but most people that would actually bother to do this already know how. If you need further instruction drop me a comment and I may go into it.
+
+By changing the MAC address you have now poisoned the Geo-Location database that Skyhook Wireless has saved about you. Even if they grab your MAC address after you have changed it, which MAC Geolocation is going to take precedence -- Times Square or Podunk, Iowa? There is a chance if Skyhook doesn't have its weighting algorithms correct and all those people at Mcdonald's in Times Square would have their location showing as Podunk Iowa -- though it would be amusing to use the API and have it say that there are 300 people currently in your house.
+
+You can get more documentation on the API from here and link:http://loki.com/developers/documentation[here].
+
+Sometimes people over think the problem when a simpler and more elegant solution can be utilized. If in the end Skyhook data can't be trusted, it will not be used.
+
+image::/testsite/images/32109651_1c2f1a2fc7.jpg[,role="text-center"]
+
+Image from link:http://www.flickr.com/photos/queenroly/32109651/[here]
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

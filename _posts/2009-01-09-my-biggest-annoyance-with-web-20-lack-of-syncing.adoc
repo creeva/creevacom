@@ -1,0 +1,21 @@
+= My Biggest Annoyance With Web 2.0 -- Lack of Syncing
+:page-layout: post
+:page-navtitle: My Biggest Annoyance With Web 2.0 -- Lack of Syncing
+:page-categories: geekery
+:page-excerpt: I'm the crossposting whore -- I write once and I have everything designed to publish everywhere (well at least when things aren't broken like Ping.fm to Myspace blogs). This however is not syncing, it's distribution and publishing. A true sync across all platforms would be amazing.
+:page-image: /images/3038597_e5f95e2017.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+
+Image from link:http://flickr.com/photos/jazzmasterson/3038597/[here]
+
+I'm the crossposting whore -- I write once and I have everything designed to publish everywhere (well at least when things aren't broken like link:http://ping.fm[Ping.fm] to link:http://myspace.com[Myspace] blogs). This however is not syncing, it's distribution and publishing. A true sync across all platforms would be amazing.
+
+The example I would love is I make an edit to a blog post, then every place and profile that I've published that post on would update with no manual intervention. Since I can't do that, link:https://creeva.com[localhost/wordpress] is considered my authoritative location for all blog posts. If I wanted to edit those other sites I would have to do each one manually. Granted I'm sure without using syncing it saves on bandwidth.
+
+Things that I can sync? Well my contacts and calendars with Plaxo, but that kind of is just the tip of the iceberg. My biggest issue right now is syncing link:http://flickr.com[Flickr] photos to link:http://facebook.com[Facebook]. I am aware of Flickurbook, but this still uses your local machine -- there is no reason this can't be done "in the cloud". It's all soooo sloooooow. Seriously at the speed it moves, I could just reupload all the pictures to Facebook faster than this thing goes. It's free, it's the developer's fault, and it's great what he did, but it's not the solution I'm looking for.
+
+Finally using my distribution chain I chase all over the web to answer comments. I don't mind doing that. However, wouldn't it be better if, across all platforms and services, these comments were kept in sync? Then I could use the spam filters I wanted to from a central location. I could reply to comments from a central location.
+
+I'm just pipe dreaming again….. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

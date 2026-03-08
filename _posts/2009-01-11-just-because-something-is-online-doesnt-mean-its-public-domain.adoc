@@ -1,0 +1,15 @@
+= Just Because Something Is Online Doesn't Mean It's Public Domain
+:page-layout: post
+:page-navtitle: Just Because Something Is Online Doesn't Mean It's Public Domain
+:page-categories: geekery
+:page-excerpt: A few weeks ago I was having a discussion with one of my family members about website design and blogging. He stated that he was going to be starting some sort of manga/anime fansite based on a certain character. I stated that he should be a bit wary about the images he used and that he may have to worry about copyright issues since the images were trademarked and copyrighted. Keep in mind this was the same brother that wanted to set up a website for a girl so you couldn't download the images (and I called him out on the futile nature of that). Kind of ironic when he wants to control it, he thinks one way -- but when he wants to use it he thinks another.
+:page-image: /images/trumpet.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/trumpet.jpg[,role="text-center"]
+
+A few weeks ago I was having a discussion with one of my family members about website design and blogging. He stated that he was going to be starting some sort of manga/anime fansite based on a certain character. I stated that he should be a bit wary about the images he used and that he may have to worry about copyright issues since the images were trademarked and copyrighted. Keep in mind this was the same brother that wanted to set up a website for a girl so you couldn't download the images (and I called him out on the futile nature of that). Kind of ironic when he wants to control it, he thinks one way -- but when he wants to use it he thinks another.
+
+Another family member piped in that they thought if it was online it was public domain and free to use. Now I corrected them, but so everyone else knows -- just because something is published online doesn't mean it's free to use. When I don't use my own pictures I always use creative commons licensed images and put an attribution link beneath the image (sometimes I do use public domain images and don't attribute). I even had an online scuffle with someone who licensed her work via creative commons and didn't know what it meant.
+
+I gave my family the two-minute off the top of head review of current copyright law and how creator's rights worked under our borked legal system. Essentially if you are in the US anything made in 1923 or earlier is a free game -- anything after that is the life of the creator plus seventy years. Unless the page it's on states otherwise you have to assume the work is copywritten. Then we get into fair use, which is a whole other ball of wax entirely that I'm not going to touch right now. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

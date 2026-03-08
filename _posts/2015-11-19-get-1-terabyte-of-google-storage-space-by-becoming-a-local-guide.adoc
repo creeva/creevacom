@@ -1,0 +1,46 @@
+= Get 1 Terabyte of Google Storage Space By Becoming a Local Guide
+:page-layout: post
+:page-navtitle: Get 1 Terabyte of Google Storage Space By Becoming a Local Guide
+:page-categories: geekery
+:page-excerpt: I know reading the headline, some of you are wondering what the heck is a Google Local Guide. This is actually a service that has existed for a while in Google. It's a competitive service to Yelp. It's designed to offer images and reviews of restaurants, businesses, and places. In Google's words&#58;
+:page-image: /images/108805307_c43af20f59.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+
+*What is a Local Guide*
+
+I know reading the headline, some of you are wondering what the heck is a link:https://www.google.com/local/guides/[Google Local Guide]. This is actually a service that has existed for a while in Google. It's a competitive service to link:http://yelp.com[Yelp]. It's designed to offer images and reviews of restaurants, businesses, and places. In Google's words:
+
+[quote]
+____
+Share your world on Google Maps. Local Guides is a global community of explorers sharing their discoveries on Google Maps. Help others find the best spots in town, make new friends, and unlock exclusive benefits along the way.
+____
+
+This last week link:http://www.forbes.com/sites/lianeyvkoff/2015/11/16/google-gamifies-local-guides-to-boost-maps/[Google announced new benefits to becoming a member of their Local Guides]. They have been placed in guide levels. I'll be honest, these levels might have been in place previously. I hadn't heard of the service until this week. However, the rewards are new. The rewards are based on your level tiers.
+
+* Level 1 -- (0 -- 4 points) allows users to enter exclusive contests in select countries
+* Level 2 -- (5 -- 49 points) provides early access to new Google products and features.
+* Level 3 -- (50 -- 199 points) allows a user to show up in the Google Maps app with an official Local Guides badge.
+* Level 4 -- (200 -- 499 points) offers a free 1 TB upgrade of the user's Drive storage.
+* Level 5 -- (500+ points) allows reviewers to become eligible to apply to attend the company's inaugural summit in 2016. (Details will be released next year.)
+
+*How To Earn Local Guide Points*
+
+link:https://support.google.com/local-guides/answer/6225851?hl=en[Google wrote up a help page about how to earn points]. I'll give you a quick rundown. The first thing you need to do is look up the business in Google Maps. From there you can rate and review a restaurant. This gives you 1 point. If you are on a mobile app it will ask you additional questions such as "Do They Offer Take Out" or "Is This Place Cash Only". This takes about 10 seconds and gives you a second point. If you add a picture, that gains you a point. If you correct details such as hours -- that gives you a point.
+
+You can take a picture of a business without rating it. You can not do the questions without first providing a rating.
+
+*Are Points Only Gained From Places I'm Local To?*
+
+One of the things they ask you when you first sign up is they ask for your zip code. I was curious if it would allow me to review places a few states away (currently I'm on travel this week). It does and those points forward towards your count. Anywhere you know well enough to review you can go back and place in the review. In theory, you could put in places you haven't been -- but be fair and make the system work accurately.
+
+*What Is The Downside?*
+
+All images and reviews you submit are available for public view. The images do show up on your Google Plus page as public, but you can modify your security to hide this tab. This may or may not be a security concern for you. After you reach the top level you are shooting for you can then leave the local guide program. At this point, you are supposed to be able to remove all of your information. How true this is, I can't answer. I did want to point out the issue though. Google also hasn't stated if you will lose the terabyte space increase if you leave the program. To that end, they haven't stated if this will be a yearly item you will need to achieve to maintain it or if it's a one-time for-life item. These are some unanswered questions that you may want to consider.
+
+*Verifying Your Points*
+
+To verify how many points you have earned, you need to use the mobile app. I haven't seen any quick method to see this on the standard website. In the app click the three lines next to the search bar. This will open a side screen that lets you select your contributions. At the top will be your level and how many points you have. You can click the points bar and it will break down where you received points from (reviews, photos, answers, added places, and edited places). At the bottom you have a todo section (mine is blank) this recommends places for you to try out. There are two more tabs on the bottom you can switch to. The first is the Reviews tab, which lists all the reviews you have added to the program. The second is the Photos tab which shows all the photos you have contributed and lists have many people have seen them.
+
+By the end of this week, I should already be level 5. I've been reviewing and uploading pictures in my spare time. The points rack up quickly. The only annoyance is that it takes about a day to post, so you can't watch the points go up automatically as you do things. This is interesting for all those who are always wanting more cloud space. It also helps the community by improving search results down to a local level. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,26 @@
+= Apple Location Issue -- Scaring the Uninformed
+:page-layout: post
+:page-navtitle: Apple Location Issue -- Scaring the Uninformed
+:page-categories: geekery
+:page-excerpt: So the Apple issue hit the web news yesterday. All the "OMG HAXXX" and Fox News proclaiming your spouse or employee can monitor your every move stories hit the web and to the non-technical people, this seemed like the worst thing ever. The first thing that came to my mind? I thought "This is awesome what can I do with my own data". I'm not alone with this, my wife's first reaction. "Ohmygodthisisawesomewhatcanwedowiththis?" She is also an extremely private person and more privacy-conscious than I am. I am privacy concerned on issues -- when they are real issues. This, so far, is a fair nonissue. My favorite quote about this yesterday was by @adambaldwin -- " iPhone stores a record of every place you visit. In other news your browser can also set cookies."
+:page-image: /images/39150253_5ded166fe1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+
+So the Apple issue hit the web news yesterday. All the "OMG HAXXX" and Fox News proclaiming your spouse or employee can monitor your every move stories hit the web and to the non-technical people, this seemed like the worst thing ever. The first thing that came to my mind? I thought "This is awesome what can I do with my own data". I'm not alone with this, my wife's first reaction. "Ohmygodthisisawesomewhatcanwedowiththis?" She is also an extremely private person and more privacy-conscious than I am. I am privacy concerned on issues -- when they are real issues. This, so far, is a fair nonissue. My favorite quote about this yesterday was by link:https://twitter.com/adam_baldwin[@adambaldwin] -- " iPhone stores a record of every place you visit. In other news your browser can also set cookies."
+
+So last night after my son went to bed, I pulled out the laptop and dug into the issue to see what I can do.. Unfortunately, we don't have a modern apple computer in the house. The instant visualization software is for OSX only. The only OSX machine we have is a first-gen mac mini. Seeing the file should be the same I used my normal day-to-day netbook and started the process. This page gave me all the information on dumping the file. The page's focus is the OSX application that I mentioned. Checking what I would need I had python installed, but grep was not on this computer. I installed grep and started to dig in. There was a bit of confusion on my part on which python script was the correct on to parse the file with. After I did get the correct one it through back errors. I am hoping to get time this weekend to start digging into it again.
+
+I spent the rest of the time jumping from forum to forum reading about the file structure and seeing other dumps of this file. On one forum thread, there was another person that had a different take on the file:
+
+[quote]
+____
+Righto, calm down, it's unique information for each router found. It's not tracking your location over time or you'd see dupes. Here's the transcript, errors and all -- the important part is the uniq -d at the end which searches for duplicate MAC rows. There are none.
+____
+
+So his analysis would seem to say that this was part of the "assisted" GPS function of iOS. This would make sense because it is a bit less resource intensive than the GPS chip in the phone. Another story I have heard is that it is cell tower triangulation data -- which in the area I live would only give a general location and not be accurate at all. If it is part of WiFi tracking for assisted location-based tracking -- then this file actually makes sense. This data would have to be stored in the phone to be effective -- the argument would then be if it should be in plain text or not. Finally, I have heard it is both WiFi routers and cell towers.
+
+I also had one other thing wrong talking to friends about this last night. Currently, there is no law passed (many pending) on how long telecoms are required to keep your data. This information is more in-depth than just the tracking information in the file. This data IS accessible by law enforcement agencies without a warrant. So I am more concerned about my privacy from that angle than a text file included on my computer in an iPhone backup.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

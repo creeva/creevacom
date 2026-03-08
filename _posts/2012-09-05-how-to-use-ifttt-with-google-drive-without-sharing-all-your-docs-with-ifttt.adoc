@@ -1,0 +1,17 @@
+= How to Use IFTTT With Google Drive Without Sharing All Your Docs With IFTTT
+:page-layout: post
+:page-navtitle: How to Use IFTTT With Google Drive Without Sharing All Your Docs With IFTTT
+:page-categories: geekery
+:page-excerpt: Yesterday IFTTT announced that they were adding support for Google Drive. I was initially excited. I could stop using Dropbox as a catch-all for all my IFTTT updates. There is a problem though, access to Google Drive is all or nothing. I haven't allowed the service access to my Gmail account, because I'm not really comfortable with another third-party company having access to my email archives. The Google Drive issue is also iffy for me. I don't necessarily feel secure giving a third-party access to all of my stored documents. I wanted to use it, but how.
+:page-image: /images/ifttt-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ifttt-1.png[,role="text-center"]
+
+Yesterday link:https://twitter.com/IFTTT/statuses/243037845286182912[IFTTT announced that they were adding support for Google Drive]. I was initially excited. I could stop using Dropbox as a catch-all for all my link:http://ifttt.com[IFTTT] updates. There is a problem though, access to Google Drive is all or nothing. I haven't allowed the service access to my Gmail account, because I'm not really comfortable with another third-party company having access to my email archives. The Google Drive issue is also iffy for me. I don't necessarily feel secure giving a third-party access to all of my stored documents. I wanted to use it, but how.
+
+The solution was simple enough. It doesn't necessarily have to be tied to your own Google Drive account. When you go to activate the Google Drive module, it will go to authorize it to any Google account you are currently logged into. Once I realized that I created a new account on my Google Apps account for my personal domain so I had a clean account that wasn't used for anything else. I then logged in and configured IFTTT to use this Google Drive account.
+
+Once the account was working and folders are created, I then shared this folder with my main Gmail account. I dragged the shared folder into my main drive, so the files are always synced. I can now use Google Drive with IFTTT and I do not have to share every single file in my account with them. The new account also has 5GB of its own space. If that fills up, I will just copy the files from the shared folder to another place in my personal Google Drive space.
+
+Being able to use the service is a win. Being able to not share unnecessary data with a third party you are unsure of, is always something to be proud of. It's an elegant hack, with the only exception being that you have to set up an extra Google account that you won't use for anything else. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,15 @@
+= The Missing Pictures of Our Lives
+:page-layout: post
+:page-navtitle: The Missing Pictures of Our Lives
+:page-categories: stories
+:page-excerpt: Have you ever noticed that you seem to always want to find a picture of a certain person or certain event and it just doesn't exist? I have cars I've owned that somehow I don't have pictures of. People I knew and hung out with for years that I don't have pictures of. Events that somehow were photographically free.
+:page-image: /images/calligraphy-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+
+Have you ever noticed that you seem to always want to find a picture of a certain person or certain event and it just doesn't exist? I have cars I've owned that somehow I don't have pictures of. People I knew and hung out with for years that I don't have pictures of. Events that somehow were photographically free.
+
+It's odd how we are becoming more and more photogenic in our normal lives but yet we don't capture what matters.
+
+I'm sure that I am not alone in these thoughts -- we can all mourn the lack of photographic evidence that we existed in a certain time or place is lost. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

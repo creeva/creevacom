@@ -1,0 +1,15 @@
+= SWG 6.26.06
+:page-layout: post
+:page-navtitle: SWG 6.26.06
+:page-categories: video-games
+:page-excerpt: Starting the Jedi grind 2.0….or is it 3.0?
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+
+Starting the Jedi grind 2.0….or is it 3.0?
+
+Going through the quests that you start out as a newbie I'm now level 20 and finished the Jabba theme park. The Jabba theme park sadly had more variety at launch -- but they have a new thing about taking you halfway across the planet -- which is good or bad depending on your feeling about it.
+
+The main problem in the Jabba theme park is the fact that many people on the quest send you back to the same Valerian spawn point. Variety is the spice of life. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

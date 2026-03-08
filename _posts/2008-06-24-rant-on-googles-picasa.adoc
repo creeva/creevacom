@@ -1,0 +1,23 @@
+= Rant on Google's Picasa
+:page-layout: post
+:page-navtitle: Rant on Google's Picasa
+:page-categories: geekery
+:page-excerpt: The other day I had my rant on Google Docs, you would think I would end my Google criticism there, but I have a few more complaints. Picasa is a utility I would love to be in love with. Unfortunately for online photo sharing Flickr still has my heart.
+:page-image: /images/1405701348_b0c0602641_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/1405701348_b0c0602641_m.jpg[,role="text-center"]
+
+The other day I had my rant on Google Docs, you would think I would end my Google criticism there, but I have a few more complaints. Picasa is a utility I would love to be in love with. Unfortunately for online photo sharing link:http://www.flickr.com[Flickr] still has my heart.
+
+Problems I have with Picasa:
+
+1. Space limits, with my paid Flickr I get unlimited space -- for another 20.00 (though 5 dollars less than Flickr) I get 10 GB -- I'm pushing close to that already which would cost me 75.00 to jump up to the next price point which is 40GB. After two years Flickr has significant savings.
+
+2. Number of items in an album, an album in Picasa is the equivalent of a set in Flickr. I was trying to sync some pictures from Flickr to Picasa with Gnome Conduit, I discovered that an album can only have 500 pictures in it (yes this is an issue for me). The main reason this is an issue is that pictures HAVE to be in an album, so I am forced to organize my photos (that's fine) but I don't need parameters telling me how I have to organize them.
+
+3. Editing and manipulation tools, Flickr may not have the best photo manipulation tools but they beat Google hands down for function.
+
+Ok, I had my little Picasa rant, I'll let it go now.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

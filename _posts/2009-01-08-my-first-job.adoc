@@ -1,0 +1,41 @@
+= My First Job
+:page-layout: post
+:page-navtitle: My First Job
+:page-categories: stories
+:page-excerpt: You would think from the image I chose for the header that I was doing something cool with the Nintendo Entertainment System. This unfortunately is not the case. Where the Nintendo came into play was that it was the object of my desire. I desperately wanted an NES. This was sometime around seventh or eighth grade so the years would have 1988--1989 and the Nintendo was in full swing.
+:page-image: /images/140px-Nintendo_entertainment_system.jpeg
+:imagesdir: /testsite/images
+
+image::/testsite/images/140px-Nintendo_entertainment_system.jpeg[,role="text-center"]
+
+You would think from the image I chose for the header that I was doing something cool with the link:http://en.wikipedia.org/wiki/Nintendo_Entertainment_System[Nintendo Entertainment System]. This unfortunately is not the case. Where the Nintendo came into play was that it was the object of my desire. I desperately wanted an NES. This was sometime around seventh or eighth grade so the years would have link:http://en.wikipedia.org/wiki/1988[1988]--link:http://en.wikipedia.org/wiki/1989[1989] and the Nintendo was in full swing.
+
+Now my father didn't believe in video games. About five years earlier he got us a link:http://en.wikipedia.org/wiki/Commodore_VIC-20[Commodore Vic-20], this is all fine and dandy -- my parents fell for the whole "give your kid a computer and he'll be computer literate for life" crap that they were handing out in the eighties. A computer was meant for learning and yes there were a few games we had for it, but it was meant to learn something. I learned I never wanted to be a programmer, that's what I learned. I could go to my neighbor and play the link:http://en.wikipedia.org/wiki/Atari_2600[Atari 2600] or play link:http://en.wikipedia.org/wiki/Ultima[Ultima] on his link:http://en.wikipedia.org/wiki/Macintosh_Classic[Mac Classic] -- but -- I was going to have the Vic-20 and like it, because I wasn't getting anything else.
+
+image::/testsite/images/295127334_2083ffda82.jpg[,role="text-center"]
+
+Picture from link:http://flickr.com/photos/ajkandy/295127334/[here]
+
+We moved to Vermilion the summer before my seventh-grade year. I'm sure I started begging for an NES around that time if not earlier. I'm sure the logic explained to me was that if I wanted a Nintendo I was going to have to earn it. This meant getting a job. I don't know about your area but for link:http://en.wikipedia.org/wiki/Vermilion,_Ohio[Vermilion, OH] there wasn't much call in the workforce for 12-13-year-old kids. The one thing that did open up was the ability to get a paper route. The area where we lived in link:http://en.wikipedia.org/wiki/Elyria,_Ohio[Elyria] was a bit too rough for an 11-12 year old to deliver papers, but Vermilion was a quiet small town where such things almost seem nostalgic.
+
+image::/testsite/images/2629268375_c9aa71cf5e.jpg[,role="text-center"]
+
+Picture from link:http://flickr.com/photos/cazatoma/2629268375/[here] (not me)
+
+Another boy who was giving up his paper route that was a year younger than me (should have been a sign) did a week-long transition with me so that I could learn the route. By the end of the week, I learned the route, I had my little punch card slip ring for billing, I had a carrier bag, and I also had baskets on the back of my bicycle to carry newspapers in. I would try to say it was pimp, but I can't even type that with a straight face. I rode my bike to school and I got mocked for how stupid it looked. Of course, being a geek on the nth degree anyways there is always other things to get picked on than a bike, so I struggled through it. I was a newspaper boy for the link:http://www.morningjournal.com[Lorain Morning Journal].
+
+You may say that I learned character and fiscal responsibility because of that job. You would also be wrong. I hated that job with a passion. I struggled for the first couple of months to get through it. The NES was the apple of my eye and I was going to save the 99.99 (plus tax) for the Action System which included link:http://en.wikipedia.org/wiki/Super_Mario_Bros.[Super Mario Bros.] and link:http://en.wikipedia.org/wiki/Duck_Hunt[Duck Hunt] (and the pimp link:http://en.wikipedia.org/wiki/NES_Zapper[NES Zapper]). I was impatient to get it, so impatient that I gave my mother the money to get it while I was at school. You would think this being the first large purchase of my life I would have wanted to go and hand over the money and buy the system myself, nope I just wanted the damn thing home.
+
+I get home, but my mother isn't there. I go do my paper route and get back home, but my mother isn't there. I sit in the grass in the front yard and wait. Eventually, my mother pulls up in that blue dodge caravan (minivan) we had. She had done other shopping and had a ton of bags. Which one was my Nintendo?????
+
+image::/testsite/images/Ms1v1.png[,role="text-center"]
+
+My mother stopped me and said she talked to the salesperson who told her the link:http://en.wikipedia.org/wiki/Sega_Master_System[Sega Master System] was the better system to buy since it was faster and supported more colors. WTF? I had worked my butt off in a job and hated to have my mother go out and buy me a Sega Master System. No one owned a Sega Master System, only people with no friends owned a Sega Master System. I was not going to own a Sega Master System. I told her with certainty that she had no right to spend the money I earned to buy a Sega Master System. We were going to get back in the car right then, go to the store and exchange it for a Nintendo Entertainment System.
+
+My mother then started laughing. Out of the back of the van, she pulled out a Nintendo Action Set. You do not mess with a pre-teen in that way -- ever. She said she was going to go upstairs and use the restroom, after which she would come down and help me hook it up to the TV. I think by the time she flushed the toilet I was already on World 1-2 of Super Mario Bros. I had hooked up the Vic-20 so many times that I knew how to do it in my sleep. The NES was more of the same.
+
+At this point, I did not want to do the paper route anymore, but my grandfather thought it was good for me so I kept plodding along. I delivered papers a 3 AM Christmas morning wasn't that quite the thrill, not. I would definitely prefer to have been sleeping. More and more of my customers were moving to prepaid accounts, which cut into my money. You would think it wouldn't have affected my bottom line, but I lost out on tip money from these customers -- and to this day I believe the Journal used some creative account billing to the paper boys. My grandfather thought I was just doing it wrong, but I was let off the hook after about a year.
+
+My brother took over the paper route with the help of my grandfather and my mother in delivering the newspapers. Now I don't know about you but if someone would have driven me on the route every day, I may have been more likely to actually like the job. He is five and a half years younger than me, so they were not going to let him go off alone to do it. The funniest thing was after about a year they started losing money also and it became not financially viable for them either. I guess it wasn't just me.
+
+You would think that this would end my family's relationship with the Journal after so many bad experiences, but it didn't. For the last few years, my sister (now 22) has had a motor route in Vermilion delivering papers. I guess she makes really good money at it. It would seem the third time is a charm. I don't think my brother or my sister ever hated it as much as I did. I did get my NES though. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,27 @@
+= My First Web Browser
+:page-layout: post
+:page-navtitle: My First Web Browser
+:page-categories: geekery
+:page-excerpt: So reading my RSS feed I came across an article from Mashable -- the article was a poll that asked what was your first web browser. While many people are mourning the loss of Netscape, which AOL announced today would be discontinued, it was not my first web browser.
+:page-image: /images/200px-lynx-wikipedia-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/200px-lynx-wikipedia-1.png[,role="text-center"]
+
+So reading my RSS feed I came across an article from link:http://www.mashable.com[Mashable] -- link:http://mashable.com/2007/12/28/web-browser-poll/[the article was a poll] that asked what was your first web browser. While many people are mourning the loss of Netscape, which AOL announced today would be link:http://mashable.com/2007/12/28/netscape-navigator-discontinued/[discontinued], it was not my first web browser.
+
+The first internet connection I could use regularly was at college and the connection was a shell connection, not a PPP connection. For those that haven't guessed yet, my first browser waslink:http://en.wikipedia.org/wiki/Lynx_(web_browser)[Lynx]. The browser that originally powered the web was back in 1994 when I first actually made it onto the Internet. I did previously have access to a local BBS that offered to be an e-mail relay so my Internet e-mail addressing days actually predate my Internet exposure by almost a full year.
+
+The odd thing was that the 1994/1995 school year was the first time there ever was Internet publicly available to the students (great time to be a freshman), it was also the year that there was the largest amount of students that flunked out in the school history as legend tells it. Who knew Internet addiction started so quickly? I can say that I don't see college girls today hanging out in Talkers, MOOs, MUSHs, or MUDs, -- but they did back then. Almost everyone student understood telnet.
+
+I was still at college (didn't understand PPP or what it was) and installed OS/2 warp since it came with a Mosaic web browser that gave you a graphical Internet. Mind you I had a 368 DX40 and OS/2 literally took 28 minutes to boot -- but graphical Internet would have been worth it. Alas since I only had shell access I couldn't use the funky picture browser so I went back to windows/dos fired up Telix and dialed into my shell account back to Lynx.
+
+The following year I had an account with Delphi I believe -- it was a shell account so more Lynx for me at 9.95 an hour for dialup (after the first 10 hours for 14.99). I wasn't going to go the AOL route even if it meant foregoing graphics. I then managed to get a PPP connection but I never actually managed to get Mosaic working on windows with it. More specifically I couldn't get the PPP drivers to work.
+
+Finally a few months later after I got my first computer tech job I managed to get a computer working on a 14.4 baud modem with Netscape Navigator 2. (something) and the world was graphical. I remember Internet Explorer coming out and being inferior to Netscape and laughing at the idea Netscape could be dethroned. A few years later when Netscape Navigator 5.x came out I jumped ship with Microsoft.
+
+I stayed with Internet Explorer for a few years complaining about the problems and security issues with the product. I came to find something my Linux friends had latched onto. It was a new browser called Firebird, which had some of the feels of the old Navigator browser without the problems of Internet Explorer. Sure I used Internet Explorer occasionally then (like I do now but less often) because some websites didn't support it. Firebird got sued over the name and became Firefox.
+
+The two web browsers I use most today are link:http://www.mozilla.com[Firefox] and link:http://www.flock.com[Flock], both link:http://www.mozilla.org[Mozilla] derivatives. For those whipper snappers that are ignorant and don't know though. Netscape eventually was purchased by AOL for 4.2 billion dollars in 1998. AOL knew the community was bothered by this so as good PR it gave the right to give part of the Navigator source code to the open-source movement. The open-source organization that went forward and was the main force behind the Netscape open-source software was the Mozilla foundation. If you are interested in the exact licensing and history of this movement please visit link:http://www.mozilla.org[Mozilla's Website] to find out more.
+
+So if you are using Firefox or any other Mozilla derivative on your computer please take a minute and mourn for your browser's biological grandfather has passed away. It is a sad day and a long strange journey. Netscape you have inspired many of us and made the web as mainstream as it is today. You were a visionary of a company and a browser. You will be missed. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

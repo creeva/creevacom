@@ -1,0 +1,15 @@
+= National Novel Writing Month Is Almost Here Once Again
+:page-layout: post
+:page-navtitle: National Novel Writing Month Is Almost Here Once Again
+:page-categories: stories
+:page-excerpt: Two years doing National Novel Writing Month and two years of failure myself. This year however it should be cake. Chocolate cake, not white cake -- I dislike white cake it's like the step-father that no one likes in the cake world. Now I'm sure one of the first things going through your mind is "How is this slack ass that hasn't written an original article in two weeks going to write a novel". Well, I've been busy what can I say? I think I can do the novel this year. It's only 50k words and I can pop out 5k words in an hour when I put my mind to it.
+:page-image: /images/typewriter-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+
+Two years doing link:http://www.nanowrimo.org/[National Novel Writing Month] and two years of failure myself. This year however it should be cake. Chocolate cake, not white cake -- I dislike white cake it's like the step-father that no one likes in the cake world. Now I'm sure one of the first things going through your mind is "How is this slack ass that hasn't written an original article in two weeks going to write a novel". Well, I've been busy what can I say? I think I can do the novel this year. It's only 50k words and I can pop out 5k words in an hour when I put my mind to it.
+
+However, when I actually bother to write, I never want my blog(s) to suffer. What I'm going to attempt to do this weekend is future writing for the whole month of October. I'm hoping if I sit down and crunch through writing before November hits that most of my writing can be focused on that. So between my different blogs that means doing about 100 articles in the next 7 days. Can I do it? I think I can. I'll throw in some slack-ass reviews to get through a cheater post here or there. None of us are super-human, and if I was actually getting paid to do this it would be something completely different.
+
+I also have to start looking at adding a blog section to the link:http://vcma.net[VCMA] website. It seems that we are to be featured in the Sunday edition of the Lorain Morning Journal. I'm going to have to get someone to snag me an extra paper of that. So I thought it would be nice to have a regularly updated news section of the blog. I've many times shown my distaste for doing static pages, a blog format would do wonders for releasing updates on a regular basis. This reminds me though that I also need to get a new design theme for the VCMA website. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

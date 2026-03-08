@@ -1,0 +1,42 @@
+= My New Method for GTD Should Appeal to Inbox Zero Geeks
+:page-layout: post
+:page-navtitle: My New Method for GTD Should Appeal to Inbox Zero Geeks
+:page-categories: geekery
+:page-excerpt: I get distracted when I get home from work. I'm easily amused and have the "Ooooooooooooooooohhh Shiny" mentality type of distraction. I don't deny it. I don't exactly revel in it either. By the time I actually get around to doing some of the things I need to get done, it's late, I'm tired and cranky. If I put things off until the weekend we end up doing stuff and getting involved ("Is that a shiny over there?") and so things once again get overlooked. I'm not sure I would actually sleep if I didn't know for a certainty that it helps save my job and my marriage. So what can I do about it?
+:page-image: /images/1140504927_742767c88d_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/1140504927_742767c88d_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/rscottjones/1140504927/[here]
+
+I get distracted when I get home from work. I'm easily amused and have the "Ooooooooooooooooohhh Shiny" mentality type of distraction. I don't deny it. I don't exactly revel in it either. By the time I actually get around to doing some of the things I need to get done, it's late, I'm tired and cranky. If I put things off until the weekend we end up doing stuff and getting involved ("Is that a shiny over there?") and so things once again get overlooked. I'm not sure I would actually sleep if I didn't know for a certainty that it helps save my job and my marriage. So what can I do about it?
+
+image::/testsite/images/430890004_98639b3bb7_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/rickharris/430890004/[here]
+
+Things I have tried with little or no success:
+
+* Wall Calendars
+* Sticky Notes
+* Todo Tasks in Outlook
+* Todo Tasks on Google
+* GTD sites
+* Web Calendars
+
+Nothing so far seems to work for me -- I'm mundane blind. When there is a shiny I don't even notice the mundane.
+
+Like many geeks, corporate types, etc. I live and die by e-mail. This is something I greatly increased in focus when I was a consultant. Now I can handle literally hundreds of e-mails a day, and I can't stand a cluttered mailbox. I normally use link:http://www.gmail.com[Gmail]'s interface just through a browser, but I've been known to dabble in POP3 and IMAP access (the insanity!!). Mostly though I just use the web browser. It's the same at work, at home, and on the go. The one thing I hate most about my mailbox is when it gets full. I hate a cluttered inbox, I hate coming back and seeing more than one page of e-mail waiting for me (which does happen if there is some strange reason I don't check my email for two days).
+
+image::/testsite/images/49180453_b28863d1fa_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/marshed/49180453/[here]
+
+So I stumbled upon the idea of combining these two things, hatred of e-mail clutter and a need to get motivated and GTD, so now I'm emailing my tasks to myself (and now link:http://xielanthia.com[Xie] has joined into the game). The first thing when I went down this road is to send myself a daily list of tasks to do, well I tried that once in the past and that doesn't seem to help. Neither do reminder services, since I easily dismiss them.
+
+The format I use when I mail myself is TODO (task) -- this forces me to stare at it every time I look at my e-mail. I'm hoping it will successfully burn the task into my brain. When I actually complete the task it gets archived, thereby saving me space in my inbox. Too many tasks and it will roll over to a second page, I would be highly annoyed if that happened. So essentially I'm going to be GTD by annoying myself.
+
+Meh.
+
+But it may work. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

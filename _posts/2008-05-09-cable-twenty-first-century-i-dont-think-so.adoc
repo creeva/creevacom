@@ -1,0 +1,15 @@
+= Cable? Twenty-First Century?  I Don't Think So.
+:page-layout: post
+:page-navtitle: Cable? Twenty-First Century?  I Don't Think So.
+:page-categories: geekery
+:page-excerpt: At work, I just overheard one lady telling another guy to get in the twenty-first century and get cable. Now it is just maybe me, but in my mind cable is very twentieth-century technology. Sure they can gussy it up and take it out to the party by saying "BUT IT'S NOW IN HD!!!!" but the cable is still showing its age.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+At work, I just overheard one lady telling another guy to get in the twenty-first century and get cable. Now it is just maybe me, but in my mind cable is very twentieth-century technology. Sure they can gussy it up and take it out to the party by saying "BUT IT'S NOW IN HD!!!!" but the cable is still showing its age.
+
+If I had to choose what is solid 21st-century technology I would say Internet streaming, barring that for mainstream America that doesn't have access to broadband, or satellite technology. When the last mile issue with broadband is finally addressed and taken care of streaming media will definitely come to be the norm. Satellite and cable companies are already overly compressing HD signals to try to squeeze more information into the pipes (airwaves) that they distribute across. People don't like this as is, so on-demand streaming is the solution for this. You are not going to be using the same bandwidth, because you'll stream 1-2 stations into your house, unlike cable where they are blasting every channel at once and you choose which to watch. Though streaming is more efficient and technically uses less bandwidth, it also takes more technology and effort to implement -- the old catch-22.
+
+Regardless of what you believe on how media distribution will occur going forward, you have to agree that subscribing to cable can not be considered "getting in the twenty-first century" Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

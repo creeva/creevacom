@@ -1,0 +1,15 @@
+= Cedar Point Memories -- Bayern Kurve
+:page-layout: post
+:page-navtitle: Cedar Point Memories -- Bayern Kurve
+:page-categories: stories
+:page-excerpt: It's been a while since I've done a Cedar Point memories post. I can't say I truly remember Bayern Kurve. It gets mixed up in my mind (from an experience perspective) with the Trabant and the Himalayas. It is ironic all the family rides that Cedar Point got rid of over the years in the name of coasters. The reason it is ironic is all the focus these days they have on doing family rides.
+:page-image: /images/cedarpoint.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+
+It's been a while since I've done a Cedar Point memories post. I can't say I truly remember Bayern Kurve. It gets mixed up in my mind (from an experience perspective) with the Trabant and the Himalayas. It is ironic all the family rides that Cedar Point got rid of over the years in the name of coasters. The reason it is ironic is all the focus these days they have on doing family rides.
+
+The Bayern Kurve was installed in the Park as part of the Million Dollar Midway. It was erected in 1970. Other attractions that opened that year were WildCat, Dodgem No. 2, Monster, Schwabinchen, Calypso, Super Himalaya, Centennial Theatre, Kiddy Kingdom, and Tiki Twirl.
+
+1984 was the last year for the Bayern Kurve. It was removed from the midway of the same year as Earthquake, The Rotor, and The Tiki Twirl. Since I vividly remember Earthquake and The Rotor, I must have ridden this ride. I'm kind of annoyed that I don't remember it better. If you have any more information please leave it in the comments.

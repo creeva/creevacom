@@ -1,0 +1,17 @@
+= Cedar Point Memories -- Is The Ground Shaking? EARTHQUAKE!
+:page-layout: post
+:page-navtitle: Cedar Point Memories -- Is The Ground Shaking? EARTHQUAKE!
+:page-categories: stories
+:page-excerpt: Yesterday I talked about The Pirate Ride which was a dark ride that Cedar Point. In 1965 when they purchased The Pirate Ride from Freedomland they also purchased another dark ride, Earthquake. Looking at dates of operation Earthquake was open a full year at Cedar Point before The Pirate Ride opened.
+:page-image: /images/cedarpoint.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+
+Yesterday I talked about The Pirate Ride which was a dark ride that Cedar Point. In 1965 when they purchased The Pirate Ride from link:http://en.wikipedia.org/wiki/Freedomland_U.S.A.[Freedomland] they also purchased another dark ride, Earthquake. Looking at dates of operation Earthquake was open a full year at Cedar Point before The Pirate Ride opened.
+
+While the theme of the ride is clear from its name it does get a little more specific. It was based on the link:http://en.wikipedia.org/wiki/1906_earthquake[1906 San Francisco earthquake]. So if I remember correctly there were a few San Francisco landmarks in the ride. For this ride to be at Cedar Point was strange. The ride, in a way, was a celebration of one of the greatest disasters in the United States. Thinking about it, this makes this ride more morbid than the hangings in The Pirate Ride.
+
+The ride's last season was 1984. It was replaced with Berenstain Bears' land. It was located at the current location of the Snoopy Boutique on the main midway. I'm sure that they will say they removed the ride due to poor ridership. I prefer to think that they came to their senses. Cute bears giving manner lessons are more profitable than celebrating tragedy.
+
+I wish I could go in-depth with this ride. I was seven or eight the last time I rode it. My memories back to this age are not as sharp as when I started to enter my teenage years. I can tell you that I remember the buildings collapsing on the cars. The effect was that the buildings would tilt over the ride car and almost hit you. It was a mad dash to get through before the world fell apart around you.

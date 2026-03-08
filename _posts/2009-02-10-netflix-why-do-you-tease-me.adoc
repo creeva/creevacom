@@ -1,0 +1,11 @@
+= Netflix Why Do You Tease Me
+:page-layout: post
+:page-navtitle: Netflix Why Do You Tease Me
+:page-categories: geekery
+:page-excerpt: There has been something I've been looking to have for months, a feed of my instant-watched media on Netflix. Sometimes I forget to log into my Hulu profile and I miss getting in what I watch there into my lifestream, but I'm never able to capture my Netflix stuff. Now I can get a stream of my Netflix Instant Watch Queue -- but not what I've watched instantly. I can get an RSS feed of my Recent DVD rentals AND my DVD Queue, just I only get half of that with the instant watch stuff on Netflix. Please Netflix, make this a reality. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
+:page-image: /images/cloud-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/cloud-1.jpg[,role="text-center"]
+
+There has been something I've been looking to have for months, a feed of my instant-watched media on link:http://netflix.com[Netflix]. Sometimes I forget to log into my link:http://hulu.com[Hulu] profile and I miss getting in what I watch there into my lifestream, but I'm never able to capture my Netflix stuff. Now I can get a stream of my Netflix Instant Watch Queue -- but not what I've watched instantly. I can get an RSS feed of my Recent DVD rentals AND my DVD Queue, just I only get half of that with the instant watch stuff on Netflix. Please Netflix, make this a reality. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

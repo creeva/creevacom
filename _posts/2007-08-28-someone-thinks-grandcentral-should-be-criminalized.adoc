@@ -1,0 +1,67 @@
+= Someone Thinks GrandCentral Should Be Criminalized
+:page-layout: post
+:page-navtitle: Someone Thinks GrandCentral Should Be Criminalized
+:page-categories: geekery
+:page-excerpt: …Companies like Grand Centralshould be put out of business -- they pose a threat to every online merchant who accepts credit cards.
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+The original post is link:http://www.thealders.net/blogs/2007/08/24/grand-central/[here.]
+
+Excerpt:
+
+…Companies like link:http://www.grandcentral.com/[Grand Central]should be put out of business -- they pose a threat to every online merchant who accepts credit cards.
+
+By offering a service where you can get a phone number in any US city and that furthermore you can receive and send calls from your real phone that are routed through that number they have made the best fraud checking tool, call verification, essentially useless…
+
+My reply to his post:
+
+You are wrong in some aspects.
+
+The Merchant when verifying the card number with the credit card company in online transactions can verify the phone number matches what's tied to the account. If the merchant decides not to utilize this functionality and verification it's their own fault.
+
+You can (and have for a couple of decades) been able to purchase a voicemail box anywhere in the world for a couple of dollars a month and usually, the voicemail has its own unique number. Most of these services also offer call forwarding.
+
+Finally, the largest gap in your theory is that you are in the cell phone market -- I can literally go to Walmart and pick up a disposable cell phone today for 15.00 which comes with 60 minutes of talk time.
+
+If you want to criminalize GrandCentral for its behavior you have to take into account the other avenues for performing the same fraud in the same method.
+
+The cost of entry is very low and I can say that I have never gotten a call from any online merchant I have dealt with in my 13 years on the Internet. I have however gotten a couple of bounce backs where a charge went through where my phone number didn't match what the credit card company had on file for me.
+
+UPDATED
+
+His response
+
+Creeva -- you have some good points. However, I work in the data center business as a sales manager for a large data center. Roughly 40% of all server orders are attempted frauds. I have a lot of tricks up my sleeve for determining order authenticity, most of which I won't discuss for obvious reasons, but this is going to hurt us. Not all frauds are CC -- many are stolen PayPal accounts and there's no way to check phone numbers on those. Not all banks use full authentication on the cards -- they don't require the address/phone number to match their records when the card is processed just name, number, and PIN. Hell, even some of the foreign banks (our customer base is worldwide) don't even use a PIN (CVV) on the cards. In general, it is only North American banks (and not all of them) that require the details to match.
+
+My follow-up:
+
+So you feel the barrier to entry from offering a service such as this by making it free (though you still need a phone to verify to GrandCentral) would be drastically different from hardcore fraudsters (I hate that term but applicable) over a 15-dollar cell phone?
+
+I guess it would depend on the type of fraud and or the amount that you are working with whether that few dollars could make a difference.
+
+The problem really is more on the credit card company side for not enforcing these security audits.
+
+One thing retailers could do to help offset this (and google may actually give you this data versus data that ties a customer to their private data) is to have them give you the phone exchanges they utilize their pools of addresses from.
+
+This work by picking new/underutilized/never utilized exchanges in a zip code. So you know if they use the exchange 541-256-XXXX or 789-986-XXXX that these are utilized by google or farmed out to SIP providers for similar things -- this would allow you to blacklist address blocks on your side.
+
+This allows people to maintain their privacy since the information is only aggregate. They can make the choice if they wish to shop with you if you won't accept it. You can blacklist the exchanges you don't wish to accept. If disposable cell phones use the same technique (I'm next to positive a lot of them are in these same blocks that GrandCentral is using) it would correct that issue also.
+
+While this would not be foolproof and 100% it actually would give your company significantly better trust than it has right now.
+
+So where do I send the consulting bill?
+
+Theoretically in an afternoon, you could get about 70-90% of the exchanges that GrandCentral uses and have them added to your blacklisted do not call database.
+
+UPDATED
+
+His final reply:
+
+Alas, the consulting bill will have to wait. This is a strategy we are already contemplating if Google will release that information as I alluded to in the post. Somehow I doubt they will but perhaps they will see it as yet another way to monetize their investment in those blocks.
+
+You wouldn't necessarily lose those potential customers -- you could make it clear that GC and free cell phones will not be accepted but most of those individuals, the honest ones at least, have the real number they can provide, the one that GC forwards to and from that they can provide if they want the service.
+
+I think we've now beaten this horse to death. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,15 @@
+= SWG Emu -- Downtime
+:page-layout: post
+:page-navtitle: SWG Emu -- Downtime
+:page-categories: video-games
+:page-excerpt: Tonight things didn't go as planned. The server was having stability issues. So, we didn't get to really do too much. We did manage to give some meatlumps a bad day. I also installed the emu on another computer. Now we have the emu installed on both desktops and laptops. If I could only get it installed on the iPad I would be in heaven.
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+
+Tonight things didn't go as planned. The server was having stability issues. So, we didn't get to really do too much. We did manage to give some meatlumps a bad day. I also installed the emu on another computer. Now we have the emu installed on both desktops and laptops. If I could only get it installed on the iPad I would be in heaven.
+
+I really wish I had more to write, but bedtime is approaching fast. One important note for the emu today is server load. They managed to get over 1900 players on at the same time. This could also be part of the stability issues.
+
+There are debates on how many were on a live SWG server. The consensus seems to be 2000 -- 3000 per server. This means the Emu has managed to handle the same load as a standard server. Of course, they don't have the database load yet -- so only time will tell. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

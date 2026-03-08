@@ -1,0 +1,31 @@
+= Refuting arguments against digital distribution of media
+:page-layout: post
+:page-navtitle: Refuting arguments against digital distribution of media
+:page-categories: geekery
+:page-excerpt: This was a post on a discussion for a forum I frequent. Thought it was applicable to bring it here. This is a response to a blog article entitled 5 Reasons Why Microsoft is Betting On the Wrong Horse Again.
+:page-image: /images/calligraphy-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+
+This was a post on a discussion for a forum I frequent. Thought it was applicable to bring it here. This is a response to a blog article entitled link:http://hornymelon.com/?p=77[5 Reasons Why Microsoft is Betting On the Wrong Horse Again.]
+
+The article does make good points though he wrote it poorly and pulled data out of thin air. I don't argue with some of what he is saying but let's break it down by his bullet points.
+
+1. *Broadband Speed* -- his assumption that you would buy it anywhere online -- in the immediate future as this scales there are two options other than the most obvious update to the broadband infrastructure in this country. The first being it is more likely that major media distributors will have distribution within your ISP (as long as you use a major one) -- since it would be within its own network and there would be no connection fees associated with routing traffic over another ISP -- all of that ISP's user would be able to get full speed other than crossing and routing across a partners internet link (which is the real reason ISP throttle you down).
+
+The second is IP multicast which if implemented would take most of the strain on the ISP -- it would take the same amount of bandwidth for the ISP to send the data to all users on a given subnet/ IP range as it would to a single user -- a combination of the two is where this is going. He also seems to avoid the fact that whenever you watch an "on-demand" movie on your cable that it is digital distribution -- just on pipes you can't normally route traffic through. That works fine for most Americans.
+
+He also adds that it can take an hour to download a movie. Most movies are 2 hours in length -- which means under his assumption that I can watch it streamed with no problem -- the movie doesn't have to finish downloading to start watching it (the author of the article MUST be using bit torrent instead of a good streaming mechanism so we'll forgive him).
+
+2. *Tiered Download Capacity* -- addressed this by having distribution points within your home ISP -- having this would cost the ISP nothing to give you traffic that stays within their network -- it's when you cross the router that exits their network which costs them fees. Most logical is that you will see "features" offered from your ISP which state you can do all this within the walled garden (AOL style) and the tiered pricing kicks in when you leave the garden.
+
+3. *Media Cost* -- it's all dependent on if you want to own something. Here is the crux -- if you "rent movies" but can get them anytime or anywhere for 3.00 -5.00 dollars a viewing this means you need to watch and pay for it 4-7 times before it actually costs you more than owning it. He pointed out that it would take 12k to replace his movie collection in blu-ray and stated he could do a trade-in -- well the trade-in would give him 2-3.00 per DVD he traded in -- so this would give me at the most 1800.00 -- I'm sorry that's not a large enough dent. If you do "buy" a digital movie which you can, it does cost about the same as a physical copy -- but yet less than current Blu-Ray titles -- so this really is where you need to decide if you would spend 12k on replacing all your DVDs to Blu Ray. He also added the full albums cost more if you buy them online versus the store -- well Radiohead and NIN are both turning that theory on its head. But also how often is it that you want every single song on an album?
+
+4. *Storage Costs --* he quoted a number of 8.4 TB that would take to store all of his data -- having ripped enough DVD's myself I'll say that 99% of the 200+ DVDs I own are single layer -- so they max out at 4.3 GB and most don't even take up all the space on the disk -- so 2.5 TB would store all of his DVDs nicely -- Ironically I have about 2 TBs at home and it didn't cost me the 1800.00 he quoted. I have drives that have lasted for years and yes the storage space is spread out all over the home network -- but my server does have over 1 TB.
+
+5.*Adoption* -- a couple of things he missed here is that the XBOX 360 and PS3 as well as computers all support streaming media -- most blu-ray players are rumored to be able to support it in the next specification lock -- so that is something to take note of before he quotes the 1k media computer. Actually, since home servers are coming to be more common the computer hooked up to your TV can be added for under 300.00.
+
+He is right about how the distribution is going to happen and the problems it faces. The recession if anything is going to help spur this. One friend because of my argument is getting Netflix and dropping his cable -- his cable costs 800.00 a year on top of his internet. Streaming will replace cable before it will replace straight purchased movies -- but once the public becomes comfortable with one the other will follow.
+
+Also, don't forget one thing -- Sony is betting on both Blu-Ray and streaming. They realize that it's a good thing to hedge their bets. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

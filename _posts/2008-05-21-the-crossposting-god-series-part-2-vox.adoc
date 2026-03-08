@@ -1,0 +1,47 @@
+= The Crossposting God Series Part 2 -- Vox
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 2 -- Vox
+:page-categories: geekery
+:page-excerpt: Vox is a blog community that really focuses on the community aspect. When Xie first started blogging on vox I kind of poo-pooed it. However, I didn't find some people that I knew from SWG that posted there, and ever since I can tell you it is definitely a close-knit community. Since I'm a crossposter I'm kind of on the outside, but I reply to comments, and Oh My Yod! is a blog I visit every other day.
+:page-image: /images/280433761_65835e5959_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/280433761_65835e5959_m.jpg[,role="text-center"]
+
+link:http://www.vox.com[Vox] is a blog community that really focuses on the community aspect. When link:http://www.xielanthia.com[Xie] first started blogging on vox I kind of poo-pooed it. However, I didn't find some people that I knew from link:http://www.starwarsgalaxies.com[SWG] that posted there, and ever since I can tell you it is definitely a close-knit community. Since I'm a crossposter I'm kind of on the outside, but I reply to comments, and Oh My Yod! is a blog I visit every other day.
+
+Vox is one of the easier services to crosspost since it allows posting by e-mail. To enable posting by e-mail go through the following steps:
+
+1. Go to your account settings
+
+2. Go to mobile settings -- here you can get your moblog address (which you can post to from any e-mail address) and the settings you wish to apply to it.
+
+3. Setup your account that you are crossposting from (which can be any service that sends out emails)
+
+There are two services I can recommend that you can use to post to Vox with (or bridge across with more on that around part 18), these are link:http://www.blogspot.com[Blogger] or a custom link:http://www.wordpress.org[wordpress] installation.
+
+For Blogger:
+
+1. Go into your blog's settings
+
+2. Go to your emai tab
+
+3. Paste your Vox moblog email address
+
+4. Now any post that goes to your Blogger account (I'll talk about crossposting to blogger in a later thread)
+
+For WordPress
+
+1. Download a plugin that allows for publishing via e-mail ( I use DJ EmailPublish)
+
+2. Go to your settings page and configure the plugin by pasting in the Vox moblog address
+
+3. Save and apply settings
+
+4. Now any post that goes up on your wordpress account crossposts over to your vox account.
+
+In part 3 I will be covering crossposting to live journal, so I hope to see you then.
+
+Previous Entries in The Crossposting God Series:
+
+link:https://creeva.com/index.php/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/[The Crossposting God Series Part 1 -- The Introduction] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,21 @@
+= Is A Cash Based Society More Anonymous Then A Cashless One?
+:page-layout: post
+:page-navtitle: Is A Cash Based Society More Anonymous Then A Cashless One?
+:page-categories: stories
+:page-excerpt: A little over ten years ago, before debit cards became ubiquitous and people cared more about having actual bits of paper for their monetary worth, I had a discussion with a friend about how the world would eventually move to a cashless society. I argued over the cost and extent of such a venture going forward. He did have one good point in his argument -- anonymity.
+:page-image: /images/61056391_31343afdc6.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/61056391_31343afdc6.jpg[,role="text-center"]
+
+Image from link:http://flickr.com/photos/tracy_olson/61056391/[here]
+
+A little over ten years ago, before debit cards became ubiquitous and people cared more about having actual bits of paper for their monetary worth, I had a discussion with a friend about how the world would eventually move to a cashless society. I argued over the cost and extent of such a venture going forward. He did have one good point in his argument -- anonymity.
+
+He believed due to corruption (or anything else you wish to argue for) that there would always be cash money to allow for citizens to have an anonymous usage of money in society. I had several more arguments going against this back then, but I couldn't truly get around the anonymity factor, especially with small unmarked bills. I don't believe the anonymity factor is going to last too much longer though.
+
+Enter link:http://www.google.com/search?q=RFID+Dust[RFID dust], this effectively will destroy anonymity in a cash-based society. The technology was developed as an anti-counterfeiting method. With this knowledge in hand, we can make some assumptions. The first is that the dust can be used to verify the authenticity of the bills. Second, when it is truly embedded in the bills and not sprinkled into batches of money -- that the RFID will contain a serial that will match the serial number on the bill itself.
+
+If the dollar can "beacon" the serial number, then how does it become anonymous? In theory, before you use any paper money you could microwave it, but eventually, that will no longer work either. The next argument would be that only the government has the readers -- this would be a "for how long argument". Think of the theft and tracking of the flow of money analysis that could be gained solely from a research perspective. I can see in 20-30 years as the technology becomes cheaper and centralized databases are more available -- that this type of tracking could be the norm.
+
+I've written about software currently that can track the flow of money, there is no reason we wouldn't be able to see real-time tracking of every single penny in circulation by utilizing this technology. The only thing stopping it right now is cost, which will drop. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

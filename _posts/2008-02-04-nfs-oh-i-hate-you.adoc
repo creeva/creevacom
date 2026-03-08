@@ -1,0 +1,30 @@
+= NFS -- Oh I Hate You
+:page-layout: post
+:page-navtitle: NFS -- Oh I Hate You
+:page-categories: geekery
+:page-excerpt: Lately, we've had a security product at work that allows for secure end-to-end file sharing via NFS. That is about the best thing I can say about NFS at this point. For those not familiar with NFS Wikipedia has this description&#58;
+:page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+
+Lately, we've had a security product at work that allows for secure end-to-end file sharing via NFS. That is about the best thing I can say about NFS at this point. For those not familiar with NFS Wikipedia has link:http://en.wikipedia.org/wiki/Network_File_System_%28protocol%29[this description]:
+
+image::/testsite/images/Nohat-logo-nowords-bgwhite-200px.jpg[,role="text-center"]
+
+[quote]
+____
+Network File System (NFS) is a network file system protocol originally jointly developed by Sun Microsystems and IBM in 1984, allowing a user on a client computer to access files over a network as easily as if the network devices were attached to its local disks. NFS, like many other protocols, builds on the Open Network Computing Remote Procedure Call (ONC RPC) system. The Network File System protocol is specified in RFC 1094, RFC 1813, and RFC 3530 (which obsoletes RFC 3010).
+____
+
+Now you may go a networking file system how can I guy hate that? The easiest answer is that the bane part of my existence over this stems from group file sharing. There is a group in the office that needs shared access to the files that are located on the NFS share. The reason this is an issue is that they all access the files at the same time.
+
+The issue where we are having problems is that the NFS product does not support file locking. This means that multiple users can all have the same file open at the same time and save the file at the same time. This causes overwriting of the file and leads to the corruption of said files.
+
+NFS as a protocol does not include mandatory file locking. If file locking would have been included back in 1984 in the RFC specification this wouldn't an issue. I am assuming the original RFC writers didn't fathom that multiple people would have the file open at the same time over a network when networking was rare and not ubiquitous.
+
+Now before I hear comments or e-mails about the statd and lockd that adds optional file locking, I would like to point out the "optional" part of that line. While there have been methods to shoehorn file-locking abilities into NFS so it can keep up with protocols such as CIFS, WebDAV, and multitudes of other "modern" file-sharing protocols, it's like putting sneakers on an elephant -- since it's not mandatory no one is going to do it and it never will work right.
+
+I'm just venting my frustrations on protocols that would do better to be obsoleted completely than trying to make a patchwork quilt out of them.
+
+I'm really not alone on this line of thought, someone wrote a paper called "link:http://www.time-travellers.org/shane/papers/NFS_considered_harmful.html[Use of NFS Considered Harmful]". I have since used this paper in my case to management of why this implementation is a terrible idea. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

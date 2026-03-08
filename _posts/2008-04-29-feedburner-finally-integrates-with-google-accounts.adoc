@@ -1,0 +1,15 @@
+= Feedburner Finally Integrates With Google Accounts
+:page-layout: post
+:page-navtitle: Feedburner Finally Integrates With Google Accounts
+:page-categories: geekery
+:page-excerpt: Earlier I had written that Google really needs to integrate it's reporting services across the board. Now I still hope that do unify their reporting experience, but it seems Feedburner is going to be the first to get sucked into the already fractured reporting structure that exists for Google's many services.
+:page-image: /images/flamocon_190h.gif
+:imagesdir: /testsite/images
+
+image::/testsite/images/flamocon_190h.gif[,role="text-center"]
+
+Earlier I had written that link:https://creeva.com/index.php/2008/04/29/feedburner-finally-integrates-with-google-accounts/localhost/wordpress/2008/04/11/googles-next-service-should-be-google-reporting/[Google really needs to integrate it's reporting services] across the board. Now I still hope that do unify their reporting experience, but it seems link:http://www.feedburner.com[Feedburner] is going to be the first to get sucked into the already fractured reporting structure that exists for link:http://www.google.com[Google]'s many services.
+
+Earlier today on April 25 Feedburner posted that they were finally going to integrate their service with the standard google account logins. This means the same account I login into link:http://mail.google.com[Gmail], link:http://www.adsense.com[Adsense], etc, and etc. will work with Feedburner. Using this unification I'm hoping that we'll be able to finally embed Adsense into our RSS feeds. I'm also hoping that the reporting (hint Google) can be blended in with link:http://www.google.com/analytics/%20[Web Analytics].
+
+Whether the reporting structure is going to be absorbed or if this will stay a single login structure for the foreseeable future has yet to be seen. I have hopes though. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

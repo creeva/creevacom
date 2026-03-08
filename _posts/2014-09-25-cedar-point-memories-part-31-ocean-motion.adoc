@@ -1,0 +1,13 @@
+= Cedar Point Memories -- Ocean Motion
+:page-layout: post
+:page-navtitle: Cedar Point Memories -- Ocean Motion
+:page-categories: stories
+:page-excerpt: Since Ocean Motion now occupies the old Demon Drop site, I thought this would be the best follow-up to the last story. When I was young I always enjoyed Ocean Motion. It's a giant swinging ride shaped like a Viking ship. I started riding this whatever year I became tall enough.
+:page-image: /images/100_8116__medium__0-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/100_8116__medium__0-1.jpg[,role="text-center"]
+
+Since Ocean Motion now occupies the old Demon Drop site, I thought this would be the best follow-up to the last story. When I was young I always enjoyed Ocean Motion. It's a giant swinging ride shaped like a Viking ship. I started riding this whatever year I became tall enough.
+
+Then in the later 1980s, a commercial came out from Miller Lite that changed the dynamics of Ocean Motion. That commercial became so popular that it was part of the Ocean Motion ride. The change wasn't Cedar Point sponsored, it was all in the customers. When the first side went up they would yell "Tastes Great!". Then as it swung around the other way, the other side would say "Less Filling!". Even typing that out it sounds lame, but it was a good time. It was something so you could battle and state your side was the best. It was just something to have a friendly rivalry.

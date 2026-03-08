@@ -1,0 +1,15 @@
+= The Creeva Murkado Diaries -- Part 2
+:page-layout: post
+:page-navtitle: The Creeva Murkado Diaries -- Part 2
+:page-categories: video-games
+:page-excerpt: As I'm flying through the galaxy to a strange new life on Corellia it can't help but make me think about how my father felt on all of his long treks through the galaxy. Maybe I will be half the man my father was.
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+
+As I'm flying through the galaxy to a strange new life on Corellia it can't help but make me think about how my father felt on all of his long treks through the galaxy. Maybe I will be half the man my father was.
+
+My father. Sireeve Murkado, was a mechanic to the Zabrak trader Frum Krup. Frum had built up his empire over the years doing a variety of legal and illegal dealings. My father, a loyal twi through and through, was paid well for his silence over what he had seen and heard while traveling on Frum's ship, The Innocent Dream. The irony is, with all I know about Frum, his dreams were never innocent.
+
+TO BE CONTINUED Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,14 @@
+= Statcounter Lamentation
+:page-layout: post
+:page-navtitle: Statcounter Lamentation
+:page-categories: geekery
+:page-excerpt: I think I finally got to the point that statcounter is completely useless for me. Now I'm rolling through the max log size of page views faster than I can actually read them. If I don't read them they are lost forever. I'm too much of a cheapskate to actually pay for their service (maybe if I actually made money at this I would consider it.
+:imagesdir: /testsite/images
+
+I think I finally got to the point that link:http://www.statcounter.com[statcounter] is completely useless for me. Now I'm rolling through the max log size of page views faster than I can actually read them. If I don't read them they are lost forever. I'm too much of a cheapskate to actually pay for their service (maybe if I actually made money at this I would consider it.
+
+Checking stats multiple times a day to actually get the data you want to read isn't very efficient. I will say that compared to link:https://www.google.com/analytics/[google analytics] or link:http://wordpress.com[wordpress.com]'s stat plugin StatCounter's only really shining feature was the recent page load activity. If either of the other services I used actually used that it would be a lot easier to dump. Regardless I think I'm leaving Statcounter by the end of the month.
+
+I'll miss you Statcounter, you just can't grow with me.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

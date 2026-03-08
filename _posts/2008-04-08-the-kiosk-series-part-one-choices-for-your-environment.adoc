@@ -1,0 +1,407 @@
+= The Kiosk Series -- Part One -- Choices For Your Environment
+:page-layout: post
+:page-navtitle: The Kiosk Series -- Part One -- Choices For Your Environment
+:page-categories: geekery
+:page-excerpt: Recently I've been put forth to design a kiosk solution for our internal environment. This is the first part of my kiosk series which is going to examine the testing and deployment of such a system.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Recently I've been put forth to design a kiosk solution for our internal environment. This is the first part of my kiosk series which is going to examine the testing and deployment of such a system.
+
+*Kiosk Options*
+
+When discussing the kiosk system we need to discuss the scope, security issues, and functionality requirements that we must maintain to achieve a successful deployment. There are many types of kiosk systems that we can implement within the Company network. The solutions we are going to describe in this document are based on product literature that we have received after the scope is finalized actual product testing will be done so we can verify that all the features work as described and will function within the deployed environment.
+
+For the sake of categorization, the following options were identified as possible for use within a kiosk environment. This list is not meant to be all-encompassing but rather a list of desired features that we feel can be accomplished from the products we are looking at.
+
+· Internal Websites -- company Designated +
+· External Websites -- Completely open from a kiosk standpoint +
+· SSL VPN -- For access to the internal network +
+· Citrix -- for terminal server capabilities +
+· Printing -- locally attached print +
+· Sound -- for hearing active embedded media +
+· USB Mounting -- for USB memory sticks +
+· Run Apps Locally (Read Only) -- from either the memory stick or kiosk directly +
+· Run Apps Locally (Read / Write) -- from either the memory stick or kiosk directly +
+· Write to USB Memory Stick -- from the kiosk +
+· Access to User Documents +
+· No Login -- completely is designed to start being used without login +
+· Boiler Plate Website -- standard start page +
+· Full application list +
+· Internal -- Authentication +
+· External -- No Authentication +
+· Browser Plug-ins -- for enhanced compatibility +
+· Restricted To Certain Web Sites -- Company Designated
+
+Kiosk mode systems come in a variety of shapes, sizes, and functions. To help narrow the design gap for our needs we have devised eight categories in which we can work around design structures for:
+
+· Full web-only access kiosk on the company guest network +
+· Limited web access on the company guest network with a locked-down browser +
+· Full web-only access kiosk on the internal network +
+· Limited web access on the internal network with a locked-down browser +
+· Limited seats with security controls on the company guest network +
+· Limited seat with security controls on the internal network +
+· Full seat with security controls on the company guest network +
+· Full seat open use office solution -- internal network +
+· Full seat with security Controls open use office on the internal network
+
+Each solution has its own benefits and concerns for deployment. We will be going over these one by one to analyze and work with the company to implement the correct and desired solution. The analysis will include which functions identified above can be implemented, target placement, target users, benefits and disadvantages of each solution, and possible security concerns.
+
+Full web-only access kiosk on the company guest network:
+
+Description: This would be a fully open web kiosk with an address bar located at the top with the web browser being the only application available to the end user. All functions must be done within the browser.
+
+Possible targeted functions:
+
+· Internal Websites -- via SSL VPN +
+· External Websites -- +
+· SSL VPN +
+· Citrix -- via SSL VPN +
+· Printing -- locally attached print +
+· Sound -- for hearing active embedded media +
+· Access to My Docs -- Via SSL VPN +
+· No Login -- completely is designed to start being used without login +
+· Boiler Plate Website -- standard start page +
+· External -- No Authentication +
+· Browser Plug-ins -- for enhanced compatibility
+
+Target placement:
+
+· Public areas where guests are most likely
+
+Target users:
+
+· Visitors +
+· Visiting Contractors +
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Allows users access to information at placement points +
+· User will not have access to the local computer beyond the web browser
+
+Disadvantages:
+
+· All functions must be performed within a browser +
+· Won't be able to perform other application tasks
+
+Security concerns:
+
+· If a user leaves an authenticated session up there will be a time delay before the profile resets, risking possible exposure of private data or company data if the SSL VPN was used. +
+· Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.
+
+Limited web access on the company guest network with a locked-down browser:
+
+Description: This solution can be configured with or without an address bar allowing the option to restrict this to certain websites. Active X would be disabled.
+
+Possible targeted functions:
+
+· External Websites +
+· Printing +
+· Sound +
+· No Login +
+· Boiler Plate Website External -- No Authentication +
+· Restricted To Certain Web Sites
+
+Target placement:
+
+· Public areas where guests are most likely
+
+Target users:
+
+· Visitors +
+· Visiting Contractors +
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Tighter Security Controls +
+· Limited Risk Exposure +
+· Option of controlling where the users can go via the browser
+
+Disadvantages:
+
+· SSL VPN will not work if active-x controls are disabled +
+· All functions must be performed within a browser +
+· Won't be able to perform other application tasks +
+· With no SSL-VPN -- no access to internal company data
+
+Security concerns:
+
+· If a user leaves an authenticated session up there will be a time delay before the profile resets, risking possible exposure of private data.
+
+Full web-only access kiosk on the internal network:
+
+Description: While not recommended this is being offered as an option for choice. It has the same features as the Full web-only access kiosk on the company guest network but would require user authentication due to the network access it has.
+
+Possible targeted functions:
+
+· Internal Websites +
+· External Websites +
+· Citrix +
+· Printing +
+· Sound +
+· Access to My Docs +
+· Boiler Plate Website +
+· Internal +
+· Browser Plug-ins
+
+Target placement:
+
+· Public sites within company buildings that are not commonly visited by large amounts of visitors at once. This would be to limit the amount of time that authenticated data is available if a user walks away from the kiosk. +
+· Would not be recommended at the location that the general public has access to
+
+Target users:
+
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Company employees would be able to access their Webmail from anywhere these are placed +
+· Company employees would be able to access a terminal server session from anywhere these are placed
+
+Disadvantages:
+
+· All functions must be performed within a browser +
+· Won't be able to perform other application tasks
+
+Security concerns:
+
+· Possible information leakage due to open Webmail or terminal server session. +
+· Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls.
+
+Limited web access on the internal network with a locked-down browser:
+
+Description: While not recommended this is being offered as an option for choice. It has the same features as the limited access kiosk on the company guest network but would require user authentication due to the network access it has.
+
+Possible targeted functions:
+
+· External Websites +
+· Printing +
+· Sound +
+· No Login +
+· Boiler Plate Website External -- No Authentication +
+· Restricted To Certain Web Sites
+
+Target placement:
+
+· Public sites within company buildings that are not commonly visited by large amounts of visitors at once. This would be to limit the amount of time that authenticated data is available if a user walks away from the kiosk. +
+· Would not be recommended at a location that the general public has access to
+
+Target users:
+
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Company employees would be able to access their Webmail from anywhere these are placed +
+· Company employees would be able to access a terminal server session from anywhere these are placed +
+· Tighter Security Controls +
+· Limited Risk Exposure +
+· Option of controlling where the users can go via the browser
+
+Disadvantages:
+
+· All functions must be performed within a browser +
+· Won't be able to perform other application tasks +
+· Some sites won't work due to Active-X being disabled
+
+Security concerns:
+
+· Possible information leakage due to open Webmail or terminal server session.
+
+Limited seats with security controls on the company guest network:
+
+Description: This would be a scenario where we would have an open standard windows desktop for the user to access. It would allow only certain applications to run but will give the user access to a portable memory stick for use.
+
+Possible targeted functions:
+
+· Internal Websites -- via SSL VPN +
+· External Websites +
+· SSL VPN +
+· Citrix -- via SSL VPN +
+· Printing +
+· Sound +
+· Access to My Docs -- Via SSL VPN +
+· No Login +
+· Boiler Plate Website +
+· External +
+· Browser Plug-ins +
+· USB Mounting +
+· Write to USB Memory Stick +
+· No Login +
+· Boiler Plate Website +
+· Browser Plug-ins +
+· Restricted To Certain Web Sites -- company Designated
+
+Target placement:
+
+· Public open-use office space
+
+Target users:
+
+· Visiting Contractors +
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Allows users access to information at placement points +
+· Access to certain designated applications +
+· Controlled environment
+
+Disadvantages:
+
+· Won't be able to perform non-designated application tasks
+
+Security concerns:
+
+· Possible information leakage due to open Webmail or SSL VPN session. +
+· Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls. +
+· Possible application vulnerabilities could compromise the unit
+
+Limited seat with security controls on the internal network:
+
+Description: Same as the limited seat on the company guest network but designed for internal GRC employees. Smart card access would be recommended and roaming profiles blocked.
+
+Possible targeted functions:
+
+· Internal Websites +
+· External Websites +
+· Citrix +
+· Printing +
+· Sound +
+· Access to My Docs +
+· Boiler Plate Website +
+· Browser Plug-ins +
+· USB Mounting +
+· Write to USB Memory Stick +
+· Boiler Plate Website +
+· Internal -- Authentication +
+· Browser Plug-ins +
+· Restricted To Certain Web Sites -- company Designated
+
+Target placement:
+
+· Public open-use office space
+
+Target users:
+
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Allows users access to information at placement points +
+· Access to certain designated applications +
+· Controlled environment
+
+Disadvantages:
+
+· Won't be able to perform non-designated application tasks +
+· Large threat to data being exposed
+
+Security concerns:
+
+· Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls. +
+· Possible information leakage due to being on the open internal network +
+· Large data exposure footprint +
+· Possible application vulnerabilities could compromise the unit
+
+Full seat with security controls on the company guest network:
+
+Description: This option would give users the same standard applications as their normal desktops. The hard drive would not be written for data storage. Roaming profiles would be blocked. These seats would also have full security controls applied to them.
+
+Possible targeted functions:
+
+· Internal Websites +
+· External Websites +
+· SSL VPN +
+· Citrix +
+· Printing +
+· Sound +
+· USB Mounting +
+· Run Apps Locally (Read Only) +
+· Run Apps Locally (Read / Write) +
+· Write to USB Memory Stick +
+· Access to My Docs +
+· No Login -- completely is designed to start being used without login +
+· Boiler Plate Website +
+· Full Application Suite +
+· External -- No Authentication +
+· Browser Plug-ins +
+· Restricted To Certain Web Sites -- company Designated
+
+Target placement:
+
+· Public open-use office space
+
+Target users:
+
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Users are able to function as they would at their desks +
+· Allows users access to information at placement points
+
+Disadvantages:
+
+· No login requirements +
+· Possible data exposure
+
+Security concerns:
+
+· Unsigned Active-X controls could cause issues and it would be recommended to deny unsigned Active-X controls. +
+· Possible information leakage due to open Webmail or SSL VPN session.
+
+Full-seat open-use office solution on the internal network:
+
+Description: Standard full seat for the user to use on the internal network located at open access points for any user to access. Security settings would be applied and user profile data removed upon logging out. It is recommended to require smart card access to these units.
+
+Possible targeted functions:
+
+· Internal Websites +
+· External Websites +
+· Citrix +
+· Printing +
+· Sound +
+· USB Mounting +
+· Run Apps Locally (Read Only) +
+· Run Apps Locally (Read / Write) +
+· Write to USB Memory Stick +
+· Access to My Docs +
+· Boiler Plate Website +
+· Full Application Suite +
+· Internal Authentication +
+· Browser Plug-ins
+
+Target placement:
+
+· Public open-use office space
+
+Target users:
+
+· Local Contractors +
+· Company Employees
+
+Benefits:
+
+· Users are able to function as they would at their desks +
+· Allows users access to information at placement points
+
+Disadvantages:
+
+· Requires smart card +
+· No access to local profiles
+
+Security concerns:
+
+· Possible information leakage due to open sessions. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

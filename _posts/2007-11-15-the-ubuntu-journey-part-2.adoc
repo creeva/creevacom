@@ -1,0 +1,23 @@
+= The Ubuntu Journey -- Part 2
+:page-layout: post
+:page-navtitle: The Ubuntu Journey -- Part 2
+:page-categories: geekery
+:page-excerpt: Well, I managed to get the sound working on my Toshiba laptop by following the steps inthis thread.
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+Well, I managed to get the sound working on my Toshiba laptop by following the steps inlink:http://ubuntuforums.org/showthread.php?t=551615&highlight=toshiba+sound&page=2[this thread].
+
+So that's part is done -- I think my wireless card is working -- but I have a key issue I need to work out with the encryption tomorrow.
+
+So, sound and possibly NIC are working (I'm on a wired collection now)
+
+I managed to get World of Warcraft working but I need to figure out how to lower the resolution without WINE crashing on me since I don't need it maximized.
+
+Star Wars Galaxies however moved over to the new launchpad on me today, so that is not working correctly in WINE -- I'll play more with that this weekend -- but I still have a desktop I can handle that on.
+
+ABC.COM wouldn't stream its episodes saying I needed windows or OSX -- I worked around this by starting the windows version of Firefox in WINE -- then it worked fine -- Foo on You ABC.
+
+So all in all I think this migration is going to be a success but it's only been a couple of hours so far -- I'll keep writing about my experiences and list how it goes for another Windows to Linux switcher. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

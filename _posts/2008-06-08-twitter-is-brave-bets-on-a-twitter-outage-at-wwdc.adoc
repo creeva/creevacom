@@ -1,0 +1,24 @@
+= Twitter is Brave -- Bets on a Twitter Outage at WWDC?
+:page-layout: post
+:page-navtitle: Twitter is Brave -- Bets on a Twitter Outage at WWDC?
+:page-categories: geekery
+:page-excerpt: It seems that Twitter is a being a little excited about the next big tech event, WWDC (World Wide Developers Conference -- it's an Apple thing). I first got the news from the Techcrunch article linked above, but it seems that Twitter made an announcement that there will be no downtime tomorrow -- I call shenanigans. They outlined the precautions in this article, among them are the following&#58;
+:page-image: /images/cloud-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/cloud-1.jpg[,role="text-center"]
+
+It seems that link:http://www.twitter.com[Twitter] is a being a little excited about the next big tech event, link:http://developer.apple.com/wwdc/%20[WWDC] (World Wide Developers Conference -- it's an Apple thing). I first got the news from the Techcrunch article linked above, but it seems that Twitter made an announcement that there will be no downtime tomorrow -- I call shenanigans. They outlined the precautions link:http://blog.twitter.com/2008/06/twitterapple.html[in this article], among them are the following:
+
+[quote]
+____
+We've moved much of the load off our database by utilizing more memcache, employing more read-slave servers, and by fixing some bugs for improved efficiency. This work is in intended to help handle the load and keep Twitter up and running while Steve Jobs talks about all the new products and services Apple has planned. Of course these improvements will continue to serve Twitter beyond the WWDC as well.
+____
+
+Now it may just be me, but I've seen Twitter fail on slow days. I know they have had experience with similar traffic loads from other major events, but they crashed then. While they may have some idea of the data they will need to handle, I'm not sure if they can truly appreciate the amount of data they need to handle when the tech world needs its geek porn instant updates.
+
+Ironically there is no news if they are going to be taking updates via IM or SMS tomorrow, I'm betting not. This way they get to handle a "larger load" -- i.e. people that won't be going to the site itself won't be updating. So it's a win by not generating as much traffic. Cheaters!!
+
+For those that want to use Twitter via IM to post updates (but you can't receive them this way), I recommend trying Imified, it allows you to post to Twitter via IM even when Twitter doesn't take IM updates through its standard channels.
+
+Tweet, tweet. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

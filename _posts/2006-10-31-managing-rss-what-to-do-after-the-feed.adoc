@@ -1,0 +1,17 @@
+= Managing RSS -- What To Do After The Feed?
+:page-layout: post
+:page-navtitle: Managing RSS -- What To Do After The Feed?
+:page-categories: geekery
+:page-excerpt: RSS -- great technology or a flop. In a lot of ways, it's like the push technology developed by Netscape years ago -- great in theory less so in practice.
+:page-image: /images/200px-Feed-icon.svg1_-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/200px-Feed-icon.svg1_-1.png[,role="text-center"]
+
+RSS -- great technology or a flop. In a lot of ways, it's like the push technology developed by Netscape years ago -- great in theory less so in practice.
+
+I'm having trouble figuring out what exactly to do with my feeds. I want to send them off and remix them ala suprglu where I already host a site. I even have my personal domain sent to that link:https://creeva.com/[page].
+
+I want to archive and remix the data in other formats -- but 99.9999% of all RSS programs are readers or feed generators. I don't need a reader and I don't need a feed generator -- at least not until I get the next (whatever that is) accomplished.
+
+Does anyone have any programs for the programming challenged to manipulate RSS feeds beyond stream creation or reading? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

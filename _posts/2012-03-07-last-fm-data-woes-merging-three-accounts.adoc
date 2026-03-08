@@ -1,0 +1,33 @@
+= Last.fm Data Woes -- Merging Three Accounts
+:page-layout: post
+:page-navtitle: Last.fm Data Woes -- Merging Three Accounts
+:page-categories: geekery
+:page-excerpt: Let me give you some background before I get into this issue. A few years ago I signed up for last.fm, it is a service that records what music you listen to. I actually aggregate this data into other places. Xie had her only account, but only rarely used it. Once Lex was born we were listening to music all the time, though mostly instrumental stuff. Instead of scrobbling (sending my track information) to my account, I created a family account.
+:page-image: /images/3038597_e5f95e2017.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+
+Let me give you some background before I get into this issue. A few years ago I signed up for link:http://last.fm[last.fm], it is a service that records what music you listen to. I actually aggregate this data into other places. Xie had her only account, but only rarely used it. Once Lex was born we were listening to music all the time, though mostly instrumental stuff. Instead of scrobbling (sending my track information) to my account, I created a family account.
+
+For a while, I maintained my account and the family account depending on where the music was being played. In September of last year, I finally moved my listening to the family account. This consolidation was to make everything easier, but I left my account which has 23441 track submissions over the last six years. The family account has 24112 today over three years. While there is some duplication from attempting to merge these account in the past, the majority is instrumental items for Lex.
+
+Yesterday I find a neat utility that takes your last.fm data and merges it into your iTunes library to give you an accurate play count. I attempted to merge the three accounts on my local machine. The problem lies in the fact that it will overwrite (instead of adding to) the play count. So if my account played _Smells Like Teen Spirit_ fifteen times and the family account played it ten, then whoever was imported last would win. This was not acceptable. It should be a total play count of twenty-five times.
+
+So yesterday I spent hours trying to merge the accounts. There is no supported way to do this. There is also no method for existing accounts to upload a complete list of all the plays in iTunes, new accounts can do this though. It would also mean leaving out all the podcasts I've played over the years since I don't have the original files to add a play count to. So I need a way to take all the data and shove it into the new account.
+
+There was a blog post about using link:http://libre.fm[Libre.Fm] as a middleman in the transaction. You can use a script to pull the data from last.fm into a text file. You then set up your Libre.FM account to send the tracks it receives to last.fm. Finally, you run another script that submits the text file data to Libre.Fm. All very convoluted a MacGuyverish (something I'm good at).
+
+I managed to get tracks into Libre, but they were not being forwarded to last.fm. I then found out the reason, last.fm disregards submissions that are older than fourteen days. Grrrrrrrrrr.
+
+I went about and checked the file. There was a column that corresponded to a Unix time stamp. I then replaced all of these time stamps with the same time that was less than 24 hours earlier. I then re-ran the submission tool. The tracks were submitted to Libre, but out of the 143 test submissions, only four tracks showed up in last.fm (with a combined play count of 143 times).
+
+Then I hacked the time stamp and set each playtime to one-second intervals. I then re-ran the submission script. All the tracks made it to Libre again, but the same duplication with four tracks issue occurred on Last.fm At this point I was going to hack the data with a timestamp a little further apart.
+
+I needed a way to generate numbers 180 seconds apart with a starting time of the previous day. I couldn't find a great and easy way to do this. I contacted a friend of mine and he wrote a quick program to generate 143 Unix time numbers 180 seconds apart and another that did 24k. I then had the data ready to go. I'm still not sure why but last.fm still didn't like the data. Back to the drawing board.
+
+For portable devices, they can keep a log file (.scrobbler.log) that you can submit online to your account. It even allows you to do it without a time stamp. I looked at the file specifications and modified the file that I dumped earlier from last.fm to match those specifications. I also still had the modified time stamps. Unfortunately, I keep getting information back that the file is invalid. I haven't yet figured out why.
+
+So that is where I am at the moment, speculating the best method to take this tab-delimited file and give it back to last.fm. Once this is done I will be able to sync the play count on all of my devices. I will have a master repository of my played track data and I can let the old ones go.
+
+In the end, this is all being really anal-retentive. I can back up my data in these downloaded files and call it a day. I won't have the true statistics of what has been played, but most people don't really care. I could also just migrate to Libre.fm, but the problem with that is they don't support iTunes, which is an issue for someone who has media played in such an Apple-centric ecosystem as I do. I may just have to surrender on this, but first I'm going to figure out that .scrobbler.log file format. If after that I still can't figure it out, I'll cry. Then I will surrender. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,41 @@
+= The Crossposting God Series Part 6 -- RSS Feeds to Crosspost
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 6 -- RSS Feeds to Crosspost
+:page-categories: geekery
+:page-excerpt: RSS, I love RSS. RSS makes crossposting easy. It also allows me to read all of my news in Google Reader instead of jumping to 50 different sites that I used to visit once a day. RSS allows users to subscribe to your site and read them where they want to, this may be good or bad based on your advertising style. If you are like me and don't really make a dime on your blog, then it doesn't really matter.
+:page-image: /images/2452196744_622f4549ef_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2452196744_622f4549ef_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/pimkie_fotos/2452196744/[here]
+
+RSS, I love RSS. RSS makes crossposting easy. It also allows me to read all of my news in Google Reader instead of jumping to 50 different sites that I used to visit once a day. RSS allows users to subscribe to your site and read them where they want to, this may be good or bad based on your advertising style. If you are like me and don't really make a dime on your blog, then it doesn't really matter.
+
+I use FeedBurner as a choke point for every web service that has an RSS feed (and I'm a member). This allows me a couple of things, the first is I can easily remember all the web services I sign up for. The second thing is I have feeds that I can automatically plugin to lifestreaming services that don't support the sites I use natively.
+
+Through RSS I cross-post my blog to link:http://creeva.tumblr.com[Tumblr], Profilactic, link:http://friendfeed.com/creeva[Friendfeed], Suprglu, and any other life service I come across (just search for Creeva as the username). Now At this point, I've made Feedburner do all the heavy lifting and bandwidth-intensive work for feed readers. I even use my feed (a filtered version) to post notifications to Twitter when I have a new story published using the link:http://twitterfeed.com/[Twitterfeed service].
+
+The other key thing to remember with RSS is when we get to the widget space. Some sites don't have an option for crossposting, they are completely locked. You can, however (in some cases) place a widget in your profile on these sites. More times than not you can manage to place an RSS widget. An RSS widget shows your current RSS feed items and allows you to place them on these profiles that otherwise have locked data.
+
+With WordPress there is a plugin called feedwordpress that aggregates feeds and publishes them as items on your blog. They keep trying to make this plugin better, but I can tell you it doesn't seem ready for prime time yet. I've tried every trick imaginable and I always end up receiving duplicate entries in my main blog. Because of that, I don't use feedwordpress anymore, I may try it in the future. This would lead to the ultimate life caching solution, by allowing my blog to pull in all the data I generate everywhere else, and then crosspost it to all my friends across the web. Unfortunately, it's a pipedream at this moment.
+
+Now click the logo to subscribe to link:https://creeva.com[Creeva's World 2.0:]
+
+image::/testsite/images/2451370317_431916ec4d_m.jpg[,role="text-center"]
+
+Image from link:http://www.flickr.com/photos/pimkie_fotos/2451370317/[here]
+
+In the next part of our crossposting god series, we are going to cover services that allow you to publish by e-mail.
+
+Previous Entries in The Crossposting God Series:
+
+link:https://creeva.com/index.php/2008/06/09/2008/05/27/2008/05/22/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/[The Crossposting God Series Part 1 -- The Introduction]
+
+link:https://creeva.com/index.php/2008/06/09/2008/05/27/2008/05/21/the-crossposting-god-series-part-2-vox/[The Crossposting God Series Part 2 -- Vox]
+
+link:https://creeva.com/index.php/2008/06/09/2008/05/27/2008/05/22/2008/05/22/crosspost-livejournal/[The Crossposting God Series Part 3 -- Live Journal and Derivative Sites]
+
+link:https://creeva.com/index.php/2008/06/09/2008/05/27/2008/05/22/distribution-and-endpoints/[The Crossposting God Series Part 4 -- Entry, Distribution, and End Points]
+
+link:https://creeva.com/index.php/2008/06/09/2008/05/27/the-crossposting-god-series-part-5-myspace/[The Crossposting God Series Part 5 -- Myspace] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

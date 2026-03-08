@@ -1,0 +1,23 @@
+= Creeva's World: Why Does This Site Exist?
+:page-layout: post
+:page-navtitle: Creeva's World: Why Does This Site Exist?
+:page-categories: stories
+:page-excerpt: First and foremost the site is for me. It allows me to save my poetry, short stories, and thoughts online. It allows me to delve into technical issues that may be insightful or interesting to others. Some things I write and put together just because I can't find them anywhere else and want to save others the rework of tracking down something that took me hours/days to piece together.
+:page-image: /images/alcohol.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/alcohol.jpg[,role="text-center"]
+
+First and foremost the site is for me. It allows me to save my poetry, short stories, and thoughts online. It allows me to delve into technical issues that may be insightful or interesting to others. Some things I write and put together just because I can't find them anywhere else and want to save others the rework of tracking down something that took me hours/days to piece together.
+
+It is my venting post. I can release myself without repercussion and free write. When I was in college (a short trip that didn't last) I was a dual major -- creative writing/music performance. I rarely however pick up the trumpet these days. At the very least it allows me to write to some degree and pushes me still to have more information up and around here.
+
+One thing I realized though about a year ago is that I put a ton of information online signing up for different services and accounts -- using these services for a while then usage dries up or goes in spurts. Now if a friend asks you if you have a certain movie or read a certain book it was a pain to direct them to your link:http://www.allconsuming.net[allconsuming] site so they could keep track of you.
+
+I had decided to start on a path of aggregating all my information to my blog, my Diggs, my tweets, my pictures, my youtube movies, and everything else. Some people refer to this as a lifestream (hence the Creeva's Lifestream logo above). The problem with most lifestreams is they are just an RSS aggregation that you have to click and follow through. A lot of these are nice but for the most part non-functional as a site within itself any more than a portal.
+
+I wanted something so that if I was interested in someone I could view most things at a glance and have one site to search (though the link:http://www.lijit.com[lijit] application on the left side there helps search the other sites and does double duty as a links section to me). So in some ways (in geek terms) this is the slashdot dot of Creeva (Brent).
+
+You find me interesting great, you don't? Quit reading then. I'm not going to pander to a certain demographic as it negates the need for this site which is about entertaining myself and writing out things that I think others may have an interest in. I know most people won't be interested in my family issues, but some of the ones who do won't be interested in my tech articles. I attempted at one time to run different blogs on different subjects to keep everything all neat and tidy. What I learned though was I got too distracted by where and what I was going to write that I actually did much less writing. So now (until I get a paying gig to write and even then this site will remain the same) you have to put up with the good and the bad, the interesting and the uneventful.
+
+I applaud you that have taken an interest in me and reading to some extent. Hopefully, this journey will continue for a long time. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,14 @@
+= Uploading Photos To Flickr From a Nokia N810
+:page-layout: post
+:page-navtitle: Uploading Photos To Flickr From a Nokia N810
+:page-categories: geekery
+:page-excerpt: One thing I've wanted to do is upload images from my Nokia N810 to my Flickr Account. I've mucked with mailing photos, but that's never fun with bulk amount of images. You might think that because the N810 doesn't have a normal sd slot, going for the micro-sd instead that I wouldn't have a lot of photos on here. Ironically whenever I take photos on my RAZR cell phone the only way I can get them off is via my N810, in which it works right away.
+:imagesdir: /testsite/images
+
+One thing I've wanted to do is upload images from my Nokia N810 to link:http://flickr.com/photos/creeva/[my Flickr Account]. I've mucked with mailing photos, but that's never fun with bulk amount of images. You might think that because the N810 doesn't have a normal sd slot, going for the micro-sd instead that I wouldn't have a lot of photos on here. Ironically whenever I take photos on my RAZR cell phone the only way I can get them off is via my N810, in which it works right away.
+
+Before you state that I can purchase or pirate link:https://www.amazon.com/dp/B000IVEQYW?tag=creswor20-20&camp=0&creative=0&linkCode=as4&creativeASIN=B000IVEQYW&adid=0RTR8MP1C6WASZ5YCQNJ&[Motorola Phone Tools] -- why should I when I have my N810 😛
+
+I played with a progam called link:http://code.google.com/p/altcanvas/wiki/MaemoPublishr[Maemo Publishr], but that was slow and clunky, and in the end I still was not able to get any pictures actually uploaded. Doing a bit more research it seems a program I was already using, link:http://maemo-wordpy.garage.maemo.org/[Maemo Wordpy], could already do this. I authorized it Flickr to accept photos from Maemo Wordpy and I was off to the races. In under a minute I had all forty-three images off of my cell phone and in my Flickr account.
+
+If you want to upload to link:http://flickr.com[Flickr] from your N810 -- Maemo Wordpy is the key. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

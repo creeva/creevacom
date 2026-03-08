@@ -1,0 +1,33 @@
+= Google Docs Needs to Up The Size Limits
+:page-layout: post
+:page-navtitle: Google Docs Needs to Up The Size Limits
+:page-categories: geekery
+:page-excerpt: I've been working diligently like a good Google zealot and have slowly over the last couple of months started migrating over to Google Docs. The one thing that keeps tripping me up is the space they offer each document. The space given is as follows&#58;
+:page-image: /images/1402161632_3e92defcea_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/1402161632_3e92defcea_m.jpg[,role="text-center"]
+
+I've been working diligently like a good link:http://www.google.com[Google] zealot and have slowly over the last couple of months started migrating over to link:http://docs.google.com[Google Docs]. The one thing that keeps tripping me up is the space they offer each document. The space given is as follows:
+
+* HTML files and plain text (.txt).
+* Microsoft Word (.doc), Rich Text (.rtf), OpenDocument Text (.odt) and StarOffice (.sxw).
+
+* Microsoft PowerPoint (.ppt, .pps).
+
+* Comma Separated Value (.csv).
+* Microsoft Excel (.xls) files and OpenDocument Spreadsheet (.ods).
+
+So far I'm not hitting a barrier issue with Spreadsheets or Presentations (though I see hitting the presentation limit very soon) what I do have an issue with is the document size and the PDF size.
+
+The PDF support has just been added so I'll give them a little slack on that, I think a good size in this web era would be 50 MB for PDF this should get you almost any PDF around into your Google Docs size. I have a couple of PDFs on my desktop that is close to 30 MB and being able to store them here would be a godsend. Until they do this won't be my central PDF repository.
+
+The document size though is really killing me, I have a ton of documents that are over 500k. I have one detailing my home network that is almost 6 MB. I think the documents need to be upped to 10MB. that way the crazy bastards like me who use graphics and diagrams in their documents won't have to worry about hitting this cap.
+
+While we are on the subject though of Google Docs, why can't there be better integration with G-Mail? Theoretically, it should be able to search through all my e-mail during a search and prompt me if I want to import this or that document into my Google Docs cache.
+
+While Google has been great at adding new products over the years. Even the ones that take off are not properly maintained nor are they integrated with other related services soon enough. Some of these products are around for years before proper integration takes place, when are they going to be moving a little more away from 20% time for projects and focusing whole teams on the integration side of the coin?
+
+Anyways -- /rant off.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

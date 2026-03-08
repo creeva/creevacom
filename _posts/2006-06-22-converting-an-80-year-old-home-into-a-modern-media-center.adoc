@@ -1,0 +1,21 @@
+= Converting an 80-Year-Old Home Into a Modern Media Center
+:page-layout: post
+:page-navtitle: Converting an 80-Year-Old Home Into a Modern Media Center
+:page-categories: geekery
+:page-excerpt: Moving on with getting settled into my home I'm working hard at getting everything modernized as far as the home wiring goes.
+:page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+
+Moving on with getting settled into my home I'm working hard at getting everything modernized as far as the home wiring goes.
+
+The house we moved in has 95% ungrounded outlets, a terrible quality phone line, no network cabling, and a terrible cable setup. Let's start with what I have done so far. I started by starting to build a wiring closet in the basement. From here the end goal was to make sure everything is in a centralized location.
+
+I was also running into issues with having so many computers Nd power strips and having all the plugs being two-pronged. So far I've managed to change out 3 rooms to now having 3 prong outlets. The plugs are still ungrounded -- but the physical plugs are cheaper than buying adapters or tearing the ground plug off the surge protectors. So that is the start of the wiring nightmare. We have also run into the fact that the basement is on the same breaker as the basement. So if we ran the washer, dryer, and microwave at the same time the circuit would trip. So we are re-running the washer and dryer to be on their own breaker.
+
+My centralized location for home cable was located outside of my house. Well, now that I'm planning a wiring closet this just wasn't going to do. I've since brought all the coax termination points into the wiring closet and have a centralized location for adjustment at my fingertips.
+
+Network cabling -- so far I do not have a good spot to get the network wiring where I want it through the house. I do have 3 network jacks prewired but I have about 10 more to go, the further out the trickier the wiring.
+
+Tomorrow I'll be running the phone cable, it's inconsistent quality by the previous owners but I should be fixing the as of tomorrow. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

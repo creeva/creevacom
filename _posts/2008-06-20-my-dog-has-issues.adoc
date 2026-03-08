@@ -1,0 +1,21 @@
+= My Dog Has Issues
+:page-layout: post
+:page-navtitle: My Dog Has Issues
+:page-categories: stories
+:page-excerpt: My dog is spastic. There is no doubt about it. She may pretend to be the sweet dog most of the time. She may even fool the casual observer. The problem is she just goes psycho for no reason.
+:page-image: /images/270969697_fc9dcf3383.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+
+My dog is spastic. There is no doubt about it. She may pretend to be the sweet dog most of the time. She may even fool the casual observer. The problem is she just goes psycho for no reason.
+
+Now that's not to say she is violent, she's not. Any violence she has is at least direct. She whines very loudly and if you stop giving her attention she runs around the room wildly trying to be an attention whore, knocking stuff over, jumping on people, and being an overall pain in the butt.
+
+We've tried everything we can think of, but nothing has helped. We've just learned to deal with it over the seven years we've had her. Just our luck to end up with a neurotic dog. The second dog we got just a couple of years ago is so much more well-behaved, he's an attention whore, but at least he doesn't really go spastic l like the other one.
+
+Newfoundlands -- 1 -- great dogs
+
+Golden Retrievers -- 0 -- too hyper and spastic
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

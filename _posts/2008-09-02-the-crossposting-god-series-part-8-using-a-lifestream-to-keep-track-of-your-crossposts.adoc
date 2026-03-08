@@ -1,0 +1,39 @@
+= The Crossposting God Series Part 8 -- Using A Lifestream to Keep Track of Your Crossposts
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 8 -- Using A Lifestream to Keep Track of Your Crossposts
+:page-categories: geekery
+:page-excerpt: In part 8 I was going to write about crossposting to blogger, but that's been delayed for the time being.  I'll get back to that subject as soon as I get a chance.   Let's move on to monitoring your cross-posting.
+:page-image: /images/264662649_f33f418a58_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/264662649_f33f418a58_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/estherase/264662649/[here]
+
+In part 8 I was going to write about crossposting to link:http://www.blogspot.com[blogger], but that's been delayed for the time being.  I'll get back to that subject as soon as I get a chance.   Let's move on to monitoring your cross-posting.
+
+Some people may have noticed that on my lifestream there seem to be duplicate posts.   This is because I've been working on adding all the RSS feeds from all the services in one trackable lifestream.   The benefits are that you can see and track how long information takes to get from one site to the next.   This also allows you to see where your crossposting is failing.   For example, I'm noticing that my posts going to Pownce are not getting through so when I get a chance I'll look into what is actually causing that.
+
+Lifestreaming all of our sites into one endpoint site that you can control and maintain allows all the little maintenance to happy at a single glance.   We all know that crossposting is usually best-effort delivery.  Not everything shows up on all the sites, but that happens because your not actively maintaining those sites, and sometimes things just go wrong.
+
+By having a single stream of all of your sites you are not bogged down looking at RSS items for every site together.  If I put all my feed items in google reader then it would take me an hour each day to get through all of them.  Having a quick glance allows the information to be singled out in a daily quick view.
+
+Currently, I'm using the WordPress lifestream plugin to handle my lifestream page.  It gives me the benefit of having a daily summary post generated automatically.  This allows me to have a permanent archive of all of my daily archives that I can go back search and vault away in my own life-vaulting fashion.
+
+Life is good.  Maintaining and monitoring in a single glance -- that's great.
+
+Previous Entries in The Crossposting God Series:
+
+link:https://creeva.com/index.php/2008/09/02/2008/06/10/2008/05/27/2008/05/22/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/[The Crossposting God Series Part 1 -- The Introduction]
+
+link:https://creeva.com/index.php/2008/09/02/2008/06/10/2008/05/27/2008/05/21/the-crossposting-god-series-part-2-vox/[The Crossposting God Series Part 2 -- Vox]
+
+link:https://creeva.com/index.php/2008/09/02/2008/06/10/2008/05/27/2008/05/22/2008/05/22/crosspost-livejournal/[The Crossposting God Series Part 3 -- Live Journal and Derivative Sites]
+
+link:https://creeva.com/index.php/2008/09/02/2008/06/10/2008/05/27/2008/05/22/distribution-and-endpoints/[The Crossposting God Series Part 4 -- Entry, Distribution, and End Points]
+
+link:https://creeva.com/index.php/2008/09/02/2008/06/10/2008/05/27/the-crossposting-god-series-part-5-myspace/[The Crossposting God Series Part 5 -- Myspace]
+
+link:https://creeva.com/index.php/2008/09/02/2008/06/09/rss-crosspost/[The Crossposting God Series Part 6 -- RSS Feeds to Crosspost]
+
+link:https://creeva.com/index.php/2008/09/02/2008/06/10/the-crossposting-god-series-part-7-where-can-you-post-by-e-mail/[The Crossposting God Series Part 7 -- Where Can You Post By E-Mail?] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

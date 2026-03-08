@@ -1,0 +1,33 @@
+= The Crossposting God Series Part 4 -- Entry, Distribution, and End Points
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 4 -- Entry, Distribution, and End Points
+:page-categories: geekery
+:page-excerpt: When we think about crossposting, it actually is more in-depth than most people think. From a very simple level, you go from one site to another. At a higher level though you are publishing from a single source to tens if not hundreds of places. Used correctly crossposting is a very publishing tool that lets you gain readers very cheaply (or free), as long as you are willing to log in to all of these other sites to maintain readers and communities. If you are not willing to log in to all these remote services and address comments, suggestions, and criticisms; then crossposting is not for you.
+:page-image: /images/2245448147_96b0d70837_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2245448147_96b0d70837_m.jpg[,role="text-center"]
+
+_Photo From link:http://www.flickr.com/photos/dazlambert/2245448147/[Here]_
+
+When we think about crossposting, it actually is more in-depth than most people think. From a very simple level, you go from one site to another. At a higher level though you are publishing from a single source to tens if not hundreds of places. Used correctly crossposting is a very publishing tool that lets you gain readers very cheaply (or free), as long as you are willing to log in to all of these other sites to maintain readers and communities. If you are not willing to log in to all these remote services and address comments, suggestions, and criticisms; then crossposting is not for you.
+
+There are three different functions in a crossposting architecture. These functions include your entry points, distribution points, and endpoints. You could also add filtering points utilizing services like yahoo pipes, but for the moment that is out of the scope of this discussion (for the moment). Each of these steps is important and you need to make sure you don't get them screwed up or you can be in for one heck of a data cleanup time.
+
+Data entry points are areas in which you interact, create, and start your data. In my example, if I wanted to put up an audio or video post to my blog I would use link:http://www.utterz.com[Utterz]. With Utterz I can be on the road and pick up my phone, record a post, and it automatically gets posted and disseminated throughout my network. If I have a picture I want to share I normally upload it to link:http://www.flickr.com[Flickr] and the chain starts all over again at that scale. Via SMS I can insert a quick status update to link:http://www.twitter.com[twitter] and alert everyone following me and change my status across many networks (I also do this via IM). For longer written posts I normally start with link:https://creeva.com[my own main blog]. It just feels right to actually write this and start with my blog (though other blogs I may write an article on will eventually make it back here).
+
+Distribution points (which in some cases double as end-points in my design) are sites or services that pull in data (or have data pushed into it) and at that point send the data off to another service. In my architecture sites that can resend data via e-mail (such as link:http://www.blogger.com[blogger]) become major distribution points for me. You have the ability to resend up to 10 e-mails to other services from bloggers. Another major distribution service for me is feedburner, this allows me to shape and filter my RSS feed and push this data out to other services either via widgets or into services that can import RSS feed data directly.
+
+Endpoints are the sites or feeds in which your readers are actually interacting with you at. It's where they are reading and processing your information. It's where comments are given and it's where your data actually has meaning and has come to rest. Some end-points may seem useless in your overall architecture (and yes when you become a crossposting god it is architecture), but how much are the one or two readers worth that may discover you through that service? Normally it takes only a couple of minutes to set up a profile on a new service and set your data in place once it starts from its entry point. If you can't automate this you need to decide if it's worth the time to copy and paste the data across. To me, if I have to paste data into an end-point manually, then it's not worth it to me. Everything has to be done automatically.
+
+At the beginning of this article, I mentioned that you need to make sure you don't confuse a role in your architecture. The reason you need to be aware is that you have a chance of regurgitating the same data over and over again across all of your endpoints. When this happens the cleanup is horrendous and can take anywhere from hours to weeks. The amount of effort you put in is relative to how much you care about that extra data hanging out on your endpoints. The more popularity and feedback you get from an endpoint the more care, feeding, and presentation cares you should put into it.
+
+In the crossposting god series part 5 we'll be covering myspace.
+
+Previous Entries in The Crossposting God Series:
+
+link:https://creeva.com/index.php/2008/05/22/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/[The Crossposting God Series Part 1 -- The Introduction]
+
+The Crossposting God Series Part 2 -- Vox
+
+link:https://creeva.com/index.php/2008/05/22/2008/05/22/crosspost-livejournal/[The Crossposting God Series Part 3 -- Live Journal and Derivative Sites] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

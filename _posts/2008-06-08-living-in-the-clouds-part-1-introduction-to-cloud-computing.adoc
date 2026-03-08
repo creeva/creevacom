@@ -1,0 +1,31 @@
+= Living In The Clouds Part 1 -- Introduction To Cloud Computing
+:page-layout: post
+:page-navtitle: Living In The Clouds Part 1 -- Introduction To Cloud Computing
+:page-categories: geekery
+:page-excerpt: The other day I wrote an article in which I briefly discussed cloud computing and how I accomplish it in my life. I wanted to start a new series called "Living in the Clouds" which goes over the functions that you can do to migrate over to a cloud computing setup yourself.
+:page-image: /images/65927497_af44dde29d_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/65927497_af44dde29d_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/ancawonka/65927497/[here]
+
+The other day I wrote an article in which I briefly discussed cloud computing and how I accomplish it in my life. I wanted to start a new series called "Living in the Clouds" which goes over the functions that you can do to migrate over to a cloud computing setup yourself.
+
+First, we need to define what is cloud computing. Cloud computing is placing and manipulating the Internet. While part of this is cloud storage, where you store your data online so you can access it anywhere, the other part is being able to use and manipulate your data anywhere. Whether this is from your home computer, your work computer, or any other device you have access to an internet connection with a browser, this is computing in the clouds.
+
+I wanted to outline what I'm trying to accomplish with this series. What I want to do is go beyond the normal here is a cloud service, isn't it shiny? You can get that form anywhere. What I want to work through in each section of this series is as follows:
+
+Data Types: What type of data can you store or manipulate and what are the best services for that?
+
+Data Security: How can you trust your data and the providers you are using? How can you minimize the effect of data leakage?
+
+Data Redundancy: This includes redundant services with the same data, how to make your data portable, and how to back this data up.
+
+Data Accessibility: What devices and items other than web browsers can you manipulate your data with, and what APIs are available?
+
+I'm taking all of this from a perspective of what I use and how I use it. I want to let you know what works for me instead of dovetailing in a goo goo gah gah review over something new and exciting. If I don't use it to a decent extent I will let you know. I will include speculation and theory sometimes, but when I do I will alert you to such.
+
+Hopefully, this is a series you will enjoy.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

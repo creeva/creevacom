@@ -1,0 +1,27 @@
+= The Death of Commenting
+:page-layout: post
+:page-navtitle: The Death of Commenting
+:page-categories: geekery
+:page-excerpt: Remember about four or five years ago when commenting was all the rage? Blogs would have to adapt and develop new commenting systems. Companies such as Disqus and Intense Debate rose in prominence just because they offered integrated commenting solutions that were better than native ones. Looking around the blogosphere today it seems like a desolate wasteland when it comes to comments.
+:page-image: /images/2998675628_1f1ffdb931_o-1.jpeg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2998675628_1f1ffdb931_o-1.jpeg[,role="text-center"]
+
+Remember about four or five years ago when commenting was all the rage? Blogs would have to adapt and develop new commenting systems. Companies such as link:http://disqus.com[Disqus] and link:http://intensedebate.com[Intense Debate] rose in prominence just because they offered integrated commenting solutions that were better than native ones. Looking around the blogosphere today it seems like a desolate wasteland when it comes to comments.
+
+The comments and discussion have moved away from the actual content provider to third-party platforms that are no longer embedded. For the conversations occurring on Twitter, reactions can still be tracked. They are still one step removed. Most of the discussion occurs on Facebook and hopefully other third-party social networks in the future. Because of privacy, these reactions will never be known.
+
+Before anyone thinks that this is a complaint about the lack of comments on my site, it's not. My site is a small personal niche site that isn't designed to get many comments. It is a place I can write whatever I like. Sometimes the stories do inspire conversations, but it doesn't occur here. It does occur on Facebook.
+
+We could argue that comments are just a way to measure interaction with your audience. That isn't the true market the blogs are going for. It's all about the page views. The page view business has become so intense that sites like Mashable have moved away from being the most informative site for cloud culture online to a click-fest of pseudo-Greek pulp culture. This allows Mashable to make you click through more pages. It gives Mashable more page views. It allows them to serve more advertisements and demand a higher cost because of the number of page views they have.
+
+Even though commenting isn't the real business of most sites, they have lost something. We saw it with the change in link:http://digg.com[Digg]. The only reason I read Slashdot anymore is the conversations, and those are a shadow of what they were. It's all moved to Facebook. The idea that your direct peer group is an echo of who you are is laughable. I'm the perfect example of that.
+
+Very few people on my friend list are alpha geeks. We are separated by issues we bite our tongues on out of politeness. We differ greatly in views from things such as pop culture all the way to religion and politics. Only a small percentage of our friends can even have a discussion on some of our most passionate interests. If we all liked the same things, what fun would that be? If your whole peer group is just like you -- you need to really get out more.
+
+Commenting on blogs allowed us to find others with similar interests. It might be just one story or one moment in time, but we could have a discussion. That doesn't really occur anymore, except on Facebook. I thought about this while reading through Read Write Web. They are one of the top tech blogs in the business. According to one analysis, they receive over a million page views per day. Going down the front page I saw maybe four comments in total. Each story has had tens of thousands of views, but no one stopped to leave an opinion.
+
+I'm sure there are some lively discussions on Facebook about some of the stories. How would Read Write Web ever know? They don't see this feedback, and maybe sites such as Mashable have diminished over time because of this lack of feedback. This problem isn't unique, most sites I visit don't have comments unless there is a political or religious bent to it. Lack of discussion leads to stagnation.
+
+What's the point of this article? I'm not sure there is one. I think I'm just mourning the loss of what used to be one of the best web experiences. We have moved away from openness and into walled gardens. Somehow we all consider this better because we have friends performing curation for us, and we might take the time to comment on or like those stories within our closed infrastructures. What happens when the writers don't get the feedback? They just write for page views. This doesn't necessarily give us a better culture. When you write for the lowest common denominator all the blogs will write the equivalent of US Weekly. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

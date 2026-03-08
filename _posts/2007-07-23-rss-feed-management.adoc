@@ -1,0 +1,23 @@
+= RSS Feed Management
+:page-layout: post
+:page-navtitle: RSS Feed Management
+:page-categories: geekery
+:page-excerpt: Over the next few weeks, I'm going to be doing a few articles on RSS feeds and how to use them for more than just reading your news. Making RSS work for you and doing less -- that's my motto. The first step of this is to start having RSS feed management.
+:page-image: /images/logo_footer.gif
+:imagesdir: /testsite/images
+
+image::/testsite/images/logo_footer.gif[,role="text-center"]
+
+Over the next few weeks, I'm going to be doing a few articles on RSS feeds and how to use them for more than just reading your news. Making RSS work for you and doing less -- that's my motto. The first step of this is to start having RSS feed management.
+
+To centralize my feed management I use FeedBurner, which allows me to centralize my RSS feeds all in one spot. The time it has taken me to get all these feeds entered into FeedBurner is far less, less time than it took to track all my different RSS feeds down across the internet.
+
+Now when I start a new service now FeedBurner is my first stop after signing up for the service. This allows me to manipulate all my data from one spot. I do a few tricks through FeedBurner but the one problem I do have with FeedBurner is that it doesn't allow you to aggregate your feeds into a single feed.
+
+I use link:http://www.afeeda.com/[Afeeda] for RSS feed aggregation. This allows me to place all my feeds into a single feed. The directions for adding feeds are pretty self-explanatory so I won't go into precise instructions but if you get stuck let me know.
+
+I then go back to FeedBurner and put the aggregate feed in here -- so I can manipulate a single feed for backup and hopefully in the future RSS to ICAL conversion. I also use Afeeda to put all the websites I regularly read into a single feed that I can subscribe to. The last thing I can say about Afeeda is that I chose it because it supports the link:http://openid.net/[OpenID] format (for which I use ClaimID).
+
+image::/testsite/images/logo.gif[,role="text-center"]
+
+These two sites allow me to do everything I could want to do for my RSS feeds now. If you are going to do some RSS manipulation I recommend using the two services I mentioned above. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

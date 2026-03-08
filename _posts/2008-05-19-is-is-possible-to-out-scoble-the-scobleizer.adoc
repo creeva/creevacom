@@ -1,0 +1,23 @@
+= Is is Possible to Out Scoble the Scobleizer?
+:page-layout: post
+:page-navtitle: Is is Possible to Out Scoble the Scobleizer?
+:page-categories: geekery
+:page-excerpt: What do I mean by out Scoble, Scoble himself? I'm not going to make as much money as he does, I'm not going to get as many followers as he does, and I'm not going to ever get to play with all the toys he does, and I'll never have his connections. So how am I going to outdo him?
+:page-image: /images/robert-scoble-727180-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/robert-scoble-727180-1.jpg[,role="text-center"]
+
+What do I mean by out Scoble, link:http://scobleizer.com[Scoble himself]? I'm not going to make as much money as he does, I'm not going to get as many followers as he does, and I'm not going to ever get to play with all the toys he does, and I'll never have his connections. So how am I going to outdo him?
+
+Data distribution.
+
+Last week someone asked me how I distribute my data across the Internet, at first I grabbed a piece of paper. After starting the diagram I realized it was way too inefficient in space requirements, so I moved on to a piece of poster board. After I had a rough diagram I was told I must surely be kidding. I assure you when it comes to my blog I never kid and don't call me Shirley.
+
+After relaying this story to a friend he said he would be interested in how I distribute my data. So I put this challenge on myself, to come up with an accurate diagram of how I push my data and include passive inclusion in sites like google at the same time. The goal is to see how much data I truly generate with each post. Instead of just ramping up to include everything I've joined so far I'm taking it up a notch. I'm going to see how truly far I can push the envelope on passing this data and making it grow. Sort of a tsunami of Internet data.
+
+I will only have one account per service and stick with their own functionality, I won't do any data passing manually, nor will I use a second account (since that's cheating). If I managed to spam my data to 5000 Twitter accounts who would subscribe to any of them? No one, so I have to take the point of view I've always stated, this is about distributing data to my friends no matter what service they are on. It's kind of the opposite of data portability, so with that in mind I'm calling this the data pushability project.
+
+I'm going to continue until July 1st to see how many services I can link, crosspost, and pull in unique data from that either I create or I theoretically own (comments to my posts I have a stake in and much as my del.icio.us bookmarks). I want all the sites to automatically handle the data and use tools provided to me by web services. I'm targetting social networks and the like, but my friend asked me what am I going to do when the social network craze is over. I explained that this is more proof of concept and Internet distribution. Those are the factors that ring my bell, the friends and popularity contest really isn't my driving factor. Getting my stuff read, that's what I want. I don't care if you friend me or not.
+
+So look forward to a diagram the first week of July that shows how far data can really be pushed in today's Internet era. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,41 @@
+= Should I Get a Nokia N810?
+:page-layout: post
+:page-navtitle: Should I Get a Nokia N810?
+:page-categories: geekery
+:page-excerpt: To get an n810 or not is the question. A few days ago I wrote a couple of blog posts from my wife's new n810. I have some reservations about the keyboard for "power writing", but that can be handled by a separate Bluetooth keyboard. I think that's not an issue.
+:page-image: /images/lost-poster-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/lost-poster-1.jpg[,role="text-center"]
+
+To get an n810 or not is the question. A few days ago I wrote a couple of blog posts from my wife's new n810. I have some reservations about the keyboard for "power writing", but that can be handled by a separate Bluetooth keyboard. I think that's not an issue.
+
+Would I use it instead of a laptop -- kind of? Right now through work, I have a Mac Book Air for my mobile device. It's great, it's light, and it does most of what I need it to do (what it can't do would require Linux or Windows so it's forgiven). The one thing I run into with the air is the same thing I run into with my normal laptop, accessibility. For normal computer use, they are highly accessible, but if I do make it to HOPE this year or other travel venues it would be MUCH better to not bring a full laptop (if I do take an 810 to HOPE I'll be accessing the internet through an encrypted Hamachi VPN tunnel to home and using a proxy there to access the Internet -- no clear text information is going to be slipping by me -- I can deal with the speed hit that will cause).
+
+It's much easier to have a Bluetooth keyboard and an N810 to haul around to these places than a full laptop. With a full laptop I need to worry about power (the n810 has better battery life), privacy due to the larger screen size, and finding a place to sit versus standing and using the n810. These things are all things that go through my head while debating this purchase.
+
+So yes the N810 would make me more mobile, and more convenient. I know for me (an extreme power user) it won't replace a computer or laptop, but for some people (like my sister) I could see this as a 100% computer replacement. Too much geekery for me it seems. So then we open up the question, could I live for a week with just the N810?
+
+The N810 isn't really designed for offline use. If it has an internet connection that's great. I would be able to do most of my blog posting and status updates via email so when I hit wifi I could sync up and go. In a lot of ways, I think this is enough. To check this I need to mentally compare it to my Palm TX.
+
+I'm not sure that the N810 will fully replace my Palm TX (then again no one said I couldn't keep it). With my palm TX, I use it as an email platform, a web access device, a centralized syncing device, and an ebook reader. Anything else I use it for is mostly games so that's not really an issue -- IM has always been painful on it too.
+
+Since the N810 does not have heavy document handling and I don't think the resolution is quite right for ebook reading (the two things I think I would keep my TX for) it does have better web page filtering (my blog almost breaks the TX). I would also be able to do IM since I wouldn't be forced to stay on the IM screen as I do on the TX. Email should be equal or better on the N810 versus the TX, Web Browsing would be better, and IM would be better. The occasional full need to document editing and e-book reading would mean the TX could sit on the bottom of my bag (and a Bluetooth keyboard would work with it -- two devices one keyboard).
+
+So theoretically I could replace my laptop about 90-95% with the two devices. With having a much smaller footprint and ease of use in carrying these devices with me. Having the N810 would mean that I no longer have to carry an iPod around since it would handle my podcast playing -- bonus to the fact that it will auto-scrobble to last.fm is something that I have never gone working to a level I liked with an iPod and Linux.
+
+For movies, however, I'll probably still use my palm TX -- I can play full DivX movies on it without having to re-encode them. Bonus to me. This will also have the side effect of saving me battery life on the N810 if the TX is with me. I don't watch movies too often on the go though.
+
+Through hackery, I would be able to sync my calendar on google with my N810 -- something that never worked right on the TX. I would be able to compose music on the N810 (yes it can compose music). Someone is also working on an instrument tuner -- which is something I was going to buy this summer -- so I'll save 30.00 there. I was going to buy an iPod, but with the 10 GB, I can max out on the N810 and the fact that I only really use an iPod for podcasts would mostly make that a non-issue -- so a savings of 150.00 -- so far I've saved myself 180.00 on stuff I would probably buy this summer.
+
+There is an NES emulator (that works better on than on the TX) and a GBA emulator -- this should save me from carrying around my GBA (which I ironically use more than my DS). I also play RPG so the slight frame drop won't really affect me. I can use skype which really isn't too much of an issue for me since I mostly would call my wife and we have free phone calls between us. With utterz I can use my phone to "call in" blog posts.
+
+I would be able to start geocaching with the N810 built-in GPS, I've wanted a GPS for a long time, not for driving directions since I can look at a map easily and I'm able to figure out where I am. My wife is sometimes jealous of my innate directional sense. Usually, I get way too lost sometimes by actually reading a map, wrongly at that. I could get a cheap GPS for 90.00 -- but that would take my total electronic purchases to 270.00. We are approaching the N810 price. (We actually match it if you figure out it would handle my gaming needs -- but I already own those devices)
+
+I like the N810's keyboard versus the N800's touch screen which my wife tried out first, but it is still a small keyboard, and I have bigger fingers than her. I can enter information quickly enough for a mobile device I can whip out real quick -- and 500% faster than I can do on my phone's keypad. If I utilize bookmarks and saved passwords this should help limit my typing. The less need I have for this the better. Once again if I'm going to write a long blog post like this one becoming I would have to have a Bluetooth keyboard.
+
+My tmobile internet connection is very slow on my cellphone, but being able to stop by any McDonald's or burger king for quick internet access kind of alleviates that concern. Granted wifi coverage isn't ubiquitous but it's common enough that I think I would be fine.
+
+I'm probably going to decide tonight to get one. Working through this post has helped a lot. I think I started with the fact that this would replace my palm TX and going through that thought process I don't think it would. I think it will however handle the fact if I'm gone for a week or two away from a computer (though I can fathom two weeks away from a regular computer) that I could be just fine in a solely mobile solution without a laptop. Using the host mode hack on the N810 coupled with the card reader program on the Palm TX means I'll be able to utilize the Palm TX as a removable storage space on the N810 if I need it with normal SD cards instead of needing a thumb drive that would drain the N810's power quicker. This would allow me to throw another 8 GB and make the card switch out very easy for me.
+
+I'll keep everyone updated on what I decide. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

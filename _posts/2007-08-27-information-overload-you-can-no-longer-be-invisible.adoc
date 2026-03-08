@@ -1,0 +1,21 @@
+= Information Overload -- You Can No Longer Be Invisible
+:page-layout: post
+:page-navtitle: Information Overload -- You Can No Longer Be Invisible
+:page-categories: geekery
+:page-excerpt: Ok -- the title in and of itself is a bit sensationalistic, but the truth of the matter isn't so far off.
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+Ok -- the title in and of itself is a bit sensationalistic, but the truth of the matter isn't so far off.
+
+I've used link:http://www.grandcentral.com[GrandCentral] for a while now and I can tell you I love the service. I love being able to manage my life from my email inbox also. Now all my blog backups, individual RSS feeds, my faxes, and phone calls all come to my inbox. The downside of this is that I do not have a method of denying that I received a communication (though I have a digital paper trail if I did not).
+
+I have instructed almost all of my family to contact my GrandCentral number if they wish to reach me. So if my father was going to call me he would dial my GrandCentral number. From here GrandCentral rings my home phone, my cell phone, my work phone, and my google talk IM address. So it's kind of hard to dodge that call from someone I don't like, but unless you are on my contact list -- you go straight to voicemail. I, unfortunately, hate SMS so I don't receive notifications (and get a cheaper phone bill to boot). If I did use SMS I would use Twitter with it and it would take up way too much personal time.
+
+My faxes route through eFax and then get delivered to my email inbox. This allows me to have a free fax number that deposits faxes into my email box without giving out too much private info since the number can be changed on a whim.
+
+We have our online information flooding the internet pathways with RSS feeds that are causing rabid de-aggregation of data -- data owners like myself are trying to get the data aggregated again in a workable format. All this leads to gigs upon gigs of personal data (when you consider the bandwidth of email, video, pictures, RSS feeds times the number of subscribers, VOIP) in the end pretty mundane stuff but yet each thing we do leads to a large cascade of the continuance of bandwidth.
+
+I don't know it's just a rant that I'm having -- more to follow. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

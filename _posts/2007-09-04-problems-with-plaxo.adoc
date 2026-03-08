@@ -1,0 +1,17 @@
+= Problems With Plaxo
+:page-layout: post
+:page-navtitle: Problems With Plaxo
+:page-categories: geekery
+:page-excerpt: I've done a few posts saying the virtues of Plaxo. I will first admit I have not checked the forums, but I have checked their blog. So this is irritating for a company that I've placed accolades on top of in my continuing quest to sync and simplify my life.
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+I've done a few posts saying the virtues of Plaxo. I will first admit I have not checked the forums, but I have checked their blog. So this is irritating for a company that I've placed accolades on top of in my continuing quest to sync and simplify my life.
+
+The issue I am having is all of my contacts of disappeared. I first noticed this on Thursday last week and I let it go considering it was a temporary glitch or my browser didn't render the page properly. My calendar was still working so I was happy at the time.
+
+I logged in today though and my calendar was still working, but still no contacts. No contact means their new "social network" called Pulse is completely useless also. Now, normally this wouldn't be a big deal to me since I've dealt with other minor issues with Plaxo in the past. But I had to re-authenticate yahoo today in my account and then I hoped my contacts would re-populate -- they did not. So theoretically all contacts population (the pudding in the Plaxo pie) is now broken for my account.
+
+The other sync points I use -- outlook, google, yahoo, MSN, and aim are all up to date with each other. So my data may not be centralized but it is up to date. I'll give them another week or so to decide if this "hub" is worth using if I can't get to it for my central need. This issue is highly annoying but not devastating in my life as a whole since I still have the information. This may however make me rethink giving Plaxo the second chance I did give it. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,26 @@
+= How to Unprotect a Third-Party Encrypted PDF on OSX
+:page-layout: post
+:page-navtitle: How to Unprotect a Third-Party Encrypted PDF on OSX
+:page-categories: geekery
+:page-excerpt: This is just a quick tech note for those that might be fighting an encrypted PDF on OSX. I had a PDF that was encrypted by a third-party certificate that I had to install on my system. Once the certificate was installed, I could view the document -- but only in the official Adobe Acrobat reader.
+:page-image: /images/bth_Apple-logo-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/bth_Apple-logo-1.png[,role="text-center"]
+
+This is just a quick tech note for those that might be fighting an encrypted PDF on OSX. I had a PDF that was encrypted by a third-party certificate that I had to install on my system. Once the certificate was installed, I could view the document -- but only in the official Adobe Acrobat reader.
+
+I needed to get this over to my iPad, but I was not going to install the key (even if that is possible) onto my tablet. I could print, but I could not use the built-in OSX print-to-PDF feature. This feature is blocked by Adobe Acrobat reader. I couldn't strip it of protection, since it used third-party encryption. I couldn't copy and paste the information into Word -- because Acrobat Reader blocked that. I did manage to get the information though.
+
+In the Windows world, there is many print to PDF drivers. In retrospect, this might have been faster if I just had jumped to a Windows system. I needed a method to make Acrobat Reader believe I was printing to a real printer. I found link:http://sourceforge.net/projects/pdfwriterformac/[PDFwriter on Sourceforge] which was just what I needed. This registers as any other printer and allows you to print to pdf directly, even with a protected document.
+
+It was installed easily and the print process seemed to work. Unfortunately, I had no idea where the output was saved. The configuration file didn't seem to have any settings on this. In Windows, I normally expect a save-as dialogue. This printed and then went away. I had to go back to the readme.pdf file that was included, and found my answer:
+
+[quote]
+____
+Simply print your documents using PDFwriter as your printer. The PDF files will be stored in the directory /Users/Shared/PDFwriter. There's a folder with your user name which contains your printed documents. ( to go to /Users/Shared/PDFwriter please open Finder, select your Macintosh HD and then go into Users -- Shared -- PDFwriter)
+____
+
+Hopefully, this helps someone else out. You also should be able to do the same thing on Windows.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

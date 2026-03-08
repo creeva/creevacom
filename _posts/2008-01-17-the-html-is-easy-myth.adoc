@@ -1,0 +1,29 @@
+= The HTML is Easy Myth
+:page-layout: post
+:page-navtitle: The HTML is Easy Myth
+:page-categories: geekery
+:page-excerpt: For years there has been a myth going around online. The detrimental myth hurts many and makes them feel inferior. The myth is that HTML is very easy. I read many books on the history of technology and most of them went into the HTML revolution. The fact that HTML allows everyone to participate online and create their own content. The fact that it is so easy that even the family dog can do it.
+:page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+
+For years there has been a myth going around online. The detrimental myth hurts many and makes them feel inferior. The myth is that HTML is very easy. I read many books on the history of technology and most of them went into the HTML revolution. The fact that HTML allows everyone to participate online and create their own content. The fact that it is so easy that even the family dog can do it.
+
+Before I get much further I would like to say that I know enough HTML to get myself by. The learning though has been more from the sense of need than actually looking at a book and having it all "click". Usually, I'm looking to do something specific and I find the answer. There are a few commands that I know about that I haven't even used. I prefer CSS though over HTML.
+
+Most people that interact online use very little HTML. They use WYSIWYG editors that do all the formatting. Adding links is as simple as highlighting a line, clicking the link button, and typing in the destination of the link. I don't use HTML for this. For some reason, all technology books and classes preach the long-lasting myth that HTML is what you have to learn. This unfortunately is a lie.
+
+Web Architects -- do have to know HTML, but content providers have been long past the time when HTML skills were required. If my sister wanted to start a blog, she wouldn't bother to learn HTML. If my grandmother got to the point where she decided that she wanted to post her recipes online she would be discouraged by ever looking at HTML code.
+
+Knowing HTML is a benefit but not a necessity. It also is not simple pie publishing that anyone can learn and understand. It's understanding the logic and taking the time to learn the codes. This time takes away from the ability to actually create content for a creator (if their creation is not strictly or primarily HTML). People waste time on things they don't need to when learning a good CMS system would be sufficient. The next step if you had to learn something would be CSS to style the CMS system the way you want it to look. Then at this point learning HTML may be a benefit.
+
+The teachers however train you that HTML is the first thing you have to learn. They waste time on skills that may never be relevant. Unfortunately, these skills are a complete waste of time and are lost in relevancy immediately when they start to put those skills into practical use. The similar scenario that I can put into the educator's false belief in this system is similar to how programming was when I was in school. When I went to college in the 1995 school season the major programming language at the time was C++ for the computing community. The highest level of programming my college taught CS majors was PASCAL. PASCAL was on the way out as a programming language at the time. Already it had seen its heyday and was in decline. I'm not arguing that it wasn't an important skill to learn, I am however wondering how that skill would have gotten me a job.
+
+Needless to say, I never took a computer programming class at college. I also have never taken an HTML class, but I've used the web successfully and created varying levels of content on it since 1994. These skills are also not in my skill set for work either. Though I work in computer security I'm not a programmer nor do I ever plan to be. I started programming with the original "anyone can learn it" programming language, BASIC.
+
+I hated BASIC on my VIC-20 with a passion. Anything to do with typos took hours to correct after taking hours to input in the first place. This early interaction made me hate programming with a passion. My brother however at least embraced HTML and web design technologies. This will help make him a web architect, but not a content provider. HTML is for the rigid people that like order. They make sense out of the chaos. Content creators on the other hand learn enough web languages to make their content viewable. Creators are much more chaotic than designers.
+
+I am a creator and I say HTML is overhyped. It does allow me to be more flexible in some areas, but that's only to bring some order to the chaos. I prefer to start with the chaos and work from there.
+
+We could always go back to the myth that you need to understand math to use computers, but that's a rant for another day. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

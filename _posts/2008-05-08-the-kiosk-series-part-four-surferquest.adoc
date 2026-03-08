@@ -1,0 +1,74 @@
+= The Kiosk Series -- Part Four -- Surferquest
+:page-layout: post
+:page-navtitle: The Kiosk Series -- Part Four -- Surferquest
+:page-categories: geekery
+:page-excerpt: Going further into my reviews of kiosk systems we acquired the Surferquest system here at work. Unlike my piece on SteadyState I'm not going to have a bunch of screenshots to show you this time. However, I will give you my analysis and what I've found out.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Going further into my reviews of kiosk systems we acquired the Surferquest system here at work. Unlike my piece on SteadyState I'm not going to have a bunch of screenshots to show you this time. However, I will give you my analysis and what I've found out.
+
+The Surferquest system is an off-the-shelf software with minimal customization. We ordered an evaluation unit and I was tasked to try it out. I can say for our needs as a company that requires centralized management and control of machines in our environment that the Surferquest system was not quite a correct fit for us.
+
+In our environment, we don't normally place a machine on our network until it is fully tested and verified secure, but this product is pretty much useless until it has a network connection. I had to contact support and they gave me an unlock code that would allow me to make changes to the installed software. The unlock code lasted only 24 hours, but they sent me a utility later on that would allow me to generate unlock codes for myself.
+
+Almost all of the customization that can be done is performed remotely by Surferquest. This means if there is a major application change that needs to be completed you need to contact them. Do you wish to customization your login screen? You must contact them or upload the images to their server. You can not perform these changes locally on the box or locally within your environment. Wish to change the active desktop they used? The same steps apply to change the login screen.
+
+*Restrictions applied to the software*:
+
+[quote]
+____
+Disable Windows Updates
+Remove from Start Menu:
+My Music
+My Pictures
+Favorites
+Recent Documents
+Frequently Used Programs
+Recent Network Docs
+Network Places
+Help
+Run
+My Documents
+Configure Programs
+Disable Windows Keys
+Lock Taskbar
+Disable Control Panel
+Disable Balloon Tips
+Remove OEM Link
+Disable Task Manager
+Disable Registry
+Disable Find Files with F3 in Explorer
+Prevents Control Panel, Printers, and Network and Dial-up Connections from running, and removes the corresponding menu items.
+Removes Shut Down from the Start menu and disables the Shut Down button in the Windows Security dialog box.
+Disable System Restore
+Clears Recent Documents on Exit
+Disable access to Recent Network Documents
+CTRL key disabled
+____
+
+As you can see, though they use a different product to achieve the same goal, it has similar technology to the Microsoft Steadystate product I reviewed in part 3.
+
+You can put the software within your domain, but the software will still be phoning home to the Surferquest company. While I'm positive that there is nothing sensitive being pushed across, like any company that you would have to do remote assistance make sure you trust them in case of any possible data leakage. The official answer is that it only sends out IP address information and the last time connected. You can view this information on the stat web page they provide you
+
+If the drive in the unit should fail or there is a hardware issue in need of support, no software is supplied. You must receive new hardware from the vendor and return your old unit. They state that turn around time is usually 24 hours. Any remote management or patching must be performed by the vendor and is done via remote monitoring software that they have access to. The software is caused byNetsupport and it sneaks out your firewall on port 22 -- now all you admins that left it open for SSH can feel silly (actually that's how the firewall support team snuck out the corporate firewall there and back to their home computers when I worked at Symantec on that team).
+
+Quick Notes
+
+* Idle timeouts can be configured, but they default at 10 minutes.
+* They use the Deep Freeze product to maintain their disk image
+* When we received the unit PXE booting was enabled (and we didn't have a BIOS password -- they stated this was a mistake)
+* The unit we received had PowerDVD installed, ironically no DVD drive (another oversight they admit)
+* Unlock Steadystate there is no method for restricting USB drive usage
+
+If you deploy this in your environment you need to make certain you can accept the security and loss of control you have over this unit compared to another machine in your environment. I see this fitting more in the public space kiosks scenarios such as libraries or hotels. Because they do lack the centralized control that you would normally deploy in corporate environments I say give this one a pass or at least look hard at what you are trying to accomplish. For the public space, this is a great product, with extremely low maintenance, the ability to monetize but charging a fee (customized through the stat page), and extremely well-versed and fast technical support. If you want to deploy an Internet Cafe in your area this is the product for you.
+
+The Kiosk Series:
+
+The Kiosk Series -- Part One -- Choices For Your Environment
+
+The Kiosk Series -- Part Two -- Management Considerations For Your Environment
+
+The Kiosk Series -- Part Three -- Microsoft SteadyState vs Group Policies Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

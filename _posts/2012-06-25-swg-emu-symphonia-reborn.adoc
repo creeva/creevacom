@@ -1,0 +1,23 @@
+= SWG Emu -- Symphonia Reborn
+:page-layout: post
+:page-navtitle: SWG Emu -- Symphonia Reborn
+:page-categories: video-games
+:page-excerpt: This last week has been fun and frustrating. The rose of the emu is not without its thorns. Who knew it took so much grinding to become whole again? I haven't had to work at SWG like this since it was launched in 2003. Things will become more in the correct rhythm as I level up and combat becomes more familiar.
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+
+This last week has been fun and frustrating. The rose of the emu is not without its thorns. Who knew it took so much grinding to become whole again? I haven't had to work at SWG like this since it was launched in 2003. Things will become more in the correct rhythm as I level up and combat becomes more familiar.
+
+While Xie and I were out running combat missions to grind up unarmed XP we were killing things in between our mission spots. We saw a chuba that is normally a one-hit kill. I hit f2 for unarmed hit 1 and I expected it to drop. Not only did it not drop, but it also incapped me. It then proceeded to incap Xie and send her to the cloners. That chuba was immediately nicknamed the uba chuba. It's just one example of how some mobs are still bugged in the emu.
+
+Combat missions, while decent for earning XP, are not the best way to earn credits in-game. For credit grinding both Xie and I have run artisan survey missions. For the time it takes to earn credits with these, it blows away what we can pull in with combat missions. We do lose out on XP for our characters though. It is the age-old SWG question, which is more important, credits or XP.
+
+Our group which is refugees from the Intrepid server on Live has managed to get a city placed on Naboo. We are growing as more Intrepid people are hearing about the Emu through word of mouth and trying it out. The city is named Symphonia Springs. The name is a combination of Symphonia and Idlewild Springs. Both of these cities existed on Naboo on Intrepid. Through the teamwork involved in this accomplishment, this name was decided upon. It is located at the same site as Symphonia was on Intrepid.
+
+When I went out to place my house I shuttled into the Lake Retreat. I then left the shuttle and headed over the mountains to the exact location of the city. By the time Imcus emailed Xie and me the waypoint, we were already in sight of him. I had just done that walk so many times on Intrepid that I knew the path by heart.
+
+A large portion of my income from the missions is going to pay for the maintenance of my houses and to donate to the city treasury. It's not cheap to set all this up when you don't have players with legacy income and a stash in the bank. I can't wait for the bazaars to open up again so I can earn my credits there instead of relying on missions at all.
+
+We managed to get the DEF guild going again. For a brief bit we had rekindled it in SWTOR, but it is back where it belongs in SWG. I wonder how the SWTOR folks feel that so many people are deserting ships? I also wonder if they are aware of how many of those players are turning to an emulator of a nine-year-old game. Shiny does not make something great. Sandboxes make something great. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

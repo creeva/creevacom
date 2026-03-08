@@ -1,0 +1,51 @@
+= Your Friends Complain About Facebook Privacy, But What Do They Give Away?
+:page-layout: post
+:page-navtitle: Your Friends Complain About Facebook Privacy, But What Do They Give Away?
+:page-categories: geekery
+:page-excerpt: Ah…The Facebook privacy issues.
+:page-image: /images/5129332_b75d25f016_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
+
+Ah…The Facebook privacy issues.
+
+Doesn't it seem that a portion of your friends goes nuts every other month over some link:http://facebook.com/[Facebook] privacy flap? This month is link:http://www.google.com/url?sa=t&source=web&cd=3&ved=0CCQQFjAC&url=http%3A%2F%2Fwww.facebook.com%2Fplaces%2F&rct=j&q=facebook%20places&ei=u893TML_MZGOnwf3r5H4AQ&usg=AFQjCNEffvbpdBaSnyHufxRaFowbX4sqdw&cad=rja[Facebook Places], earlier this month was the link:http://www.google.com/url?sa=t&source=web&cd=3&sqi=2&ved=0CB8QFjAC&url=http%3A%2F%2Fblog.trendmicro.com%2Fdefcon-2010-privacy-and-social-networking-matters-now%2F&rct=j&q=defcon%20facebook&ei=es93TPiNJcSmnAfkyPCUCw&usg=AFQjCNEJ_38UQI3YOxDIonWV8GZ3AXGGSA&cad=rja[Defcon data harvest] and earlier things like link:http://www.google.com/url?sa=t&source=web&cd=2&ved=0CBYQFjAB&url=http%3A%2F%2Fbits.blogs.nytimes.com%2F2010%2F05%2F25%2Ffacebook-will-introduce-simpler-privacy-controls%2F&rct=j&q=facebook%20complicated%20privacy%20controls&ei=Ss93TODfHYa6nge36LCdCw&usg=AFQjCNHNAjwV4fs1qSjz2De4OinMCUBGfg&cad=rja[overly complicated control settings]. In another month or two it will be something else. First and foremost we have learned with Microsoft over the years that the market leader will get blamed for every little misstep. I love mocking Microsoft, but I'm writing this on a Windows 7 netbook (I also use Ubuntu, OSX, IOs, Maemo, etc.). So the majority of this vocalization is from a minority which makes it sound like a bigger problem than really exists.
+
+So we know that a vocal minority can get everyone worked up and excited. People that don't understand the issue will always latch onto something if it sounds scary enough. The less they understand about the issue, the scarier it sounds, and the more likely they are to get worked up over it. Take the link:http://en.wikipedia.org/wiki/Dihydrogen_monoxide_hoax[dihydrogen monoxide] hoax for example; here is the information on dihydrogen monoxide:
+
+Dihydrogen monoxide:
+
+* is called "link:http://en.wikipedia.org/wiki/Hydroxyl[hydroxyl] link:http://en.wikipedia.org/wiki/Acid[acid]", the substance is the major part of link:http://en.wikipedia.org/wiki/Acid_rain[acid rain].
+* contributes to the "link:http://en.wikipedia.org/wiki/Greenhouse_effect[greenhouse effect]".
+* may cause severe burns.
+* is fatal if inhaled.
+* contributes to the link:http://en.wikipedia.org/wiki/Erosion[erosion] of our natural landscape.
+* accelerates the link:http://en.wikipedia.org/wiki/Corrosion[corrosion] and rusting of many metals.
+* may cause electrical failures and decreased effectiveness of automobile brakes.
+* has been found in excised link:http://en.wikipedia.org/wiki/Tumor[tumors] of terminal link:http://en.wikipedia.org/wiki/Cancer[cancer] patients.
+
+Despite the danger, dihydrogen monoxide is often used:
+
+* as an industrial solvent and coolant.
+* in nuclear power plants.
+* in the production of Styrofoam.
+* as a fire retardant.
+* in many forms of cruel animal research.
+* in the distribution of pesticides. Even after washing, produce remains contaminated by this chemical.
+* as an additive in certain "junk foods" and other food products.
+* 
+
+The only thing that's missing from the description that I can see is some key taglines; can responsible for millions of lost revenue can be found in the victims of child pornography, and is taken by Facebook employees with access to your personal data (hang on I'm tweeting that one). One student even did a paper where he surveyed users with the facts above to see if they would sign a petition banning dihydrogen monoxide. 43 out of 50 people signed the petition to ban it. What is dihydrogen monoxide? It is water.
+
+Why is this relevant? Because the same scary-sounding facts about any new technology that Facebook creates get tossed about by the people who least understand the issue (as far as "warnings" on Facebook status messages are concerned). People like suspense caused by danger, just watch the news for the tagline "what may be in your house killing you now". I really hate those. People however will talk and get worked up over the littlest thing.
+
+These same people that are so worried about the privacy impact of their Facebook status have a few things working against them in their "fear of privacy". First and foremost is that they are using a social network, if the policies scare you so much and it is a major concern to you then maybe it's time to quit Facebook. The next thing is that Facebook no matter how private you think it is or should be IS A PUBLIC venue. Maybe not everyone on the planet can see your Cancun pictures, but your friends can. If your friends can see it; so can Facebook, so can their partners, and so can random Joe Shmoe because Facebook changed their privacy policy and the information leaked out. Finally, we have the same people concerned about privacy filling out every little survey on the planet like "Which My Little Pony Are You", "If You Were a Tiger in Midwest America, Which Zoo Would You Be In", or "Which Writer from the French Revolution Might You Be Related to". Do you think these app developers are doing this out of the kindness of their hearts? They are doing it to collect slivers of information about you each time you do one of these surveys.
+
+The question is who to be worried about with your "private" information. Are you concerned more about the advertisers having your information? Well then stop filling out surveys, learn to clean your cookies, install ad blockers, disable JavaScript, and disable flash. If are you concerned about Facebook having your data, then stop using Facebook. No matter how secure you have locked down your privacy settings, Facebook will always have access to that data. Are you worried about the government? Well the CIA is a minor investor in Facebook; their role has never been clear -- but think about that for a moment. Are you worried about Joe Schmoe? Well, a random person is really the least threat to your privacy of all those listed.
+
+I do understand there are fringe cases. Issues where there are abuse cases, restraining orders, or child custody battles. If those are truly your concerns though, shouldn't you be using a pseudonym anyway? The people concerned about their safety should always put privacy first, especially when there is a real threat. The perceived threats on the other hand, mostly are non-existent to the normal average person living in a small town. I can get census data and get a general idea of you, I can find out how much you paid for your house and the basic layout, and I can find out if you have kids. I can stand in front of your house and take pictures of you through the windows legally. These are more close-to-home violations of your privacy that are legal and easy to do that people don't get up in arms over. At least you won't until I'm actually taking pictures of you from the street.
+
+For everyone else, we are getting to the boy who cried wolf syndrome. When a real issue comes up the general populace is going to pay less attention to it, because they hear "Facebook" and "privacy issues" on a weekly basis. This is going to cause a problem when a real security issue that everyone is going to have to stand up and yell about comes around. Let's take places for an example, you can opt-out and opt out of people tagging you into places. Now the other person can tag you at a place, but it won't show up in any user streams if you opted out (but Facebook knows you were there). However, that same person could do a status update and say you were there and all their friends (and the world if they don't have their privacy locked down) would know that you were there. They can also tag you in the status update and that event would show up in your stream. So while you can opt out of places; your friends can still place you on the map in other ways.
+
+In the end, I'm not saying that Facebook doesn't have privacy issues. They do, and many of them. I don't need people with the vaguest idea of what is going to get worked up and tell me about an issue I am aware of. I have a few technical people on my friend list -- and they are never the ones to get worked up over these issues in their status messages. We get our information from trial and error, thinking through and figuring out the issue ourselves, or at least reading about the issue from reputable sources. The real strength of Facebook is that it has profiling on every one of its users. If this bothers you don't use it. Trust a company that won't keep a database on you, like Google. 😉 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

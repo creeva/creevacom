@@ -1,0 +1,43 @@
+= Palantir Technologies -The Intelligence Community's New Analysis Platform
+:page-layout: post
+:page-navtitle: Palantir Technologies -The Intelligence Community's New Analysis Platform
+:page-categories: geekery
+:page-excerpt: The Intelligence Community's New Analysis Platform is the webinar I am attending today. It is hosted by Carahsoft -- the same people who hosted the Symantec Webinar I attended. The company whose products this is about is called Palantir Technologies. They have widespread financial and government data analysis tools. Today's webinar focuses on the government sectors.
+:page-image: /images/justice_icon-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/justice_icon-1.png[,role="text-center"]
+
+link:http://www.carahsoft.com/events/palantir/11-07-07/palantir11-07-07.html[The Intelligence Community's New Analysis Platform] is the webinar I am attending today. It is hosted by link:http://www.carahsoft.com/[Carahsoft] -- the same people who hosted the Symantec Webinar I attended. The company whose products this is about is called Palantir Technologies. They have widespread financial and government data analysis tools. Today's webinar focuses on the government sectors.
+
+On a side note while we are waiting for this to start Palantir, link:http://en.wikipedia.org/wiki/Palant%C3%ADr[according to Wikipedia], is an artifact from the Tolkien mythos. specifically: _A palantír_ (sometimes translated as _Seeing Stone_ but actually meaning "Farsighted" or "One that Sees from Afar") is a stone that functions somewhat like a crystal ball.
+
+Webinar started
+
+They start with the standard thank you to their host Carahsoft.
+
+Palantir was started in 2004 by Alexander Carr (sp) and the Paypal team. They pointed out that the main part of Paypal was anti-fraud and that's how they relate to the intelligence community. They spent some time discussing Paypal and their competitors. The reason PayPal succeeded compared to its competitors was that it had analysts to sort the data compared to using pure computer work. The analyst then built tools to work with the data at the conceptual level compared to the data level. This allowed the analysts to help fight fraud better than the competition which allowed them to succeed.
+
+Paypal then looked at what areas they could fit these types of tools. They recognized that they would fit best in the high finance and intelligence community. They worked and created tools and today's webcast was about the intelligence community tools. Palantir is a front-end and backend tool
+
+Data Integration -- takes all your records and puts them into one unified view that allows an analyst to have an easy view of unified data.
+
+Search and Discovery -- see who the user communicated with -- persistent search which alerts the analyst when new information becomes available.
+
+Link analysis of the database includes historical and auditable revision analysis -- I assume this is it helps ensure the integrity of the database. Includes metadata for source, who added it, where it came from, who updated it, essentially every step of change, and data you could want. This also allows the revisioning database to look quickly at the data history. They then go on to show different views and history tracking they can use.
+
+He shows how you could do different information extractions to track terrorist activities (once again using the terrorist threat to try to drive the point home /roll eyes). While this would be a great tool in general I think this could have been done another way instead of driving the terrorist angle. The data set that it can pull from is quite large and very interesting.
+
+Very interesting drag-and-drop interface for entity resolution and analysis. Very Web 2.0ish but yet seems they put too much emphasis on the Fisher Price-like interface. It's not a bad thing just overly rounded -- but I assume this may help things work faster -- I have nothing to compare it to though. They are offering a video at the end so I'm not going to describe all the interface and his interaction with it.
+
+This does make Jim Cropcho's discovery of a flaw in the Ohio voting records a very trivial discovery for this software and makes how we maintain our records, especially our voting and documents that should be private (no your phone is not really considered private sorry) otherwise data discovery with tools like this is trivial.
+
+The platform does support plug-ins.
+
+When asked how many entities they can handle they stated over 100 million entities -- they have pulled in all IMDB, Wikipedia -- and NETFLIX!!!! -- so this company is looking at user checkout and ratings on Netflix -- I'm going to follow up with Netflix and find out what of my private data is available to these other companies.
+
+More links
+
+here +
+link:http://www.google.com/url?sa=t&ct=res&cd=4&url=http%3A%2F%2Fblog.palantirtech.com%2F2007%2F09%2F11%2Fpalantir-screenshots&ei=bOQxR9q3MaGIpwTZmfGIAg&usg=AFQjCNF_9iXTXaPBloxslFajqC7RRT3MJw&sig2=jCCpOvrJvyS5HlGxQDIZow[here] +
+Flash Demo Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

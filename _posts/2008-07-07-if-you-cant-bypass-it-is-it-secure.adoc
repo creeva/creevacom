@@ -1,0 +1,37 @@
+= If You Can't Bypass It -- Is It Secure?
+:page-layout: post
+:page-navtitle: If You Can't Bypass It -- Is It Secure?
+:page-categories: geekery
+:page-excerpt: Yesterday I was talking with my thirteen-year-old brother. He told me about how he was going to set up a website for this girl he knows. He was going to configure it so you couldn't take the images off the page and use them somewhere else. I explained that it truly couldn't be done.
+:page-image: /images/504886535_6215cd104a_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/504886535_6215cd104a_m.jpg[,role="text-center"]
+
+Yesterday I was talking with my thirteen-year-old brother. He told me about how he was going to set up a website for this girl he knows. He was going to configure it so you couldn't take the images off the page and use them somewhere else. I explained that it truly couldn't be done.
+
+To get into a quick side note, if you have images on your site and I want to copy them, don't bother it's trivial. I will just pull them out of my browser cache and viola -- there I have your images. Just because you thought you were "Uber Cool" because you used JavaScript to disable right-clicking and saving the images doesn't mean your images are secure. If you go even more "l33t" and try to use a flash slideshow program attempting to lock it down further, a quick screen shoot and a copy-paste into MS Paint will still get me that image if it's so cool I must have it for my personal collection or to display on my website. Anything that can be seen or heard will always be an open attack in one form or another -- smell and touch we will eventually come for you.
+
+The main question in the title stands, if you can't bypass it is it secure? The answer should always be no -- there is no unbreakable form of security. Given enough time and effort any security in the world can bypass. Given enough exposure at link:https://www.defcon.org/[Defcon] and unlimited hot pockets anything is vulnerable. Just because you, yourself can't fathom a way to bypass the security you have put into place doesn't mean that it's the top of the line. There is always someone smarter than you. Even if you are an industry expert in cryptography and think you are secure because of some great password system you came up with, doesn't mean your system can't be infiltrated by a physical attack.
+
+Let's go into a real-world example
+
+[quote]
+____
+I'm someone who doesn't really use the deadbolt in my house (my wife does for anyone getting ideas). Why don't I? It's passive self assurance against an attack that's improbable. Locks can be picked fairly easily, either through skill or the advent of "bumping"; this makes locks for all intents and purposes useless right? Well not quite, to pick a lock it takes effort time and exposure to being caught (yes even in the case of using a bump key which isn't nearly as noticeable). A lock is a good first round barrier to keep people out as a casual deterrent. If a door is lock most people won't progress much further. For some reason even mild deterrents will keep most people honest. This doesn't mean that you house is secure.
+If I was going to rob your house, I'm not going in the front door. Ironically no one puts deadbolts on their back doors. So if I'm going to pick a lock (I'm too lazy and I would more likely kick the door in anyways) I would immediately be picking your back door instead of your front door. Does this mean putting a deadbolt on your back door will make you secure? No actually I'm more likely to go in through a window in the back or side of your house. Do you have a security alarm? Well that's another deterrent, but still doesn't really buy you security. If I've targeted you and you have something I really want I would just sit in the bushes outside your window and watch you enter in your key code.
+So now you've put bars on all of your windows, put your alarm code number pad in a place that can't be seen from a window, put deadbolts on your back door, put door jams on all your doors to make them resistant to being kicked in, so now your secure right? Well do you have a garage door opener? For a fairly cheap price I could use a scanner to get the frequency that allows me to open your garage door. You go away for the weekend I can open your garage door, pull inside, close the garage door and then proceed to ransack all your expensive tools and possibly gain entry to the house if I want to risk the alarm. Your neighbors aren't likely to notice that if I pull in at 1 AM.
+____
+
+If you are interested you can be targeted, it's all a matter of effort someone wants to put into an attack. Most people don't have a security mindset so they assume they are secure because it will keep them out. Unfortunately, it doesn't work that way. Security, especially home security requires a little bit of trust in what effort your fellow man doesn't exceed the effort it takes to steal your stuff.
+
+I'll give one more example:
+
+[quote]
+____
+When I start work at my new job they were talking about the screensaver policy at work which was fifteen minutes. It was a written policy but they planned to put in a windows policy to enforce it. I stated that such policies are hard to enforce since software to emulate random key presses are easy to get (I used one in my previous job so I could watch movies on flights without hitting the keyboard myself). You would think that I just gave nuclear launch codes to the Russians -- I kind of defeated his logic with a trivial bypass.
+____
+
+Wisdom in security is gained when you realize that all you can really do is best effort. Nothing is truly secure, nor will it ever be. Trust while being the antithesis of security plays an important role. You place safeguards into effect up to and past the amount of trust you have in the users accessing whatever you are trying to protect. With each safeguard that goes into place the likelihood of being attacked drops, that doesn't mean it's secure, it just means you have mitigated some of the risks. Once people start to understand this wisdom and the logic behind it, they will actually be more secure, the irony of it all.
+
+It's not because I'm older or more knowledgeable, it's because I have wisdom when it comes to security. Even for things I don't know how to compromise I know attack vectors and likely targets. I can't crack high-end computers or pick digital locks, but I know how I would attack them, which gives me an area for how I can defend them. I don't need to know how to break or bypass something to know it's insecure. Like I've said it's a matter of knowing everything that can be built up can be torn down. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

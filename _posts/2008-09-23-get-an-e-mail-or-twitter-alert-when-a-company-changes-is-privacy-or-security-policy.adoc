@@ -1,0 +1,29 @@
+= Get an E-Mail or Twitter Alert When a Company Changes is Privacy or Security Policy
+:page-layout: post
+:page-navtitle: Get an E-Mail or Twitter Alert When a Company Changes is Privacy or Security Policy
+:page-categories: geekery
+:page-excerpt: A couple of weeks ago I was talking with a friend about an idea for a new web service. The web service would have you enter all the services and sites you use and have an account with online, and then send you a twitter alert when the policy changed and it would show you which text changed. My problem is while I could come up with the design, function, and architecture I couldn't figure out any way to monetize such a service. I let it languish and said I would eventually write a blog article on how to roll your own. This is that article.
+:page-image: /images/54296664_ab6a666dff_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/54296664_ab6a666dff_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/cobalt/54296664/[here]
+
+A couple of weeks ago I was talking with a friend about an idea for a new web service. The web service would have you enter all the services and sites you use and have an account with online, and then send you a twitter alert when the policy changed and it would show you which text changed. My problem is while I could come up with the design, function, and architecture I couldn't figure out any way to monetize such a service. I let it languish and said I would eventually write a blog article on how to roll your own. This is that article.
+
+The key feature to making this work (obviously) is a service that can monitor the website for changes and give you some sort of data trigger outbound that is usable for repurposing. I know I could use services that would do an RSS feed, but I wanted something more immediate and trustworthy than RSS for this scenario. I hunted around and I found the service Clink:http://www.changedetection.com/monitor.html[hange Detection that will send send you an email when a web page has changed].
+
+*E-Mail Alerts*
+
+With e-mail, you have a bit more control. It's all easy. If all you want is an e-mail alert put in the policy page into the page address field. Then place your e-mail address in the "send alert to:" field. Easy as cake and you are done.
+
+*Twitter Alerts*
+
+What about getting Twitter alerts? The first thing I'll point out, I'm not a programmer. I'm sure there are much better ways to do this in much simpler methods. I have two requirements for myself. Keep it free, and keep it in the cloud. Make the internet do the work for you, it's always on and online -- your computer doesn't have to be. So instead of using an Uber-Twitterbot I'm going to utilize a few free services:
+
+1. Change Detection -Configure the privacy page you want to monitor the same way in the section for getting email alerts. Instead of relying on emails for notifications, change detection allows you to create an RSS feed for each page you are monitoring.
+
+3. Twitter -- Set up a new Twitter account that you can friend. If you are worried about privacy (people knowing which sites you are watching), set the updates to be protected so only "friends" can see them. Have the alert Twitter account friend you, log out and friend the account back with your main Twitter account.
+
+4. link:http://twitterfeed.com[Twitterfeed] -Take the feed from change detection, and pipe it through twitterfeed so it will put update notifications to your "alert account". Now, whenever anything has changed you can watch updates from that account and you'll have almost real-time monitoring of any web page. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

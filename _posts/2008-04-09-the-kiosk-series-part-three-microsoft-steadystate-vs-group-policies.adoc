@@ -1,0 +1,171 @@
+= The Kiosk Series -- Part Three -- Microsoft SteadyState vs Group Policies
+:page-layout: post
+:page-navtitle: The Kiosk Series -- Part Three -- Microsoft SteadyState vs Group Policies
+:page-categories: geekery
+:page-excerpt: One of the programs that management wants us to look at for our kiosk implementation is Microsoft Steadystate, Microsoft's all-in-one wizard creates a kiosk solution.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+One of the programs that management wants us to look at for our kiosk implementation is Microsoft Steadystate, link:http://www.microsoft.com[Microsoft]'s all-in-one wizard creates a kiosk solution.
+
+I'm not entirely convinced on the scenario that there are things in which you can do with this, that the active directory is not more suited for. So while we work through this document we'll be exploring the options of SteadyState and comparing it to group policies that you can push down to a computer or user account from a central location.
+
+This is the start page of Microsoft SteadyState from here there are 6 things you can do:
+
+1. Set Computer Restrictions
+
+2. Schedule Software Updates
+
+3. Protect the Hard Disk
+
+4. Add a New User
+
+5. Export a User
+
+6. Import a User
+
+This is the "Set Computer Restrictions" page. This page is broken down into different sections and shows you how limiting the computer settings are in group policies that can be applied to this state. While there are still further windows computer policies you can apply to the machine especially if you wish to conform to your company's security plan, we'll stick with Microsoft's options for now.
+
+*Privacy Settings:*
+
+1. Do not display user names in the Log On to Windows dialog box
+
+Group Policy equivalent:
+
+*Computer Configuration\Windows Settings\Security Settings\Local Policies\Security Options\Do Not Display last user name in login screen*
+
+2. Prevent locked or roaming profiles that cannot be found on the computer from logging on
+
+Group Policy Equivalent:
+
+Disable interactive logon for all accounts except the approved accounts for use with the kiosk machine
+
+Registry Equivalent:
+
+"Computer Configuration\User Settings\Administrative Templates\System\User Profiles\Log users off when roaming profile fails"
+
+[HKEY_LOCAL_MACHINE\Policies\Microsoft\Windows\System\ProfileErrorAction]
+
+3. Do not cache copies of locked or roaming profiles for users who have previously logged on to this computer --
+
+Group Policy Equivalent:
+
+Disable interactive logon for all accounts except the approved accounts for use with the kiosk machine
+
+Registry Equivalent:
+
+[HKEY_LOCAL_MACHINE\Policies\Microsoft\Windows\System\DeleteRoamingCache]
+
+*Security Settings:*
+
+1. Remove the Administrator user name from the Welcome Screen
+
+Group Policy Equivalent:
+
+The XP Welcome screen is automatically changed to the classic logon screen after a computer is joined to a domain -- no policy change is needed unless this has been adjusted.
+
+Registry equivalent:
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList\Administrator]
+
+2. Remove the Shut Down and Turn Off options from the Log On to Windows and the Welcome Screen
+
+Group Policy Equivalent:
+
+3. Do not allow Windows to compute and store passwords using LAN Manager Hash values
+
+Group Policy Equivalent:
+
+*Computer Configuration\Windows Settings\Security Settings\Local Policies\Security Options\Network Security: Do not store LAN Manager hash value on next password change*
+
+4. Do not store user names or passwords used to log on to Windows Live ID or the domain
+
+Group Policy Equivalent:
+
+*Computer Configuration\Windows Settings\Security Settings\Local Policies\Security Options\Network access: Do not allow storage of credentials or .NET Passports for network Authentication*
+
+By disabling interactive logins for all users accepting the kiosk user account -- this isn't an issue
+
+5. Prevent users from creating folders and files on the drive c:\
+
+Security configured on the drive to give the kiosk only read access to information it needs should handle this.
+
+6. Prevent users from opening Microsoft Office documents from within Internet Explorer
+
+Registry Equivalents:
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Excel.Sheet.5\BrowserFlags]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Excel.Sheet.8\BrowserFlags]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\MSProject.Project.8\BrowserFlags]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\PowerPoint.Show.8\BrowserFlags]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Word.Document.6\BrowserFlags]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Word.Document.8\BrowserFlags]
+
+7. Prevent write access to USB storage devices
+
+Registry Equivalent:
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\StorageDevicePolicies\WriteProtect]
+
+Other Settings:
+
+1. Turn off the Welcome Screen
+
+Group Policy Equivalent:
+
+The XP Welcome screen is automatically changed to the classic logon screen after a computer is joined to a domain -- no policy change is needed unless this has been adjusted.
+
+If you notice Microsoft does have some understanding of using machines with this configuration applied to them in a Domain environment since they offer the note "_In a Domain managed environment the Domain Group Policy supersedes any settings made here._"
+
+This is the Schedule Software updates screen. You can configure the interval in which you update the Windows operating system and auxiliary programs. For updating windows a SteadyState computer supports Microsoft Update, Windows update, or WindowServer Update Services.
+
+The supported security program updates are limited. The only programs that have native support are Computer Associates eTrust 7.0, McAfee VirusScan, and TrendMicro 7.0. You have the option of creating a custom script to handle any other program updates you may need. In a domain environment, this can easily be handled by central update servers such as SMS and AV servers.
+
+Windows disk protection allows the user to install any programs they want or download whatever they wish, but the hard drive will just wipe out the data. I can't seem to find a registry or policy equivalent that allows this, so it seems that this is one main benefit of a steady state.
+
+The "Add a New User" screen only allows you to create local users which doesn't really help you in a secure domain-based environment. It will however check your domain's password policy's that you may have pushed down to the machine via group policy. If you do use this wizard to create accounts be aware that user policies from the domain can not be applied.
+
+The first screen of User Settings is the "General" tab. Here we get into some more unique settings for the SteadyState product. While it has the function to prevent the user from making permanent changes the most interesting thing is the logoff options, The ability to add the greatest amount of use time or idle time is done by the use of two helper applications that are installed with SteadyState. Being able to always display the session countdown allows the user to see how much time they have left before the logoff procedure is invoked. Restarting the computer after logging off allows the Windows Disk Protection to kick in and reset the machine back to a clean state. While this is nice, the same option could be invoked by creating a log-off script.
+
+The User Settings \ Windows Restrictions tab allows you to hide drives, set default restriction levels, and takes the start menu restrictions straight out of the security policy. This is simple to replicate with a domain group policy.
+
+Feature restrictions are more policies that have been taken straight out of the local security policy (domain policy manager).
+
+While SteadyState allows you to block certain programs, locally installed antivirus can normally do this. Normally you wouldn't want this in a kiosk environment. A better scenario is using group policies to allow only the programs you specify to run. Using the SteadyState scenario if someone ran a rogue application off their USB drive (if you've given them access) or renamed an EXE that was blocked that doesn't need registry access, well I doubt that SteadyState could do anything to stop this.
+
+Importing users is done via normal windows save/open dialogue box. It loads files done with a supported *.ssu extension.
+
+Exporting is done in a proprietary *.ssu file extension once again using the standard windows open / save dialogue box.
+
+Can I recommend SteadyState?
+
+For 90% of what it does, I wouldn't use SteadyState at all but would personally rely on centrally controlled and maintained group policies within a domain environment. What does shine though is the Windows Drive Protection and the helper utilities that handle logoff timers -- though with the idle time out I would more likely just use a script I controlled which could be invoked by the screensaver kicking in.
+
+I didn't go through the group policies under the user restrictions since it's almost verbatim down the list under the policy management. If you have any questions on a setting to restrict without using the SteadyState feel free to ask. The biggest disadvantage to SteadyState is that it uses local accounts that can't be managed remotely with ease. Being at a company where everything is done to avoid using local accounts I can say this is bad mojo.
+
+I may use the drive protection and timeout applications, we'll see when this project is truly finished.
+
+Reference Links:
+
+link:http://www.microsoft.com/downloads/info.aspx?na=40&p=2&SrcDisplayLang=en&SrcCategoryId=&SrcFamilyId=d077a52d-93e9-4b02-bd95-9d770ccdb431&u=http%3a%2f%2fgo.microsoft.com%2f%3flinkid%3d6793500[Windows SteadyState Worldwide page]
+
+Windows SteadyState Readme File
+
+link:http://www.microsoft.com/downloads/info.aspx?na=40&p=3&SrcDisplayLang=en&SrcCategoryId=&SrcFamilyId=d077a52d-93e9-4b02-bd95-9d770ccdb431&u=http%3a%2f%2fwww.microsoft.com%2fdownloads%2fdetails.aspx%3fFamilyId%3d6D130662-C084-4356-906F-426BC814582A%26displaylang%3den[Windows SteadyState Technical FAQ]
+
+link:http://www.microsoft.com/downloads/info.aspx?na=40&p=4&SrcDisplayLang=en&SrcCategoryId=&SrcFamilyId=d077a52d-93e9-4b02-bd95-9d770ccdb431&u=http%3a%2f%2fwww.microsoft.com%2fdownloads%2fdetails.aspx%3fFamilyID%3dd173452a-ce26-4f26-9c30-982f705f84d2%26DisplayLang%3den[Windows SteadyState Handbook]
+
+link:http://www.google.com/url?sa=t&ct=res&cd=3&url=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Fmagazine%2Fcc137731.aspx&ei=cvP8R7-TA5vAggTV5-WQAQ&usg=AFQjCNFRyaulH2fPFEErzujTRd4LTZrnug&sig2=UHHZjJK3ITTFqXaucHlT4Q[The Desktop Files: Shared Computing with Windows *SteadyState*]
+
+The Kiosk Series:
+
+link:https://creeva.com/index.php/2008/04/09/2008/04/08/the-kiosk-series-part-one-choices-for-your-environment/[The Kiosk Series -- Part One -- Choices For Your Environment]
+
+link:https://creeva.com/index.php/2008/04/09/2008/04/08/the-kiosk-series-part-two-management-considerations-for-your-environment/[The Kiosk Series -- Part Two -- Management Considerations For Your Environment] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

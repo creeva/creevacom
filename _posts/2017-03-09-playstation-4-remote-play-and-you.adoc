@@ -1,0 +1,37 @@
+= Playstation 4 -- Remote Play And You
+:page-layout: post
+:page-navtitle: Playstation 4 -- Remote Play And You
+:page-categories: geekery
+:page-excerpt: Like Legion, this is another one where I just might be late to the party. I don't think so though. I think is something that people are not really aware of. The most important thing about this feature that you likely aren't using is that it is free. Free as in beer and not free as in speech. You do have to own the necessary components, but most people reading this site that are in the Playstation camp likely already have everything they need.
+:page-image: /images/3038597_e5f95e2017.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+
+Like link:http://duesr.com/index.php/2017/03/09/want-fantastic-comic-book-tv-watch-legion-fx/[Legion], this is another one where I just might be late to the party. I don't think so though. I think is something that people are not really aware of. The most important thing about this feature that you likely aren't using is that it is free. Free as in beer and not free as in speech. You do have to own the necessary components, but most people reading this site that are in the Playstation camp likely already have everything they need.
+
+So let's go over it to catch everyone up with what it is and why it is useful.
+
+=== What is Remote Play
+
+Remote Play allows you to stream games from the PlayStation 4 to a compatible device. Don't have a PlayStation 4 to take with you on the road? Well if you have a laptop and a controller, you are good to go.
+
+For more advanced geeks, think of it as Remote Desktop or VNC. The difference is that the streaming is good enough to handle videos. The PlayStation Now service currently allows you to stream PS3 games to your PS4 console. This is just a private version of that service.
+
+Remote Play works across a local network or across the Internet. The limiting factor is only the bandwidth available. I've had it work in hotels to home Internet -- but your mileage may vary.
+
+=== What Supports Remote Play
+
+Primarily Remote Play supports Windows and macOS. There is also the Sony Experia cell phone, the PlayStation TV, and the Vita that supported this functionality. I have seen a discussion that the Vita and PlayStation TV support is being dropped. This is personally annoying since I am one of the few people who own a Playstation TV device.
+
+=== Do I Really Need a Playstation 4 Then?
+
+Remote Play performs a connection back to your personal Playstation 4. The service will not work in any other way. Simply put, you are required to own a PlayStation 4.
+
+=== What Are The Limitations?
+
+The biggest limitation I have found is this only works in a single-user mode. That means if my wife is watching Netflix on the Playstation 4 in the living room, I can't stream a game to my office. Only a single person can access a Playstation 4 (locally or remotely) at a time. If you live in a household like mine where the PlayStation 4 is the main media backend on the TV, you are stuck until it is free. On the plus side, if this is a service you start using all the time, you have an excuse to buy an extra one to stick in a closet or basement attached to your network.
+
+If you feel even more at hacking away at new features -- these can also be done with the PlayStation 3. The Playstation 3 supported Remote Play for PSP and Vita devices. By reverse engineering the protocol, some enterprising developers made a version for PS3 to Windows/Mac clients. You can read more about that here.
+
+Have any of you ever actually done Remote Play, or am I the only one? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

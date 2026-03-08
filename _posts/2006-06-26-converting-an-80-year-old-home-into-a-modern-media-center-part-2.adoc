@@ -1,0 +1,17 @@
+= Converting An 80-Year-Old Home Into A Modern Media Center -- Part 2
+:page-layout: post
+:page-navtitle: Converting An 80-Year-Old Home Into A Modern Media Center -- Part 2
+:page-categories: geekery
+:page-excerpt: Went through and ran more cabling in the last week. I have the rewiring run for 1 phone jack and a new central access point in the house. Wiring is also done for 2 other jacks -- (50 feet goes by fast). There are 7 more drops to wire up.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Went through and ran more cabling in the last week. I have the rewiring run for 1 phone jack and a new central access point in the house. Wiring is also done for 2 other jacks -- (50 feet goes by fast). There are 7 more drops to wire up.
+
+On the Coax side of the coin, there are now 4 coax drops plus the central feed runs into the basement. 2 of these are hooked up and operating. There are 8 runs of this left to go.
+
+As far as RJ-45 network drops these have kept me the busiest. So far there are 9 lines running throughout the house. With 8 left to go. After all the wiring is done then the wall panels are slowly going to be switched out and a patch panel is to be installed.
+
+I'm looking into either a 48 or 96-port patch panel to get everything organized in the new central wiring closet. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

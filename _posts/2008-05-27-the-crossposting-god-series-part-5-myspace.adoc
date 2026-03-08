@@ -1,0 +1,94 @@
+= The Crossposting God Series Part 5 -- Myspace
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 5 -- Myspace
+:page-categories: geekery
+:page-excerpt: OK, I've repeated it a couple of times I think I'm ready to actually talk about it. Unlike some other services where I explain the community and the functions, I'm going to refrain from doing that for Myspace. While I do have a myspace account, I won't say that I truly like Myspace. I haven't even bothered to give myself the uber L33T t cool profile page. It's a thing, not a good thing, not really a cool thing, just a thing.
+:page-image: /images/99884142_2c404a6e8a_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/99884142_2c404a6e8a_m.jpg[,role="text-center"]
+
+_Picture from link:http://www.flickr.com/photos/swanksalot/99884142/[here]_
+
+link:http://www.myspace.com[Myspace].
+
+Myspace.
+
+OK, I've repeated it a couple of times I think I'm ready to actually talk about it. Unlike some other services where I explain the community and the functions, I'm going to refrain from doing that for Myspace. While I do have a link:http://www.myspace.com/creeva[myspace account], I won't say that I truly like Myspace. I haven't even bothered to give myself the uber L33T t cool profile page. It's a thing, not a good thing, not really a cool thing, just a thing.
+
+So if I'm so "meh" towards Myspace why do I post there? Because unfortunately some of my friends haven't seen the light and still utilize the server. I keep in touch with old gaming friends there especially, so I feel I want to broadcast my information there as much as I do anywhere else. I'll tell you what though, it isn't easy. Myspace may proclaim newfound openness, yet getting information into Myspace without using its tools is a pain in the butt.
+
+There are three things you can do remotely to update Myspace and keep your friends up to date on you.
+
+* RSS Widget
+* Status Updates
+* Blog Posts
+
+*RSS Widgets:*
+
+For any site that allows you to place a widget into your profile, and does not allow you any remote options to any other functions, RSS widgets allow you to bypass the whole "you can't put our data in our service unless you use our tools" wall. While Myspace is getting better, it still wants you to play with its tools.
+
+If you do a search for RSS widget "Service Name" in Google you should be able to pick and choose the one that is right for you. By editing your Myspace profile and putting your embed code into your profile, you should be able to display the news feed you want right there on your profile page.
+
+While this is all fine and dandy it doesn't really cover what a crossposting god wants to accomplish, so let's move on to some of the other options.
+
+*Status Updates:*
+
+Your status updates, the "I'm in my room crying cause Kurt Cobain is still dead" status updates that you use on Myspace if you are an aging emo kid, can be done remotely. By utilizing services such as link:http://www.ping.fm[Ping.fm] and link:http://www.hellotxt.com[Hellotxt] you can update this via instant messenger or my choice, link:http://www.twitter.com/creeva[my Twitter account], without ever logging in.
+
+You can do this by creating an account on Hellotxt or Ping.fm and they will give you an email address in which you can notify them of your current status. We've discussed ways to utilize e-mail notifications for use with other services, now you know the gateway to updating your Myspace status message.
+
+*Blog Posts:*
+
+Blog posts are the final achievement of the crossposting god when it comes to Myspace, unfortunately, I only have a solution for WordPress users. There is a plugin called MySpace Crossposter that will send your post over to your Myspace blog when it receives a publish event notification. To get some of the information in configuring this plugin (it's one of the most pain in the butt) you will have to open up your wp-config.php file to get the accurate information.
+
+The options to program this plugin are as follows:
+
+_Database Settings:_
+
+These options will be automatically configured in future versions of the plugin. Most of the data is available in your *wp-config.php* file if you need to reference it.
+
+* *DATABASE HOSTNAME:*_URL of your database host. NOTE: there is no "http://" before this server name_
+* *DATABASE NAME:*_Name of your WordPress database_
+* *"POST" TABLE NAME:*_*Only change if your wp_posts table has a different name… Most users need not change this variable.*_
+* *"META" TABLE NAME:*_*Only change if your wp_postmeta table has a different name… Most users need not change this variable.*_
+* *DB USERNAME:*_Username for the database_
+* *DB PASSWORD:*_Password for the database_
+
+_Blog Information:_
+
+These options will be automatically configured in future versions of the plugin.
+
+* *BLOG URL:*_URL for your blog, complete with http://_
+* *BLOG NAME:*_Name of your blog, as you'd like it to appear on your MySpace post. Please note that it seems to have a problem with nonalphanumeric characters, using them can cause some strange results. I had to configure it to be "Creevas World" instead of "Creeva's World 2.0", your mileage may vary._
+
+_Myspace Login Credentials:_
+
+Without these, you won't be able to crosspost.
+
+* *MYSPACE USERNAME:*_Your *MySpace* username -- usually your email address._
+* *MYSPACE PASSWORD:*Your *MySpace* password.
+
+_Post style:_
+
+Choose "notification" or "full story".
+
+* *POST STYLE:**n* = Notification Style *recommended* (will drive traffic to your external blog) *w* = Whole Blog Entry (formatting may be lost in translation)
+
+Because longer posts like this one won't show up in the myspace blog I just have it set up to post a notification of a new blog post, this also allows me to see how often I get hits from my Myspace blog (not often I've either unloved or uninteresting).
+
+If you have further questions on making this all work together, please drop a comment below. The next chapter in the crossposting god series is going to be on RSS feeds and making them work for you in broadcasting your information across the blogosphere in a controlled manner.
+
+image::/testsite/images/174050658_1d768ddb29.jpg[,role="text-center"]
+
+_Picture from link:http://www.flickr.com/photos/moyix/174050658/[here]_
+
+Previous Entries in The Crossposting God Series:
+
+link:https://creeva.com/index.php/2008/05/27/2008/05/22/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/[The Crossposting God Series Part 1 -- The Introduction]
+
+link:https://creeva.com/index.php/2008/05/27/2008/05/21/the-crossposting-god-series-part-2-vox/[The Crossposting God Series Part 2 -- Vox]
+
+link:https://creeva.com/index.php/2008/05/27/2008/05/22/2008/05/22/crosspost-livejournal/[The Crossposting God Series Part 3 -- Live Journal and Derivative Sites]
+
+link:https://creeva.com/index.php/2008/05/27/2008/05/22/distribution-and-endpoints/[The Crossposting God Series Part 4 -- Entry, Distribution, and End Points] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

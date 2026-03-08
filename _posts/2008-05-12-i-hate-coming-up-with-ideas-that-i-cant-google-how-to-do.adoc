@@ -1,0 +1,21 @@
+= I Hate Coming Up With Ideas That I Can't Google How To Do
+:page-layout: post
+:page-navtitle: I Hate Coming Up With Ideas That I Can't Google How To Do
+:page-categories: geekery
+:page-excerpt: I'm a geek. There is no doubt or question about that. We've established this now, let's move forward. I had a great idea today. I was going to hook up a Bluetooth adapter to my windows file server at home and make a blue tooth file server at home. I also wanted to be uber geeky and send a welcome message via blue tooth to any new blue tooth devices that came within range.
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+I'm a geek. There is no doubt or question about that. We've established this now, let's move forward. I had a great idea today. I was going to hook up a Bluetooth adapter to my windows file server at home and make a blue tooth file server at home. I also wanted to be uber geeky and send a welcome message via blue tooth to any new blue tooth devices that came within range.
+
+However.
+
+It seems that no one has really made a Bluetooth file server. If I had access to such a server I could browse it from my Nokia N810 (yes I know I can already browse via TCP/IP -- go back to where I said I'm a geek), I could also pull pictures automatically off my cell phone when it was in range, and then have those pictures automatically upload to Flickr. I could sync new ringtones on my cell. But it seems that no one has really built a blue tooth file server, at least not on windows.
+
+I know this idea may seem farfetched, but I can find out how to tether a cell phone to my dog that will send me GPS updates via Twitter and google maps data in a ton of different places (all for 30.00 a month). I can have my plants send me an SMS message when they need watering. I can build my own electric induction field to charge my cell phone battery. To install a Bluetooth file server on windows -- I must be insane, or so the google return stats tell me.
+
+I know the full geek out there would drop down and write a new Bluetooth stack via assembler and cross-compile it via a web interface so it was cross-platform, I however am not that geek.
+
+I think I may have to go crawl under a rock now until I can figure out how to get my cupboard to Twitter it's down to its last pop-tart. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

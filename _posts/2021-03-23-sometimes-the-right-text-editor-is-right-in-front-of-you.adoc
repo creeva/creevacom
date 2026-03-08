@@ -1,0 +1,17 @@
+= Sometimes The Right Text Editor is Right In Front of You
+:page-layout: post
+:page-navtitle: Sometimes The Right Text Editor is Right In Front of You
+:page-categories: geekery
+:page-excerpt: I had an issue with my daily journal script. If I collected all the data from sources, generated my daily post, and then made notes -- I was leaving out too many details. If I kept a separate file with notes and then pasted it in, that didn't help me either. Especially if I'm away from my computer, I wanted something that I can use from my phone. It was important that it could sync through Dropbox (hence use it anywhere). Finally, it should be saved with plain text or a simple markup where I could script out the extra markup details.
+:page-image: /images/typewriter-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+
+I had an issue with my daily journal script. If I collected all the data from sources, generated my daily post, and then made notes -- I was leaving out too many details. If I kept a separate file with notes and then pasted it in, that didn't help me either. Especially if I'm away from my computer, I wanted something that I can use from my phone. It was important that it could sync through link:http://dropbox.com[Dropbox] (hence use it anywhere). Finally, it should be saved with plain text or a simple markup where I could script out the extra markup details.
+
+At first, I went to the de-facto standard -- Evernote. This is where millions of people make daily notes to organize their lives. It also works with IFTTT, which means I can use Dropbox with it. So I spent an hour testing this solution, unfortunately, Evernote can mark a post as complete before you are done typing. This means IFTTT pulls and processes it before you might be done typing. This is an issue because you may lose relevant data once it enters your workflow. After wiggling and jiggling, dancing and prancing -- anything to try to make this work I gave up. I thought about OneNote -- but it didn't work with IFTTT. It also likely would generate too much traffic to offload it to a similar service.
+
+To the plain text file, it was. I went through over a dozen free applications. I don't want to disparage the fact that the 9.99 text editor for the iPhone may have done exactly what I wanted. I also didn't want to pay for something when all I needed was the simplest of editors. Some had to manually sync. Some had a completely intolerable interface. Some advertised functions that weren't actually there. I was fed up -- life isn't supposed to be this hard for something with two requirements -- plain text and Dropbox.
+
+Well, it turns out that Dropbox has a plain text editor built into it. If I specify my save folder -- it even hits my workflows and scripts correctly. I've been using this for the last 4 days, and you know what? It works great. I wasn't aware there was a text editor built into the phone app before. That is how you test a simple issue over a dozen different ways and end up with a simpler solution.

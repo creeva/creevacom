@@ -1,0 +1,19 @@
+= Have You Replied To Your Commenters Today?
+:page-layout: post
+:page-navtitle: Have You Replied To Your Commenters Today?
+:page-categories: stories
+:page-excerpt: They (don't ask me who "they" are) say that to grow a blog you need to create a social environment around your blog. This theoretically will make people want to come back and read your blog again and again.
+:page-image: /images/68668349_8c886b904f_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/68668349_8c886b904f_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/fabiovenni/68668349/[here]
+
+They (don't ask me who "they" are) say that to grow a blog you need to create a social environment around your blog. This theoretically will make people want to come back and read your blog again and again.
+
+I'm not going to discredit this theory, but at the same time, it's not the complete picture any more than saying Myspace is one of the greatest websites in the world because of the traffic it generates. Beyond social aspects, you also need good content. Not all of us are good content providers, heck most of you probably hate my stuff. That's fine, no one is forcing me to read it. However, commenting is part of the equation.
+
+Every time someone leaves a comment on one of my blogs I do my best to reply within twenty-four hours. This shows that someone is reading their comments and takes an interest in them. I take an interest in each and every one of my readers, though some of them don't care enough about me to actually leave a comment.
+
+So have you left or replied to a comment today? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

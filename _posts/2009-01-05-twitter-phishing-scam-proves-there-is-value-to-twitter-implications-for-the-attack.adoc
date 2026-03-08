@@ -1,0 +1,39 @@
+= Twitter Phishing Scam -- Proves There is Value To Twitter -- Implications For the Attack
+:page-layout: post
+:page-navtitle: Twitter Phishing Scam -- Proves There is Value To Twitter -- Implications For the Attack
+:page-categories: geekery
+:page-excerpt: The recent Twitter phishing scam had nontwitter users scratching their heads on why this service would be targeted for a phishing scam at all.. Most people view little or no monetary value to twitter accounts. For most people, this may actually be true. For people like Scoble or companies that promote themselves over Twitter, well the brand name damage caused by a hijacked Twitter account could be quite costly.
+:page-image: /images/watch_out.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/watch_out.png[,role="text-center"]
+
+The link:http://blog.twitter.com/2009/01/gone-phishing.html[recent Twitter phishing scam] had nontwitter users scratching their heads on why this service would be targeted for a link:http://en.wikipedia.org/wiki/Phishing[phishing scam] at all.. Most people view little or no monetary value to twitter accounts. For most people, this may actually be true. For people like link:http://twitter.com/Scobleizer[Scoble] or companies that promote themselves over Twitter, well the brand name damage caused by a hijacked Twitter account could be quite costly.
+
+One of link:http://twitter.com/adam_baldwin[my friends on twitter] had a link:http://twitter.com/adam_baldwin/status/1096631125[reply about this issue] (I'm assuming the other person didn't realize the long tail potential impact (yes I used the term long tail -- get over it)). What I saw was this:
+
+[quote]
+____
+@jeremyasmus could be any number of reasons, spread malware, spam, get passwords, us humans tend to use the same password over and over.
+____
+
+This is the crux of the issue, isn't it? The problem isn't the average user with nine friends directly, it's the large power users and the passwords for other services. Let's look at each of these.
+
+Let's say you are link:http://twitter.com/Scobleizer[Scoble] and your account get's hijacked. Scoble has a level of trust built from himself, he is known to get the inside scoop on information, people click his links. Scoble has over 47,000 followers. If his account was hijacked and ten percent clicked a link that was really a malware installer -- that would be 4,700 people infected within a matter of minutes. I think however the number of Scoble followers would be much larger probably in the 50-60% range. For a malware distribution, this is a great return for the time frame, with the added benefit that you may get some other high-profile names in the attack.
+
+The cost to deploy such an attack is extremely low -- under ten dollars, while the net return would be a few thousand, potentially more. Since there is little risk of getting caught if you know what you are doing, you could make some decent money by exploiting this chain of trust that exists and is protected by a mere password.
+
+Let's look at the side of this coin, the normal user. link:http://twitter.com/adam_baldwin[Adam Baldwin] nailed it right on the head when he stated "We humans tend to use the same password over and over". I know I do, though the different levels of things have different passwords -- my banking account does not use the same username/password combination as my Twitter account -- neener/neener. It is however shared with some other web 2.0 services. Some other people may not be so diligent. This once again is a chain of trust issue. You are trusting the companies that you give your passwords to are truly them, so once your password is in the wild it's exposed and all of your accounts are open to attack.
+
+Let's look at the information an attacker can get from you if they have your Twitter password:
+
+*User Name* -- while by itself it's exposing a little bit about your account and your password -- the problem lies in having both bits of this information. That part should be blatantly obvious. The issue lies in the fact that most of us use the same username or "handle" across many sites on the web. Doing a link:http://www.google.com/search?q=creeva[Google search for "Creeva"] yields over 46,000 hits. A lot of these hits are different services that I play with and over 90% of the hits link back directly to me in some fashion. Since most sites use your username as your login name if I used the same password every single one of these services would be exposed if I fell for the Twitter phishing scam.
+
+*E-Mail Address* -- Yes though it may be only a small amount these days, your e-mail address is still worth a few percent of a penny to the spammer. This would get you on more mailing lists, and ones that would be quite hard to get off of. It is also normally used as a login name for services that does not use your handle. More accounts have now been exposed because of this. If your e-mail account password is the same as your Twitter account (dumb mistake) everything about your online life, accounts, and transactions can now be exposed and utilized against you. Would you notice a gmail filter that someone setup to clone every incoming e-mail?
+
+The other issue is even if you do not have accounts that show up in a Google search they could use a service search engine such as Spokeo to find accounts even you may have forgotten about.
+
+*Mobile Phone Number* -- This probably would be one of the most annoying things, that your phone number has been exposed to the internet underground. Phone spam, and call back charges; there are a few things they can do with this number. I do think this is a small annoyance compared to losing your email account.
+
+Being a good security professional my recommendation is to use strong passwords that are unique to each service and are rotated regularly. I am also a realist and know that you want. This may be the time to start doing segmentation where different accounts do get different levels of passwords. This is what I do so if my Twitter account was compromised only the services that I consider on par with Twitter security-wise was at risk. Lower-level accounts would be safe and higher-level accounts would be safe. I also think with the range of accounts, I could move faster than the phishers going through and know what to change faster than they could try all 46,000 sites. It's a thought -- now what are yours? +
+ Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

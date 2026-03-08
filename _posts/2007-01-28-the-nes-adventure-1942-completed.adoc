@@ -1,0 +1,47 @@
+= The NES Adventure -- 1942 -- Completed
+:page-layout: post
+:page-navtitle: The NES Adventure -- 1942 -- Completed
+:page-categories: video-games
+:page-excerpt: In my quest to beat every game officially released for the NES system -- I started with 1942 the first game on the list.
+:page-image: /images/1039657168-00.jpg
+:imagesdir: /testsite/images
+
+In my quest to beat every game officially released for the NES system -- I started with 1942 the first game on the list.
+
+image::/testsite/images/1039657168-00.jpg[,role="text-center"]
+
+image::/testsite/images/1039657165-00.jpg[,role="text-center"]
+
+image::/testsite/images/1039657167-00.jpg[,role="text-center"]
+
+Today was the first time I ever played 1942. Early in the day, I had to continue multiple times on the first level. Thank God this game has unlimited continues. This game is a top-down vertical scroller game. While I can get some enjoyment from these games, generally I loathe them over time and can't play them for more than a few rounds.
+
+Seeing this was an arcade port I used an link:http://en.wikipedia.org/wiki/NES_Advantage[NES Advantage] to play through it. I didn't use slow motion, auto-fire, or any cheat codes. While I will use the continues and count those I will beat every NES game fairly.
+
+Because you have to think to continue (if you hit start at Game Over it starts from the beginning and hence deletes your progress) I had to go through this multiple times, one time it was the dogs that caused this as they hit start for me in between rounds.
+
+I managed to complete the game with five continues for all 32 levels (3 were in the last 10). The highest score was the first round with a score of 451500 according to link:http://www.twingalaxies.com/[Twin Galaxies] this would qualify me for the third place spot for the link:http://www.twingalaxies.com/index.aspx?c=22&pi=23&gi=3645&vi=2886[high score] of all time (recorded). After things are all said and done I may come back to this game for a world record attempt later on. We'll see how that goes.
+
+Ratings:
+
+Graphics -4/10 -- Graphics are not really the high point -- but then the poor graphics don't get in the way. The one sore point I have with the graphics is that sometimes the background made the enemies and the weapons shot at me very hard to see. If I can say anything that is the biggest flaw I can see with this game.
+
+Sound -- 2/10 -- Sound is really lacking -- turn down the volume and listen to something else you would enjoy more
+
+Controls 9/10 -- like any games of this type control is important and this game aims to please
+
+Story -- 2/10 -- the only story is you know this is a WWII pilot going through waves of fighters -- since some games have less of a story than this -- it gets a 2
+
+Ending -- 1/10 -- It says congratulations -- that's it no credits or anything -- and it only says congratulations for about 2 seconds before going to the game over screen.
+
+Fun -- 7/10 -- since I don't really like this type of game normally and enjoyed myself I'm giving it higher than I normally would have.
+
+image::/testsite/images/1942_NES_ScreenShot1.jpg[,role="text-center"]
+
+image::/testsite/images/1942_NES_ScreenShot4.jpg[,role="text-center"]
+
+image::/testsite/images/1942_NES_ScreenShot2.jpg[,role="text-center"]
+
+Since I'm not sure about the quality of my review link:http://www.gamespot.com/nes/action/1942/player_review.html?id=168479[here is the link] to a Gamespot player review.
+
+Next Game: 1943 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

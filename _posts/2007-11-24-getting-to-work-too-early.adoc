@@ -1,0 +1,15 @@
+= Getting to work too early
+:page-layout: post
+:page-navtitle: Getting to work too early
+:page-categories: stories
+:page-excerpt: Well, this is the first day after thanksgiving I have ever had to work. Even when I worked at a small retail store we didn't have the technician side of the business running the day after thanksgiving (which is where I worked). So this is a new feeling for me. On the other hand, I had a friend that stayed over the holidays and needed a ride to work in the morning today.
+:page-image: /images/calligraphy-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+
+Well, this is the first day after thanksgiving I have ever had to work. Even when I worked at a small retail store we didn't have the technician side of the business running the day after thanksgiving (which is where I worked). So this is a new feeling for me. On the other hand, I had a friend that stayed over the holidays and needed a ride to work in the morning today.
+
+I figured instead of taking him back on thanksgiving day I would take the roundabout way to work, drop him off, and then scoot to work myself. I arrived to work and discovered that the doors wouldn't open (key card locks) at 6:00 AM. Ironically I know a couple of people do make it in at 6:30 AM regularly. But being the first one into the office today gave me the great pleasure of sitting in my car in the freezing cold. If you think I'm exaggerating there was snow outside my car that can attest to the contrary. The irony is that it was 70 degrees just two days ago.
+
+Let this be a lesson for those that are too punctual -- find out what time the doors are unlocked for you to enter. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

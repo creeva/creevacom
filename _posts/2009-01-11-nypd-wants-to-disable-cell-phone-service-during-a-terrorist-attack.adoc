@@ -1,0 +1,21 @@
+= NYPD Wants To Disable Cell Phone Service During a Terrorist Attack
+:page-layout: post
+:page-navtitle: NYPD Wants To Disable Cell Phone Service During a Terrorist Attack
+:page-categories: geekery
+:page-excerpt: While I don't really blame NYPD for wanting to evolve and learn from other terrorist attacks, I think they are very short-sighted in the idea of blocking cell phone service in a terrorist attack. I first read about this story on a Wired.com blog entry, I thought how asinine an idea just reading the headline.
+:page-image: /images/2215069210_cdbf2b0bc5.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2215069210_cdbf2b0bc5.jpg[,role="text-center"]
+
+Image from link:http://flickr.com/photos/scelera/2215069210/[here]
+
+While I don't really blame NYPD for wanting to evolve and learn from other terrorist attacks, I think they are very short-sighted in the idea of blocking cell phone service in a terrorist attack. I first read about this story on a link:http://blog.wired.com/defense/2009/01/nypd-eyes-disru.html[Wired.com blog entry], I thought how asinine an idea just reading the headline.
+
+The historical aspect where they are working from is the link:http://blog.wired.com/defense/2008/12/the-gagdets-of.html[terrorist attacks in Mumbai that happened last month]. The terrorists used cell phone networks, GPS, and anonymous e-mail to coordinate their attacks. The NYPD think that if they shut down cell phone coverage in the Big Apple terrorist cells won't be able to coordinate attacks in the big city. There are a few things that they don't seem to be aware of. Terrorists are smart in most cases, citizens are ignorant.
+
+We already saw in the Sept. 11th attacks the panic that is caused by the loss of cell phone service. If there is another large attack, normal people in NYC will panic, since the communication infrastructure was supposed to be strengthened post-9/11. If they can't reach their loved ones, if there isn't a way to get news in and out, people will panic and make the problem larger than it would be otherwise. This is just how normal citizens would react, what about the terrorists?
+
+Well, this news has made it to the web, so terrorists can now plan for this eventuality. They can now be ready to act if their cell phones are blacked out. Also, NYC is the land of open wi-fi hot spots. Anyone with any sense could easily work with a wifi phone or a laptop and still communication with one another. So the next thing they would have to look at is blocking out cellular coverage and all internet access in and out of the city. This is also if they are not coordinated ahead of time. This is all a smoke screen to give the police more power than is needed.
+
+Remember -- "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." ~ Ben Franklin Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

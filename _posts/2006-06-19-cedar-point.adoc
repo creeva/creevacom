@@ -1,0 +1,15 @@
+= Cedar Point
+:page-layout: post
+:page-navtitle: Cedar Point
+:page-categories: stories
+:page-excerpt: Went to Cedar Point at Saturday and we had a blast. Probably the most fun as a group we have all had in over a decade. You never realize that visiting an amusement that was a big part of your day to life as a teenager would be such a trip down memory lane. Before I moved to Oregon we always had season passes so it passed the time and was the same old same old every time we visited.
+:page-image: /images/millennium_force_13.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/millennium_force_13.jpg[,role="text-center"]
+
+Went to Cedar Point at Saturday and we had a blast. Probably the most fun as a group we have all had in over a decade. You never realize that visiting an amusement that was a big part of your day to life as a teenager would be such a trip down memory lane. Before I moved to Oregon we always had season passes so it passed the time and was the same old same old every time we visited.
+
+Now I want a season pass again. Nuff said.
+
+Some disappointing things though about the park -- White water landing seems to be in the stages of deconstruction -- I will miss that ride. I still miss the mill race and the pirate ride. Going back far enough I miss Kid Arthur's court and the earthquake ride. Well, life goes on. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,44 @@
+= Examining Equipment -- Part 1 MN-700
+:page-layout: post
+:page-navtitle: Examining Equipment -- Part 1 MN-700
+:page-categories: geekery
+:page-excerpt: No this is not a review or recommendation post -- the examining equipment posts cover the equipment I already own and what functions I wish to do with them. Ever find that the equipment manuals are terrible or you just can not find a yes or no answer on how something functions? That is my problem.
+:page-image: /images/B0000BZO58.01-A1NDBS7YGOPBD6._AA280_SCLZZZZZZZ_.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/B0000BZO58.01-A1NDBS7YGOPBD6._AA280_SCLZZZZZZZ_.jpg[,role="text-center"]
+
+No this is not a review or recommendation post -- the examining equipment posts cover the equipment I already own and what functions I wish to do with them. Ever find that the equipment manuals are terrible or you just can not find a yes or no answer on how something functions? That is my problem.
+
+Buried in a closet downstairs is a wireless router that is not being used. In my new network design -- I want to use it, but I need it to have NAT disabled so I can go between both segments with their real IP addresses. So I need it to act as a true wireless router and the manual says nothing about this type of function.
+
+The router is an MN-700 Wireless b/g router by Microsoft. When I lived in Oregon it served the purpose for a couple of years but got replaced when I moved back to Ohio. With my new network design though I'm going to have at least 2 wireless zones (2 more planned in the future when I have cash) . So I'm stuck on that question until I have time later to hook it all up and configure it. But the manual should have this information.
+
+But what else am I going to do with it beyond complaining about the lack of text in the manual?
+
+Well, let's look at the rest of the purpose of this machine (other machines mentioned we will go into detail in a later examining equipment.
+
+The MN-700 will ideally be put into a configuration such as the following off the firewall
+
+Wired Clients MN-700 Firewall +
+| +
+Wireless Clients | +
+Wireless Bridge
+
+I will be using WPA encryption on the Clients and the wireless bridge as this wireless network is going to be behind my main firewall (which has 4 interfaces) I want natting disabled since I'll be coming through the firewall to the wired clients at the very least -- and would like to be able to reach all the computers.
+
+Why do I need to reach all the computers?
+
+Remember the mantra to follow is central management and ease of use -- while my network setup when we get through this whole series may not be the easiest to understand nor to configure. When we get to the end users they should not be able to see any impact on their normal usage and it should make everything easy and transparent. Hopefully, it will also make everything more functional where the users are interacting with services they didn't know existed on the network.
+
+Being able to reach all the computers means that I can VNC (covered in a later article) across the network to any machine from any other machine I'm on (as long as I know the password.) This fulfills centralized management and since most of my servers run headless (without a monitor attached) it allows me to administrate them without having the electric bill compounded by the electricity that a monitor would use.
+
+I also have at least one computer in that segment where VNC communication is imperative and there is a file share on that same computer. The reason for this will be covered in a later article when I get to that computer.
+
+What other functions will this router offer?
+
+This router on top of its WPA encryption will be filtering clients by mac address and not all the clients will have a static IP address. So the router will also be the DHCP that services this network segment ( for the record there will be 2 other DHCP servers on the network and no I don't want to go DHCP repeater services so I can have a central one). The DHCP pool is going to be wide enough for 20 addresses in case I get other remote devices that need access via the secured wireless segment.
+
+The router will allow for external management so that from my central desktop or laptop I can adjust or make any configuration changes necessary in a future adjustment.
+
+I'm sure this covers my working with this wireless router -- I'll have a follow-up later on the MN-700 which will include screenshots of the user interface. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

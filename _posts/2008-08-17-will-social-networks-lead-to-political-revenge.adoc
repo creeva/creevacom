@@ -1,0 +1,17 @@
+= Will Social Networks Lead to Political Revenge?
+:page-layout: post
+:page-navtitle: Will Social Networks Lead to Political Revenge?
+:page-categories: geekery
+:page-excerpt: Yesterday I saw an article about Barack Obama being the new number-one person on Twitter. If you don't know what Twitter is, I don't know how you managed to find my blog, but beyond that, it's a micro-blogging site. I've been on twitterfor a while now and I enjoy it, different people get different things out of it.
+:page-image: /images/2586969604_bce15321dc_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2586969604_bce15321dc_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/mallix/2586969604/[here]
+
+Yesterday I saw an article about link:http://www.techcrunch.com/2008/08/13/barack-obama-overtakes-kevin-rose-on-twitter-mccain-is-nowhere-in-sight/[Barack Obama being the new number-one person on Twitter]. If you don't know what link:http://www.twitter.com[Twitter] is, I don't know how you managed to find my blog, but beyond that, it's a micro-blogging site. link:http://twitter.com/creeva[I've been on twitter]for a while now and I enjoy it, different people get different things out of it.
+
+I was thinking about it this morning though, at what point are there going to be repurcussions from social network friends and followers? I'm not talking about a senator tweeting "Out with the mistress for a hot time" and the press finding out about it (though in twenty years I can see that escaping the "Facebook Congress Edition" website. I'm talking about Barack getting number one. I know that NASA has multiple Twitter accounts, do they follow Barack? If they don't what if Barack is really into Twitter, is he going to remember that NASA didn't follow him and adjust their budget accordingly? What about the Burea of Indian Affairs, are they his link:http://facebook.com[Facebook] friend?
+
+While this all seems kind of silly now, it won't necessarily be so in the future. In twenty to thirty years the kids and teenagers of today that live and die by their online social networks are going to be running for office. Will their attention span be as short? Will they be the ones that think social networks are social networking, in general, so important that they will remember who their friends were before their election and act accordingly? This is just pondering, but I am curious Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,29 @@
+= Phone Service Triple Crown
+:page-layout: post
+:page-navtitle: Phone Service Triple Crown
+:page-categories: geekery
+:page-excerpt: Well recently getting a GrandCentral invite I was planning on writing up a review -- this is more likely to come tomorrow. In the interim, I thought I would offer up some phone service solutions for the rest of your voip technology habit
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+Well recently getting a GrandCentral invite I was planning on writing up a review -- this is more likely to come tomorrow. In the interim, I thought I would offer up some phone service solutions for the rest of your voip technology habit
+
+Free 1-800 phone calls to any listed number. Here is the essence f this trick -- call the phone number 1-800-FREE411 -- this takes you to an ad-supported 411 service. After you dial the 800 number and listen to the ad it then takes you to directory service -- you put in the customer you wish to contact and it then connects you for free. Added bonus to this -- link:http://www.skype.com/[Skype] allows you to call 800 numbers free even if you are not subscribed to SkypeOut. So if you have a microphone on your computer you can call anyone as long as they are not unlisted for free.
+
+Free International calls -- there are supposedly 2 ways (link:http://www.techcrunch.com/2007/01/12/complicated-laws-free-calls/[here] and link:http://www.yak4ever.com/[here]) to do this. Both use the same service and this is a way for your cell phone subscribers to get around international fees on the go.
+
+Using your GrandCentral number to link:http://nicklog.com/post/5190286[receive text messages]
+
+Getting GrandCentral on your cellphones web browser by going to this site in your cell phone's browser. If your cell phone can play MP3 it is able to play your messages from the site itself.
+
+If you have the 5 Faves plan from link:http://www.tmobile.com/[t-mobile] and don't care about caller ID from the true caller to GrandCentral here is a neat trick to lowering your monthly bill.
+
+Here is another service not as complete as GrandCentral that allows you a free voicemail box. It is run by link:http://www.netzero.com/[netzero]. Essentially all this is good for on the free side is the ability to have a disposable VM box.
+
+link:http://www.aimphoneline.com/[Another competitor offers free incoming calls to AIM] -- maybe add this number to your GrandCentral list?
+
+And in closing, we'll end with another great Google service -- link:http://labs.google.com/goog411/[Goog411.]
+
+OK, I managed to do more than a triple -- but I hope some of these tricks might help you out. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

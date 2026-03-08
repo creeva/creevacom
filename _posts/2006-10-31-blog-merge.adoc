@@ -1,0 +1,17 @@
+= Blog Merge
+:page-layout: post
+:page-navtitle: Blog Merge
+:page-categories: geekery
+:page-excerpt: Ok, I took all my blogs -- with the exception of SNN, and migrated them all into this page. Hopefully, this will give a more concise reading experience to my friends, family, and suffering folks that read my writings.
+:page-image: /images/200px-Feed-icon.svg1_-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/200px-Feed-icon.svg1_-1.png[,role="text-center"]
+
+Ok, I took all my blogs -- with the exception of link:http://stars-of-intrepid.blogspot.com/[SNN], and migrated them all into this page. Hopefully, this will give a more concise reading experience to my friends, family, and suffering folks that read my writings.
+
+I'm slowly adding all the old poetry and information from my past that I want archived online.
+
+A few things I've noticed though -- I built this page on the new blogger beta -- and a lot of services I was using in the past to post directly to my blog are not working. Hopefully, the support will be there soon -- the best I've seen was Flickr which used the new authentication API to post directly to the blog.
+
+For those folks that haven't seen this new API and don't want to use blogger beta -- download flock -- link:http://www.flock.com/[flock] is a great browser for the new web -- it's built on top of link:http://www.mozilla.org/[firefox] and integrates with Gmail, Flickr, link:http://del.icio.us/[del.icio.us], link:http://www.blogger.com/[blogger], and many other services. I know if you configure your browser for Flickr access it uses the new authentication API. Check it out -- it's cool, it's interesting, and it will kill an hour of your time at least. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

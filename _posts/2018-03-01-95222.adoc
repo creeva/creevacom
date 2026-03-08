@@ -1,0 +1,35 @@
+= Retrometrics -- Deadly Duck For The Vic-20
+:page-layout: post
+:page-navtitle: Retrometrics -- Deadly Duck For The Vic-20
+:page-categories: video-games
+:page-excerpt: While in the last couple days, I've visited known properties such as Popeye and Baseball Stars, today I'm going to go with a game I spent many hours with. Unfortunately (or likely, fortunately) most people have likely never heard of it. This title is Deadly Duck. I had to use the Atari image above because I can't seem to find the Vic-20 box art.
+:page-image: /images/weirdbox_large2-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/weirdbox_large2-1.jpg[,role="text-center"]
+
+While in the last couple days, I've visited known properties such as Popeye and Baseball Stars, today I'm going to go with a game I spent many hours with. Unfortunately (or likely, fortunately) most people have likely never heard of it. This title is _Deadly Duck_. I had to use the Atari image above because I can't seem to find the Vic-20 box art.
+
+Deadly Duck was released for the Atari 2600 originally but was later ported to the Commodore Vic-20. Looking around online there is little information about this game, so I'm going to fill you with all I know. Let's start with how I managed to come across this title originally.
+
+Back in early 1980-something, I begged my parents for an Atari 2600.   Even in my elementary school years I was obsessed with video games.  Unfortunately then only access I had to them was at the arcade.   My father thought video games were just a waste of time, so he wasn't going to get me a console.    However, at some point my parents bought into the whole "your child needs a computer to be apart of the revolution".    One day they came home with a Commodore Vic-20 and hooked it up to the TV.   My digital revolution was getting started.
+
+We followed the manual and did a bit of the programming examples offered. This taught me one thing that I still follow to this day, I did not want to be a programmer. While I finally had a computer and a couple of games -- in the long run, it backfired on me. Even a decade later when I wanted a new computer to play with new games, the answer was you already have one. You win some and you lose some. We'll just leave it that it didn't get much use after I purchased an NES when I was 12.
+
+Because Vic-20 software was harder to find than something like Commodore 64 or Apple II, I begged every single time I saw compatible software.   The best place to find titles for me was Value City in Elyria, OH.   They had a very small computer section, but they carried Vic-20 titles.  I'm sure that _Deadly Duck_ was purchased there.   Hidden under a 6-8 foot wide glass case that the clerk had to open up.
+
+Did I know what _Deadly Duck_ was?  Nope.   Did I care?  Nope, it was new software in a time where software was scarce . My other choice was to spend 6 hours typing in a game into the Vic-20 for something new to play.   Once again this was just reinforcement to never go into programming.  Especially since it would be another 3-4 years before we inherited a tape drive that could actually store software on it.
+
+The _Deadly Duck_ cartridge was shaped differently than the standard Commodore cartridges.  Commodore didn't enforce the licensing that Nintendo would later do, so anyone could make a cartridge in any shape they wanted.  I'm sure I noticed this back then, but I don't think I really cared or understood it.
+
+Deadly Duck was essentially a Space Invaders clone.  There was enemies overhead that dropped bricks.   If the bricks hit you, you would die.   If they landed in the water, they stopped you from going past them.  You could shoot the bricks while they were falling and score points, but more than likely you were only shooting them so you wouldn't die.
+
+The game played in a frenzy. It went fast and the game was frantic. I almost think the gameplay video above it has the correct speed. You would think that would have been two fast to be acceptable, but it was. Luckily I also had another space invaders clone called _Vic Avenger_. This was a decent substitute for an actual copy of _Space Invaders_. _Deadly Duck_ likely would have just had me pine for more authentic game play to the arcade game it is based on.
+
+The best part of the game was every time you shot bullets out of duck-bill, a quack sound effect played.   Being somewhere between 6-8 years old, this was awesome. I'm only assuming there are bullets since the cover art.  While he's an 8-bit blob on-screen the cover art makes him look like some mallard bionic experiment.   It's was the 80s -- it was all good.
+
+image::/testsite/images/archer-super-deluxe-competition-joystick-commodore-64-128-amiga-vic-20-12a8-box-8bfc9956bc181f6e5285bd38e4d1876d-1.jpg[,role="text-center"]
+
+One of the best things though, my parents bought me a decent joystick.  It was identical to the one above.   They went above and beyond since they skipped the standard Commodore brand joysticks or a compatible Atari 2600 one.  I actually miss this joystick.   We went on wild romps together -- quacking, shooting bricks, other stuff.
+
+I actually still own two Vic-20s. Unfortunately, it's not my original system. However, I do have the original box that is over 30 years old. Whenever I see Vic-20's for dirt cheap I'm compelled to pick them up. 30 years later I don't have a Commodore 64 or an Apple II -- but I have 2 Vic-20s. I must be a masochist.

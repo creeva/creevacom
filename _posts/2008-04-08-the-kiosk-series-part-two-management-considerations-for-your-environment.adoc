@@ -1,0 +1,35 @@
+= The Kiosk Series -- Part Two -- Management Considerations For Your Environment
+:page-layout: post
+:page-navtitle: The Kiosk Series -- Part Two -- Management Considerations For Your Environment
+:page-categories: geekery
+:page-excerpt: Recently I've been put forth to design a kiosk solution for our internal environment. This is the second part of my kiosk series which is going to examine the testing and deployment of such a system. To read the first section go to Part One -- Choices For Your Environment.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Recently I've been put forth to design a kiosk solution for our internal environment. This is the second part of my kiosk series which is going to examine the testing and deployment of such a system. To read the first section go to Part One -- Choices For Your Environment.
+
+Kiosk System Management Strategy
+
+There are multiple issues involved with managing a "kiosk system". We have to look at the problems we will face whether they are considered to be internal or external. From a security and management scope of this document, we are going to assume they are located on the company guest network. If the machines are located within the internal network the current maintenance procedures will apply.
+
+While this is still in the design period the final abilities of both the kiosk system and where it falls have not been decided upon. Until another strategy is decided upon we are going to assume that these systems will be a member of the domain.
+
+*Hotfix and Patching:* Within the internal network we currently use a mixture of link:http://technet.microsoft.com/en-us/wsus/default.aspx[WSUS], SMS, and link:http://www.symantec.com[Antivirus] servers to keep computers up to date. Something similar would have to be replicated either on the guest or DMZ network. If it is located on the DMZ network controls would have to be in place so that the communication is pushed to the client for updates instead of the client pulling the information. If the information absolutely must be pulled, this will be addressed in the section below titled "Securing Connections".
+
+*Break/Fix Issues:* Next to the computer there will have to be a phone located so users can report any issues that a kiosk should have. Upon receiving the call and logging it, normal break/fix procedures would apply.
+
+*Remote Desktop:* Going from the DMZ to the guest network we should be able to link:http://en.wikipedia.org/wiki/Remote_Desktop_Protocol[RDP] into the kiosk unit.
+
+*Remote Monitoring:* For the best security standpoint all of these units should include full auditing. The audit trail could be maintained locally with a remote server from the DMZ pulling in the logs via either a script or an off-the-shelf utility designed for pulling log files off of the machine.
+
+*Utilization Report:* Similar to the Audit log we can get a utility that monitors the utilization of these units and pull them into the internal network. This can be done after tracking down a third-party program that allows for utilization monitoring or by parsing the audit log and turning that into a utilization report.
+
+*Seat Type:* A new seat type would have to be established to accommodate the additional costs incurred from the environment setup and maintenance of these units including but not limited to the additional costs possibly incurred by having a phone nearby to inform the help desk of any issues.
+
+*Security Plan:* A new security plan would have to be established since there will configuration settings that do not fit into the current security plans that the company has established. While these will fall under a site security plan, none of our existing would not be able to fit these systems under their configuration options.
+
+*Privacy Controls:* Depending on the kiosk solution we go with -- whether it be a login-based solution where they have a full application suite or a web kiosk something must be done to maintain user privacy. After an inactivity time (amount to be specified later) which would either clear the process from memory or log the user out of the kiosk completely depending on which kiosk method we are using in a couple of methods. One would be an off-the-shelf software product to this, at this point, I would assume we would use all of their privacy and utilization reports. Another option would be to set up a script to kill the process or automatically log out the user and utilize the screensaver in the kiosk to run this functionality and monitor idle time.
+
+*Securing Connections:* If the machines must pull information from the machines in the DMZ, then the best method would be to utilize link:http://en.wikipedia.org/wiki/IPsec%20[IPSEC]. This would limit the number of ports needed and allow us to lockdown communication to only the specific server that the kiosk would need to talk to. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

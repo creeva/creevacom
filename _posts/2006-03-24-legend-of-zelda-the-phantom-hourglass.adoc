@@ -1,0 +1,17 @@
+= Legend of Zelda: The Phantom Hourglass
+:page-layout: post
+:page-navtitle: Legend of Zelda: The Phantom Hourglass
+:page-categories: video-games
+:page-excerpt: Just watched the video, if I don't get off my butt to get DS because of the new Super Mario Bros. game I will get it for this.
+:page-image: /images/The_Legend_of_Zelda_Phantom_Hourglass_Game_Cover-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/The_Legend_of_Zelda_Phantom_Hourglass_Game_Cover-1.jpg[,role="text-center"]
+
+Just watched the video, if I don't get off my butt to get DS because of the new Super Mario Bros. game I will get it for this.
+
+It seems to be just the right mixture of traditional Zelda and wind walker. All in all, it is a perfect melding of the game as it moves to reinvent itself.
+
+More big news for the day, the Nintendo revolution is going to be able to play genesis and turbo-Grafix 16 games. All this is through a virtual machine, which we still don't know the pricing off.
+
+Well, I'm on an airplane at 26,000 feet and don't have much else to say. Later. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

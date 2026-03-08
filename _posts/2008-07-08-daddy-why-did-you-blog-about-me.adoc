@@ -1,0 +1,27 @@
+= Daddy, Why Did You Blog About Me?
+:page-layout: post
+:page-navtitle: Daddy, Why Did You Blog About Me?
+:page-categories: stories
+:page-excerpt: This is a letter to my future child.
+:page-image: /images/123586658_05f0efad0d_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/123586658_05f0efad0d_m.jpg[,role="text-center"]
+
+This is a letter to my future child.
+
+Dear Little One,
+
+Though by the time you read this, you will be old enough, hopefully, to comprehend it. Who knows you may even have brothers and sisters by this time. I'm writing this because I know that your mother and I will make mistakes. Contrary to what we may teach you we are just human and not super-human. We possess no special abilities beyond judgment that are tempered with wisdom that we have arrived at through age. We will screw you up. That is an unfortunate fact. Like your grandparents, we will think about ways we can do things better with you than they did with us. It is highly likely that we, like them, will screw you up and make you less than perfect the same way they did it to us. The only thing you get to look forward to is when you screw up your own children by teaching them in ways that you perceive were the wrong ways to handle you.
+
+We will always love you in an unconditional way. We may get angry at you, and I'm positive you will get angry at us. I hope it is not last. Our home will always be a home with a place for you in it and a place that you can come back to. If you are sixty and I'm ninety-three you will always be welcome to live with me. Though expect me to drive you up the wall as I do to your mother sometimes. Your mother and I may fight, that's because we are very strong in our ideals. You will learn that a lot of what your mother and I fight about is much different than other parents. This is because we are strange, please see the section where I said that we will screw you up and our parents screwed us up.
+
+I write this to you now to give you something to read that is just for you and your siblings. An understanding in case I'm not perfect. A message if I'm not vocal enough in expressing my feelings. A hope that you can learn and grow from the things I write down and give you a moment in time to grasp across and see if in the future you have the same feeling and problems as I do now. Not everything is time period specific, something transcends human time to give you an emotional connection with what you feel is important.
+
+I blog about you so you will always have a sense of who I am. How I experienced things. What I believed in. It may not be the same as you feel in the future, but hopefully, you will the struggles I overcame to get to the place you know me. I'm sure there will be many stories I tell you over the years that won't be recorded. Hopefully, you will be able to keep these forever so you can have a piece of me with you always and something to pass down to your own children.
+
+I can't wait to meet you for the first time, to read to you, and to cuddle with you. These are going to be the experiences I will cherish even when you have far outgrown them. I hope you gain the same in return from your own children. I will write you more in the coming future. See you in a few months.
+
+Love,
+
+Your Father Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

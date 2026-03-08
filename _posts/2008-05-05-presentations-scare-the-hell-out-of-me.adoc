@@ -1,0 +1,19 @@
+= Presentations Scare The Hell Out Of Me
+:page-layout: post
+:page-navtitle: Presentations Scare The Hell Out Of Me
+:page-categories: stories
+:page-excerpt: Now I'm not going to say that I'm incapable of giving presentations, I've given my share. I've taught training classes. I've given pitches and reporting data to CIOs of Fortune 500 companies. I've given a couple of public presentations at a convention. I've done this before and I'll do it again. That doesn't make it any easier. We've moved up from being high school students that used note cards, now we're adults that use PowerPoint presentations. Essentially it is the same thing, but now everyone else can see your note cards. Since everyone else can see them don't be a complete putz and read them verbatim.
+:page-image: /images/154462206_cad1cb8c23.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/154462206_cad1cb8c23.jpg[,role="text-center"]
+
+Now I'm not going to say that I'm incapable of giving presentations, I've given my share. I've taught training classes. I've given pitches and reporting data to CIOs of Fortune 500 companies. I've given a couple of public presentations at a convention. I've done this before and I'll do it again. That doesn't make it any easier. We've moved up from being high school students that used note cards, now we're adults that use PowerPoint presentations. Essentially it is the same thing, but now everyone else can see your note cards. Since everyone else can see them don't be a complete putz and read them verbatim.
+
+I can say at the beginning of one training class I did read the slides verbatim, but I told the class I was going to and that I was forced to show them the slide show. After the idiotic PowerPoint presentation, I taught them properly.
+
+Why then am I scared or nervous?
+
+I think it deals with scope. The smaller the audience the easier I handle it, I can control the crowd and the conversation. Handling things coming from 6-7 people at once is my specialty. On the other hand, large-scale presentations when you are passing the 20-people mark, that's my weakness. It really is no different and I don't know why I have a problem with it. It's a demon I wrestle with. For the most part, I prefer to be the problem-solving, the implementation guy, the brains. I don't like being the presenter or the frontman.
+
+So this is what I'm facing tomorrow. Wish me luck. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

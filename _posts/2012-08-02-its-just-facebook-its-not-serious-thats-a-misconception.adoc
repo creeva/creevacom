@@ -1,0 +1,31 @@
+= It's Just Facebook, It's Not Serious -- That's A Misconception
+:page-layout: post
+:page-navtitle: It's Just Facebook, It's Not Serious -- That's A Misconception
+:page-categories: stories
+:page-excerpt: The other day someone on my friend list was unfriended by someone else. Their response is that the other person should just grow up, it's just Facebook. I thought about that for a minute. I didn't think of it in regard to them, just a general examination of that statement. For that person, I'm sure it is just Facebook. A novelty they use to pass the time and to be entertained. There are many people who feel that way. Some of those people are completely correct in that view (for themselves). Others are completely wrong.
+:page-image: /images/500px-Facebook-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/500px-Facebook-1.png[,role="text-center"]
+
+The other day someone on my friend list was unfriended by someone else. Their response is that the other person should just grow up, it's just link:http://facebook.com[Facebook]. I thought about that for a minute. I didn't think of it in regard to them, just a general examination of that statement. For that person, I'm sure it is just Facebook. A novelty they use to pass the time and to be entertained. There are many people who feel that way. Some of those people are completely correct in that view (_for themselves_). Others are completely wrong.
+
+In an era where we don't make phone calls that last for hours, we don't write letters, and fewer people are actually using e-mail Facebook is a primary communication tool. I would prefer we all went back to email, but that's not practical. For mass communication among a group, we have moved past e-mail. E-mail is reserved for private one-on-one communications and not much else these days. Do you even know all the email addresses of the people you communicate with regularly on Facebook? I can't even tell you the phone numbers or even what state some of mine live in.
+
+When I was a teenager, like most of my generation, I spent hours on the phone. Local phone calls were free and I would tie up the line for hours. Teenagers for the most part don't do that anymore. It is either texting or Facebook. I'm expecting by the time my son is a teenager that it will be only Facebook or whatever its replacement is.
+
+Facebook has become a major communication that has toppled the main stays and staples of society. Even the term friend has changed. Ten years ago the term had connotations that ranged from someone close to you through to co-workers and some acquaintances. When we look at the modern teenager, these people will never lose touch with grade school friends unless they want to. That person that lent your kid a bucket in the sandbox, yeah in forty years they will be arguing over politics and living three thousand miles apart. They may not even see each other again in person after the bucket. They will stay in touch though.
+
+Just from a communication standpoint, being able to have access to a number of close to a billion users is not something that shouldn't be taken seriously. The United States Postal Service only handles delivery of messages to less than a third of that. The volume of the USPS delivery is also a fraction of what you receive in your average Facebook news feed daily.
+
+News is also a big item on Facebook. If you set up your account correctly with the right news feeds, you can replace going to other spots for news. This could entail right-wing news, left-wing news, moderate news, sports, geek news, and everything else under the sun. In some ways (_sadly_) some people could get by without visiting any other page. Not only did Facebook replace quite a bit of communication, but it has also replaced the newspaper and television news as a delivery service of information.
+
+This audience also makes Facebook big business. We are all aware of the advertisements that Facebook keeps trying to increase in frequency. They do this to increase their profit margin. Lots of companies put money into Facebook just because of the audience size. link:http://online.wsj.com/article/SB10001424052702304192704577406394017764460.html[Not all companies investing in advertising think it is a good value]. You can not argue with the exposure though.
+
+What about the other companies that aren't huge contributors to the ad revenue? It's easy to talk about Fortune 500 companies and Facebook billionaires, but the ecosystem created by the social network has spawned an online app ecosystem. This ecosystem has created many other billionaires and millionaires in their own right. Most of the companies don't pay for advertising other than spamming your friend list. We all complain about the messages. The key thing to remember though, if you're not paying for something, then you are the product.
+
+Finally, we get into terms of social responsibility. We are told to keep our feeds private and to be careful what we post. That a simple search in the future will expose that you were drunk five years ago at a party and you won't get hired. These social norms will also change over time. They are important for the moment. None of us wants to be banned from a job today because there is a picture of a red cup in our hands.
+
+Because of the inertia of Facebook, pressure extends beyond being careful about what you post. At first, it was your friends and family pressuring you to join. They wanted to share with you and comment with you. The volume however makes matter worse than being harassed by your friends. It is beginning to become suspicious if you don't have a Facebook account.
+
+All day long you can look at silly pictures and get into mock debates with your friends, but this isn't something that was as easy of a task ten years ago. Can't sleep? Roll over in bed and discuss a pop culture show with your friends on the other side of the globe. Want to know the Olympic highlights? Just ask and you'll be given links within minutes. Want to lose friends? Just discuss your political ideals and you will get unfriended. All of this happens on an average day. The frequency of course is dependent on your social graph. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

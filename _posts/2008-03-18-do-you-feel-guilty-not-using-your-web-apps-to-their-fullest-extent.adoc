@@ -1,0 +1,33 @@
+= Do You Feel Guilty Not Fully Using Your Web Apps?
+:page-layout: post
+:page-navtitle: Do You Feel Guilty Not Fully Using Your Web Apps?
+:page-categories: geekery
+:page-excerpt: I know we all reach fatigue when it comes to using certain web apps/sites / etc. but at what point do you feel guilty?
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+I know we all reach fatigue when it comes to using certain web apps/sites / etc. but at what point do you feel guilty?
+
+When was the last mp3 song you submitted to link:http://www.last.fm[last.fm]?
+
+Have you updated all your latest photos on link:http://www.flickr.com[Flickr]?
+
+Remembering to link:http://www.digg.com[digg] the stories you like?
+
+Saving your bookmarks to link:http://del.icio.us[del.icio.us] and not locally?
+
+Blogging?
+
+Saving all the movies and books you've consumed to link:http://www.allconsuming.net[allconsuming]?
+
+and on..
+
+and on..
+
+Sometimes it's a juggling game that is a huge pain in the ass. Some applications are doing it right, like setting your status messages across multiple social networks. Because of this I can directly or indirectly thanks to services that interact with it I use Twitter the most and the most regularly.
+
+Though I do look at all the things I'm missing to virtually save by being preoccupied with something else. I can't make a determining factor whether it's a good thing or bad, but with my time-wasting normal self, I can't say it's that good of a thing, if I had a real-life it might be.
+
+I'm working on my guilt, but sometimes I feel like the fat kid who got caught walking out of the Cheesecake Factory by his friends from Weight Watchers. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

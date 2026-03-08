@@ -1,0 +1,21 @@
+= The Ubuntu Journey -- Part 3
+:page-layout: post
+:page-navtitle: The Ubuntu Journey -- Part 3
+:page-categories: geekery
+:page-excerpt: Some random thoughts though I'm currently away from my laptop.
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+Some random thoughts though I'm currently away from my laptop.
+
+One thing I noticed last night is that things consistently downloaded faster on Ubuntu compared to Vista (and I had better speed in Vista than XP). So points are definitely on the TCP/IP stack in Ubuntu compared to Windows. The difference I noticed was so significant for me that I wonder why more of the power game that attempts to squeeze every last kilobit out of their network connection for latency and speed doesn't migrate over for some games.
+
+The issue I don't like -- some sites (like my blog) don't render the same way -- not terrible or necessarily wonky but different -- my blog for example doesn't look right. It's not just the fonts that are slightly different -- the site's CSS is slightly off in Linux compared to windows. The irony of this ordeal is that I'm using Firefox in both environments. You would think that there would be the same rendering engine in the back end, but I'm not so lucky. So this will go into hunting down CSS fixes.
+
+I did get unlucky that Star Wars Galaxies managed to upgrade to a new launcher while I was in the middle of this -- guess I'll have to log in via the desktop until I manage to get the launcher working.
+
+WoW is working but is slow -- I need to reduce the resolution from the size it's using since that is causing most of my issues -- it just crashes when I change it -- I found some answers on correcting these issues online today though.
+
+All in all successful -- video rendering looks better than Vista -- I'll keep posting as I have findings. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

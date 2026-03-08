@@ -1,0 +1,21 @@
+= Draft Overload
+:page-layout: post
+:page-navtitle: Draft Overload
+:page-categories: stories
+:page-excerpt: You ever get one of those times that you step away from your blog for a few days (ok a couple of weeks for me) and it seems that you need to go through the steps to clean up your drafts, finish your writing, and then you may feel complete. I'm having one of those days.
+:page-image: /images/3038597_e5f95e2017.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+
+You ever get one of those times that you step away from your blog for a few days (ok a couple of weeks for me) and it seems that you need to go through the steps to clean up your drafts, finish your writing, and then you may feel complete. I'm having one of those days.
+
+I've logged in and taken out of drafted and posted all my life caching items, I'm starting to go through my other drafts and just feeling a little bit overwhelmed. I have things in all sorts of different stages of draft form. An article about my paternal grandfather is about 30% done. A draft on my first day of work with Symantec is about 10%. I have varied things to finish via life notes. I have pictures I still need to scan from photo albums.
+
+Arrrrggggg.
+
+Then you have all the things outside of the blog and this writing that causes hassles. I have house issues I need to worry about, pet issues, relationships issues, my laptop crashed thanks to an automatic link:https://wiki.ubuntu.com/HardyHeron[Hardy Heron] update (fixed after 3 days of figuring it out myself thank you), community band, link:ttp://live.gnome.org/Conduit/Documentation[Gnome Conduit documentation] I need to finish and link:http://fdcc.nist.gov/[work-related projects]. We'll say that's just a start -- but geez my life seems to be a whirlwind sometimes that doesn't stop.
+
+And then we're back to the blog. I'm actually bad. I need to look at and write on the blog more often. It relaxes me. It actually completes me in a Jerry Macguiresque way. Getting more serious writing on my blog gives me the true fulfillment in my life that only two other things give me currently. My wife, is my stability, my rock, the one that inspires me to be better than I am. She has a higher viewpoint of me than I do myself. Even though I think she is wrong, I know her belief in my skills is not false from her point of view, just false from my belief in reality. I love her deeply and completely. The last thing that finishes off my triage of life and completes me is playing music in the two community bands I am a member of.
+
+These are the three things that I attempt to focus on -- to get out of the draft -- because it calms and centers me. I hope the three of them are never finished. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

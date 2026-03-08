@@ -1,0 +1,45 @@
+= XBMC for Apple TV2
+:page-layout: post
+:page-navtitle: XBMC for Apple TV2
+:page-categories: geekery
+:page-excerpt: Yes, I know that this software is available for a while. I actually had it months ago until Netflix stopped working on my Apple TV2(for the rest of the post the Apple TV2 will be referred to as ATV). When Netflix stopped working I was forced to try and upgrade the firmware. Unfortunately, this fixed the problem and left me without XBMC. I didn't really need to have time to dig into it before, but I'm in a completely different spot right now for my media needs. So let's get into this.
+:page-image: /images/25241898_aa45084bd8.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/25241898_aa45084bd8.jpg[,role="text-center"]
+
+Yes, I know that this software is available for a while. I actually had it months ago until Netflix stopped working on my link:http://www.apple.com/appletv/[Apple TV2](for the rest of the post the Apple TV2 will be referred to as ATV). When Netflix stopped working I was forced to try and upgrade the firmware. Unfortunately, this fixed the problem and left me without XBMC. I didn't really need to have time to dig into it before, but I'm in a completely different spot right now for my media needs. So let's get into this.
+
+I've used link:http://xbmc.org[XBMC] for a little over three years now. My first go-around was with the original X-Box. link:http://www.instructables.com/id/How-to-softmod-your-xbox...for-FREE/[These steps] are the same as the ones I followed to soft-mod the X-Box. This worked fine for around a year. Then for some reason or other, I had to update XBMC (something wasn't working right). I updated it and something went wrong. I corrupted my hard drive and all I was left with was a shell of an X-Box. For a while we had a standard computer hooked up to the TV to compensate, but this became cumbersome in its own right.
+
+So we purchased the ATV to supplement our TV needs and hopefully replace the computer. Since we were an apple accessory house (multiple iDevices) it didn't seem outrageous to start moving to MP4 as the standard. After I spent weeks converting my previously avi DVD and VHS rips to MP4 I had them all loaded into iTunes. For the most part, this worked. As time went on however we noticed things were not working as well as we hoped.
+
+New DVDs that I straight ripped to MP4 seemed to all work perfectly fine. AVI's that I converted worked about 50% of the time. We would start watching a movie and the sound would be off from the start, or it would be off at the end. Slowly I worked to clear out these faulty files -- but it was proving to be a pain to reconvert them and try again or to hunt down the DVD trapped away in a box in the attic to rip from the source again. There had to be another way to do this.
+
+Luckily for us I noticed that XBMC for iOS devices was released, and shortly a version came out for the ATV. I had to learn how to downgrade my ATV to an earlier version, then how to jailbreak it. The first thing I noticed was comparing playback. When I played an MP4 I knew it looked sharp and crisp on the ATV through iTunes sharing. However, when I played through XBMC the playback was muddier and grainier. After some attempts with this I just really gave up and didn't go further. I'm almost positive it is a codec issue but I didn't feel the need to investigate further. So many people were raving about the ATV in their setup that I must be doing something wrong.
+
+A few weeks ago I started using XBMC on my laptop for playback when I am in "relaxation mode". The best part is that he gave me offline library access to see what movies I had and didn't have. So I used this and started scraping my library. Looking at the stuff I hadn't converted to MP4 just because of all the out-of-sync sound issues I had had. This was a moment of nostalgia for me and I really missed my XBMC setup. At first, I just wanted to build a new proper media PC. The problem is I don't really have the space -- and what space I did have been going to cause me heat issues. I considered buying a different set-top player that could handle my file formats -- but I wasn't sure what I was going to get. A Boxee Box might still be in my future. So it came down to if I wanted to try again on the ATV.
+
+The first issue was that I was using firmware that there wasn't a jailbreak. This changed late last week when the latest version of Season Pass was released. I was now capable of re-jailbreaking my device. I knew I had some issues last time I jailbroke it, but I didn't remember what they were since part of the issue was firmware downgrading. This time was no different, though I believe I had different issues.
+
+I followed the directions from Season Pass and I was having a hard time getting the device into DFU mode. Micro USB cables are not in abundance in my house (you can't step without spotting a mini USB). The only micro USB cable I could find at all to work with was the cable that came with the link:http://www.amazon.com/Kindle-Wireless-Reader-Wifi-Graphite/dp/B002Y27P3M[Kindle]. I think this cable was the cause of my Woes. The device would not go into DFU mode with the power disconnected. Reading further I saw this could be caused by what the cable was rated for. If it is rated for charging it may not handle the rest of what is necessary. I attempted to perform this with the power plugged in and it would go into DFU mode, but the firmware would be corrupt and the device would need to be restored with official firmware. I did this three times.
+
+What finally did work was doing the following steps:
+
+. Plug the device into the USB without power and hold down the buttons to place it into DFU mode
+. When the device starts its fast blink I plugged in the power cord
+. When the software found that a device was detected in DFU mode I pulled the power code
+
+Following those steps, I was able to jailbreak the device without a hitch. I did try leaving the power after I the software detected it, but this led to the same issue of corrupt firmware. Once I was done I was ecstatic (since this took me a couple of hours at least). I once again triumphed over the machine.
+
+The next step was to install XBMC. Remembering the device checks for updates regulary and this causes XBMC to crash I SSH'ed into the box and link:http://forum.xbmc.org/showthread.php?t=96685[edited the host file as per this document]. I was all set to install XBMC. Unfortunately, this version of Season Pass does not add the handy-dandy drop-down menu that let you install it from the TV interface. That's ok I've done this before.
+
+While I was still SSH'ed into the ATV I followed the instructions for installing XBMC on it. After 5-10 minutes I was done. At one point it looked like it was hanging and I manually rebooted the device. On the second attempt it hung at the same spot, I just waited and the installation completed. I now had an XBMC menu on my ATV. I could have installed other software on the box at this time, but really I have no interest in doing that.
+
+I chose the vertical Confluence theme because it is the same one I am using on my laptop and I have no issues with it. The default horizontal menu theme that came with the installation didn't seem right to me. The first thing I noticed was that I could use the remote app from my iPhone to control the screen. When I installed XBMC months ago only worked with the hardware remote that came with the device. Normally we never use that remote, so it was nowhere to be found. I had some XBMC remote apps for my phone so I used those. It was a kludge jumping from one app to another but it worked.
+
+I went through and started adding my libraries, matching up what I have configured on my laptop. Then I started scanning the content into the library. The scanning only works for a bit then the software crashes. This causes you to go in and start scanning all over again. Last night I had it go for a couple of hours without a crash -- that was a record.
+
+The interface is not as responsive as it is on the computer. This is because it isn't as high-powered as a device. Once playback started everything was smooth. HD content looks perfect on my TV. Standard Definition is another issue. I am noticing the same problem that I noticed last time I jailbroke the device. It some content isn't as sharp (noticeably, not subtly) as it is when I play the same file in the standard ATV interface. This was just MP4s -- we had moved to the PS3 to watch AVI's and there was a significant difference in quality there also. Looking a bit further this does seem to have everything to do with codec, but I don't know what.
+
+I am overall happy. I have a killer iPad remote app now that works perfectly. I can control it from my phone. I can play almost any file format I want. Life is good at the moment. I do hope they get the codec issue for non-HD content fixed soon -- when that happens this will be a flawless and great setup. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

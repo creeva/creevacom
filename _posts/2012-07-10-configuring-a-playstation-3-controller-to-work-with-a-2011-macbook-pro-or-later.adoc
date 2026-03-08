@@ -1,0 +1,32 @@
+= Configuring a Playstation 3 Controller To Work With a 2011 Macbook Pro (or later?)
+:page-layout: post
+:page-navtitle: Configuring a Playstation 3 Controller To Work With a 2011 Macbook Pro (or later?)
+:page-categories: geekery
+:page-excerpt: I know most people don't care about this post, but I don't want to ever hunt for the information again. Hopefully, this helps someone out.
+:page-image: /images/39150253_5ded166fe1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+
+I know most people don't care about this post, but I don't want to ever hunt for the information again. Hopefully, this helps someone out.
+
+I was messing around with an NES emulator last night on my Macbook and I wanted to use a joystick. I found a link to a site that stated it had special drivers for the PS3 controller to attach to OSX. I have a PS3! I have OSX! I may have just found a solution!
+
+Going to the site it stated that the project was discontinued because native PS3 drivers are included in OSX Lion. Well, that's awesome I went and plugged in my controller via USB. I hit the power button on the controller. The PS3 turned on. I go and turn off the PS3 and try again. Finally, I managed to get the controller into pair mode via Bluetooth. I'm still not sure why it didn't work via USB, but I typed in "0000" as the pairing code. IT'S CONNECTED! WTF? IT'S ASKING FOR THE PAIRING CODE AGAIN.
+
+I head back to the interwebs to find the proper pairing codes. It turns out all the pairing codes as useless. By default, this will happen every time with the Bluetooth 4.0 drivers in the 2011 Macbook pro. There is a workaround.
+
+Before you get to the steps below you must get your PS3 controller into pairing mode. To do this plug in the PS3 controller to the USB port of your Mac. Then you should hit the power button on the controller. Unplug the controller and it will be in pairing mode. Once your Bluetooth is detecting your PS3 follow the instructions I found below.
+
+link:http://forums.macrumors.com/showthread.php?t=1202616[Mark427 from a forum had this information to add]:
+
+[quote]
+____
+1. Open bluetooth from system preferences.
+2. Get your PS3 controller to ask for pairing passcode (pressing PSX button). 3. Then enter new passcode (I used letters only "xxxx" don't know if it matters)
+4. Now you should see PS3 Controller "Connected" in that list of Bluetooth devices. Select it and click the little gear in the bottom left corner and select add to favorites and then update services.
+5. THIS IS THE STEP THAT FINALLY MADE IT REMEMBER. Turn off Bluetooth right away before it asks to pair all over again. The lights on the controller should stop flashing. Turn Bluetooth back on.
+6. Press PSX button once and should pair in bluetooth right away. The lights will start flashing again and stay flashing all the time. They turn off when you disconnect it from bluetooth or turn bluetooth off.
+____
+
+If these steps don't work for you, I can't help you. I almost think this works through the power of fairy dust or prayer. So many people have had issues getting the PS3 controller to work with the Bluetooth 4.0 chipset. Another item of note, your PS3 controller indicator will be blinking on all four LEDs. This behavior seems to be normal. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,17 @@
+= Friends and Acquaintances
+:page-layout: post
+:page-navtitle: Friends and Acquaintances
+:page-categories: stories
+:page-excerpt: I have a friend that I somewhat regularly talk with over instant messenger. He keeps pressuring me to write more about our life in high school. The highlights we did and the little things that made life back then great. Soon I'm hoping to share some of those stories with which I can get away with and share.
+:page-image: /images/alcohol.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/alcohol.jpg[,role="text-center"]
+
+I have a friend that I somewhat regularly talk with over instant messenger. He keeps pressuring me to write more about our life in high school. The highlights we did and the little things that made life back then great. Soon I'm hoping to share some of those stories with which I can get away with and share.
+
+I've scanned images into my computer to upload to Flickr. Slowly I'm going to pack the old photo album away. The photo album is essentially an archaic mechanism for saving memories. I'm not saying the web is any better, but in a lot of ways, it's more portable and a lot easier to share.
+
+I'm hoping when I manage to post the pictures will accompany stories behind them or incidents that had happened around them. I will share these stories with you and hopefully, you will learn a little more about the man behind the blog.
+
+My friends and everyone I have met along this journey we call life should be celebrated and embraced. I may not keep in contact with them as often as I should -- if I do at all -- but I can say they all helped shape me in one way or another. Some of it was for the better, some for the worse. I can say I wouldn't trade a moment with any of them or change the ways they helped shape me. I am the man I am today because of them and for that they will all always be cherished. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

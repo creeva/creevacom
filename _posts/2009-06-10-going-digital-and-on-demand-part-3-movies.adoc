@@ -1,0 +1,17 @@
+= Going Digital and On Demand -- Part 3 Movies
+:page-layout: post
+:page-navtitle: Going Digital and On Demand -- Part 3 Movies
+:page-categories: geekery
+:page-excerpt: Currently, I'm looking at ripping all of my DVDs over to a network share so I don't have to go and dig them out anymore (since the collection is large enough that they are kept on a shelf in the basement these days to control space management). I have a few movies I've ripped already so I can play on-demand already on my TV (next section).
+:page-image: /images/150020414_6d9c2d98bd.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+
+*Movies*
+
+Currently, I'm looking at ripping all of my DVDs over to a network share so I don't have to go and dig them out anymore (since the collection is large enough that they are kept on a shelf in the basement these days to control space management). I have a few movies I've ripped already so I can play on-demand already on my TV (next section).
+
+One of the main slowdown factors that cause this problem is that it takes about one and a half hours to rip a DVD. It takes about six-eight minutes to convert a CD to a collection of MP3s. I have probably a month or more of ripping DVDs before I'm completely done with them.
+
+I do need to buy a couple of terabyte drives. I think I can hold all of my DVDs (compressed) onto one terabyte. The second one is going to be a backup since re-ripping all the DVDs would be much much worse than re-ripping all the CDs. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

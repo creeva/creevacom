@@ -1,0 +1,19 @@
+= The Twitter Spam Battle In Myself
+:page-layout: post
+:page-navtitle: The Twitter Spam Battle In Myself
+:page-categories: geekery
+:page-excerpt: I'm a Twitter addict. I'm not going to be apologetic about it. I love twitter. I'll be happier when the rewrite occurs and it becomes a stable messaging platform. The problem I have is balancing the number of tweets I do with the number of my real-life friends are willing to read.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+I'm a Twitter addict. I'm not going to be apologetic about it. link:http://www.twitter.com/creeva[I love twitter]. I'll be happier when the rewrite occurs and it becomes a stable messaging platform. The problem I have is balancing the number of tweets I do with the number of my real-life friends are willing to read.
+
+I really want to tweet every song I'm listening to, every image I upload, and every piece of digital property I touch and interact with. I don't though since that could generate hundreds of tweets on some days. My friends won't stand for it. So I use things like a filtered RSS feed to alert my followers of new blog posts, and I actually do interact with it (unlike some services).
+
+I'm not asking for a cookie, I'm just having a random rant.
+
+See you all on link:http://www.twitter.com[Twitter]….tweet…tweet
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

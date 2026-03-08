@@ -1,0 +1,41 @@
+= Why I Hate MD5 or: How I Learned to Start Worrying and Hate the Misconceptions
+:page-layout: post
+:page-navtitle: Why I Hate MD5 or: How I Learned to Start Worrying and Hate the Misconceptions
+:page-categories: geekery
+:page-excerpt: Most people in the technical field that have delved into cryptographic, public keys, or file authenticity have at one time or another at least heard of MD5. MD5 is a fingerprint that is unique to a file. It is that signature line that is included at the most reputable Linux download sites to make sure the file you downloaded is not corrupt. It is the thing that is the current bane of my existence.
+:page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+
+Most people in the technical field that have delved into cryptographic, public keys, or file authenticity have at one time or another at least heard of link:http://en.wikipedia.org/wiki/Md5[MD5]. MD5 is a fingerprint that is unique to a file. It is that signature line that is included at the most reputable Linux download sites to make sure the file you downloaded is not corrupt. It is the thing that is the current bane of my existence.
+
+I'm attempting to archive files and want the MD5 to be unique on each file. So I'm attempting to make a digest of the files I'm creating. link:http://www.wikipedia.org[Wikipedia] describes MD5 digesting like this:
+
+[quote]
+____
+MD5 digests have been widely used in the software world to provide some assurance that a transferred file has arrived intact. For example, file servers often provide a pre-computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it. Unix-based operating systems include MD5 sum utilities in their distribution packages, whereas Windows users use third-party applications.
+____
+
+Now I'm aware that there are ways to spoof an MD5 hash, so in effect, you could modify a file and maintain the same hash. This, however, isn't my concern, at the moment for my needs I am generating an MD5 from a group of files and some of these are zero-byte files. What I was not aware of but I'm sure is common knowledge that zero-byte files will always produce the result of d41d8cd98f00b204e9800998ecf8427e as its hash output. I'll be the first to admit that I'm an idiot for not knowing or thinking about this.
+
+Essentially when the MD5 is calculated it looks only at the information of the file and not the file per se. A friend I was emailing described it like this:
+
+[quote]
+____
+Think about it this way. You have 2 boxes, one is red and one is blue
+and you also have a clipboard. The clipboard says on it contents, 1 red
+box, 1 blue box, both of size 0 (this is the filesystem metadata). Your
+md5 program asks for the location of the box from the clipboard, walks
+over to the box and opens it up (not caring about color, shape, size,
+etc). Grabs the contents (in this case nothing) and runs nothing through
+it's magical hashing process.
+____
+
+Now I am aware that getting a checksum of a file or packet looked at the packet in general and would usually be limited since most checksums included in OS's are usually 8 bit I believe. I thought this was superseded later by MD5 checksums and their ability to be 32-bit. I thought MD5 would at least look at the file name since a file named test1 and a file named test2 would still be unique files even if they were zero bytes in size. What I thought paraphrasing my friend's scenario is that MD5 would look at the box, the size, and the contents as a complete package -- taking the file name into account for it being unique. Sadly I thought wrong.
+
+MD5 has its flaws and in recent years has been broken and can be spoofed. Hopefully, the next iteration will add a little more authenticity to a file being unique instead of just the contents inside of it. Bob may be male but that doesn't make him any less unique than Larry who is also male. If MD5 was looking at images it would count them as being equal in this regard.
+
+MD5 used to be something that I understood better than I actually did. It's like the guy you knew at college but ran into years later. Originally you would have been fine if he had dated your sister. However, now that you know him better and find out the things he has done wrong you feel that you don't know him as well as you thought you did. This makes you trust him less. Unfortunately one of the most commonly used purposes of MD5 is to promote trust.
+
+I recant what I said originally in the title, I don't hate MD5 -- but I don't trust it the way I used to. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

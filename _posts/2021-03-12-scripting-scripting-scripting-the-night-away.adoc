@@ -1,0 +1,136 @@
+= Scripting…Scripting..Scripting The Night Away…
+:page-layout: post
+:page-navtitle: Scripting…Scripting..Scripting The Night Away…
+:page-categories: geekery
+:page-excerpt: For those that have known me for a while, one of my obsessions interests is archiving and keeping all the data I generate online. I do this to the best of my ability since obviously there are some services that you just can't get the data out of (at least not on a regular basis -- obviously, some services allow you to bulk export your data and I have tons of that from services in the internet graveyard). So I've always meant to do something with it. I figured way back when I would just script it.
+:page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+
+*The Start*
+
+For those that have known me for a while, one of my obsessions interests is archiving and keeping all the data I generate online. I do this to the best of my ability since obviously there are some services that you just can't get the data out of (at least not on a regular basis -- obviously, some services allow you to bulk export your data and I have tons of that from services in the internet graveyard). So I've always meant to do something with it. I figured way back when I would just script it.
+
+Originally it was all on my blog doing a daily dive of all my traffic and generating my lifestream. However, once you stop posting regularly it really gets spammy -- so I stopped. Behind the scenes though -- the spice kept flowing. Flow it did, into tons of files with new information being generated each day. So about three years ago (well, after there was about 14 years' worth of data I had collected) -- I decided to throw it all into a wiki. Sounds great -- I have plain text -- I can do something with this.
+
+*The Plan*
+
+Which wiki to choose though? I was comfortable with Media-wiki -- but similar to just using WordPress, it locks everything up in a database. Now I understand a database can be scripted, adjusted, poked, and prodded. I'm just not that great with scripting against databases. I have done it -- when I was a consultant I wrote a script that could dump out information from MS-SQL or embedded DB2 databases. I just didn't like all my data in a single database file. I would rather lose one than lose them all.
+
+This lead me to look for a wiki that had flat files. Optimally the files would be plain text and accessible. After searching I decided upon Dokuwiki. It used plain text files for its pages -- and worked just like a regular wiki from the end-user perspective (syntax differences aside). I installed it. Then I did nothing with it. I then installed it on the home network again. Then I did nothing with it again. This cycle went on for a while. I saved the pages in hopes of building something new from the ashes eventually.
+
+*Baby Steps*
+
+Honestly what made Dokuwiki stick was starting to do genealogy. I needed a way to capture documents in a better method than regular software was allowing me to do. I started entering data and formatting it, scrubbing it, tweaking it -- essentially making it mine. Then one day I look up I'm a regular DokuWiki user. Its regular use was finally ingrained into me. I would check and change things at least weekly. I started migrating some of my documentation over (the kind that can't be as easily scripted -- but while we are on the subject, my scripts are in the wiki also).
+
+We even had the whole family involved -- well my wife is reticent. She's finally seeing the value but is going to host her own version on her own Raspberry Pi. However, my son and I use the home network hosted on a Mac. It even syncs across our machines, so in a pinch offline we can still use it. Maybe that use case will come to pass as we enter the final stretch of the pandemic and finally cross the finish line.
+
+So a year later (I mean this is a 14-year journey -- time is meaningless in the vastness of the internet -- it's either milliseconds or an eternity) I think "Huh" -- you know what would be a great idea. I could use the wiki and actually do something with all that old data I have. I could also generate pages off of my stuff going forward. As I said this to myself, I also remembered that was the whole reason I started this in the first place. It wasn't meant for manual data transfer over time. It was meant for up-to-the-day scripted and gathered information. Now how to do it?
+
+*The Script*
+
+In theory, I knew what I was going to do. I wrote a MacOS script that parsed data as a customer project before. I've used that as a starting point for other projects. Just a cat cat here and a sed sed there -- here a grep there a grep -- everywhere a grep grep grep. However, the plan is eventually to move this to a Raspberry Pi and have it run on a schedule to grab and sort the data. So that means time to do it on Linux. Because sometimes the quirks between a Linux and Mac script can be painful Thankfully I have both a Mac and Linux laptop.
+
+So time to go into Dokuwiki and make a template. I made what I originally considered the end all be for what I needed in a template. Then I configured the script to generate it. Then as I'm scripting I changed it at least two dozen times. But I finally generated what I thought was a good copy. I copied the file to the directory on the wiki and it worked in the browser without issues. I was like Strong Bad pounding away at the keyboard making it go.
+
+++++
+<iframe src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+++++
+
+Because the up-to-the-minute generation of the file would be a pain in the butt, I decided I would use the Yesterday is Today approach. The file would be generated on yesterday's data. Then I can add my own personal notes to fill in the gaps. The goal when this is automatic and I'm not tweaking things at night is to make my notes in the morning. This isn't working well right now because I update the final page in the evening (of the day after it occurred).
+
+It's all working so far, and while I rely heavily on files generated by IFTTT, I hope to work on using more API calls to directly generate the information. That script section will be once everything is working though. It's a bigger project of knowledge -- so I'm on a bicycle version of script writing. It's not a motorcycle, but the training wheels are off as I clean up the spaghetti script regularly.
+
+*The Output*
+
+Now my daily journal has too much private data for me to share a screenshot of a page. Once I build test data (which I started yesterday) -- where I can check everything and how it looks, you'll just have to read.
+
+The top of the page has the journal date a fancy graphic, and navigation to the journal archive -- archive by year -- archive of the current month -- yesterday and tomorrow. Then we get to the sections
+
+* Lists each Google Calendar Event by the hour from the day
+
+* Calendar
+* Notes (this is where I do my daily updates)
+* Blog Posts
+
+* Status Updates
+* Links Shared
+* Image Uploads
+* Images I was tagged in
+
+* Facebook
+
+* Uploaded to the main account
+* Uploaded to my Retrometrics account
+* Liked videos
+
+* YouTube
+
+* Posts
+* Comments
+* Upvotes
+* Downvotes
+* Saved posts
+
+* Reddit
+* Twitch -- lists all streaming sessions
+* Instagram -- all images
+
+* Posts
+* Links
+* Mentions
+
+* Twitter
+
+* Social Media
+
+* Foursquare Check-ins
+* Uber Trips
+
+* Travel
+
+* Fitbit Data (not done yet)
+* Strava Activities
+
+* Health
+
+* Goodreads Activity
+* PSN Trophies
+* Beaten Video Game Tracking (Grouvee)
+
+* Media
+
+* Music played on Alexa
+* Videos played on Plex
+* Nest Thermostat Changes
+
+* Home Automation
+
+* Weather
+* News Headlines (still working on)
+
+* World Information
+
+* Todoist tasks added
+* Todoist tasks deleted
+
+* To Do
+
+* Shopping List Items Added
+* Shopping List Items Removed
+
+* Shopping List
+
+* Google Contacts Updates
+* Twitter Followers
+
+* Contacts
+
+* Just personal information for cross reference, but this is just the start of the foot which is all static information.
+
+* Errata
+
+That, my friends, is my project for the last week. It also includes sanitizing and normalizing the input data. I've been a scripting fool and expect to keep at it for at least one more week. Then, maybe I'll be able to walk away from it -- just fix things when they are broken.
+
+Though for what it's worth, it inspired me to write and use my blog. I guess that's something.

@@ -1,0 +1,23 @@
+= The FDCC and You or How to Freak People Out With Change.
+:page-layout: post
+:page-navtitle: The FDCC and You or How to Freak People Out With Change.
+:page-categories: geekery
+:page-excerpt: Currently, where I work we are implementing to roll out the NIST's FDCC guidelines. All government agencies are mandated to be migrated to the "one desktop" architecture across the board. Meaning each agency whether it be DHS or the Department of Agriculture will have the same settings applied to their machine.
+:page-image: /images/justice_icon-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/justice_icon-1.png[,role="text-center"]
+
+Currently, where I work we are implementing to roll out the link:http://fdcc.nist.gov[NIST's FDCC guidelines]. All government agencies are mandated to be migrated to the "one desktop" architecture across the board. Meaning each agency whether it be DHS or the Department of Agriculture will have the same settings applied to their machine.
+
+All in all, I believe this a good first step in encouraging some basic changes that need to be done across the federal level. Treating the government as a private industry would do wonders to improve its image, security, and income. We can go into the debate on why or why not treating the government as a business is a good thing, but I would prefer not to at this time.
+
+Currently, however, most of the changes being swept in via the FDCC are already implemented in most private business arenas. Bringing the culture of modern policies and enforcing them instead of waiving every exception will raise the security level of the federal government across the board.
+
+When most people read the changes though they flip out. They assume that they couldn't possibly run under those conditions. Things they have been able to (wrongly) do all these years is going away. They also may *gasp* have to learn new methods for doing things that have changed for the first time in 20 years.
+
+If people would just sit down and read, analyze, and test the changes instead of knee-jerking at them this would go a lot smoother. Everyone immediately assumes "my stuff will break with this" they haven't tested it. They don't fully understand the setting. They assume they should be special. People need to realize that they don't own their work computers if they work for someone else. The computers belong to the company or government that hired you. They make the mandates on you and you truly are not special.
+
+This leads into the cry wolf scenario where "Bob" says this will completely break everything he does. "Linda" hears "Bob" and thinks of herself as equal to or more important task-wise than "Bob" is, so she starts screaming. "Fred" hears "Linda" and the same thing happens, etc., etc.
+
+People -- to your place of employment you are just a tool. You essentially are no better than a computer. Effectively to your place of business a lot of time you are worth less than a computer since your role would be easier to replace than the computers. Remember you are no better than "Bob", "Linda", or "Fred". Change is coming to all of them and that is a good thing. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

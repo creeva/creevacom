@@ -1,0 +1,21 @@
+= Mobile Times -- The Introduction
+:page-layout: post
+:page-navtitle: Mobile Times -- The Introduction
+:page-categories: geekery
+:page-excerpt: The 101 post of blogs -- what are your goals and ambitions for this site?
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+The 101 post of blogs -- what are your goals and ambitions for this site?
+
+For years I've tried to organize my life so I can live on the internet -- from anywhere with full functionality.
+
+I am going to be going over how to sync your life together.
+
+I have a cell phone, a laptop with a cellular card, a palm TX, an original iPod, and a will to make my life easy portable, and update-ready.
+
+There are some problems I need to get fixed that don't work -- and some tips and tricks I'm going to share some of my experiences.
+
+Enjoy a laugh, a cry, frustration, and redemption. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

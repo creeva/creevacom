@@ -1,0 +1,36 @@
+= Search Giants Are Going To Make It Easier On Crossposters
+:page-layout: post
+:page-navtitle: Search Giants Are Going To Make It Easier On Crossposters
+:page-categories: geekery
+:page-excerpt: This story hopped across my feed reader today, it piqued my interest since before I expanded it I only had the title, "Search giants join to tidy up Web addresses". I wasn't sure from the title if they were looking at trying to apply pressure before any new TLDs were going to be added, if they were looking at the URL shortening issue that seems to be proliferating across the net, or whatever else they were trying to do. So much can be derived from that simple sentence that I felt I just had to read that article.
+:page-image: /images/108805307_c43af20f59.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+
+Image from link:http://flickr.com/photos/keso/108805307/[here]
+
+This story hopped across my feed reader today, it piqued my interest since before I expanded it I only had the title, "Search giants join to tidy up Web addresses". I wasn't sure from the title if they were looking at trying to apply pressure before any new TLDs were going to be added, if they were looking at the link:http://tinyurl.com[URL shortening] issue that seems to be proliferating across the net, or whatever else they were trying to do. So much can be derived from that simple sentence that I felt I just had to read that article.
+
+It seems link:http://microsoft.com[Microsoft], link:http://google.com[Google], and link:http://yahoo.com[Yahoo] all decided to have a sit-down yesterday. In the article, the following was discussed:
+
+[quote]
+____
+All three on Thursday announced they'd support a technique by which a little extra code in a Web page can indicate the address of its "canonical" version--essentially, the original, primary URL. The move will make it easier to tell search engines what they should pay attention to and to avoid treating duplicative Web pages as different.
+____
+
+*What does this mean to a crossposter?*
+
+Well simply that you are less likely to be tagged as spam. When these search engines optimize and find duplicate content on multiple sites they assume most of that data is unoriginal and there should only be only true source and owner of that data. The problem grows since it is no longer spammers doing this. Many bloggers are now sharing the same story from their primary blog on other services and other social circles. When Google sees my same content on link:https://creeva.com[localhost/wordpress], then link:http://myspace.com[Myspace], then link:http://livejournal.com[Livejournal], then link:http://vox.com[Vox] -- it doesn't know who runs the source material. This in turn can get all the sites to be modded down in the search engine database since they don't know which is the true original site.
+
+Another undesirable side of this can also emerge. Suppose you work really hard on your blog design and presentation, but also crosspost (I consider myself half-assing blog design by the way). You have this beautiful presentation method, and your Livejournal site is the first returned result in the search engine for a particular story. You are now driving traffic to a site that you put up for the community, but haven't monetized at all, and this is not the aesthetic appeal of your main blog. This will not help you keep readers and grow your site's regular viewership.
+
+What this method they are trying to come up with will do is put a bit of microcode in the post that allows the data to say it came from your main site. The crossposted links may drop off the search, but really that's fine if you are doing it to share data in communities and not attempting to game the system. Your blog will rise to the top of search results instead of your crossposting destinations. This will help you control where your readers land.
+
+*This is really a boon to everyone in the system, especially crossposters +*
+
+Once this system is actually ratified and implemented by the search engines, the people that implement it will have more control over their comments and spammers will die off. To be more exact let's look at the crossposting scenario. We'll assume that spam blog operators are going to be watching this closely and will attempt to change/modify the microcode and say their site is the authoritative one of the original data and not your actual blog. Well, the crossposters will have one, two, or a dozen sites that point back to their own original blog, giving it more weight and authority in the search engine results. Essentially the crossposters who manage and put effort into this can out-assert the spam sites on who the data source really is.
+
+*My Fear*
+
+The one thing that worries me with the assertion of who was the originator of the data is the spammers though. With enough proliferation, the spammers could say they are the originator of the content. No matter how good you are in the Internet society the spammers could just set up 2000 spam blogs copying your content and gaining the assertiveness that they are the original site. This is where we have to trust current search engine technology that can detect spam blogs and hope they are not overwritten by trust in this new system. It will always be a war in many ways, but hopefully, this is all a step in the correct direction of making search engines faster and more accurate, while not penalizing those that follow the rules, but distributing their content to many of their own networks. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

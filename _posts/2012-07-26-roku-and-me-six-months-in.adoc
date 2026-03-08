@@ -1,0 +1,21 @@
+= Roku and Me -- Six Months In
+:page-layout: post
+:page-navtitle: Roku and Me -- Six Months In
+:page-categories: stories
+:page-excerpt: A few months ago I wrote about my initial reactions to my Roku box. I'm a bit easier on it now. Shortly after writing that piece, we stopped using Roku. My jailbroken Apple TV2 ruled the roost on the TV, and I wasn't using the Roku to watch Amazon Prime (the reason we purchased it). We did, however, purchase a new TV earlier this month. This meant we once again had a TV in our bedroom. The ATV2 stayed downstairs, so it was time to give the Roku another chance.
+:page-image: /images/64247370_214a799ece.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/64247370_214a799ece.jpg[,role="text-center"]
+
+A few months ago I wrote about my initial reactions to my Roku box. I'm a bit easier on it now. Shortly after writing that piece, we stopped using Roku. My jailbroken Apple TV2 ruled the roost on the TV, and I wasn't using the Roku to watch Amazon Prime (_the reason we purchased it_). We did, however, purchase a new TV earlier this month. This meant we once again had a TV in our bedroom. The ATV2 stayed downstairs, so it was time to give the Roku another chance.
+
+The first thing I looked for was to see if anyone had ported XBMC to the Roku yet. It seems that it isn't a high priority. I use XBMC for all my ripped DVDs and never watch off of a physical one. Plex (_an offshoot of XBMC_) did create a Roku channel. So once I installed the Plex server on my desktop I was able to stream all my media to the upstairs TV.
+
+Plex can change resolutions and downgrade the video if the Roku can't handle it. This allows it to play videos that my ATV2 chokes on. The Plex interface is much laggier than XBMC though. I don't know if that's a problem with the Roku hardware versus ATV2 or poor programming for the channel. Once it get's going, it works beautifully.
+
+The main issue I have is not the fault of the device. I am so used to using the Apple Remote app on my phone that I attempt to use that every night with a Roku. I'm sure more than once I have started a TV show or moved downstairs while I was wondering why it wasn't working. I then will switch to the Roku app and it works great. Once, again this is just my user error.
+
+I would never recommend a Roku for a primary viewing box. I love my ATV2 way too much to surrender it. I'll be upgrading to the ATV3 once a jailbreak is available and I can run XBMC on it. Then the Roku might actually be relegated to being a paperweight again. Then again I've always wanted to watch The West Wing and that's on Amazon Prime now…
+
+Regardless, for a secondary device, it works fantastic. It is easier to use for video streaming than the PlayStation 3. If it's your only device or if you are not into hacking the nitty-gritty -- it will be perfectly serviceable. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

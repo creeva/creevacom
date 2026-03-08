@@ -1,0 +1,31 @@
+= Nokia N810 and Me -- Day 2
+:page-layout: post
+:page-navtitle: Nokia N810 and Me -- Day 2
+:page-categories: geekery
+:page-excerpt: Last night was more of a bust than a boom for me. I had some specific goals in mind and I can't say I really accomplished them.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Last night was more of a bust than a boom for me. I had some specific goals in mind and I can't say I really accomplished them.
+
+The first goal I had was to attempt to upload pictures directly to Flickr. Doing some hunting I found the latest revision of link:http://code.google.com/p/altcanvas/[maemo-publishr] which supports uploading to Flickr and to Picasa. I thought great, this is exactly what I need.
+
+I can say that it didn't work as well as I had hoped. The applications were extremely slow before i imported pictures from my external memory card and worse after pictures were actually involved. I gave up on the application after failing to figure out how to intuitively upload (no I didn't watch the video at that time, I saw it afterward to share with you). I know maemo-wordpy can upload to flickr and I am using that, but I want something that handles more bulk uploading so the hunt for that continues.
+
+Before I get onto my next bad experience, let's move on to a good one. Using my N810 as my lifeline to my online life, I needed it to integrate with my other online lifeline, email. After going through and reading reviews I knew better than to use the built-in e-mail application. I knew that if I wanted to use IMAP from my Gmail account I had a choice between link:http://modest.garage.maemo.org/[Modest] and link:http://www.claws-mail.org/maemo/[Claws Mail]. Xie had tried out Modest on her N810 when it came in, it had caused memory issues and she stopped using it and doesn't plan on doing IMAP. I knew because of that Modest was out.
+
+So Claws Mail it was, after a couple of configurations I did get Claws up and working. It is a bit slow, but I knew that going in, especially using IMAP. At least I can cache my email instead of holding my full 2 GB e-mail archive on my N810. Sending is fine. Overall as an e-mail application, I'm quite happy with it. That's pretty impressive since the only other e-mail applications I'm really happy with are Outlook and the Gmail web interface.
+
+image::/testsite/images/claws-maemo.png[,role="text-center"]
+
+_Claws-Mail screenshot from their website_
+
+Now we're back to one of the issues I wrote about yesterday, podcatching. I found out that while I couldn't activate the function menu in Canola I could manually hold down the function key and hit the key I wanted at the same time (shift works the same way for these poorly written applications). With this method, I could enter my podcasts feed and download them directly onto my N810 -- goodbye slow memory hog gPodder. At this point, I uninstalled gPodder and decide that Canola was going to be my choice going forward.
+
+I played more with Canola and I wasn't aware of the kinetic scrolling. I sat there like a monkey with the stylus trying to scroll and was extremely frustrated. I finally figured it out. I exited it and rebooted after a different application seemed to lock up my N810 -- I think it was the maemo-publishr previously mentioned. When I came back Canola started and said loading for like 3 minutes and when it did load no icons were visible and it couldn't do anything. I uninstalled Canola and reinstalled Canola, same behavior. From their repository, I saw an installation clean-up utility. I installed that and it did clean it up. I reinstalled it and it's working again. Unfortunately, I need to spend 30 minutes again entering in all of my podcast URLs, grrrrrrrrrrr. The benefit is that Canola can automatically scrobble to last.fm with a plugin. The plugin is a bit anticipating though, it scrobbled two podcasts that I haven't listened to yet. I have a feeling Canola is going to be a love/hate relationship.
+
+Finally, I rounded out the night loading link:http://maemo.org/downloads/product/OS2007/doom/[Doom on my N810.] I was surprised that we don't need to load wad files for these cross-platform ports, and the game controlled a little bit Metroid Prime-ish, but it's Doom and it works. Ironically it works better than it did on the 386 25mhz computer that I first played doom on.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

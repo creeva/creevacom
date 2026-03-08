@@ -1,0 +1,19 @@
+= Upgraded My N810 to Diablo
+:page-layout: post
+:page-navtitle: Upgraded My N810 to Diablo
+:page-categories: geekery
+:page-excerpt: Sunday night I was bored, so like all bored geeks I updated my device to the bleeding edge. The N810 feels peppier, but then again that could be my imagination or just the fact of cleaning out all the programs. Either way, it feels faster.
+:page-image: /images/2519584320_e07808e9d3_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2519584320_e07808e9d3_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/25800646@N04/2519584320/[here]
+
+Sunday night I was bored, so like all bored geeks I updated my device to the bleeding edge. The N810 feels peppier, but then again that could be my imagination or just the fact of cleaning out all the programs. Either way, it feels faster.
+
+My biggest heartbreak is Canola2 is not fully updated and I can use the old installation but it only half works. I've read the most common reason for applications has to do with the supported version of python has changed, but who knows? Until I can use Canola2 as a podcatcher and video player again, it's dead to me.
+
+I also lost a lot of my network security tools, my solitaire game, and the program that synced my Google calendar with my local GPE calendar. Writing this all out I'm not sure what exactly works. The new built-in mail client works better (yet still crashes), Pidgin seems to work, and browsing is fine.
+
+The applications will get ported, I'm just on the bleeding edge and now need to wait. That doesn't mean I can't throw a hissy fit. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,19 @@
+= Digg needs a bookmarking feature for office workers
+:page-layout: post
+:page-navtitle: Digg needs a bookmarking feature for office workers
+:page-categories: geekery
+:page-excerpt: Sometimes there are videos or sites with sounds in general that office workers can't view or watch to their fullest because of sound requirements. Why can't we "watch" or "track" a video we could watch when we get home -without giving it a "Digg"?
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Sometimes there are videos or sites with sounds in general that office workers can't view or watch to their fullest because of sound requirements. Why can't we "watch" or "track" a video we could watch when we get home -without giving it a "Digg"?
+
+Giving the story a link:http://www.digg.com[Digg] implies to all of our friends that we liked the story. To those that pass our RSS feeds onto our friends that could give a false sense of how good a clip is. What we need is something we could put into a private store essentially. By moving it into a private store it allows Digg to hide this from other users and not promote a possible unworthy story.
+
+What I envision is a link on the actual article page (not the article listing page) that allows you to "track", "bookmark", or whatever other term you wish to use to mark this to your profile. There is no reason you should have to use a third-party site such as link:http://del.icio.us[del.icio.us] or link:http://www.youtube.com[youtube] favorite or "fill in the blank" to perform this feature for you. It could even be considered a private invisible Digg.
+
+There is plenty of room on the profile tab for this to fit, so it wouldn't break the design. Having this feature seen only by the profile holder would keep this as another option for gaming the system this includes no RSS feeds for these items. All in all, I can't figure out a real downside to this.
+
+Please Digg helps office workers find the videos they want to watch later without giving them a possible unworthy Digg. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

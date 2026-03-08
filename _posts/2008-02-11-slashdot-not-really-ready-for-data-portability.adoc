@@ -1,0 +1,19 @@
+= Slashdot -- Not Really Ready For Data Portability
+:page-layout: post
+:page-navtitle: Slashdot -- Not Really Ready For Data Portability
+:page-categories: geekery
+:page-excerpt: I've been a Slashdot member for years (I would show you my uber l33t low(er) number but I can't find the password). The other account has very little in the way of comments since I've been more of a reader than a commenter. Thinking that Slashdot really managed to get inroads as an open-source news site it's odd that they are essentially stuck in the same mindset as they were about 10 years ago.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+I've been a link:http://www.slashdot.org[Slashdot] member for years (I would show you my uber l33t low(er) number but I can't find the password). The other account has very little in the way of comments since I've been more of a reader than a commenter. Thinking that Slashdot really managed to get inroads as an open-source news site it's odd that they are essentially stuck in the same mindset as they were about 10 years ago.
+
+I made a discovery today as I made a comment and wanted to start interacting with the community more. It seems you can't get something as simple as an RSS feed of your comments out of the site. Can't get your posted comments e-mailed to you on submission (you can get replies to your message mailed -- go figure). Can't track your friend's comments via an RSS feed or mail notification.
+
+Now I can track friends, news, shouts, comments, and more on link:http://www.digg.com[Digg]. Slashdot, however, only allows me a feed of the latest news. I may be wrong and maybe it's a whole lot easier than I'm letting on, but there seems to be no easy way to do it. I did manage to copy the comment I made today to coComment -- viva comment saving -- but I would have preferred to pull it out myself and control my data. If coComment natively supported Slashdot I probably wouldn't mind or even have noticed. But it doesn't (I don't blame coComment).
+
+Slashdot needs to get with the times and allow me to move my data from their servers. If I write a thought I should be able to pull it out via at the very least an RSS feed. While I can see why they don't allow you to delete comments, it's just one more constraint that they put on your data (I don't think users should be able to delete comments in a forum such as this, but thought it should be noted.)
+
+Slashdot, please join the link:http://www.dataportability.org/[Data Portability Group]. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

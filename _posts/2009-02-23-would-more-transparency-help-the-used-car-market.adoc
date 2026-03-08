@@ -1,0 +1,37 @@
+= Would More Transparency Help The Used Car Market?
+:page-layout: post
+:page-navtitle: Would More Transparency Help The Used Car Market?
+:page-categories: geekery
+:page-excerpt: Seeing we've recently been used car shopping, I've noticed some problems in an industry which is at least a secondary issue with the automakers that exist currently. We can say automakers are focused on new cars and could care less about the used car markets, but the dealerships that sell new cars also deal in used cars. A sale for these people is a sale all around. I understand that they use tricks to sell you what they want to sell instead of what you really want to buy, but buyers are getting savvier and the old tricks do not work.
+:page-image: /images/3085421999_73a335f86e.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3085421999_73a335f86e.jpg[,role="text-center"]
+
+Seeing we've recently been used car shopping, I've noticed some problems in an industry which is at least a secondary issue with the automakers that exist currently. We can say automakers are focused on new cars and could care less about the used car markets, but the dealerships that sell new cars also deal in used cars. A sale for these people is a sale all around. I understand that they use tricks to sell you what they want to sell instead of what you really want to buy, but buyers are getting savvier and the old tricks do not work.
+
+*No Prices?*
+
+Now I know the gimmick is that if the price is not on the car it will force you to talk to a salesperson. I don't like to talk to salespeople though, no matter what the purchase. If I'm browsing new cars I can see the sticker price, why is this not the norm for used cars? I would at least like a ballpark of what the car is going to be. You can jack up the price 20-30% and have wiggle room for me to talk you down and negotiate, but if I'm browsing and you are closed -- I'm not coming back if there are no prices. The only way this would be otherwise is if the dealership had a car I just felt I had to own -- which 99.999% of the time I look at cars, this is not the case.
+
+I can say quite a few dealerships lost my chance to come back and look at their cars and actually talk to a salesperson because I do most of my browsing at night or on Sundays. I don't feel the dealerships have to be open when I shop around and browse, but I want to be able to know what I'm looking at and what it will cost me. The irony is some of these sites have the prices online, so the Internet savvy is somewhat aware of these dealerships, but the guy off the street has no idea.
+
+No Prices = Bad Form
+
+*Internet Databases Out Of Date*
+
+We researched where we were going to go and look at cars by searching online databases, we knew that there would be other dealerships around where one was, so we could hit many at once. Some of these dealerships were 40 minutes away. We would get to the dealership and the car they had online was nowhere on the lot at all. Now on some occasions, you could say it was sold before we got there or it was out for a test drive. For the Sunday search, the dealership was closed.
+
+There is no reason the online databases can not be in sync 100% with the current stock on hand. There should not be any cars on the lot that are not in the online database (quite a few). Cars that are sold should immediately propagate and be removed from the available car database. We live in a world of just-in-time information, there is no reason that Wal-Mart can pinpoint every object in their store which encompasses millions of items and a car dealership can not do the same for their inventory of hundreds.
+
+*Trying to Hide Problems*
+
+I mentioned in my previous story that one dealership pointed out problems with the car before I took it for a test drive. Granted he did miss some problems (or didn't alert the customer to them). This should be the norm. Almost every dealership has a mechanic go over the car before they buy or sell it. This helps them pinpoint what they can get out of the car. There is no reason not to share this with the buyer. With Lemon Laws becoming the norm, sellers could cover themselves by showing a buyer this information and signing off on it beforehand.
+
+With information being more available via link:http://www.carfax.com[Carfax] or link:http://www.autocheck.com[AutoCheck] major issues can't be hidden away like they used to be.
+
+*Online Buying*
+
+There is a small market for buying cars online and granted there is a small room for buying a car without test driving it, it should still be available. I can go out during the day and look at and test drive a few dozen cars. When I get home at night I should be able to log in to the site and make my purchase. I wouldn't waste the salesperson's time by trying to haggle, if I'm willing to pay the asking price without negotiation, I should have that option by purchasing online. I could arrange my own financing and not take up a salesperson's time -- freeing them to other more difficult customers that are trying to knock the price down and eat into profit.
+
+I really do not see any of the changes taking place any time soon, but if I was going to start a used dealership -- these would be the first changes I would implement Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

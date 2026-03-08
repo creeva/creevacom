@@ -1,0 +1,19 @@
+= Goodbye Lifestream
+:page-layout: post
+:page-navtitle: Goodbye Lifestream
+:page-categories: stories
+:page-excerpt: For years I ran a lifestream on my site. I started the stream because it would take all the events I did in a single day and save them in a tidy WordPress blog post. I would then have something to reference for any given day. The auto posting stopped working somewhere around two years ago.
+:page-image: /images/typewriter-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+
+For years I ran a link:http://en.wikipedia.org/wiki/Lifestreaming[lifestream] on my site. I started the stream because it would take all the events I did in a single day and save them in a tidy WordPress blog post. I would then have something to reference for any given day. The auto posting stopped working somewhere around two years ago.
+
+I kept the lifestream up and I would see the occasional hit on the site. Most came from the articles I did write about lifestreaming, but some were just curious observers. I adjusted it so I received a daily email synopsis of what I did during the day, but it stopped being a public post. It was something I was archiving and keeping so my son could have a record (good or bad) of his father.
+
+I archive everything to email. I have a glut of information and I wouldn't be surprised if I'm in the top 1% of email box sizes. I hoard my words and actions in hopes that someday they will be of interest to someone. I'm also very efficient and organized. So while I may have a huge archive, I'm normally sitting at around five messages in my inbox at any given time.
+
+Recently I have discovered a method to take all this information I have been attempting to lifestream and placed it into Google Calendar. With this, I no longer need custom phone apps to view the stream. I don't have to overstress my hosting provider with all the cron jobs and PHP calls. It just works and shows up in proper chronological order (_for the most part_).
+
+So to make my site more efficient I have removed the lifestream, which you probably never paid attention to anyways. The benefit is that the site might be a bit faster. The database will be quite a bit leaner. My life is more organized. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

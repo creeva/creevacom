@@ -1,0 +1,17 @@
+= Flea Markets at E-bay Prices
+:page-layout: post
+:page-navtitle: Flea Markets at E-bay Prices
+:page-categories: stories
+:page-excerpt: I stopped by a flea market the other day. They had a sign in front that said they had offered game consoles for sale. Being a collector of video games past, present, and future I had meant to stop for a couple of months now but never had a chance or it was too late in the day to be open. However, I eventually managed to stop
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+I stopped by a flea market the other day. They had a sign in front that said they had offered game consoles for sale. Being a collector of video games past, present, and future I had meant to stop for a couple of months now but never had a chance or it was too late in the day to be open. However, I eventually managed to stop
+
+To call it a flea market is a bit of a stretch. It was flea market-esque but I would point to it as a hybrid with a pawn shop. It had the proper grit and grime of both, and that part has never bothered me -- but it seemed there was a central cash register so it looked like only one person running the place. It was smaller than my house and had a small group of lay around just BSing about normal things. The other lay arounds seemed to be regulars but from slightly overhearing the discussion it seemed most were always up there, but none of the rest other than the main guy worked there.
+
+I managed to scrounge around and for a place that didn't specialize in games or consoles, he had an ok selection. If the prices would have been correct I would have picked up something. The problem is that almost everything was overpriced. Now, this seems to exist because everyone selling at the flea market uses the highest price they could get on eBay if they sold it there.
+
+The question I have to places like this is why don't they sell the items on eBay -- isn't it better to make a smaller steady profit than one lump sum that is the absolute most that someone in California would pay versus someone in the Midwest? This is just my .02 on things that just don't make sense to me. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

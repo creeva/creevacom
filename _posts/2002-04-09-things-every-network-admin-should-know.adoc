@@ -1,0 +1,23 @@
+= Things Every Network Admin Should Know
+:page-layout: post
+:page-navtitle: Things Every Network Admin Should Know
+:page-categories: geekery
+:page-excerpt: These are private notes that came out of exasperation when I worked as phone support.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+These are private notes that came out of exasperation when I worked as phone support.
+
+Things every network admin should know:
+
+. What DNS is whether they know how to use it or not
+. If they have been an ongoing firewall administrator, they should know if they host DNS or not
+. How to use attrib
+. Know how to Alt-Tab
+. Know how to browse a drive
+. Know that double-clicking opens a folder
+. How to Ping
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

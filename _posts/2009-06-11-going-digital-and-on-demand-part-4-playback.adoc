@@ -1,0 +1,19 @@
+= Going Digital and On Demand -- Part 4 Playback
+:page-layout: post
+:page-navtitle: Going Digital and On Demand -- Part 4 Playback
+:page-categories: geekery
+:page-excerpt: The biggest problem of course with moving to digital is how are you going to get the videos or music to where you want them to be. I've really fought with this problem literally for over a decade now (yes in 1995 I had a computer hooked up to a stereo and a TV).
+:page-image: /images/150020414_6d9c2d98bd.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+
+The biggest problem of course with moving to digital is how are you going to get the videos or music to where you want them to be. I've really fought with this problem literally for over a decade now (yes in 1995 I had a computer hooked up to a stereo and a TV).
+
+The last incarnation I was using was a first-generation link:http://en.wikipedia.org/wiki/Mac_mini[Mac Mini]. The problem was that the streaming wasn't fast enough for the Mac Mini (ironically every other computer in the house streamed just fine). So I would have to copy video files over to the computer manually to get completely stutter-free playback. I dealt though until just a couple of months ago.
+
+In November I purchased my first original link:http://en.wikipedia.org/wiki/Xbox[X-Box] (yes I'm behind the times). I had always wanted to run link:http://en.wikipedia.org/wiki/Xbmc[XBOX Media Center] on it, but didn't want to go through the soldering effort to put a mod chip in, or track down esoteric software with the action replay kit to soft-mod it. link:http://www.boards.ie/vbulletin/showthread.php?s=c044cdf4cdab2a3aa85bccdd99f500e7&t=2055256404[I did manage to find instructions on how to mod the Xbox and install XBMC] with things I already had, such as a computer and screwdrivers. The most frightening thing about it was hot-swapping a live IDE hard drive. Years of tech work have told me this is a no-no, but I did it anyway and it worked.
+
+I even went out and purchased a remote control for the X-Box and can now browse from the couch. I went back and forth on whether to get a wireless controller or the remote, I settled on the remote because it was cheaper and more intuitive for anyone other than myself.
+
+For MP3 playback we sometimes use the X-Box installation, but more than likely we are either using iPods, our N810s, or the whole main floor audio we have going. In the basement, we have a computer working as an MP3 jukebox. Off of this machine, there are 3 different sets of speakers (one is the main stereo system) -- that can cover the whole first floor of the house in zoned audio. Each room has its own volume control and it works fairly well. In the next year, I will more than likely start running the cables upstairs to work on whole-house audio. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,26 @@
+= Dealing With Different Public Domain Laws
+:page-layout: post
+:page-navtitle: Dealing With Different Public Domain Laws
+:page-categories: geekery
+:page-excerpt: Recently I started contributing to the International Music Score Library Project and I've run into a small snag. Currently, I've only uploaded two pieces ( I did say I was going to contribute more to the public domain going forward) and I received the following message the day after I uploaded the pieces&#58;
+:page-image: /images/justice_icon-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/justice_icon-1.png[,role="text-center"]
+
+Recently I started contributing to the link:http://imslp.org/[International Music Score Library Project] and I've run into a small snag. Currently, I've only uploaded two pieces ( I did say I was going to contribute more to the public domain going forward) and I received the following message the day after I uploaded the pieces:
+
+[quote]
+____
+Dear Creeva,
+IMSLP is located in Canada and therefore operates under Canadian copyright law. A very important difference between Canada's law and that of the USA is that the term is determined by the death date of the composer or author of the work in question (term is life-plus-50 years). I was able to find out that George Hendricks Rosenkrans died in 1955 and is therefore public domain in Canada. Gus W. Bernard is a different matter.
+I was not able to find anything on the date of Gus W. Bernard, so I have to estimate his approximate lifetime. Please be advised that should info surface that he died later than 1959, the item you posted may well have to be deleted. Also, please try to include complete information on composers when you add a new name. You can often find out things quickly by means of a simple Google search.
+Thanks,
+[NAME REDACTED BY CREEVA]
+____
+
+Now I wrote yesterday that just because something is online it isn't in the public domain. Let's look at the other side of the coin just because something is in the public domain, it doesn't mean it is in the public domain. In my normal mode of thinking, I think in US copyright law. When we are dealing with other countries in our global economy and global communications infrastructure we need to be aware of their laws as well when interacting with other services.
+
+Now the project above could get in trouble if the work is copyrighted in Canada and they display it. I however uploaded it from the US so I broke no US law since both works were in the public domain here. Did I break Canadian law though? I don't know. This is one of the problems when dealing with the public domain. The question over Canadian law comes to light when you consider while the service is in Canada, I physically performed the actions legally from a US computer. Very fuzzy and gray in many aspects when you look at the big picture.
+
+So when contributing to the public domain -- be aware of where the servers are physically located in the world, and be aware of the copyright law in that physical location. Now if only we could get a US Mirror to work off of for that project…….. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

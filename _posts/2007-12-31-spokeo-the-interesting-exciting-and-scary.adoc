@@ -1,0 +1,21 @@
+= Spokeo -- The Interesting, Exciting, and Scary
+:page-layout: post
+:page-navtitle: Spokeo -- The Interesting, Exciting, and Scary
+:page-categories: geekery
+:page-excerpt: Spokeo is one of the latest Web 2.0 services I have tried here is how it works&#58;
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+link:http://www.spokeo.com[Spokeo] is one of the latest Web 2.0 services I have tried here is how it works:
+
+First, you sign up and it asks if you want to look for friends from your address book (link:http://www.gmail.com[Gmail], link:http://www.yahoo.com[yahoo], link:http://www.aol.com[AOL], etc,) it then spends time going through all the addresses and see which services they belong to (link:http://www.amazon.com[Amazon], link:http://www.myspace.com[MySpace], link:http://www.last.fm[Last.fm], link:http://www.digg.com[Digg], link:http://www.twitter.com[Twitter], Etc.) -- at this point it shows you all of their public activity on these services.
+
+You also have the option of linking your MySpace, link:http://www.linkedin.com[LinkedIn], or other accounts where it doe the same searching as before. This is interesting since it allows you to track your friends without hunting them all down and searching them out. You know what they are up to without actively going to all these different sites online for hours at a time. You may never log into your normal sites to keep up with your friends, it all comes to you.
+
+Now the scary -- you can put in any e-mail address and look up someone the same way. You also receive hits from your address book of someone you may have had one quick e-mail exchange with but no relationship with. Because of this, you are infringing on their privacy.
+
+More people need to be aware of Spokeo so they understand the implications of their online activities and how easy they are to track and monitor. I'm well aware and have been for a while, I use the internet and post information knowing this and expecting it. Other people I know are not nearly as aware.
+
+I would recommend trying it out just to see what you can find. If you are worried about your e-mail address becoming part of the beast I would recommend signing up with a throwaway e-mail address. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

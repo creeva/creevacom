@@ -1,0 +1,19 @@
+= Certified Ethical Hacking Training -- Day 1
+:page-layout: post
+:page-navtitle: Certified Ethical Hacking Training -- Day 1
+:page-categories: geekery
+:page-excerpt: Today I started taking the training courses for the Certified Ethical Hacker training. Until today, I've been working on reading through the manuals and other books. I wanted to write about it, just to lock some of the training to a point in time for my memory. The online training is a little kludgy on how they approach things. You have to sign up for four accounts -- your video training account, your transcender account (which doesn't work on OSX/Chrome combo, so I'll need to troubleshoot that), a site for your courseware to download (I'm still downloading, about 30GB or more), and the virtual labs account.
+:page-image: /images/ceh-center-text-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ceh-center-text-1.png[,role="text-center"]
+
+Today I started taking the training courses for the Certified Ethical Hacker training. Until today, I've been working on reading through the manuals and other books. I wanted to write about it, just to lock some of the training to a point in time for my memory. The online training is a little kludgy on how they approach things. You have to sign up for four accounts -- your video training account, your transcender account (which doesn't work on OSX/Chrome combo, so I'll need to troubleshoot that), a site for your courseware to download (I'm still downloading, about 30GB or more), and the virtual labs account.
+
+In theory, I don't need to download all the lab tools, since I have access to their VM portal. However, I figured it was easier to grab them all now instead of hunting for them at a later date. I was also annoyed that the PDFs for the courseware are DRM locked and require an actual copy of Adobe Acrobat to read. I moved away from Adobe due to the constant patching it requires -- but here we are again.
+
+Getting all this stuff together wasn't fun, and a constant sign-up and configure that took up half the day. Since this certification has been around for years, I figured everything would be more streamlined with ease of use and a focus on open-source software. The open-source side is important since most of the tools they are training you on are open-source packages. However, requiring close-sourced software to read the PDFs -- that's just annoying compared to everything else.
+
+The streaming solution isn't optimal, but so far it works well enough. I didn't notice at first, but when you mark a module complete it auto-starts the next module. That is slightly annoying especially since they didn't warn you. The instructor in the videos is good. He explains things in a well-thought-out manner. I've made it through three videos -- finishing the introduction to the ethical hacking module.
+
+In this module, they explained the types of hackers, different types of pen testing, the big hacking incidents of 2014, the steps in a pen test, and international hacking laws. All in all, it was a good day. Most of the items covered I was already aware of, but it was a good refresher. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

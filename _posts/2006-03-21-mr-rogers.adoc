@@ -1,0 +1,13 @@
+= Mr. Rogers
+:page-layout: post
+:page-navtitle: Mr. Rogers
+:page-categories: stories
+:page-excerpt: +
+Little known fact -- Mister Rogers was instrumental in the Universal vs. Betamax trial. His testimony about time shifting and how he would love the children to be able to watch his shows at different times of the day. It is believed that his testimony made the extra supreme court justice decide his view -- a single vote sometimes does matter. And of course, everyone at the time wanted to be in Mr. Roger's Neighborhood Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
+:page-image: /images/rogers-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/rogers-1.jpg[,role="text-center"]
+
++
+Little known fact -- Mister Rogers was instrumental in the Universal vs. Betamax trial. His testimony about time shifting and how he would love the children to be able to watch his shows at different times of the day. It is believed that his testimony made the extra supreme court justice decide his view -- a single vote sometimes does matter. And of course, everyone at the time wanted to be in Mr. Roger's Neighborhood Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

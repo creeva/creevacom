@@ -1,0 +1,66 @@
+= Bypassing Your Corporate Firewall Filtering or How to Torture The Firewall Admin
+:page-layout: post
+:page-navtitle: Bypassing Your Corporate Firewall Filtering or How to Torture The Firewall Admin
+:page-categories: geekery
+:page-excerpt: I will first start off with a couple of disclaimers. I don't do this at work, I don't need to. I respect my corporate policies and completely recognize why they are there. This was a mental exercise that stemmed out of a misconception about how our local firewall works. I love the mental exercises on how I would do something and then drop it since I've essentially completed my goal and do not need to test it. If however, you do feel the need to test this at your school or work I take no responsibility for your actions. You are on your own and responsible for your own actions.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+I will first start off with a couple of disclaimers. I don't do this at work, I don't need to. I respect my corporate policies and completely recognize why they are there. This was a mental exercise that stemmed out of a misconception about how our local firewall works. I love the mental exercises on how I would do something and then drop it since I've essentially completed my goal and do not need to test it. If however, you do feel the need to test this at your school or work I take no responsibility for your actions. You are on your own and responsible for your own actions.
+
+I'm also too lazy to give explicit step-by-step instructions on setting
+
+*Step 1.*
+
+You have two choices you need to decide on depending on your capabilities, either setting up your home computer to proxy for you while your at work or buying a cheap hosted website online. It all depends on if your ISP allows you to get to your home machine or if they block it. (Yes with a hosted it will cost you money but the link I gave you gives you your first domain for free). I would use a hosted solution personally. +
+*Step 2.*
+
+At this point, I hope you have decided on which solution you are going to go with. Essentially the steps are going to be the same either way, configuration is on your head though. You are going to setup your web server to allow you to connect to it via SSL. This allows your communication to what your network administrator sees as a random web host to be encrypted. This means they will not be able to look inside the packets. The steps depending on the operating system and web server capabilities are different in each scenario, so please Google to find out how to set up an HTTPS web server for your desired operating system/hosting capabilities. You may need to set up a dynamic DNS solution to get back to your home PC if you choose that route.
+
+*Step 3.*
+
+At this point, you should have a nice web setup that you can log in to via SSL. What to host on the site? You need a site that can go out and fetch pages for you acting as a proxy within the web browser. There are multiple solutions for this, and this is really another step I'm not going to walk you through. This is the point where you are committed and going to violate corporate or school policy. If someone wants to right directions for it in the comments I won't censor them, I'm just not going to be the one that explicitly tells you.
+
+*Step 4.*
+
+If you can figure it out now what you have is a random SSL that you can use to browse anything your network administrator doesn't want you to. Sure you could have just used Google's Cache, but then filtering software still could get contextual information about what you surf based upon the words in the HTML code. This allows you encrypted anonymity.
+
+*What if the network administrator blocks access to my SSL site?*
+
+Well, this shouldn't happen unless you share the site with people. If you want your own private surfing enjoyment I would suggest keeping it to yourself. If however you kept it to yourself and you still get blocked there are a couple of options to check.
+
+*Can you still get anywhere or has your Internet Access been removed?*
+
+If your Internet access has been removed do not pass go, do not collect 200.00, within the scope of this article I can't help you.
+
+*Is it blocked by a DNS name?*
+
+If it's blocked by a DNS name meaning that it's checking to see if you're going to www.bobssecretsslsite.com then you will have to use a new domain name with your hosting provider or a new dynamic DNS name. Yes, this might cost you 6.95 (look for coupons through GoDaddy or another cheap hosting registrar, but you really want the Internet your way unfiltered right? If not why are you still reading this, commitment and freedom are not free.
+
+*Is it blocked by IP Address?*
+
+Well if it is your almost screwed, you need to either get another hosting provider or hope your home computer (if you using that approach) has a random DHCP that will reset when you power cycle your modem.
+
+*What if you look at my Internet Cache?*
+
+This is really how they will catch you. There are a few choices you can do. The first is to set your browser to clear your Internet Cache every time you log out. This will leave behind file traces if they use undelete utilities on you, but these steps are for the overly paranoid. If you are worried that your network administrator is browsing your temporary Internet Files looking for porn.jpg or some such you have two solutions. The first is using a USB drive and link:http://portableapps.com/apps/internet/firefox_portable[firefox portable] installed on that USB drive. This allows you to take your browser whenever you leave your desk.
+
+If your company has a policy banning USB devices and you don't want to break a second policy on top of the one you have already broken, download link:http://www.truecrypt.org[truecrypt]. Follow truecrypt's step on setting up an encrypted partition. Install firefox portable into the encrypted partition. Now your whole browsing history is saved into an encrypted partition that only you have the password to decrypt.
+
+For bonus points use a combination of truecrypt and the USB key. Encrypted data you can take with you that allows you access to your own website that can allow you access past any web filtering software.
+
+*Warning*
+
+Your images are still theoretically stored in your computer's memory so , if your computer generates a memory dump you could still get caught. Also, some companies track the flow of information across their networks, theoretically, this type of software can also see what you have in memory. These are the only real flaws I find in this scenario.
+
+*Bonus Round*
+
+For bonus points on annoying your network administrator who is overly happy about his web filtering solution. Create a new igoogle theme with a bit of flesh you crop from a picture you have of someone's arm and name it porn.job. Have this background in your igoogle theme. Double bonus points for making two more jpg's, one for each corner of your igoogle them. A picture of Richard Nixon named d-ck.jpg and a picture of your cat named p-ssy.jpg. You'll set of his filtering software every time you go to google.
+
+Have fun.
+
+_*P.S.*_
+
+If this sounds too geeky, too technical, too complex, or a pain in the butt……..then you don't deserve this solution. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

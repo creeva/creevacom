@@ -1,0 +1,25 @@
+= How I Stopped Worrying About XBMC and Began To Love Plex
+:page-layout: post
+:page-navtitle: How I Stopped Worrying About XBMC and Began To Love Plex
+:page-categories: geekery
+:page-excerpt: For a long time, I juggled around with many media players on my home network. I'll be honest if I'm playing something quick and locally VLC has been my go-to choice. It hasn't mattered if I was running Windows, OSX, or Linux -- VLC has been my player. However, once you are dealing with file shares, a family wanting to access media, and cross-platform use -- there were only two players in town, Kodi (formerly XBMC) and Plex.
+:page-image: /images/plex-logo-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/plex-logo-1.jpg[,role="text-center"]
+
+For a long time, I juggled around with many media players on my home network. I'll be honest if I'm playing something quick and locally VLC has been my go-to choice. It hasn't mattered if I was running Windows, OSX, or Linux -- VLC has been my player. However, once you are dealing with file shares, a family wanting to access media, and cross-platform use -- there were only two players in town, link:http://kodi.tv[Kodi] (formerly XBMC) and link:http://plex.tv[Plex].
+
+My history with Kodi goes back to the XBMC days. We are a PlayStation family. While there were one or two games I wanted to play on X-box, it wasn't a must-have purchase. My wife always said if I purchased an X-box the first thing she would do was install Linux on it. While in theory, I was fine with that, I didn't want to spend 200-300 for an inferior Linux machine. Eventually, I managed to score one used for about 40.00 around 10 years ago. What was the first thing I did? I soft-modded it and installed XMBC. I effectively beat my wife to the punch.
+
+This worked fine for a couple of years installed I updated it without locking the hard drive correctly once. At this point, I bricked the X-box. Because of the hard drive management that included pairing -- it was useless. I could have purchased a physical mod chip -- but at that time I would have been better served to just replace it. I wasn't hyped about that and went we back to hooking up a spare computer directly to the TV.
+
+Life was good -- but family usage was down. Let's be fair, my son was two at the time, so my wife's usage was down. Around this same time, we received an Apple TV, Netflix streaming was in and our home video collection was kind of out. We used it occasionally but went back to using VLC or XMBC on the computer. I even had a database so multiple computers could share a single XBMC library. Normally though when we used this I was driving the mouse and starting the movie. It was my personal project that became for my personal use.
+
+Then the IOS app for Plex came out. After years of trying Plex on and off, I had a server that stayed up. I would really only use Plex on mobile, still going to Kodi for other systems. I think that flipped last year when Plex for PS3 was released. It was slow and buggy -- but it gave a nice interface for the TV. When we upgraded to a PS4 last Christmas, it truly became usable.
+
+Then my NAS died. I managed to get some stuff from backups but had to do a bunch of re-ripping to get everything back. At this point, I didn't rebuild a database for Kodi. I didn't really rely on Kodi at all. I migrated to optimizing the whole setup for Plex. I've lost some plugins, I've lost the skin features I liked, and on the computer, I've lost the ability to use a mouse for the interface. However, it is truly being used by the family who can use it simply to watch something.
+
+I still run Kodi on my laptop. Mostly this is for downloading metadata (which Plex ignores anyways) and having an offline catalog when I'm away of what media I have. I don't watch much with it. However, when I was on the road I did have a video file that VLC couldn't play (I was as shocked as you are), Kodi played it without issues.
+
+So Kodi in the household has become an also-ran in the home usage election. I loved it and it had about a seven-year run, I couldn't, however, keep using it because they never managed to get shared libraries or set-top box players correctly. For a single system, you were using everything on -- hands down use Kodi. The learning curve between the products is about the same. If you are juggling multiple devices and systems in the house to play media on, Plex is the way to go. I will add one caveat, on the Amazon Fire Stick, the interface was like it was on the PS3, slow and buggy. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

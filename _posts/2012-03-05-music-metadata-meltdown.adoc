@@ -1,0 +1,25 @@
+= Music Metadata Meltdown
+:page-layout: post
+:page-navtitle: Music Metadata Meltdown
+:page-categories: geekery
+:page-excerpt: A little over a year ago I was almost done with getting my mp3 metadata into shape. I had a few stragglers but the majority was complete and I would get to it eventually. Over the last year, my collection has grown a lot. That small part that was probably under 10% of the collection had ballooned to 25-30% with all the new items that I was too lazy to update. For those curious, I have a ton of classical and video game music. The local library has also helped my collection grow.
+:page-image: /images/150020414_6d9c2d98bd.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+
+A little over a year ago I was almost done with getting my mp3 metadata into shape. I had a few stragglers but the majority was complete and I would get to it eventually. Over the last year, my collection has grown a lot. That small part that was probably under 10% of the collection had ballooned to 25-30% with all the new items that I was too lazy to update. For those curious, I have a ton of classical and video game music. The local library has also helped my collection grow.
+
+Last night I finally sat down and fixed them. I fixed them all. I have 100% metadata done in my Itunes library. All albums have an artist. All albums have cover art. Genres are consolidated down to about 15 different types. Each artist only has a single listing (I've fixed typos and spelling differences). Albums with multiple CDs have now been consolidated under a single name instead of having album names ending in CD1 and CD2. It actually looks good.
+
+I do have to admit that for some of the albums I had no idea what the true genre is though. So these items got lumped together under Rock or Pop depending on how I felt at that moment. I don't really use the genre tab too much, so it's just a guideline anyways. If anyone wants to spend hours sorting out proper genres they are more than welcome to.
+
+This cleanliness does come at a price. It took me about 6 hours to go through and remove duplicate tracks, consolidate information, download cover art, and apply it. It is not a job for the weak of the heart to power through. Watching Breaking Bad while I did this is probably the only reason I could maintain my sanity. I still have to do with other digital media also. It makes everything prettier and easier to find. I just wish that it didn't take so long. Even with automation tools, it takes tons of time.
+
+After I got the metadata "masters" done on my desktop I deleted all the earlier non-perfectly cleaned tracks from the file server. I set the server then to reimport all the tracks again. I was going to bed when I was done anyways so it didn't affect me at all.
+
+I thought briefly about re-importing them to the laptop. The problem with this is that it will screw up all of my playlists. I wish there was a good way to sync metadata updates between computers. I do know the "hacks" of using a central repository, but that doesn't fix the problem of keeping an archive at home and having one to take with you at the same time.
+
+Now if I could only fit all the music into a single Google Music account. I'm going to start uploading tracks there soon. The only reason I have not done that is the screwed-up metadata. I guess I don't have much of an excuse now.
+
+Onto mixing the metadata on the DVD rips…… Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

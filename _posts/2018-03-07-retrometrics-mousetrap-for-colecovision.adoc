@@ -1,0 +1,56 @@
+= Retrometrics -- Mousetrap for Colecovision
+:page-layout: post
+:page-navtitle: Retrometrics -- Mousetrap for Colecovision
+:page-categories: video-games
+:page-excerpt: This piece was originally written for Duesr.com
+:page-image: /images/Mousetrap-2-1.jpg
+:imagesdir: /testsite/images
+
+link:http://duesr.com/?p=563&preview=true[This piece was originally written for Duesr.com]
+
+Recently I finished link:http://duesr.com/index.php/2017/03/06/book-review-ultimate-history-video-games/[The Ultimate History of Video Games]. The biggest take away from that was I really need to purchase a Colecovision. I mentioned in the other article about the book that I looked at Colecovision as a nice system, but an also ran. It was a system that didn't make it, so why bother.  +
+I've relooked at the system thanks to the books and emulation, and now I really want one. I believe a second generation version (Super Colecovision?) could have given the NES a run for its money in the games department. I have a Donkey Kong cartridge for it, but not the system. While I have very limited hands on with a a real Colecovision -- the one game I have spent the most time with was _Mouse Trap_.
+
+=== History
+
+Mouse Trap was originally an arcade game released in 1981. It was following the rash releases of many maze game clones inspired by the success of Pac-Man. I have never seen Mouse Trap in the wild, maybe when I was five or six when it was first released, but never in any of the retro arcades I have visited. I'm sure the people who compete for the world championship high score on this cabinet are few and far between. This doesn't mean it's a bad game, it's just overshadowed and didn't sell in big numbers. This means it was hard to find and few people mastered it.
+
+=== Gameplay
+
+In this game you are a mouse trying to avoid six cats wandering the maze. There are doors throughout the maze (the trap portion?) that can be opened and closed by pushing controller buttons. In the center of the screen there is a box (maybe this if the trap portion?) which teleports you to one of the four corners.
+
+If the cats catch you, you lose a life. However, you have a chance to strike back. By collecting dog bones from around the maze -- you can transform into a dog. This allows you eat the cats and remove them from the maze for a short period. There is also a random hawk that tries to eat you.
+
+Ok, just typing out the overview of the game. I agree it's silly without much going for it. Let's just move on. What I can say is that it was a unique formula where they were trying something new. It almost seems like it's a bit complicated overall.
+
+=== The Colecovision
+
+image::/testsite/images/Mousetrap-2-1.jpg[,role="text-center"]
+
+The Colecovision port was my only real experience with this game. Coleco made its name by getting the exclusive rights for a time period on arcade titles. This became an ongoing issue between Atari and Coleco. I think it all started when Coleco scored up the license to a game called _Donkey Kong_ and included it as a pack-in to the console. It's too bad it wasn't the _Popeye_ arcade game (link:http://duesr.com/index.php/2017/02/27/retrometrics-popeye-nes/[explanation here]).
+
+The main difference is that there are only four cats in this game. The video for the Coleco port is below, in it you can see that the graphics are very close to the arcade version. Since I hadn't seen the arcade version before, looking at the YouTube video so I could compare them I was actually surprised.
+
+It should be also be mentioned that Mouse Trap was also ported to the Atari 2600 and the Intellivision. At this time I don't know how they compared.
+
+=== My Personal Experience
+
+Even though millions of Colecovision consoles were sold in America, I only knew of one household that had one. That was my cousin's house in Michigan. Generally we would make the trip up there for family visits a few times a year. I believe this was before I owned a link:http://duesr.com/index.php/2017/03/01/retrometrics-deadly-duck-vic-20/[Vic-20] or I had a neighbor with an Atari 2600. Outside of arcades, this was my only access to video games. I anticipated the times of getting to play a home console.
+
+When I was seven or eight only the adults and one of my younger cousins were home. They allowed me to go the basement and play games to occupy my time. I think this was the longest gaming session I had up to this point. It was also all by myself, there was sharing controllers or taking turns. It was gaming nirvana for a pre-teen in the eighties.
+
+I don't remember how many games they had, but I flipped through a bunch of them. Obviously I played _Donkey Kong_, but that was a bit too challenging for me. I was _Pac-Man_ obsessed at that age, but they didn't have the _Pac-Man_ port. Cartridge after cartridge to find something interesting and I ended up on _Mouse Trap_.
+
+It was enough like _Pac-Man_ that 1990-something me would have said that it was my jam. I had to have played this game for a couple of hours before either my cousins came home and distracted me or it was time to leave. For years this game haunted me. I knew it was on Colecovision, but I wasn't sure what it was called. When I finally found it I was overjoyed.
+
+After that trip I don't remember playing Colecovision over their house anymore. It might have been better things to do. I think my cousins got bored with it much easier than I did. Even if I did play it again, nothing sticks out like that one single day I had the console all to myself.
+
+I remember when Coleco ran the promotion that was if bought a Colecovision you would get a Cabbage Patch Kid for free. I attempted to use this as a back door into getting a game console (my brother and I already had Cabbage Patch Kids though). It was unsuccessful. With the Vic-20, I was stuck with it until I managed to buy my own NES.
+
+I have played Mouse Trap on an emulator. I can say without an original Colecovision controller it is a bit difficult using a controller and then tapping the keyboards for numbers. The game doesn't grab me like it did my pre-teen self. It was something that was of its era and can't be captured again. That's a bit sad.
+
+If I ever manage to track down a Colecovision for my own, I think this will be my only story about the system. I could play ROMs and rate them, but it's not the same. It's an abstract and not a personal experience with the game. So, let's all hope I manage to track one down.
+
+image::/testsite/images/Mousetrap-1982-Exidy-2017-03-06-15.23.01-1.png[,role="text-center"]
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

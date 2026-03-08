@@ -1,0 +1,21 @@
+= Complaints on Grandcentral
+:page-layout: post
+:page-navtitle: Complaints on Grandcentral
+:page-categories: geekery
+:page-excerpt: I've drunk then kool-aid and I can say I am a Google fanboy, for the most part. Though the company has the motto "Do No Evil" -- the motto has changed over time and the power of the information they hold is probably some of the most valuable in the world. Temptation begets evil. This post however is not about the evils can do, it is about one of their newest acquisitions -- GrandCentral.
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+I've drunk then kool-aid and I can say I am a Google fanboy, for the most part. Though the company has the motto "Do No Evil" -- the motto has changed over time and the power of the information they hold is probably some of the most valuable in the world. Temptation begets evil. This post however is not about the evils can do, it is about one of their newest acquisitions -- link:http://www.grandcentral.com[GrandCentral].
+
+For those that don't know what GrandCentral is -- the rough answer is that it's a service that gives you a virtual phone number and that phone number will ring multiple phones to hunt you down. Now there are a lot of cool uses for this service so don't get me wrong about my complaints, they are just really big annoyances that let me give this service a 7 out of 10.
+
+1. You can not make your own groups with their own rules. You have to fit everything into the predefined groups -- which include friends, family, work, web button, and others. The need to create your own groups is a must that is currently missing.
+
+2. I can't play the web messages on my palm TX -- ok that's Palm's fault, not Google's, but I wanted three things.
+
+3. If you are in a household where there is more than a single user of GrandCentral you have to fight over who gets the home phone number. When a husband, wife, children, or roommates live together and they both use GrandCentral only one of them can use the home phone number in their profile. This is the largest complaint I have since adopters are likely to be families and almost all of them would want their home phones to ring -- but the first person to lay claim gets the number. I understand the need to limit the amount of number recycling -- but to get around this I would say pick a number of times a number can be re-used (2-4) it must be designated as a home number (though thinking about shared work numbers is a whole new ball game) and finally have a mutual authentication with the user who first registered and verified that number to make sure that this is indeed someone who should have access to that number.
+
+If number 3. were solved this would take GrandCentral to a 9/10 service -- add all the issues it would get an 11/10 -- curse you Palm. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

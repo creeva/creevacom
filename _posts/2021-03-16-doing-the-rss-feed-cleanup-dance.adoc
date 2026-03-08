@@ -1,0 +1,21 @@
+= Doing The RSS Feed Cleanup Dance
+:page-layout: post
+:page-navtitle: Doing The RSS Feed Cleanup Dance
+:page-categories: geekery
+:page-excerpt: As I'm going through the daily journal generation script I previously mentioned, I made it to the point that I have most of what I can grab on a daily basis. I'm now working on "maybe one-day" items. So this led to Feedburner.com. You see, Feedburner and I go back a long time. Back when APIs were hard to come by and RSS feeds ruled the world -- I routed all my accounts through the Feedburner. It also has the advantage of generating daily emails of RSS items which I still have for historical tracking. I was using it as IFTTT before IFTTT was a thing. It was my central hub which I could manipulate data from.
+:page-image: /images/pexels-photo-801863-1.jpeg
+:imagesdir: /testsite/images
+
+image::/testsite/images/pexels-photo-801863-1.jpeg[,role="text-center"]
+
+As I'm going through the daily journal generation script I previously mentioned, I made it to the point that I have most of what I can grab on a daily basis. I'm now working on "maybe one-day" items. So this led to Feedburner.com. You see, Feedburner and I go back a long time. Back when APIs were hard to come by and RSS feeds ruled the world -- I routed all my accounts through the Feedburner. It also has the advantage of generating daily emails of RSS items which I still have for historical tracking. I was using it as IFTTT before IFTTT was a thing. It was my central hub which I could manipulate data from.
+
+However, let's just say it has been a few years since Feedburner and I had any real contact. Saying it has been a decade would likely be about accurate. I showed up sheepishly and looked around, kind of asked how it was going, and just checked in. While on the surface everything seemed to be chugging along as I left it -- underneath the still waters was some anger. You see while 10-15 years ago might have been the height of public profiles and web services -- many of those did not go on.
+
+I started by clicking the feed information for the most likely dead and buried web services. Instead of pulling up a page, it showed a 404 error. Then I did the same thing. Feeds that I knew did exist and were good are still working correctly. So while I have the bulk of the work done -- I had to wade through over 100 different feeds. Kind of clicking and saying "hey I haven't been to this domain in a decade what is going on".
+
+The most amusing to me is the domains that were purchased by other companies. Later they'll be going through their referral log and go what is this? I've had to have deleted over 60 defunct and dead feeds. Some of the services it was meh -- I only used them to test the service. Other services gave me a mental tear going down my face -- some good service names or web apps went to dust.
+
+We are now in 2021 and instead of RSS feeds being heavily prevalent (and back when I used to do massive cross-posting) -- now it's all APIs and cross-posting is almost dead. It was a different time and a different era. In many ways, the internet has gotten smaller -- or maybe just less brave in putting out new ideas. Many things moved to apps and some of those apps don't even have standard web page front ends anymore. The idea of the open-sharing web is almost completely dead.
+
+Here I am writing on a blog. A personal blog not monetized -- just sharing my thoughts away. This site itself is a dinosaur of another era. Someday all of it gets trapped and vanishes into the tar pits.

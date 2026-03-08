@@ -1,0 +1,19 @@
+= Roll Your Own Cable -- Kind Of
+:page-layout: post
+:page-navtitle: Roll Your Own Cable -- Kind Of
+:page-categories: geekery
+:page-excerpt: I'm the type of person that likes to rip his own DVDs and old VHS tapes onto the computer for archiving. In the past, I almost always had a computer hooked up to the TV and the network to watch these and stream audio through the home stereo.
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+I'm the type of person that likes to rip his own DVDs and old VHS tapes onto the computer for archiving. In the past, I almost always had a computer hooked up to the TV and the network to watch these and stream audio through the home stereo.
+
+My first computer that did this was 8 years ago when it was a novelty and now it's becoming standard in more and more homes across the world. Well, my latest PC is a bit loud for my taste in my newest setup -- what to do, what to do?
+
+We recently canceled cable service to the house -- it's not worth 50 bucks a month to watch Law and Order 7 days a week when Netflix is a much better alternative for my lifestyle -- I can get box sets and movies whenever I want compared to the normal cable service.
+
+For my existing movies -- ripped and home -- I tried hooking up my computer to an RF modulator in the basement -- unfortunately the computer's video output did not have enough juice to trigger the RF modulator's automatic on switch. Well to work around this the computer goes into the video input of an old VCR I have -- from here it hooks up to the house coax wiring where the main cable feed hooked to the rest of the wiring. Because of this the computer now streams on Channel 3 to every computer in the house. I can remotely control the computer via VNC from either the laptops or the PDAs in the house -- haven't tested from the cell phones yet.
+
+This whole scenario is another that shows the benefits of central cable feeds in a house. The quality however is about VHS quality -- not as good as it is hooked up directly to a TV via an S-Video cable. The benefits of this set far outweigh the loss of video degradation in my mind -- but then again I'm not an HDTV junkie. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

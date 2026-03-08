@@ -1,0 +1,21 @@
+= Afraid Of Your Data Being Confiscated At The Border?
+:page-layout: post
+:page-navtitle: Afraid Of Your Data Being Confiscated At The Border?
+:page-categories: geekery
+:page-excerpt: We've all read the articles flying around online over the last couple of months about your data being confiscated at the border and analyzed by the border patrol. The simplest solution of course is sending your data across the internet if you have to go through a border crossing and you are worried about your data being compromised (cloud computing FTW). The next best solution is using True Crypt and using a real encrypted volume and a hidden volume. You risk having to disclose your encryption keys to unlock our visible volume, and with hidden encrypted partitions becoming a common theory, they may be on to you.
+:page-image: /images/397488557_732c8923e3_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/397488557_732c8923e3_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/robnwatkins/397488557/[here].
+
+We've all read the articles flying around online over the last couple of months about your data being confiscated at the border and analyzed by the border patrol. The simplest solution of course is sending your data across the internet if you have to go through a border crossing and you are worried about your data being compromised (cloud computing FTW). The next best solution is using link:http://www.truecrypt.org/[True Crypt] and using a real encrypted volume and a hidden volume. You risk having to disclose your encryption keys to unlock our visible volume, and with hidden encrypted partitions becoming a common theory, they may be on to you.
+
+So what about hiding data in plain site?
+
+Got a text document you need to hide -- find software that can take all the words in the document -- produce a random word file and mixes up the words but all the words are still legible with a lot of chaff words included. If it's named something like dictionary output 1.txt, dictionary output 2.txt, etc., etc. Make sure you carry a copy that can undo this in your webmail account where you can get at this and make the files usable after the fact.
+
+Images? Those kinky pictures that you felt you had to take with you and you couldn't bear to mail to yourself in an encrypted fashion? Well, that's a bit easier. They are looking for image files on our drive (extensions don't matter so don't think you can get them by using the method of renaming your .jpg to .gpj's). You can however convert your files into photoshop or gimp formats and use layers. Take your illicit pictures and put them as a bottom layer in your new image file. Then on top of that add some other images as other layers. When they open up the files in gimp, they are unlikely to go through all the layers looking for pornography. Bonus points if you use stenography and, hide that data in a picture -- then use layers to obfuscate the data further.
+
+These were just some ideas off the top of my head, I'm not leaving the country any time soon. If I was, I would be transmitting all of my data encrypted across the internet. If trusting the network is too much for you, you are welcome to try these methods. Your mileage may vary. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

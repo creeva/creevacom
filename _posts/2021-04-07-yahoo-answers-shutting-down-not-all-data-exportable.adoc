@@ -1,0 +1,21 @@
+= Yahoo Answers Shutting Down -- Not All Data Exportable
+:page-layout: post
+:page-navtitle: Yahoo Answers Shutting Down -- Not All Data Exportable
+:page-categories: geekery
+:page-excerpt: This week it was announced that Yahoo Answers was shutting down. In that fact, I kind of go maybe it's time, Reddit has replaced it. The current ownership of Yahoo is not putting in money or updating properties. Likely it's time. Though Ars Technica had an article that the far right is saying this is to silence their speech, this far more falls into a straight business decision to turn off the lights of a very lightly used service than to actually put the thought into what happens if they do.
+:page-image: /images/2021-04-07_yahoo_blog-1.jpeg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2021-04-07_yahoo_blog-1.jpeg[,role="text-center"]
+
+This week it was announced that Yahoo Answers was shutting down. In that fact, I kind of go maybe it's time, Reddit has replaced it. The current ownership of Yahoo is not putting in money or updating properties. Likely it's time. link:https://arstechnica.com/information-technology/2021/04/yahoo-answers-to-end-as-trump-fans-see-plot-to-silence-conservatives/[Though Ars Technica had an article that the far right is saying this is to silence their speech], this far more falls into a straight business decision to turn off the lights of a very lightly used service than to actually put the thought into what happens if they do.
+
+Yahoo was nice enough to provide a method to export your data. Since I'm a data hoarder of content that I have wittingly or unwittingly generated -- I wanted to get my data before it was gone. It took me four attempts. The first three about an hour after I submitted the request to back up not all my Yahoo data -- but just the section from answers -- I received an email saying that I had canceled my own request. I assure you I did not. I wasn't even on the page the second or third time (for fear that a page refresh canceled the request). So that was my first hurdle. But once again, the current owner isn't dumping money into the company to fix things -- so you have to expect that some of the rubber bands have snapped and the duct tape is torn by now.
+
+The fourth attempt though worked, though not necessarily as advertised. I downloaded a 6.2kb zipped file and was happy that it wasn't canceled though it took 18 hours to generate (lack of money means poorly fed hamsters). I thought the file was a bit small -- since I can generate a 3kb text file in my daily journal. But it was compressed, so maybe they spent hours really really compressing it and making it small. They did not.
+
+When I opened this file, all that it contains was some .json file (which is fine) and privacy notices. Opening the JSON files, they include solely my basic profile information. It did not include any questions I asked (1) or any I answered (80). You literally are better off and closer to complete to save your Yahoo Answers page to a PDF or an Image. It's easier to read and gives you a better look in the long run at what the profile would have looked like. Just all around better.
+
+Now I'm going to go through and manually copy my data out of the service. I have a few weeks and not much data to grab. I just shouldn't have to. When I submit a data request that offers to export all of my data out of service -- I expect all of my data. It doesn't matter if the data is important or not. Secondary gripe -- everything gives a vague time period (such as over a decade ago) and no real dates. Which for a life logging cataloguer is very very annoying and likely would have been included in a proper data export.
+
+While few people reading this will even bother to export their data, just don't bother. Look at your profile and manually grab what you need. Between the hoops and problems of the export process, and the lack of information exported, it's just going to be easier and more complete to do it yourself instead of trusting the starving hamsters to do an accurate job.

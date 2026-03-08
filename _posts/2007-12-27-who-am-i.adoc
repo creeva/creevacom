@@ -1,0 +1,20 @@
+= Who Am I?
+:page-layout: post
+:page-navtitle: Who Am I?
+:page-categories: stories
+:page-excerpt: I thought I was an enigma…… +
+I wasn't complex enough to be incomprehensible
+:page-image: /images/calligraphy-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+
+Who Am I?
+
+I thought I was an enigma…… +
+I wasn't complex enough to be incomprehensible
+
+I thought I was straightforward…. +
+I'm too complex to be completely understood
+
+The multitude of essences that encompass a single soul rupture the consciousness with their complexity and equal relative simplicity Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

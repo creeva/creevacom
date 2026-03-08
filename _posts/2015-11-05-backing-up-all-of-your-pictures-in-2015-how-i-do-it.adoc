@@ -1,0 +1,31 @@
+= Backing Up All of Your Pictures in 2015 -- How I Do It
+:page-layout: post
+:page-navtitle: Backing Up All of Your Pictures in 2015 -- How I Do It
+:page-categories: geekery
+:page-excerpt: Not a month goes by where someone I know hasn't broken a phone or lost pictures on their computer. I would say about 80% of the time a solution is found and they manage to get the images back. I'm sure it is a massive heart attack as they try different things, all in hopes of recovering the pictures of your child's first steps that only exist on your phone. It's a monthly Facebook freak-out from someone on my friend list.
+:page-image: /images/Untitled_22389441676_o-e1446483354548-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Untitled_22389441676_o-e1446483354548-1.jpg[,role="text-center"]
+
+Not a month goes by where someone I know hasn't broken a phone or lost pictures on their computer. I would say about 80% of the time a solution is found and they manage to get the images back. I'm sure it is a massive heart attack as they try different things, all in hopes of recovering the pictures of your child's first steps that only exist on your phone. It's a monthly Facebook freak-out from someone on my friend list.
+
+I regularly give a high-level description of my process. I thought it might be better to have a single post written up that encompasses these steps. I'll also be pointing out shortcuts that I don't follow due to my process.
+
+The first thing that is important is that I shoot 99% of my images on the iPhone. These steps should work regardless if you use an iPhone, Android, or SD Card. It's best to know what I use if there are any differences for your backups. You should also note that us a Macbook Pro, but all these same steps exist on Android.
+
+Before I get into my complete process -- if pure raw backup with no organization is what you want, get Dropbox, Google Photo Uploader, and Flickr Uploader. Dropbox will import the images from your phone. Have Google and Flickr watch the import folder and automatically upload them to their respective services. More detail is below, but that is the down-and-dirty on how not to lose images.
+
+Now, onto my process…
+
+The first piece of software I use is link:http://dropbox.com[Dropbox]. I have some storage I use on Dropbox, but not really for images. Dropbox has a nice feature that copies all images from your device to a folder named camera uploads. Every time I plug in my phone my images are at least saved on my computer. At this point, I use link:http://flickr.com[Flickr Uploader]. This software monitors the Dropbox folder and automatically uploads all the images to Flickr.
+
+At this point, you could move your images to another folder for backup locally. Remember, it's not a backup unless it is in at least two places. One of those places is preferably offsite. However, I have this phobia of my laptop and Flickr dying at the same time. Because of this, I do some additional steps.
+
+I start by sorting all images on Flickr into individual months. The reason for this is that it makes it easier for me to go back and search time frames. Here is where I use something that costs money -- a piece of software called link:http://clipyourphotos.com/bulkr[Bulkr]. This software lets me download complete albums from Flickr. It downloads them and places them into a folder with the Album name. Since my folders are May 2015, April 2014, etc. I have them locally complete and organized just like on Flickr. Now it's time for the split.
+
+I sort through the images and do a monthly folder on Facebook. I don't post all images, but the bulk of them. My current image count on Facebook is approaching 10k. I have 40k images on my laptop and on Flickr. After the Facebook dump is complete I upload my photos to Google. I use the link:https://picasaweb.google.com/lh/myphotos[old Picasa Website], the only reason I do this is so I can easily dump them into albums that match Flickr.
+
+At the end of the day, my images are all sorted on my hard drive, Flickr, (mostly on) Facebook, and Google Photos. I understand this sounds long and complicated, but there are a couple of shortcuts.
+
+If you are not worried about album naming -- you could use the process I mentioned at the beginning of just raw backups using Dropbox, Google, and Flickr. This won't organize them, but you will have your photos backed up to these services for retrieval. I only share on Facebook to share with friends and family. By not uploading manually at all anywhere -- this is a completely transparent process. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

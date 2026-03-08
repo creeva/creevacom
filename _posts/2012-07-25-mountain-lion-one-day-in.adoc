@@ -1,0 +1,23 @@
+= Mountain Lion -- One Day In
+:page-layout: post
+:page-navtitle: Mountain Lion -- One Day In
+:page-categories: stories
+:page-excerpt: I knew I wasn't going to get a review done in time to cash in on all the link-bait craziness yesterday. I did not even attempt it. Instead, I thought I would allow myself to give the operating system a day to bake in. I would see how it goes and write up my impressions.
+:page-image: /images/39150253_5ded166fe1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
+
+I knew I wasn't going to get a review done in time to cash in on all the link-bait craziness yesterday. I did not even attempt it. Instead, I thought I would allow myself to give the operating system a day to bake in. I would see how it goes and write up my impressions.
+
+Overall, my laptop seems to be faster. It also ended with more hard drive space than when the installation started. Yes, I did take into account the size of the installer that was deleted. It was only a few gigabytes, but every bit helps.
+
+I'm bummed out that they removed the RSS reader from within the Mail app. I knew it was coming. Right before the upgrade, I backed up all of my personal RSS items. It's not like I don't back up the same information in other formats. I admit this was a complete redundancy strategy. While I'll miss this function it has no great effect on my normal workflow.
+
+Being able to right-click images and send them to Flickr is awesome. This is definitely a feature I will be using. It really is only worthwhile if you are a Flickr Pro user, thankfully I already am. I no longer have to open up the browser, navigate to Flickr, and select upload. I know, this one definitely falls into first-world problems.
+
+The Twitter integration, I probably won't use that. I would have to change the flow of how I do things to really use it. I rarely use the web interface. I'm assuming I may use it just a little less than I use the Twitter home page. I did select to update contact photos from Twitter. At least it is going to do that much for me.
+
+The notification center is cool. I did have to download Hiss so my Growl notifications are sent to it. It gives me a simple and obtrusive method to check the status of different things. I've used Growl for almost as long as I have used OSX. I never managed to delve into the advanced features, but as a desktop notifier, it works great. Essentially the notification bar gives me a command center that I can hide or show when I want.
+
+Other than those things, I haven't tried out anything in my normal workflow. I have no complaints at all. Definitely worth the 19.99 upgrade cost for the increased speed. Overall, I'm happy with it. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

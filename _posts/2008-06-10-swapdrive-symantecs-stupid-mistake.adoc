@@ -1,0 +1,46 @@
+= Swapdrive, Symantec's Stupid Mistake
+:page-layout: post
+:page-navtitle: Swapdrive, Symantec's Stupid Mistake
+:page-categories: geekery
+:page-excerpt: It's been 18 months since Symantec and I parted ways. I've never blasted them once on my blog or to any person, beyond idle small complaints. I've always stood up for them as a company even though they were no longer my employer. However, the Swapdrive purchase is the most idiotic decision they've done since they ran the enterprise firewall into the ground.
+:page-image: /images/2264672497_ffb49200a5_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2264672497_ffb49200a5_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/amberica/2264672497/[here]
+
+It's been 18 months since link:http://www.symantec.com[Symantec] and I parted ways. I've never blasted them once on my blog or to any person, beyond idle small complaints. I've always stood up for them as a company even though they were no longer my employer. However, the Swapdrive purchase is the most idiotic decision they've done since they ran the enterprise firewall into the ground.
+
+From Symantec PR:
+
+[quote]
+____
+Helping our Symantec customers secure and manage their information is fundamental to our business. The Norton brand is focused on offering products that help consumers secure and manage their information, which has led to our development of world class products such as Norton AntiVirus, Norton Internet Security and Norton 360. With the completion of the SwapDrive acquisition, we are building a solid foundation upon which to offer our Norton customers a comprehensive solution to help secure and manage all of their digital information, across all of their devices.
+Online backup provides secure storage and flexibility for managing digital information. With online storage, consumers can manage across devices, access information from different places and easily share information and documents. Online backup also offers the added benefit of protecting data from disasters or hardware failures.
+____
+
+Now this all sounds fine and dandy at the outset, until you link:http://www.backup.com/signup/[start looking at the pricing]:
+
+[quote]
+____
+2GB -49.50 per year
+5GB -- 99.50 per year
+10GB -- 149.50 per year
+25GB -- 249.50 per year
+50GB -- 449.50 per year
+____
+
+Now for the price of 50GB, I can pay for a dedicated server online with 600GB of storage space. I could get a second internet connection and place it in a relative's house and hook up 2 terabytes worth of removable storage. Heck, even with my hosting service I only pay 5.95 a month a get 500GB of storage space. I get unlimited storage space for ALL of my photos for 25.00 per year from link:http://www.flickr.com[Flickr].
+
+I get 8 GB of storage space for my e-mail for free from Gmail, and I mirror it with unlimited storage at link:http://mail.yahoo.com[yahoo mail] and Hotmail. The price per gigabyte has fallen through the basement. Did I mention that pricing is for consumer-grade service -- the business level is even higher for the same space?
+
+This service is a blatant rip-off that Symantec is attempting to perform on its customers that buy their low-end consumer products as faithfully as gaming jocks buy the latest Madden installment. If my parents or grandparents even consider such a service I think I may literally smack them upside the head. If however, Symantec changes pricing drastically -- like 99.50 for 50GB a year and good customer service, then it may be worthwhile. However, with the current setup, it's outright fleecing.
+
+The only thing I see worthwhile that truly may fit into Symantec's business model is the fact that they now own backup.com, so if they purchased it for the domain name alone I understand that. If they did they still need some massive price restructuring to be fair to the idiot consumers that wait in lines like lemmings.
+
+If Symantec wanted to enter the online services world for consumer-level service, this in my mind was a bad place to start. Something like a 4.95-month e-mail service that would hook into Gmail via imap and clean out spam and check for viruses. That would be more effective and more in line with something that is needed and within their scope instead of something that was out of date 2-3 years ago.
+
+I feel sorry for any Symantec Consultants that have to push this onto their customers as an upsell or belittled enough to actually go out and set this up.
+
+BTW -- The above picture is of a Symantec Star Award, it's given for going above and beyond for customer service, and usually has a cash award that goes with it. I got that picture from Flickr, my star award is in the basement. I think Symantec itself and the people who made this decision get whatever is considered the opposite of a star award, which usually is being shown the door. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

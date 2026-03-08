@@ -1,0 +1,23 @@
+= Inside JFK
+:page-layout: post
+:page-navtitle: Inside JFK
+:page-categories: stories
+:page-excerpt: I had to pull out my cellular card since this airport does not have any free wireless access. On a side note, I thought the ad-hoc computer network that said "Free wireless here" was cute. Though anyone with half a brain could see it was an ad-hoc network.
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+I had to pull out my cellular card since this airport does not have any free wireless access. On a side note, I thought the ad-hoc computer network that said "Free wireless here" was cute. Though anyone with half a brain could see it was an ad-hoc network.
+
+Interesting observations on the airport -- I got here at 2 PM -- and my flight departs at 7:05 PM. At the front counter, I tried to get an earlier flight (4:35 flight) but they told me it would cost 25.00 to change flights. Now I've changed flights many times in the past, and there had never been a charge. As long as you are going to the same place an earlier or later flight costs the airline nothing if they are not booked on the flight -- the cost to move the people is the same either way.
+
+So I checked my bags grumbled and complained about the cost but walked away and accepted my normal flight time. When I got inside I explored my terminal (2/3 in JFK, then went to the gate. I found an information area to see where the earlier flight was leaving from. I ventured to that gate and checked and see if I could switch flights. They were more than happy to switch -- AT NO CHARGE. Why 150 feet closer means 25.00 cheaper -- I have no clue. But then the bomb dropped -- since I checked a bag I could not switch flights. ARRGG. Stupid liquid restrictions caused me to check a bag.
+
+So no home earlier for me.
+
+Right now for some reason I'm sitting on the floor and airport maintenance is measuring around me, I'm not sure what for, I'm listening to my MP3 player so I'm not listening to them, but I was going to move and they told me to stay there that I was fine where I was. They have pulled out measuring tape and it kind of feels like they are measuring my coffin -- albeit a big one since I would guess the size they are measuring is about 10×5 -- and I'm definitely not that big of a person. So I have 4 people standing less than 3 feet from me = kind of hovering -- kind of disconcerting.
+
+Another irony -- I received a voicemail that I didn't check until I was in NYC -- it turns out Sat. night a friend left his cell phone in my car -- so I get to search for it and give it back to him on my way home tonight.
+
+The laptop battery is getting low -- heading out for food and a power plug. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

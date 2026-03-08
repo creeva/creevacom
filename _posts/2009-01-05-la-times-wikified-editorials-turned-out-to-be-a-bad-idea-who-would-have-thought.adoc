@@ -1,0 +1,17 @@
+= LA Times Wikified Editorials Turned Out To Be a Bad Idea -- Who Would Have Thought?
+:page-layout: post
+:page-navtitle: LA Times Wikified Editorials Turned Out To Be a Bad Idea -- Who Would Have Thought?
+:page-categories: geekery
+:page-excerpt: A couple of news sources are reporting today (here, here, and here) that the LA Times is suspending its program of using a wiki for editorials. Now in a controlled environment like Wikipedia where they have the volunteers to handle un-authorized edits, wiki's can be a great thing. In the hands of exposing your edits to the audience of a major newspaper -- I wouldn't have gone that route.
+:page-image: /images/1087784387_6d9c189214_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/1087784387_6d9c189214_m.jpg[,role="text-center"]
+
+Picture from link:http://flickr.com/photos/ari/1087784387/[here]
+
+A couple of news sources are reporting today (link:http://www.msnbc.msn.com/id/8300420/[here], here, and here) that the link:http://latimes.com[LA Times] is suspending its program of using a wiki for editorials. Now in a controlled environment like Wikipedia where they have the volunteers to handle un-authorized edits, wiki's can be a great thing. In the hands of exposing your edits to the audience of a major newspaper -- I wouldn't have gone that route.
+
+What they were finding is that people would make their own slant on the editorials -- such as changing the word abortion to the word murder. They also were inundated with spam and porn ads. Sounds like they didn't have the best idea on the onset of setting up a wiki or properly staffing what would be a high-profile use of the technology. This is a technology that is meant to be changed and updated. That ability alone has made some people suspect link:http://wikipedia.org[Wikipedia]. Newspapers are dying out in America -- but this example shows why such high-profile companies can not hand the keys to the car to just everyone asking. Citizen media has its place, but old media shouldn't be attempting to tag it on without understanding the consequences or the work involved in maintaining it.
+
+I wonder if anyone got fired? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

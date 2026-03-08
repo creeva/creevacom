@@ -1,0 +1,69 @@
+= Retrometrics -- The Magical Copy of Baseball Stars for the NES
+:page-layout: post
+:page-navtitle: Retrometrics -- The Magical Copy of Baseball Stars for the NES
+:page-categories: video-games
+:page-excerpt: This game, it's one of the games that I almost wish I could forget about. The first weekend I played it was fantastic, and I'll never get back to that again. We will get to the why in a moment.
+:page-image: /images/img_4311-1-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/img_4311-1-1.jpg[,role="text-center"]
+
+This game, it's one of the games that I almost wish I could forget about. The first weekend I played it was fantastic, and I'll never get back to that again. We will get to the why in a moment.
+
+_Baseball Stars_ (link:http://duesr.com/index.php/2017/02/27/retrometrics-popeye-nes/[like yesterday's piece on Popeye]) started out as an arcade cabinet. This is where things get a little weird though. I can find YouTube footage of Baseball Stars Professional and Baseball Stars 2 in their arcade incarnations, but not the original. link:https://en.wikipedia.org/wiki/Baseball_Stars[Wikipedia confirms that it started as an arcade before going to the NES though].
+
+Why is this weird? Well no matter how obscure an arcade or console game, I've never been unsuccessful at finding footage. I can't even find pictures of the arcade cabinet. If I was a little more ambitious I would search if it is available with MAME and try to get footage. I'm guessing though if I started down that path it would be one of the titles that aren't emulated. This must mean that it is obscure as Donkey Kong and not nearly as successful as Popeye was (link:http://duesr.com/index.php/2017/02/27/retrometrics-popeye-nes/[read my Popeye piece to understand]). It was developed by SNK and to be fair for the NES it was considered a hit game.
+
+I wasn't a huge sports game person. Today, every few years I will purchase a year or two old copies of some sports titles for 3.99, but you will never see me paying full price for Madden. So when it comes to baseball games on the NES -- I thought that _Bases Loaded_ was the standard that everything else should be judged by. Granted I was a fan of _Baseball Simulator 1.000_ for its wacky gameplay and _Base Wars_ since the robots would fight -- but I wasn't an aficionado of the genre by any means.
+
+image::/testsite/images/2361156-nes_basesloaded-1.jpg[,role="text-center"]
+
+image::/testsite/images/Base_Wars_cover-1.jpg[,role="text-center"]
+
+image::/testsite/images/48915_front-1.jpg[,role="text-center"]
+
+I think what surprises me is how much I enjoyed this game. Back in 1990-something when I played it, I would have been unaware that it became the standard that other games would be judged by (because it was no _Bases Loaded_).
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.16.03-1-1-1070x879.png[,role="text-center"]
+
+The first thing it did was install a battery backup. Since many of us had played Legend of Zelda and other battery-based games, we were well aware of how it worked. By the time I played Baseball Stars, I would have assumed that most sports games were like this. Obviously, I was wrong. So for the competitors, the bases were only loaded while the game was powered on.
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.18.37-1-1070x879.png[,role="text-center"]
+
+The next improvement it did was to allow you to create players and teams. Back then you had a limited amount of archetypes you could use, but now I see the footage of people scanning their own faces and putting them on the game characters for modern consoles. When you won games you had the option of upgrading attributes on your players. This allowed there to be an RPG element. As you progressed through the season, you leveled up and then destroyed the competition. Maybe they should add a baseball stage to the next Final Fantasy title.
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.19.48-1-1070x879.png[,role="text-center"]
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.19.25-1-1070x879.png[,role="text-center"]
+
+Finally, it had seasons. Seasons that could be stopped between games and saved. You didn't have to even play the game, you could set the computer to autoplay the season itself. You could then come back to it later. Combining saved games, seasons, and player management -- these are all things you would fully expect of a baseball game today. I doubt you would enjoy one at all that just let you play a single game and didn't save any progress on a modern console.
+
+image::/testsite/images/download-1.png[,role="text-center"]
+
+The game was developed by SNK. SNK was primarily a developer for arcade games originally. Success on the NES with titles such as Ikari Warriors had it expand it toes in the idea of home consoles more. They enjoyed this success so much that they attempted to go out on their own at one point. They developed a multi-cartridge system for their arcade cabinets that allowed them to easily swap out games. They took this system and transformed it into their own console called the Neo Geo.
+
+The Neo Geo was unsuccessful because of the cost of the console and the games. The cost was high because you were literally playing the same game as was in the arcade. There was no best-effort reproduction on a ported system -- it was the same game. While the Neo Geo is highly sought after by collectors (I still don't own one), those collectors pay a high premium. Many of the games go for thousands of dollars today.
+
+With my speculation of is _Baseball Stars_ an arcade game or not aside -- you can get sequels on the Neo Geo. In total, the Franchise spawned a total of five titles. I've only played the first one, so I can hope later ones live up to that.
+
+Choosing a rental game would sometimes be tough. You wanted something that you were going to enjoy. It would have to captivate your attention enough that you didn't have regret. Since there were two of us, we wanted something both of us could play. That night we rented _Baseball Star_s and took it back to his house.
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.16.47-1-1070x879.png[,role="text-center"]
+
+We were playing it for a couple of hours slowly building up our team. I would say we were 4-5 games into the series and then tragedy struck. I don't remember how, but the NES has knocked off the TV during the middle of a game and the cartridge came loose. We had spent a couple of hours so far in the game and watched what seemed to be a tragedy as the NES blinked its red light off an on. It was mocking us in that way of saying "You have wasted more of the last two hours than you thought you did -- have a nice life."
+
+We got up and tried to salvage whatever happened. We reconfigured the NES and re-inserted the cartridge. Luckily the auto-saves included up to the last game we finished. Something else strange happened. The saved game was glitched. It wasn't glitched in the sense we couldn't go on -- it was one of those times when the game glitches in your favor.
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.17.08-1-1070x879.png[,role="text-center"]
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.17.34-1-1070x879.png[,role="text-center"]
+
+When we went to buy the players we did before the game fell over and we noticed something. We had millions of dollars in the game (why the heck can't my ATM card glitch this way). This was literally months of work of playing and saving for us done because the game fell over and corrupted the save at just the right spot. There is absolutely no way we could have repeated this. I think this is the only time I have had a game system crash (literally in this sense) in my favor.
+
+Of course, we were excited, and we immediately purchased every single over-the-top player that you normally could never afford. Our team was maxed. We went on through how many more games there were in the season and went undefeated. The NES gods smiled down on us in that one perfect moment.
+
+Sadly, I have never brought myself to play that game in cartridge form again. I am next to positive I have a copy in my vintage games collection -- but I'm sure if I put the game in my NES I would try to bump and beat the console just right to try to replicate that glitch. Unfortunately, I know that can never happen, and I would likely destroy one of my consoles trying.
+
+image::/testsite/images/Baseball-Stars-2017-02-28-15.19.25-1-1070x879.png[,role="text-center"]
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

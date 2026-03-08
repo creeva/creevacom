@@ -1,0 +1,49 @@
+= The Crossposting God Series Part 3 -- Live Journal and Derivative Sites
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 3 -- Live Journal and Derivative Sites
+:page-categories: geekery
+:page-excerpt: LiveJournal is another online blog that focuses on community. While it is not as active and communal as Vox, it is infinitely more focused on true interaction between users compared to Myspace, Facebook, or any other of the more traditional collect as many friends as you can pokemon style social network. I can say that in rankings of comments and feedback, I get back from readers that my live journal is only third to my vox and my main blog in terms of interaction. Livejournal has been so successful that there are derivative sites that use the live journal engine, the steps listed below should allow you (with some tweaking) to post to any of those sites as well.
+:page-image: /images/logo.gif
+:imagesdir: /testsite/images
+
+image::/testsite/images/logo.gif[,role="text-center"]
+
+link:http://www.livejournal.com[LiveJournal] is another online blog that focuses on community. While it is not as active and communal as link:http://www.vox.com[Vox], it is infinitely more focused on true interaction between users compared to link:http://www.myspace.com[Myspace], link:http://www.facebook.com[Facebook], or any other of the more traditional collect as many friends as you can pokemon style social network. I can say that in rankings of comments and feedback, I get back from readers that link:http://creeva.livejournal.com[my live journa]l is only third to my vox and link:https://creeva.com[my main blog] in terms of interaction. Livejournal has been so successful that there are link:http://en.wikipedia.org/wiki/Comparison_of_sites_using_the_LiveJournal_codebase[derivative sites that use the live journal engine], the steps listed below should allow you (with some tweaking) to post to any of those sites as well.
+
+I really wish I could say that I had options for you to crosspost to live journal from Vox or link:http://www.blogspot.com[Blogger], but currently unless you have a paid account you won't be able to use the post by e-mail method I mentioned in the Vox article. If you do however wish to use a method and have a paid live journal subscription the steps are similar to the steps in the vox article.
+
+Since my main blog is WordPress I, of course, use a plugin to facilitate the crossposting -- link:http://code.google.com/p/ljxp/[LiveJournal Crossposter] to be exact. When WordPress 2.5 was released there were some issues with this plugin, but it's since been updated and corrected. To configure this plugin you do the following steps.
+
+1. Download and install the plugin
+
+2. Activate the plugin in your WordPress installation on your plugin tab
+
+3. Go to your settings tab and click on the live journal option
+
+4. Fill in the following options:
+
+* LiveJournal-compliant host: (_If you are using a LiveJournal-compliant site other than LiveJournal (like DeadJournal), enter the domain name here. LiveJournal users can use the default value_)
+* LJ Username
+* LJ Password
+* Community: (_If you wish your posts to be copied to a community, enter the community name here. Leaving this space blank will copy the posts to the specified user's journal instead_)
+
+That gives you the most basic configuration of this plugin, however, unlike many other wordpress plugins that would end there, Livejournal crossposter gives you a myriad of more options. Here are a few more things you can tweak:
+
+* Crosspost header/footer location -- _choices at the top or bottom of the post_
+* Set blog name for crosspost header/footer -- _you can use your own blog's title or a customer title_
+* Custom crosspost header/footer -- _gives you the option for custom coding in the header or footer_
+* Privacy level for all posts to LiveJournal -- _choices are public, private, or friends_
+* Should comments be allowed on LiveJournal? -- _You can force commentors to come back to your blog to comment or allow them to comment directly in livejournal (I just let them go directly onto live journal's site)_
+* Tag entries on LiveJournal? -- _Choices are -Tag LiveJournal entries with WordPress categories only, Tag LiveJournal entries with WordPress categories and tag, Tag LiveJournal entries with WordPress tags only, and Do not tag LiveJournal entries._
+* How should LJXP handle More tags? _Choices are -- Link back to WordPress, Use an lj-cut, and Copy the entire entry to LiveJournal_.
+* Select Categories to Crosspost -- _You have the option to choose which categories of posts you wish to send over to LiveJournal. This allows you to target which posts and topics you wish to share, a big boon for some online publishers who are capable of writing on topic._
+
+I think LiveJournal crosspost should be a benchmark plugin for all other crossposting plugins to come. You can crosspost to Livejournal from other services, such as Utterz or Ping.fm -- and I'll be covering the Live Journal crossposting functions from those sites when I get to those articles.
+
+The next article in the series will cover the difference between crossposting endpoints and crossposting distribution points.
+
+Previous Entries in The Crossposting God Series:
+
+link:https://creeva.com/index.php/2008/05/22/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/[The Crossposting God Series Part 1 -- The Introduction]
+
+The Crossposting God Series Part 2 -- Vox Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

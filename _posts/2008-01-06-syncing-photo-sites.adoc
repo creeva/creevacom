@@ -1,0 +1,21 @@
+= Syncing Photo Sites
+:page-layout: post
+:page-navtitle: Syncing Photo Sites
+:page-categories: geekery
+:page-excerpt: Currently, I've managed to disseminate my blog articles to several different blogs (coming in how localhost/WordPress works part 3). One thing I'm looking for is a way to sync photographs from multiple sites. Like using WordPress as my front end to multiple sites, I truly love Flickr and its tools and plans on always using it as my primary photo storage site. I could manually upload to other sites I use, but what fun is that? Making everything work behind the scenes by itself is one of my sick little pleasures.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Currently, I've managed to disseminate my blog articles to several different blogs (coming in how localhost/WordPress works part 3). One thing I'm looking for is a way to sync photographs from multiple sites. Like using WordPress as my front end to multiple sites, I truly love Flickr and its tools and plans on always using it as my primary photo storage site. I could manually upload to other sites I use, but what fun is that? Making everything work behind the scenes by itself is one of my sick little pleasures.
+
+We have two possible solutions to make this work -- client side or server side.
+
+Client-side I could download and manually upload all the photos to each site I possibly use and use third-party tools to manually sync all the photos to each individual site I could possibly want the data to be uploaded to. This option I may break down and do, but like I said I don't want to.
+
+Server side -- what I want.
+
+I want to be able to upload the data to Flickr and set the data to automatically be synced to other sites across the net. Some of the sites I would like to sync data with are Photobucket, Myspace, Facebook, and anything where I can get used to it.
+
+Does anyone know of a tool that exists that can sync from Flickr to other services? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

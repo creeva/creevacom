@@ -1,0 +1,33 @@
+= How Did We End Up Here?
+:page-layout: post
+:page-navtitle: How Did We End Up Here?
+:page-categories: geekery
+:page-excerpt: A few months ago my website ran into an issue. WordPress crashed, and while I could take time to fix it -- I opted not to. At first, it was "I'll get around to it". Then it became "do I need it"? For quite a while I wanted to take my site to a static deployment -- removing the backend needs. This really was the opportunity to start on that. The problem was old data. I wanted that back.
+:page-image: /images/switcher.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switcher.jpg[,role="text-center"]
+
+A few months ago my website ran into an issue. WordPress crashed, and while I could take time to fix it -- I opted not to. At first, it was "I'll get around to it". Then it became "do I need it"? For quite a while I wanted to take my site to a static deployment -- removing the backend needs. This really was the opportunity to start on that. The problem was old data. I wanted that back.
+
+I previously designed a comprehensive backup strategy. In retrospect, it had some gaping holes in ease of use. Digging through MySQL exports, building new development environments, and tweaking settings because the upload size was too large -- gave me access once again. It was time to tackle another problem -- blog rot.
+
+Blog rot is one of those things that just comes over time. Embedded YouTube videos no longer exist. The linked images you used for posts disappeared. Decisions made for optimization cause problems decades later. Blog rot arises from all of these. It was time to do a top-to-bottom clean of the site.
+
+This idea isn't as pure and simple as it sounds. I started with thousands of posts. The website was a central repository of tweets, image uploads, videos, data from sites that don't exist anymore, and general fluff. It was time after two decades to get rid of the litter and noise that I didn't need. Unedited backups are safe, but the future site didn't need that litter. Posts conceived with original thoughts behind them were the target.
+
+With the first cleaning, the site was whittled down to two-thousand posts. The archive still had lots of white noise amongst the soundtrack. Unfortunately, something else turned its ugly eyes upon me. Looking through my posts, there were spelling and grammar issues galore. It wasn't unawareness from when I wrote, it just wasn't a concern. I wrote a stream of thought. This approach leads to many writing issues for anyone. The downside is that I wanted the writing to pure versus edited. I now have a different view on that approach.
+
+I just stared down at the amount of work ahead. The work involved opening each of the two thousand posts and deciding which had a place in the future. The culling survivors would have to make sure they had a working featured image. If an image was missing, stock imagery was used. Each post was scanned by Grammarly. Grammarly highlighted spelling, grammar, and punctuation issues. Those issues were addressed or corrected. Writing this post, Grammarly prompts are almost non-existent compared to the legacy posts in the edit screen.
+
+Revisiting writing for the first time in years is an interesting experience. I read a wide variety of topics including family issues, defunct web services, older political views, and general geekery. I remembered each and every post. No matter how random or insignificant, it was remembered. Detachment is beneficial though. Not everything being read was going to survive. Their ghosts haunting the Internet Archive will keep them preserved.
+
+Future website development was still going to be done with WordPress. This meant consistency as I was going through. After reviewing, cleaning, grammar, and trimming the blog rot took about a month from beginning to end. From thousands of posts to under five hundred. It was quite the trimming the in the. I left behind a good mix of who I was and what I wrote about over the years. Posts were removed for a multitude of reasons. The largest reason was relevance, specifically relevance to me and not necessarily the site. I will admit that some of the removals were just due to the level of effort to get a post up to snuff.
+
+During all of this content work, thoughts and plans started emerging for the backend. I've been trying to get away from my hosting provider for years. I keep it for a site that no one visits. Why should I be paying actual money to keep it going? Time is money -- and that is the larger cost sink though. In the end timing of everything came together. My domain name was coming up for renewal. That caused me to consider now was the right time to start digging into DNS and all that entails.
+
+Through all of this, my idea of my hosting needs has changed a bit. Originally I thought about migrating to an AWS hosting solution. My personal journaling script had been running there already. Looking at the numbers though, it was costing me more than my regular host. All I needed was a web directory to host flat files that I could point my DNS to. I ended up testing and migrating to GitHub. Using their page feature was all I needed. It also had the benefit of a free SSL certificate. It does have a downside. Anyone could download the totality of my website easier than just loading a scraper. Thankfully they will only receive the same information a web scraper would provide.
+
+The last step of the backend was considering DNS. I ended up using Google and handing more trackable information about myself to the evil overlords. It ended up cutting my domain registration costs in half. Over the next year, I will be migrating my remaining domains over to Google also. For digital items that make no money, but have a cost -- cheaper is better. The .com and .net iterations for my domain were expiring at the same time. Historically, I used the .net as a beta mirror for changes. Since I'll be doing changes offline -- that wasn't really needed anymore. link:https://creeva.net[Creeva.net] became a profile linking site that is also hosted on GitHub.
+
+The amount of hours is going to save me hundreds of dollars year after year going forward. Everything I've been working on has ended up with tangible and feel-good benefits. In fact, this is going to be my first post going forward. I have to make sure that the RSS flows I have in place continue to function. I'm also back to if the let's write a random post bug hits me, I'll be able to actually publish something.

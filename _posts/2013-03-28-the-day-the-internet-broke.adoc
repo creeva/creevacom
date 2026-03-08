@@ -1,0 +1,23 @@
+= The Day The Internet Broke
+:page-layout: post
+:page-navtitle: The Day The Internet Broke
+:page-categories: stories
+:page-excerpt: There have been numerous reports of the 300 GBs DDoS going on in the last week. This morning Gizmodo discredited the effect this is really having on the Internet. I know I didn't notice any overt problems myself. I have experienced plenty of network outages at work or at home over the nineteen years I have been online, but rarely anything that caused problems on the Internet. I had to think, and there were two occasions when I did notice a problem.
+:page-image: /images/file0001628037487-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/file0001628037487-1.jpg[,role="text-center"]
+
+There have been link:http://boingboing.net/2013/03/27/ddos-storm-breaks-records-at-3.html[numerous] link:http://www.bbc.co.uk/news/technology-21954636[reports] of the link:http://www.huffingtonpost.com/2013/03/27/spamhaus-cyber-attack_n_2963632.html[300 GBs DDoS] going on in the last week. This morning link:http://gizmodo.com/5992652/that-internet-war-apocalypse-is-a-lie[Gizmodo discredited the effect this is really having on the Internet]. I know I didn't notice any overt problems myself. I have experienced plenty of network outages at work or at home over the nineteen years I have been online, but rarely anything that caused problems on the Internet. I had to think, and there were two occasions when I did notice a problem.
+
+The first was the week of February 2000, this was when the famous link:http://en.wikipedia.org/wiki/MafiaBoy[MafiaBoy DDoS] occurred. I remember not being able to get access to Yahoo and later in the week some of the other sites he targeted. It was strange and I thought it was just an outage (which was more common back then for different sites), but there was a slowness overall with the Internet that didn't normally occur. No one knew what was going on and Yahoo waited a few days to release details (if I remember correctly). This was a 14 -- 15-year-old boy and he has forever left his mark on Internet history.
+
+The second issue would have been just a year or two earlier. I can't find the exact date. It was when I was working in a small PC shop in Amherst, OH -- that much I remember from a timeline perspective. In my downtime I was attempting to read Slashdot.org the page wouldn't load. That was odd, but I moved on. Sporadic sites would work and others did not. At first, I thought it was our connection, but I kept looking.
+
+What I started to notice were sites that I knew were hosted on the West Coast were not working. The sites that were located on the East Coast were working. I did some traceroutes and confirmed after so many hops that the West Coast sites would stop responding along the way. They didn't all stop at the same place, but it was definitely timing out.
+
+News sites were reporting that the same problem was happening in reverse, that the West Coast couldn't access East Coast sites. Some sites would work, but the traffic was slow as it was routed through Asia and Europe to cross from one coast to another in the United States. News was flowing through phone calls and being published on their respective coasts.
+
+What happened is that one major backbone broke between the coasts. The remaining backbones (which there were few at the time) couldn't handle the extra traffic and started just getting clogged and couldn't handle the rest of the traffic. So the backbones were clogged and it took hours (I remember it taking all day) to get the backbone back up. I remember my wife thinking there was an issue with our Internet that day, but went through the findings and waited it out. Back then most people thought an outage wasn't a big deal, but I was a heavy internet user even back then. Most people watched cable, I used the Internet.
+
+It was just a day of time though. No major repercussions have lingered over the years and this technical difficulty seems to be hard to find. I might even be remembering the time wrong and it might have been the Mafiaboy attack. Regardless, that was when I remember the Internet breaking under the load the users put upon it. In this newest DDoS, I haven't noticed a blip. Not even a minor slowdown. I think I am going to fall in with Gizmodo and think this is just another tale by Chicken Little. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

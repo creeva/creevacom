@@ -1,0 +1,39 @@
+= The Nalargon Man
+:page-layout: post
+:page-navtitle: The Nalargon Man
+:page-categories: video-games
+:page-excerpt: This is one of my parody songs from the SWG,it was a spoof on Billy Joel's Piano Man.
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+
+This is one of my parody songs from the SWG,_it_ was a spoof on Billy Joel's Piano Man.
+
+It's nine o'clock on a Saturday +The regular crowd shuffles in +And There's Padre sitting next to me +Making love to his arracagym
+
+He says, "Creeva can you play me a memory +I'm not really sure how it goes +But it's sad and it's sweet +And I knew it complete +When I wore some novice prof. clothes"
+
+Lalela Lalelaa Lala Lalelaa La
+
+(Chrous) +Sing us a song you're the nalargon man +Sing us a song tonight +Well we're all in the mood for a melody +And you've got us feeling alright
+
+Now Corndog at the bar is a friend of mine +He gets me my drinks for free +And he's quick with a joke or to light up your smoke +But there's someplace that he'd rather be
+
+He says, "Creeva, I believe this is killing me" +As a smile ran away from his face +"Well, I'm sure that I could be a Holo star +If I could get out of this place"
+
+Oh Lalela Lalelaa Lala Lalelaa La
+
+Now Niix is a Tatooine novelist +Who never had time for a wife +And he's planning on escaping the galaxy +And probably will be for life
+
+And Keltrien is practicing politics +As Shikazi slowly gets stoned +Yes they're sharing a drink they call loneliness +But it's better than drinking alone
+
+(Chrous) +Sing us a song you're the nalargon man +Sing us a song tonight +Well we're all in the mood for a melody +And you've got us feeling alright
+
+It's a pretty good crowd for a Saturday +And Punasti gives me a smile +'Cause he knows that it's me they've been coming to see +To forget about life for a while
+
+And the piano sounds like a carnival +And the microphone smells like jawa beer +And they sit at the bar and put creds in my jar +And say "Man what are you doing here?"
+
+Oh Lalela Lalelaa Lala Lalelaa La
+
+(Chorus) +Sing us a song you're the nalargon man +Sing us a song tonight +Well we're all in the mood for a melody +And you've got us feeling alright

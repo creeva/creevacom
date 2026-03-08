@@ -1,0 +1,21 @@
+= Does Data Portability Hurt You in Google?
+:page-layout: post
+:page-navtitle: Does Data Portability Hurt You in Google?
+:page-categories: stories
+:page-excerpt: Yesterday on my main blog I wrote a quip on my battle for the search term "creeva" in google and how many hits it brings back. It fluctuated up and down and was more of a joke than anything. However, I started thinking about it a little more profoundly last night.
+:page-image: /images/108805307_c43af20f59.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
+
+Yesterday on my main blog I wrote a quip on my battle for the search term "creeva" in google and how many hits it brings back. It fluctuated up and down and was more of a joke than anything. However, I started thinking about it a little more profoundly last night.
+
+I'm a huge crossposter, I don't deny it. My friends can track me down and find me wherever. I manage to get new readers by utilizing different sources to store my data. When I wrote a blog post on my link:https://creeva.com[main blog], it gets copied or the notification goes to many other sites. The path it takes is that I write an article when I click publish it sends out the article to link:http://myspace.com/creeva[my myspace], my live spaces account, my vox account, link:http://tumble.localhost/wordpress[my Tumblr account], my suprglu account, my Facebook news, link:http://creeva.blogspot.com[my old blogger page], link:http://creeva.xanga.com[my xanga account], link:http://creeva.livejournal.com[my LiveJournal page], my multiply account, and a google group for back up (that one is private though). On top of that LiveJournal also sends it on its way over to my dandelife account. I'm also copying things over to link:http://www.creeva.net[www.creeva.net] which is mine by beta testing blog.
+
+If I listen to a song that gets scrobbled to link:http://www.last.fm/user/creeva/[my last.fm account], upload a picture to link:http://www.flickr.com/people/creeva[my flickr account], digg a story, link:http://www.youtube.com/user/creeva[favorite a video], share an RSS news item, write an article on a blog other than my main (like this article), or mark something down in all-consuming; these all get pulled into my main blog, which at that point goes through the data dissemination process all over again.
+
+This is data portability at its finest (at least for the content side of the equation) and I work it well. Some people prefer to go to a single location and that's fine, that is what I have a main blog for. Get everything from everywhere all in one location. Google loves the idea of everything in one place, it's their whole mantra. However, you will get penalized by Google for having duplicate content. So my google score will drop theoretically the more places I cross-post to that it indexes.
+
+So by disseminating my content everywhere in the world Google will penalize me in its search ratings. It seems my main blog still gets the most traffic and its hits don't suffer. So all and all I don't truly mind. However, I'm sure that sometimes I do suffer when my vox account for example rises to the top instead of my main account.
+
+How can Google truly and actively support data portability when it's anti-ethical to its search rankings? I can understand that it's an attempt to fight spammers and such, but we all end up hitting pure spam BS blogs all the time. The crap floats and rises to the top while the rest of the things drown in the data deluge. I don't think that Google needs to adjust its algorithm but in the coming months or years, it will need to take it into account. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

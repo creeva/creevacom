@@ -1,0 +1,17 @@
+= Free Software on Craig's List -- Should You Trust It?
+:page-layout: post
+:page-navtitle: Free Software on Craig's List -- Should You Trust It?
+:page-categories: geekery
+:page-excerpt: The other day I was browsing Craig's List and noticed a listing for some free software.   It wasn't anything I was interested in, but I did stop and think about it.   We talk all the time about verifying where you download software from.   We hear all the time about pirated software that looks the same as legitimate software.     So why would you take free software from Craig's List?
+:page-image: /images/346519139_4af4e316de.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/346519139_4af4e316de.jpg[,role="text-center"]
+
+Image from link:http://flickr.com/photos/klabusta/346519139/[here]
+
+The other day I was browsing link:http://craigslist.com[Craig's List] and noticed a listing for some free software.   It wasn't anything I was interested in, but I did stop and think about it.   We talk all the time about verifying where you download software from.   We hear all the time about pirated software that looks the same as legitimate software.     So why would you take free software from Craig's List?
+
+I guess this is just more of an observation.  I'm just pointing out the common sense that people should be thinking.  I'm just trying to point out that there is no such thing as a more trustable anonymous source.   It would be easy to compromise a computer by offering free software on Craig's List and manipulating it before handing it out.
+
+I'm not saying not to take it -- just think twice. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

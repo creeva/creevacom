@@ -1,0 +1,35 @@
+= So I'm a Webmaster for My First Non-Profit
+:page-layout: post
+:page-navtitle: So I'm a Webmaster for My First Non-Profit
+:page-categories: stories
+:page-excerpt: So I've taken over the position of webmaster for the VCMA (Vermilion Community Music Association). This is going to start a new series as I'm going to use them as guinea pigs for what I've felt non-profits need to do to survive and thrive in the web 2.0 world. They are not a big organization, and I'm sure I received this position for my background and not my witty personality.
+:page-image: /images/378372229_3068555380_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/378372229_3068555380_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/andresv/378372229/[here]
+
+So I've taken over the position of webmaster for the link:http://www.vcma.net[VCMA] (Vermilion Community Music Association). This is going to start a new series as I'm going to use them as guinea pigs for what I've felt non-profits need to do to survive and thrive in the web 2.0 world. They are not a big organization, and I'm sure I received this position for my background and not my witty personality.
+
+I've been working on the site for a couple of weeks and here is what I've found so far. They had a private member's section on the old site to share files and personal data. This section was password protected, but the username field was just a front, as long as you knew the password anything you put in the username field was accepted. Since I'm a security engineer, this just wasn't going to work for me. I've ranted before about the illusion of security and how illusionary security wasn't worthwhile at all anyways. The other problem was that their member page's "password protected" section was just a javascript that rewrote the "HTTP GET" to a file named a combination of the requested page plus the password. So if the page was index.hml and the password was "password" the ending HTTP in the "HTTP GET" command would be indexpassword.html. Since it was still a plain text file without any encryption on it, in theory, it could still be spidered and stored by Google, thereby completely undermining any security it was giving them.
+
+I'm working on a better and more secure solution while maintaining the balance of ease of use. I don't want to burden them too much on the security side. I'm sure some of the older members would blink at me with a blank stare if I handed them secureID tokens to access their newsletters.
+
+image::/testsite/images/2423302929_e3d2c4e1e0_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/dwwebber/2423302929/[here]
+
+The next thing I discovered is that code each web page by hand, ugh. There was no way I was going to maintain each HTML manually and hope for any semblance of style and continuity between pages (an issue they had in the past). They had been using FrontPage and offered to buy me a copy. First no, no, and no -- currently I'm using Linux on my main computer (Ok I dual boot into XP, and between link:http://worldofwarcraft.com[WoW] and link:http://netflix.com[Netflix] streaming I don't get into link:http://ubuntu.com[Ubuntu] as much as I should), so Frontpage was out. They were insistent at first that this is how it was done, I however readjusted things. I moved them to WordPress which I'm not using as a blog but rather as a CMS (Content Management System).
+
+image::/testsite/images/3778156_3a0d5068d0_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/nicolelee/3778156/[here]
+
+I manually migrated the data from the old HTML files, I spent hours converting the front page data to be "clean" data that I can migrate and copy-paste anywhere. I was dumb though, I should have just copied and pasted the text into notepad or a generic text editor, then I wouldn't have had all the background crap. This is my note to me to now be stupid next time. I added images and a javascript navigation menu, but essentially the page was just a cleaned-up (easy to maintain now) version of what they already had.
+
+Now the next step is to migrate them to Google Apps for their member-related information……
+
+Somehow I always end up volunteering for Vermilion non-profits, now if only I could get one of them to pay me……
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

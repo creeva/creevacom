@@ -1,0 +1,23 @@
+= Vonage
+:page-layout: post
+:page-navtitle: Vonage
+:page-categories: geekery
+:page-excerpt: So joining into another step of the twenty-first-century lifestyle -- we got Vonage installed in the house. After hooking it up I am disappointed that the Linksys PAP2 that I purchased for the service has very limited options for configurations. Since the documentation assumes you would run the device via DHCP they do not list a default IP address for configuration.
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+So joining into another step of the twenty-first-century lifestyle -- we got Vonage installed in the house. After hooking it up I am disappointed that the link:http://www.amazon.com/Linksys-PAP2-Adapter-Internet-Service/dp/B0002V8KX6[Linksys PAP2] that I purchased for the service has very limited options for configurations. Since the documentation assumes you would run the device via DHCP they do not list a default IP address for configuration.
+
+Going through my DHCP server I managed to track down the IP address it obtained and managed to log in via the normal Linksys default tight security -- username admin password admin. After this point, I managed to change the device to use a static IP address.
+
+After this, I signed up for the Vonage service and had phone calls delivered through the home phone line. We do not usually use the home phone line and off the top of my head I can not even tell you the phone number it uses. So here is how we are going to wire the house.
+
+From the main phone junction box there is going to be a working jack -- from this jack, we will place a DSL line filter -- from here we will place the DSL modem on the non-filtered side and a stand-alone non-wireless phone and an answering machine just in case. Behind the modem lies a Linksys firewall that handles PPPoE dialing and behind here lies the Linksys PAP2.
+
+From the PAP2 we filter the other main phone line to the house into the wiring closet I started in the basement. and from here all the phone wiring in the house will filter through to give whole house phone coverage through the Vonage device.
+
+Whew.
+
+The advantages of having a central wiring area in your house are the biggest benefit you can ever have especially for instances like this. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

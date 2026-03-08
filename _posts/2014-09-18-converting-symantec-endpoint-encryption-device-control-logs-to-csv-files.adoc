@@ -1,0 +1,74 @@
+= Converting Symantec Endpoint Encryption -- Device Control Logs to CSV files.
+:page-layout: post
+:page-navtitle: Converting Symantec Endpoint Encryption -- Device Control Logs to CSV files.
+:page-categories: geekery
+:page-excerpt: Recently I had to do some work on Symantec Endpoint Encryption -- Device Control. One of the major issues was to take the logs and convert them to a more usable format. Since there is very little information on the web in regard to this product, I thought I would share my code.
+:page-image: /images/3038597_e5f95e2017.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+
+Recently I had to do some work on Symantec Endpoint Encryption -- Device Control. One of the major issues was to take the logs and convert them to a more usable format. Since there is very little information on the web in regard to this product, I thought I would share my code.
+
+There are a couple of steps to this process that can be shortened and made easier. I will be working on streamlining this process. While the initial work is done with the windows server I exported the logs from -- the script is being run on OSX. I have run into some issues porting the script directly to windows, this is more of an issue with my experience with Sed (windows port specifically).
+
+Once you export the logs they are in an XML format. While it's plaintext underneath, there is quite a bit of extraneous information in the files. To strip this out I run this at the DOS command prompt on the server the logs are exported from:
+
+find "EV Sequence" "*.xml" >log.txt
+
+This command gives you a file that is about half the size of the original .XML. Each line in the file will now look like this:
+
+[quote]
+____
+ClientHost="workstationname" EventTime="3/14/2014 10:13:50 AM" EventTimeLocal="3/14/2014 4:13:50 PM" ServerTime="3/14/2014 10:13:50 AM" CustomGroup="" PolicyName="Allow-And-Log" PolicyType="User" DeviceDescription="Disk drive" DeviceInfo="USB DISK 2.0 USB Device" Port="USB" BuiltinGroup="Removable Storage Devices" DeviceVendor="XXX" DeviceModel="XXX" DeviceDistinctId="XXXX" FileName="homevideo.flv" FileExtension="flv" FileSize="500987″ FileCreationTime="3/14/2014 4:13:24 PM" FileModifyTime="3/14/2014 4:13:26 PM" FileOperation="Write" Details="" FileType="Multimedia" ContentInspectionResult="0″ ContentInspectionDetails="" ContentInspectionTimeLocal="" FileShadowingFingerprint="" FileShadowingPath="" FileShadowingFileName="" />
+____
+
+Once this has been done I copy the file over to the OSX machine to run the script against. Thanks to the find command there is going to be a line at the top of the file you have to remove. You can remove this line before or after you the script against the file. As part of the script, we wanted to make sure that we strip out any extra commas from the file that can throw off the formatting. The script will take these commas and replace them with spaces.
+
+Here is the script:
+
+[quote]
+____
+##############################################################################################
+#
+# This script is to take the log export from the Symantec Endpoint Device Control Product, it
+# remove the data unnecessary data from an xml file and makes it reportable
+#
+#############################################################################################
+unset LANG
+cat log.txt | sed 's/,/ /g' >log2.txt
+rm log.txt
+cat log2.txt | sed 's/<.*User="//g' >log1.txt
+cat log1.txt | sed 's/" ClientHost="/,/g' >log2.txt
+cat log2.txt | sed 's/" EventTime="/,/g' >log1.txt
+cat log1.txt | sed 's/" EventTimeLocal="/,/g' >log2.txt
+cat log2.txt | sed 's/" ServerTime=".*PolicyName="/,/g' >log1.txt
+cat log1.txt | sed 's/" PolicyType=".*DeviceDescription="/,/g' >log2.txt
+cat log2.txt | sed 's/" DeviceInfo=".*" Port="/,/g' >log1.txt
+cat log1.txt | sed 's/" BuiltinGroup=".*" FileName="/,/g' >log2.txt
+cat log2.txt | sed 's/" FileExtension="/,/g' >log1.txt
+cat log1.txt | sed 's/" FileSize="/,/g' >log2.txt
+cat log2.txt | sed 's/" FileCreationTime=".*" FileOperation="/,/g' >log1.txt
+cat log1.txt | sed 's/" Details=.*" FileType="/,/g' >log2.txt
+cat log2.txt | sed 's/" ContentInspectionResult=".*>/,/g' >log1.txt
+#############################################################################################
+# Cleanup
+#############################################################################################
+# delete BOTH leading and trailing whitespace from each line
+cat log1.txt | sed 's/^[ \t]*//;s/[ \t]*$//' >log2.txt
+echo User,Host,Server Event Time,Workstation Event Time,Policy Name,Device Description,Port,File Name,File Extension,File Size,Action,File Type>finished.csv
+cat log2.txt >>finished.csv
+rm log1.txt
+rm log2.txt
+____
+
+As part of the output, we place headers at the top of the file to make this easy to work with in Excel. The fields we use are User, Host, Server Event Time, Workstation Event Time, Policy Name, Device Description, Port, File Name, File Extension, File Size, Action, and File Type. In the output a log line will now look like this (with another significant size reduction for the full file):
+
+[quote]
+____
+user@company.com,workstationname,3/14/2014 10:13:50AM,3/14/2014 4:13:50PM,Allow-And-Log,Diskdrive,USB,homevideo.flv,flv,500987,Write,Multimedia,
+____
+
+You then have a file named finished.csv that you can edit or look at to your heart's content. Pay attention to the number of lines in the file. If there are over a million lines you will have to split the file if you wish to use it in Excel.
+
+I hope this helps someone out. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,14 @@
+= Post Title Here
+:page-categories: geekery
+:page-image: /testsite/images/YYYY-MM-DD-image-filename.jpg
+:page-excerpt: First sentence or two that summarizes the post. This shows on the home page and category pages.
+
+Your post content starts here. The first paragraph should expand on the excerpt.
+
+== Section Heading
+
+More content here.
+
+image::YYYY-MM-DD-image-filename.jpg[Alt text description]
+
+Another paragraph.

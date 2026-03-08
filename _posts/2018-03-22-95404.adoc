@@ -1,0 +1,55 @@
+= Retrometrics -- Double Dribbling on the NES
+:page-layout: post
+:page-navtitle: Retrometrics -- Double Dribbling on the NES
+:page-categories: video-games
+:page-excerpt: Like Baseball Stars, Double Dribble is another game that started out as a cabinet based on the NES Play Choice 10. I was never able to find a dedicated Baseball Stars cabinet, but it seems there was at least one (or a conversion kit) made for Double Dribble. I believe I have seen one for locally once upon a time, but it isn't an arcade cabinet I would jump on if available.
+:page-image: /images/343-2-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/343-2-1.jpg[,role="text-center"]
+
+=== History
+
+Like _link:http://duesr.com/index.php/2017/02/28/retrometrics-magical-copy-baseball-stars-nes/[Baseball Stars]_, _Double Dribble_ is another game that started out as a cabinet based on the NES Play Choice 10. I was never able to find a dedicated _Baseball Stars_ cabinet, but it seems there was at least one (or a conversion kit) made for _Double Dribble_. I believe I have seen one for locally once upon a time, but it isn't an arcade cabinet I would jump on if available.
+
+image::/testsite/images/100_6482-1.jpg[,role="text-center"]
+
+_I found the link:http://www.502streetscene.net/forum/showthread.php?t=169485[image for the cabinet on this thread]_
+
+You can see in the video below that the _Double Dribble_ arcade cabinet had much sharper graphics and better sound clips. It almost looks so much better than the other Play Choice 10 games, that the home version used significantly less memory.
+
+Finally, what comes as a bit of a heartbreak to me, there was a sequel for _Double Dribble_ that was created for the Sega Genesis. It was called _Double Dribble; The Playoff Edition_. With all the time I spent growing up playing _Double Dribble_, playing it on a non-Nintendo system would feel wrong. It's like playing Sonic on a Nintendo system. It could be fun, but the objects would still be aligned wrong in the universe.
+
+=== Gameplay
+
+There are some glitches in the game. The first is whoever jumps last wins the tip-off. The second is certain zones on the court lead to a high percentage of successful shots. I'm also a firm believer after playing this so much recently that there are certain spots on the court that it is impossible to make a shot from.
+
+You use B to shoot and A to pass. The A button also works as you try to steal the ball from your opponent when you are on defense. Getting back into the groove was an odd experience. However, once you get used to it, it seems quite fluid. It's the let's do something awkward until it feels right method of learning.
+
+=== Family Guy Controversy
+
+Though I didn't think about it when I had the idea to write this piece, it wouldn't be fair to talk aboutlink:https://torrentfreak.com/fox-stole-a-game-clip-used-it-in-family-guy-dmcad-the-original-160520/[_Double Dribble_ and DMCA controversy last year]. In May of last year, _Family Guy_ aired a segment where Peter and Cleveland played Double Dribble. In this clip Peter abuses a glitch in the game where it allows him to make a 3-point shot 90% of the time. Cleveland gets angry at the use of the glitch while Peter keeps going "Corner Three"
+
+You would think that the team that works on Family Guy would have just tracked down the game and used their own footage. Unfortunately they took a YouTube clip uploaded in 2009 showing the automatic shot working. They then took this footage and interspersed it with Family Guy dialog and animations.
+
+So the creative team borrowed the clip without permission. Since their whole show is based on satire, I'm not sure if this would fall under fair use or not. They really didn't add commentary, just used it as is. Fox's handling of this managed to get worse than stealing someone else's work and taking credit for it.
+
+The original uploader of the video received a DMCA takedown request through YouTube stating that Fox owned the footage. So footage that was uploaded years before the script was even written for the episode was now being matched by YouTube's content ID system.
+
+It seems since this time, the original footage has been restored. Hopefully they came up with some behind the scenes compensation for the original uploader. It's not often you see a retro game make the news, so I thought it had to mentioned. Below are the original and _Family Guy_ versions of the clip in question.
+
+==== Original Version:
+
+==== Family Guy Version:
+
+=== My Personal Experience
+
+I didn't own _Double Dribble_, but through out my seventh grade year I borrowed it quite often from a kid on the next street. For some reason, it was one of the two basketball games I played for many hours with. The other was _NBA JAM_. I mention _NBA Jam_ because I think it appealed to me in the same way.
+
+While _NBA JAM_ had fancy animations and the "_he's on fire_" hot streak, _Double Dribble_ had those awesome dunk animations. I thought those graphics were amazing and that this was as photo realistic as games were going to get (mind you this was decades ago). It was something that captured my imagination. It was even part of the inspiration (_the rest was my father_) I tried out for the seventh-grade basketball team. The idea that one day I could pull off moves like that in real life gave me hope.
+
+Unfortunately, I didn't make the cut of the team. I still had _Double Dribble_ though. I borrowed that game constantly. Unfortunately by the end of the summer that kid and I had a falling out. Our friendship didn't recover and I didn't have access to tradable games one street away. It's sad things turned out the way they did, but it was the start of the lessons of life.
+
+Thinking about it, until I played _Double Dribble_ to practice and shoot the video, I haven't touched the game in 27 years. If I was going to get an NES rental, more often than not it was a platformer. link:http://duesr.com/index.php/2017/02/28/retrometrics-magical-copy-baseball-stars-nes/[I enjoyed the occasional baseball game], but I had mastered _Double Dribble_. There would have been no reason to waste rental time on something I was good at.
+
+Playing it was like revisiting an old friend. If this game is something you grew up with, I would highly recommend revisiting it. I'm sure I'll have it in more of a rotation now that I've played it again. However, if you didn't grow up with it, it will seem too simplistic. For millenials I'm sure it will seem just a step above a Tiger handheld. While we're at it -- I should mention there was a port of Double Dribble to the Tiger handheld. It all comes around….. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

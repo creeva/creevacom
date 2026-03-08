@@ -1,0 +1,17 @@
+= Mashable Doesn't Really Like Ping.fm
+:page-layout: post
+:page-navtitle: Mashable Doesn't Really Like Ping.fm
+:page-categories: geekery
+:page-excerpt: There was an article on mashable today questioning if ping.fm and hellotxt were helping the web world or hurting it. I understand the author's point that if you are using these services you are not taking an interest and active use in the social community that you are using these services to post to. I can say from hits for ping.fm beta code requests on my blog, that lots of people are interested in getting access to ping.fm. Now that it's out of private beta I'm sure I'll lose my number one spot in google for the term "ping.fm beta code".
+:page-image: /images/2046930099_fe46d87a77_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2046930099_fe46d87a77_m.jpg[,role="text-center"]
+
+There was an link:http://mashable.com/2008/09/02/pingfm-solving-the-problem-or-exacerbating-it/[article on mashable today] questioning if link:http://ping.fm[ping.f]link:http://ping.fm[m] and link:http://hellotxt.com[hellotx]t were helping the web world or hurting it. I understand the author's point that if you are using these services you are not taking an interest and active use in the social community that you are using these services to post to. I can say from hits for ping.fm beta code requests on my blog, that lots of people are interested in getting access to ping.fm. Now that it's out of private beta I'm sure I'll lose my number one spot in google for the term "ping.fm beta code".
+
+If people want this what does this say? It really means that we have diverse friendships. We have communities that we want to share information with. We don't have time to manually copy or paste, nor do we have the time to try to convince everyone we know to use a single service. Since we can't bring our friends to the service (much to the dismay of the social network providers), we take our information to them.
+
+We want to share our information, we don't want to hoard it. I for example do all my writing on link:https://creeva.com[my main blog], link:http://twitter.com/creeva[twitter], and a handful of other services. Yet I have friends on almost every little social network out there. Why should I be forced to choose between friends and the information I share with them? Yes, I'm sure some actual readers that are not into crossposting get annoyed over the repeated information on multiple services. What about my friends though? Where does the line between a healthy blogging business end and friendship cross? My friends are the ones that inspire me, they will always have information directed toward them. I am more than willing to take my information to them. At what cost, a minor annoyance to literally a handful?
+
+No one is forced to read my messages. No one is forced to follow me. No one is forced to my site. If the author doesn't follow ping.fm links, so are them. I'm not losing what I truly care about. Maybe when a single network has all the features I want and 99.9% market dominance -- then I'll stop cross-posting. Until that time I'm proud to be a crossposter. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

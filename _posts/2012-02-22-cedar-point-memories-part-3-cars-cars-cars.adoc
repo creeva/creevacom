@@ -1,0 +1,29 @@
+= Cedar Point Memories -- Cars, Cars, Cars
+:page-layout: post
+:page-navtitle: Cedar Point Memories -- Cars, Cars, Cars
+:page-categories: stories
+:page-excerpt: The cars at Cedar Point. You either loved them or hated them. Part of that also depended on your age group. When I was young I loved these, especially the turnpike cars. For the most part except on extremely busy days, these are all walk-on rides. Since there is never a wait, generally these are your throw-away quick rides. The ones you hit while your friends are using the restrooms.
+:page-image: /images/cedarpoint.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+
+The cars at Cedar Point. You either loved them or hated them. Part of that also depended on your age group. When I was young I loved these, especially the turnpike cars. For the most part except on extremely busy days, these are all walk-on rides. Since there is never a wait, generally these are your throw-away quick rides. The ones you hit while your friends are using the restrooms.
+
+The general design of all these rides is a novelty car shell hooked up to a go-kart engine. The car then follows a track that consists of a concrete "road" with a metal bar in the middle of it. The bar does not give power, it serves only as a guide to keeping the car on the path.
+
+You can in theory just hold the gas pedal down and rattle along through the path without bothering to steer. You can also steer completely wrong, banging and fighting the bar like most children do.
+
+The real skill that we used to play with is trying to drive the car without hitting the bar once. In theory that sounds like it would be easy, but there actually was little play on either side of the bar. Even on the straight away keeping it off the bars was tricky.
+
+The ride had two wooden "bridges" that went over a stream. When you made it to the end the attendant did their best to jump on the running boards and take control. If they didn't you could cause (sometimes intentionally) a multiple-car pile-up as one car banged into the next down the row.
+
+The Turnpike Cars shared the same field as the Cadillac Cars. The cars were smaller and designed like sports cars. In the picture above you can see one designed to resemble a Shelby Cobra. The wooden bridge in the background is part of the Cadillac Cars.
+
+The neatest thing about the Turnpike Cars was the bridge that cars could pass underneath. The problem with getting older in the Turnpike Cars is that these cars were harder to get into as you got older. The Antique and Cadillac Cars were much more friendly to the over 5′ 5″ crowd.
+
+The Antique cars was definitely the ride that I rode the most. I believe it also had the largest track. You could walk completely around the track from the outside, so I remember my mother walking the stroller with my brother following my father and I in the cars. As you can tell these cars must have gone lighting fast.
+
+The main reason I think these got rode the most was placement. I used to ride all the rides back in this area of frontier land over and over. I can say with all the car attractions you started to feel a bit like an idiot riding them by yourself in your teenage years. That is unless your friends and you were riding in a giant train of cars. We got yelled at once because we ran a Chinese fire drill between four cars in the middle of the ride.
+
+Next time we will talk about the Scrambler and the Tiki Twhirl. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

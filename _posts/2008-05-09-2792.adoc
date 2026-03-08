@@ -1,0 +1,22 @@
+= N810 -- Day 3 and Counting
+:page-layout: post
+:page-navtitle: N810 -- Day 3 and Counting
+:page-categories: geekery
+:page-excerpt: So last night was a work in progress/real-world scenario time. I was going to be out with a few hours to kill, and I didn't take my Mac Book with me. During my hour commute to work, I listened to a couple of episodes of "Cranky Geeks" with John Dvorak. In the afternoon I had to go to the lab and do some testing with users. While waiting for the users to show up I decided to take my N810 onto the guest wifi. While doing that I installed Vim and the GPE suite. I'm going to be working on getting the GPE calendar to sync with Google Calendar. I should have realized that vim was a command line-only utility since it was a port. I don't think I'm going to stay using it though, I know vim is the more friendly vi, but I have a severe hatred of vi. I think it's the difference of growing up with the extremely easy-to-use Microsoft Edit in DOS that vi seems so hackneyed to me.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+So last night was a work in progress/real-world scenario time. I was going to be out with a few hours to kill, and I didn't take my Mac Book with me. During my hour commute to work, I listened to a couple of episodes of "Cranky Geeks" with John Dvorak. In the afternoon I had to go to the lab and do some testing with users. While waiting for the users to show up I decided to take my N810 onto the guest wifi. While doing that I installed link:http://maemo.org/downloads/product/vim/[Vim] and the link:http://fl0rian.wordpress.com/2007/01/08/gpe-pim-for-n800-maemo-30/[GPE suite]. I'm going to be working on getting the GPE calendar to sync with Google Calendar. I should have realized that vim was a command line-only utility since it was a port. I don't think I'm going to stay using it though, I know vim is the more friendly vi, but I have a severe hatred of vi. I think it's the difference of growing up with the extremely easy-to-use Microsoft Edit in DOS that vi seems so hackneyed to me.
+
+One thing that was an issue for me yesterday was I installed the "link:https://garage.maemo.org/projects/camera/[Camera]" application from the repositories. I installed and saw how a picture would look, then I clicked the folderesque button on the lower right-hand side and that locked up my N810. I tried to hold the power button down that didn't do anything, after about 5 minutes of waiting I yanked the battery. In that 5 minutes, I went from 75% of my battery to 25%, so whatever happened taxed the hell out of the CPU and storage space. Needless to say that application is not staying around.
+
+I then went up to Vermilion and met with my sisters and had some pizza, after that, I wandered to the local library and decided I was going to attempt to get some work done. I managed to log in to my work's exchange webmail, I wrote a full blog using maemo-wordpy, and used it happily as an MP3 player listening to my podcasts. Writing a longer-length blog post took some time compared to what it would take with a normal keyboard. However, I managed to get it done and my typing skills are definitely improving on the N810 keyboard as a whole.
+
+The annoying things I found out yesterday.
+
+* The Vermilion Public Library's Public Wifi doesn't allow IMAP -- grrrr no Gmail via Claws for me at that time
+* Canola won't "save" songs to scrobble at a later time, if it doesn't have a network connection you are SOL -- grrrr -- does anyone know if Maemo scrobbler will save before submission?
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

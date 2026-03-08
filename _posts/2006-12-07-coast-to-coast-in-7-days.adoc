@@ -1,0 +1,19 @@
+= Coast to Coast in 7 Days
+:page-layout: post
+:page-navtitle: Coast to Coast in 7 Days
+:page-categories: stories
+:page-excerpt: Last week I was in LA doing some work for a client -- I managed to meet a friend IRL that I had only known virtually through SWG. This was a very interesting experience in the sense that it is two worlds that were vastly different finally meeting. I've played SWG since June 2003, but yet in all my travels had not managed to meet up with anyone that has played the game. Luckily the first person I did get to meet is one of my oldest and dearest true virtual friends. I'm hoping to head back out to LA in a couple of weeks and we can do it again.
+:page-image: /images/2998675352_e3d9761b19_o-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2998675352_e3d9761b19_o-1.jpg[,role="text-center"]
+
+Last week I was in LA doing some work for a client -- I managed to meet a friend IRL that I had only known virtually through SWG. This was a very interesting experience in the sense that it is two worlds that were vastly different finally meeting. I've played SWG since June 2003, but yet in all my travels had not managed to meet up with anyone that has played the game. Luckily the first person I did get to meet is one of my oldest and dearest true virtual friends. I'm hoping to head back out to LA in a couple of weeks and we can do it again.
+
+This week I'm in NYC, and I managed to do my obligatory trek to the Hard Rock Cafe (I'm in the frequent buyer's program so I eat there exclusively when there is one close by). I checked the Times Square Toys R' US to see if they had any Wii's since that was the primary North American launch site -- no joy. I've now seen the Rockefeller Center Christmas Tree lit up in December so that's another thing I can cross off my list.
+
+One thing that irked me last night however is that I managed to get back to my hotel and I stop by the gift shop to pick up 3 20 oz Coke bottles. When I went to the check out I also picked up a lighter (marked 0.38) -- the total came to 14.64 -- they don't take credit cards. I didn't get the normal -- our credit card machine is down- I got a flat we don't take credit cards -- how asinine is that?
+
+I have an article I was going to write in response to my question about how to migrate and back up your RSS feeds -- hopefully I can get to that tonight when I get off-site.
+
+TTFN Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

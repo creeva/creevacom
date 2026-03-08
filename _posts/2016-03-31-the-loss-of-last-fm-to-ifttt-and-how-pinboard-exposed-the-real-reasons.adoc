@@ -1,0 +1,36 @@
+= The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons
+:page-layout: post
+:page-navtitle: The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons
+:page-categories: geekery
+:page-excerpt: On March 9th I received the following email from IFTTT&#58;
+:page-image: /images/270969697_fc9dcf3383.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+
+On March 9th I received the following email from link:http://ifttt.com/[IFTTT]:
+
+[quote]
+____
+Hello,
+We have been busy bringing improvements to the IFTTT platform. Because of these technical updates, some Channels will no longer be supported.
+On March 23rd, the following Channels and their Recipes will be removed from IFTTT: App.net, BuzzFeed, Campfire, Diigo, Etsy, ffffound, Last.fm, Readability, Yahoo Fantasy Sports, and Yammer.
+Since the beginning of the year, we've added over 30 Channels and encourage you come check out what's new and noteworthy on IFTTT!
+--The IFTTT Team
+____
+
+I immediately hit link:http://reddit.com/[Reddit] and looked at the IFTTT and Last.FM subreddits to see if there was any more information on the issue. I wanted to see what other thoughts there were on the issue and if there were any hacks or workaround to keep this going. My first thought was that I would use the RSS feeds from last.fm to keep the data flowing. However, what I found out is that last.fm has gone under a major revamp in the last year. While this revamp allowed for new uses via APIs -- it also broke the RSS feeds the site offered. There was no cure in sight.
+
+I looked into the APIs that last.fm did offer and tried to come up with a solution. The best option I had at that time was to roll something of my own using existing scripts that other people had offered. However, I didn't want to overload my hosting provider and I didn't want something that required me to make sure my system was always running and the script going. This was one of those nice-to-have things, but not enough dire to completely freak out over.
+
+For some idea of what I was using this integration for, let me list a few of the last.fm recipes I used to have. My last played song would show up as currently playing on my Twitter account. When I played a song it would match up to Google Calendar and record that as an event. It would email me the songs as they were recorded (filtered, but searchable since I use Gmail as a thought/experience database). Finally, it would save all the songs in a text file -- bypassing the need to worry about export of the data from last.fm. This is data I generated and I like being in control/aware of it. Some people might think it is silly -- but IFTTT gave me that power.
+
+This has been something I've been looking at for a few weeks. Today I'm looking at some tools that allow me to post songs automatically from last.fm to Twitter, Tumblr, etc., and using that as the bridge to get back the functionality that I have lost. It's not a great solution since there will be more moving parts -- but it might make this workable. If I figure out something that looks decent enough, I will do a write-up. I know there are quite a few last.fm fans -- since my blog gets hit daily for my article on how to migrate last.fm accounts.
+
+How did this happen though? What was IFTTT changing that caused this to break? The first thing that came to mind was the revamp that last.fm performed. This API migration was finished though. IFTTT recipes were working and there were no new architectural announcements by last.fm. There was a chance that last.fm had plans that weren't public -- but IFTTT was the one stating they were doing a revamp. Things didn't add up completely.
+
+On Tuesday though the pieces started falling into place. The CEO of link:https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/[Pinboard wrote up a blog post] (link:https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/[click here]) explaining what he went through with IFTTT. In the article, he explains that IFTTT was demanding that he re-architect his site to work with IFTTT. IFTTT was expecting special access and an agreement contract where the data passing through the rules would become the property of IFTTT. Since IFTT is seen as a conduit service (something that connects services together) it was always in the position of making its service work with the API of others. However, in recent years IFTTT has gained more power and it seems they are trying to make connect sites bend to their wills. I think this will backfire on IFTTT in the long run. I just hope it won't gut the service. This may be their jump-the-shark moment.
+
+Thinking about it though -- you know Twitter and Facebook are not signing the agreements that were sent to Pinboard. The design team at IFTTT must be taking advantage of the little guy in this regard. They have services such as Twitter and Facebook that they must work with to stay relevant. In this arena, they have to be bowing to the wills and limited access that these services provide to outside individuals via the API. However, for smaller sites, it seems that they tried to force their hand. While Last.fm and some of the sites are smaller -- I'm kind of surprised that Etsy was on the list. Obviously, they must not have caved to the new TOS contract IFTTT sent over, but at the same time, they are not large enough to have the must-have power that Facebook and Twitter wield.
+
+Here is to hoping that I can hack something together to bring this functionality back for myself. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

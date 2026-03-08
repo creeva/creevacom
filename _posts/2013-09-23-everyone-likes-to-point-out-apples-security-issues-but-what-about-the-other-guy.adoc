@@ -1,0 +1,31 @@
+= Everyone Likes To Point Out Apple's Security Issues -- But What About The Other Guy?
+:page-layout: post
+:page-navtitle: Everyone Likes To Point Out Apple's Security Issues -- But What About The Other Guy?
+:page-categories: geekery
+:page-excerpt: All last week (I'll also assume this upcoming week), people have been chiming and laughing over security vulnerabilities in IOS7. The main reason this is in the news is the operating systems have just been released. They should have also learned from past mistakes.
+:page-image: /images/397488557_732c8923e3_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/397488557_732c8923e3_m.jpg[,role="text-center"]
+
+All last week (I'll also assume this upcoming week), people have been chiming and laughing over security vulnerabilities in IOS7. The main reason this is in the news is the operating systems have just been released. They should have also learned from past mistakes.
+
+*The "Big 3" Issues:*
+
+*Access to Social Network Information and Data on the Phone* -- This problem is not necessarily a vulnerability. It is a problem of default settings and user awareness. link:http://9to5mac.com/2013/02/14/the-ios-6-1-lockscreen-is-again-vulnerable-to-easy-intrusion/[The locked screen issue is something that Apple has been fighting for years]. I remember on my 3s the debate of the emergency call button. Back then you could choose the emergency call, go to contacts, and get to the standard IOS system. This is just a repeat, but one that is easy to mitigate. Go to settings -> control center -> set the access on Lock Screen toggle to off. Done. You are no longer vulnerable. In theory with the historical lock screen issues, this should have been the default setting.
+
+*Thwart the "Find My Phone" feature* -- Since you can turn airplane mode on and off within the Control Center, this actually is the same issue as accessing data. Someone just thought they wanted to seem a little more clever by throwing this highlight in as a second vulnerability. It really isn't. You can mitigate this risk the way.
+
+*Bypassing the fingerprint reader* *on the 5S* -- Seriously? Who didn't think this was going to be compromised? Unfortunately, most people don't know anyone that could pull this off (_I do!_). What really is just a security theater performance and response somehow make it to be big news. It really isn't. Biometrics have a long history of being fallible. Since I don't have a 5s yet, I don't know if you have the option to use a fingerprint and a pin number. If you can, this gives you at least a poor man's two-factor authentication. This scenario will be significantly more secure than the competitors. If you think someone is going to steal your phone and get your fingerprints to unlock it, use a pin. As an FYI -- they can either lock your phone or plant your prints at a crime scene. Which scenario is more advantageous for them and worse for you?
+
+The main thing about all three of these issues is that they require physical access to your phone. If you have lost physical access to your device and someone else has it -- consider the device already compromised. There are ways to lock the device, but for every method, there is some other way to get at the information. The real concern with mobile phones and computers, in general, is remote exploits. So far nothing on this front has been reported for IOS7.
+
+Because of my friend list, there are two types of people pointing out what amounts to the three issues listed above. The first is IT security professionals. These users are completely expected to point out the flaws. The other type? Most of them are Apple haters who think they have something to chime about. Sadly they seem to ignore their own vulnerabilities.
+
+Android vulnerabilities don't get spread around the social network scene for some reason. It's not as funny to the apple haters. The Apple users on the other hand, really don't care enough to point out that in June link:http://www.crn.com/news/security/240156925/samsung-galaxy-s4-contains-serious-smishing-vulnerability-firm-warns.htm[the Galaxy S4 had a remote attack that could cause your phone to send fraudulent text messages]. We also don't point out that link:http://www.crn.com/news/security/240149961/android-phone-hack-bypasses-samsung-galaxy-note-2-lock-screen.htm[the Galaxy Note 2 also had a lock screen bypass issue that is similar to the IOS7 one].
+
+The real problem with Android is how the manufacturers deploy it. Phone makers decide when you get to upgrade your operating system (if at all). link:http://techcrunch.com/2013/09/19/ios-7-adoption-already-as-high-as-35-in-one-day-apple-and-developers-reap-the-rewards/[In a single day, 35% of all IOS devices were upgraded to the latest release]. After three days link:http://isource.com/2013/09/21/apple-schools-android-50-percent-adoption-rate-for-ios-7-in-3-days/[the adoption rate was 50%]. The link:http://www.crn.com/news/security/240149961/android-phone-hack-bypasses-samsung-galaxy-note-2-lock-screen.htm[largest threat to any Android is not being upgraded to the latest version]. Back link:http://9to5google.com/2013/07/08/android-distribution-numbers-updated-for-july-jelly-bean-now-the-most-used-version/[in July, 35% of Android devices were still running "Ginger Bread"]. The problem isn't that users don't want to upgrade, the companies are just not certifying the latest release for their devices.
+
+Can we all stop with the high and mighty crap? I've given up on the IOS is better than Android for everyone schtick. It isn't. It is however better for me. I will defend my usage and post back to the people bragging, yet not understanding the issue. I will also take deserving lumps when I need to.
+
+It is Apple vs. Microsoft all over again. I was a Microsoft defender for years. The thing is, Apple changed. By combining BSD with an Apple UI -- made the argument swing the other way. Unfortunately, Microsoft users were using the same arguments that no longer applied. OSX is the more powerful system these days (not as powerful as *nix or pure BSD). For flexibility -- I moved to a Mac Book Pro for my main machine. I'll never look back. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

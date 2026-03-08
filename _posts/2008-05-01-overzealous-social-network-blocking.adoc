@@ -1,0 +1,21 @@
+= Overzealous Social Network Blocking?
+:page-layout: post
+:page-navtitle: Overzealous Social Network Blocking?
+:page-categories: geekery
+:page-excerpt: Work has always blocked social networks (ironically facebook always worked), but now in the days of internet applications, news sources, and social networks, the distinction is getting blurred. This is not a good thing. I understand blocking users' access to myspace (and Facebook), but today the web blocking finally really interfered with me.
+:page-image: /images/justice_icon-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/justice_icon-1.png[,role="text-center"]
+
+Work has always blocked social networks (ironically facebook always worked), but now in the days of internet applications, news sources, and social networks, the distinction is getting blurred. This is not a good thing. I understand blocking users' access to myspace (and Facebook), but today the web blocking finally really interfered with me.
+
+I would like to preface that I work at a place which is known for its high technology. This brings up the irony of what is happening. I logged in and found a site that I wanted to bookmark, since I'm at my work computer and may actually want to look at it outside of work I attempted to save it to my del.icio.us account. I hit the bookmarklet and BAM -- you are not authorized to view this page, this is a social network/dating site. What the hell? It worked last week.
+
+I grunted and figured if I really must I could use the google firefox plugin to replicate my bookmarks. It's not really that important to me, and I can just email myself the link and save it later. It doesn't change the functionality that is missing. I agree that del.icio.us is a social network, but not in the same vein that myspace is. I use del.icio.us to actually do work and search tags. If I was just going to browse something to waste time I would just go to Wikipedia.
+
+Later in the day, I was using google reader to go through my RSS items and there was a Digg story I was curious about. I clicked the link and BAM -- again YOU ARE NOT AUTHORIZED SOCIAL NETWORK/DATING SITE. Now someone must really have their panties in a bunch today. A couple of times a week I'll run up against a blog or something that triggers the filter, but not del.icio.us or Digg. From a social standpoint, other than your friends can see what stories you are "digging" it isn't a really social place. at least not so much more than the slashdot forums.
+
+Ironically I didn't try Reddit or StumbleUpon today. I wonder if those get tagged under the same heading Digg does? I would say I would be screwed if they blocked Gmail at work, but I could just tether a PDA or N810 to my cell phone, and the problem was solved. I use Gmail for Twitter, my rare IM conversation, and of course email. As long as I have a method to send out emails I can still blog and tweet (though I think IM would be dead -- but I think I use it less than anyone else at work).
+
+So to all your overzealous web filters out there -- a very very small percentage of users are actually hanging out and wasting time socializing with their friends on Digg or del.icio.us, we are not chatting the day away. We are reading and researching. To those blockers I have one thing to say -- I hate you. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

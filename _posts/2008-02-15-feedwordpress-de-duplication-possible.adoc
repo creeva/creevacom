@@ -1,0 +1,27 @@
+= Feedwordpress -- De-Duplication Possible?
+:page-layout: post
+:page-navtitle: Feedwordpress -- De-Duplication Possible?
+:page-categories: geekery
+:page-excerpt: I had my hopes up that feedwordpress had updated their plugin to handle duplicate posts. At one point a couple of months ago I thought feedwordpress was going to be my life caching savior. The goal of feedwordpress is to pull in RSS feed items immediately and post them into your WordPress blog. After a couple of weeks of testing it, I saw massive duplication from RSS feed items. It took me hours to clean up duplicate posts and I'm sure all my Twitter followers just loved being spammed to high heaven.
+:page-image: /images/WordPress-Logo-1070x602.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/WordPress-Logo-1070x602.png[,role="text-center"]
+
+I had my hopes up that feedwordpress had updated their plugin to handle duplicate posts. At one point a couple of months ago I thought feedwordpress was going to be my life caching savior. The goal of feedwordpress is to pull in RSS feed items immediately and post them into your WordPress blog. After a couple of weeks of testing it, I saw massive duplication from RSS feed items. It took me hours to clean up duplicate posts and I'm sure all my Twitter followers just loved being spammed to high heaven.
+
+There are a couple of things I did learn from that encounter.
+
+1. Not everyone who visits your site cares about your minutia
+
+2. Your Twitter followers don't want to be notified every time you add a new post on whatever RSS feed you interacting with
+
+3. Front pages of blogs get cluttered very quickly this way.
+
+4. Don't trust miracle plug-ins
+
+So what have I done to fight life caching to be annoying for those that do not care? I've filtered my RSS feed to only include topics that I'm having a first-hand interaction with on this blog. Everything except those categories is blocked from displaying on my front page. You can still view them underneath the archives or in the comments, but the front page remains cleaner.
+
+Moving from a Twitter notification plugin to an RSS service that posts my feed notifications to Twitter lowers stress on my blog post (and stops all those unnecessary categories from being alerted to over there. Those that do happen to subscribe to multiple feeds from me (hey they may actually exist) won't have duplicates and duplicate notifications. Finally, I don't trust every WordPress plugin on the block.
+
+Feedwordpress from the hours of pain has been on my poo-list for a while now. It is taking quite a bit to show trust in this plugin again. So far I'm testing it for a week on my test blog before it gets moved over to localhost/WordPress. I do hope it works. I've just been burned in the past and don't want to have to go through it again. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

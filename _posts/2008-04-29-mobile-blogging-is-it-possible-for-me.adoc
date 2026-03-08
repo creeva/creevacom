@@ -1,0 +1,17 @@
+= Mobile Blogging, Is It Possible For Me?
+:page-layout: post
+:page-navtitle: Mobile Blogging, Is It Possible For Me?
+:page-categories: geekery
+:page-excerpt: This Nokia device will take a bit to get used to, but most of the problems stem from fat thumbs. The more I do it the faster it becomes.
+:page-image: /images/anothertime.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/anothertime.jpg[,role="text-center"]
+
+This Nokia device will take a bit to get used to, but most of the problems stem from fat thumbs. The more I do it the faster it becomes.
+
+The predictive typing helps a bit and I can say it actually gives me time to think about what I am writing. If I was going to sit at a coffee shop though I think I would carry a Bluetooth keyboard with me. This would be great for IM or Twitter.
+
+I think I have been won over but I'm still going to wait at least a few days before I order one. I don't plan on getting a WiMAX service so that's not really a selling point. I do however see this easily becoming my dream "cloud computing" device. A simple and steady web interface that can easily jump onto any wifi hotspot and go.
+
+I also need to check how Qik works from this. Yes, I did write this whole post on the tiny keyboard, now I guess I know how blackberry users do it. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

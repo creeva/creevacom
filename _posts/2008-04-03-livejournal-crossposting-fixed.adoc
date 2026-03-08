@@ -1,0 +1,26 @@
+= Livejournal Crossposting Fixed
+:page-layout: post
+:page-navtitle: Livejournal Crossposting Fixed
+:page-categories: geekery
+:page-excerpt: Cross-posting to my livejournal account has been fixed. This was important to me since going from here, to livejournal, dandelife pulls in the information for my timeline widget there. It's all small and pretty much a petty thing, but it's part of my broadcasting to friends on other social networks. I still need to figure out why my crossposting to my MSN space isn't working. But all my other cross-posting functions are working.
+:page-image: /images/WordPress-Logo-1070x602.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/WordPress-Logo-1070x602.png[,role="text-center"]
+
+Cross-posting to link:http://creeva.livejournal.com/[my livejournal] account has been fixed. This was important to me since going from here, to link:http://www.livejournal.com[livejournal], link:http://www.dandelife.com[dandelife] pulls in the information for my timeline widget there. It's all small and pretty much a petty thing, but it's part of my broadcasting to friends on other social networks. I still need to figure out why my crossposting to my MSN space isn't working. But all my other cross-posting functions are working.
+
+To fix this is issue the WordPress link:http://code.google.com/p/ljxp/[livejournal crosspost plugin]. I searched google and came across the blog "link:http://www.stevesmyth.net/[control, shift, cheesburge]link:http://www.stevesmyth.net/[r]" where he had also had the issue after upgrading to WordPress 2.5. He was link:http://www.stevesmyth.net/archives/181[discussing in one of his posts] which plugins he had working and what wasn't, he mentioned that he had to adjust the livejournal crosspost plugin by modifying a couple of lines. The only problem? He didn't specify which lines. I posted a comment asking which he modified and thankfully he answered me.
+
+He stated he managed to get the information from a link:http://code.google.com/p/ljxp/issues/detail?id=40[google group about the plugin]. The line you need to adjust is the lines
+
+if(version_compare($wp_version, "2.1", "<")) { +
+require_once(ABSPATH . '/wp-includes/template-functions-links.php'); +
+} +
+Need to be changed to:
+
+if(version_compare($wp_version, "2.3", "<")) { +
+require_once(ABSPATH . '/wp-includes/link-template.php'); +
+}
+
+Hopefully, now you won't have to look as hard for this fix. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,11 @@
+= Playing in Corellia Last Night
+:page-layout: post
+:page-navtitle: Playing in Corellia Last Night
+:page-categories: video-games
+:page-excerpt: Me, busting loose on the nalargon at the STARS starport performance last night in Coronet. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
+:page-image: /images/screenShot0065.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/screenShot0065.jpg[,role="text-center"]
+
+Me, busting loose on the nalargon at the STARS starport performance last night in Coronet. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,23 @@
+= SOE Idiot
+:page-layout: post
+:page-navtitle: SOE Idiot
+:page-categories: video-games
+:page-excerpt: This is my parody song from the SWG duping bug incident where many innocent players were banned. It is entitled SOE Idiot and was a spoof on Green Day's American Idiot.
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+
+This is my parody song from the SWG duping bug incident where many innocent players were banned. It is entitled SOE Idiot and was a spoof on Green Day's American Idiot.
+
+Don't want to be an SOE idiot. +Don't want a galaxy that is under the new regiment. +And can you hear the sound of hysteria? +The SOE mods tried to silence it.
+
+Welcome to a new kind of tension. +All across the Intrepid nation. +Everything isn't meant to be okay. +More nerfs and bans coming tomorrow. +We're not the ones who're meant to follow. +Well, that's enough to argue.
+
+Well, maybe I'm the sad little boardy. +but I'm not a part of a duper minority. +Now everybody do the propaganda. +And sing along in the age of paranoia.
+
+Welcome to a new kind of tension. +All across the Intrepid nation. +Everything isn't meant to be okay. +More nerfs and bans coming tomorrow. +We're not the ones who're meant to follow. +Well, that's enough to argue.
+
+Don't want to be an SOE idiot. +Giving bans to 11-year-old innocents. +Merchants are all in hysteria. +It's going out to idiot developers.
+
+Welcome to a new kind of tension. +All across the Intrepid nation. +Everything isn't meant to be okay. +More nerfs and bans coming tomorrow. +We're not the ones who're meant to follow. +Well, that's enough to argue.

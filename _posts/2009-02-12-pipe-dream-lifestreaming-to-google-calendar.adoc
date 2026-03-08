@@ -1,0 +1,17 @@
+= Pipe Dream -- Lifestreaming To Google Calendar
+:page-layout: post
+:page-navtitle: Pipe Dream -- Lifestreaming To Google Calendar
+:page-categories: geekery
+:page-excerpt: There is something I've wanted to do for a long time, which is to import RSS feeds into Google Calendar. The best reason I have to give you for wanting to do this is an incremental time tracking and being able to pinpoint (not accounting for RSS lag) when an event took place. This would allow me to have a truly complete calendar picture of my life. Unfortunately, none of the RSS to iCal converters I've played with seem to be able to work. There are also very few of these tools. I have even tried Yahoo Pipes without success (so this truly is a pipe dream).
+:page-image: /images/367425390_722352b6ac.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/367425390_722352b6ac.jpg[,role="text-center"]
+
+Image from link:http://flickr.com/photos/joelanman/367425390/[here]
+
+There is something I've wanted to do for a long time, which is to import RSS feeds into link:http://www.google.com/calendar[Google Calendar]. The best reason I have to give you for wanting to do this is an incremental time tracking and being able to pinpoint (not accounting for RSS lag) when an event took place. This would allow me to have a truly complete calendar picture of my life. Unfortunately, none of the RSS to iCal converters I've played with seem to be able to work. There are also very few of these tools. I have even tried Yahoo Pipes without success (so this truly is a pipe dream).
+
+I read an article online that stated if you had an iCal feed as an input, then you could get iCal as an output in Yahoo Pipes. It seems however if you take an iCal feed and combine it with an RSS feed (my cheater logic to get around Yahoo's gating) it will not give you iCal as an output.
+
+Does anyone know of a way to feed data into Google Calendar either through (optimally) RSS or via e-mail? I can hack around and convert each RSS message to e-mail and feed it in, but it seems Google Calendar only likes receiving messages via SMS (much hard to hack around for my needs). Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

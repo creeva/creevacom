@@ -1,0 +1,17 @@
+= Tonight I'm Trying To Make My Laptop A Hackintosh
+:page-layout: post
+:page-navtitle: Tonight I'm Trying To Make My Laptop A Hackintosh
+:page-categories: geekery
+:page-excerpt: So most of you know that I was running Ubuntu Hardy Heron, but during some patching, I hit some data corruption that caused my laptop to go all screwy. The first thing I noticed was the touchpad stopped working. Um….ok. Then I was getting errors on boot up, more or less when I logged in some packages kept crashing and wouldn't restart. Upon trying to fix and reinstall packages I managed to lose gnome and then I couldn't do anything.
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+So most of you know that I was running Ubuntu Hardy Heron, but during some patching, I hit some data corruption that caused my laptop to go all screwy. The first thing I noticed was the touchpad stopped working. Um….ok. Then I was getting errors on boot up, more or less when I logged in some packages kept crashing and wouldn't restart. Upon trying to fix and reinstall packages I managed to lose gnome and then I couldn't do anything.
+
+I did manage to get into the laptop last night with a Hardy Heron live DVD With this migration and the thought that I'm going to have to reinstall Linux anyways (yes I could sit down for more hours and repair the ubuntu installation, but I'm originally a windows guy I've saved my data it's quicker at this point to format/reinstall), that I would try to get OSX working on my laptop. I have heard with the Intel GMA video driver there are some mouse artifact issues, but I didn't notice any problems when I booted up the install DVD (this was when I was trying to decide my course of action and before I saved the data). Since I've read that the wifi works now, and the touchpad and audio should work, I don't really have a care about the fact that the built-in webcam might not work.
+
+I've been using my work Mac Air most of the time at home and figured it is time to take a plunge to try to go more OSX based. I'm going to try to dual boot between OSX and Ubuntu, but I think that's mostly to stick around for gnome conduit since that's the only unique app worth me sticking around for. I do have it running on my n810 and I'll still have Linux on there, so I'm it's not like I'm running. It's like I'm experimenting around.
+
+So after I'm done I'll let you know how successful I am. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

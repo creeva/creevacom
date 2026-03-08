@@ -1,0 +1,19 @@
+= A New Idea on Getting Out of Jury Duty
+:page-layout: post
+:page-navtitle: A New Idea on Getting Out of Jury Duty
+:page-categories: geekery
+:page-excerpt: While driving into work today I was listening to This Week in Law. There was a discussion on mistrials that are occurring because jury members have been using Twitter or looking up information online. You can't put the genie back into the lamp for the internet, so it's something the legal system is grappling with now. This caused me to drift off and start thinking like any good person that likes to manipulate the system, especially if it is within the rules of the system.
+:page-image: /images/justice_icon-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/justice_icon-1.png[,role="text-center"]
+
+While driving into work today I was listening to This Week in Law. There was a discussion on mistrials that are occurring because jury members have been using Twitter or looking up information online. You can't put the genie back into the lamp for the internet, so it's something the legal system is grappling with now. This caused me to drift off and start thinking like any good person that likes to manipulate the system, especially if it is within the rules of the system.
+
+I had to report for jury duty last year. Leading up to it all I could think about was ways to try to get out of it. None of my ideas seemed feasible or held water enough to try. I gave up trying to find a workaround and showed up. So this morning listening to the podcast, the idea of getting out of jury duty again popped into my head -- though it had no immediate bearing on me. The closest I could come up with as a new idea in this digital age that scares the current legal system -- is a blog about your local -- county -- state legal system. Seriously let's work through this scenario, if you were asked to sit on a jury and they ask you if you know anything about the case -- you say that you wrote a blog opinion article on just a few weeks ago. Dismissed. You would still have to show up for selection, but if you did regular postings of cases that would go to court -- you should never have to serve. You would have had a preconceived opinion going in -- and that's a no-no for the legal system.
+
+As another FYI -- I'm not sure how this would pan out if you figured out what case you would be on and wrote a single article on it. Another option would be to start a message board with a post for every offense in the community (granted all of this is a huge invasion of privacy, but we are looking at a bigger picture). If your neighbors are on a message board or your blog, leaving opinionated comments -- they would likely be dismissed also.
+
+The government wants you to be an informed citizen, just not an opinionated one. If you can prove you had preconceived opinions (and don't make them something you can get sued for libel with) -- then you should be dismissed in any jury selection process.
+
+Have I missed anything? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,23 @@
+= I Remember Simpler Times
+:page-layout: post
+:page-navtitle: I Remember Simpler Times
+:page-categories: stories
+:page-excerpt: There were days in my life when there were no worries. Hours went by that overflowed with wonder and amazement. Technology was simpler and the world seemed to move at a much simpler pace.
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+I remember simpler times.
+
+There were days in my life when there were no worries. Hours went by that overflowed with wonder and amazement. Technology was simpler and the world seemed to move at a much simpler pace.
+
+I remember simpler times.
+
+A time of life when telephones with touch tones were a novelty and not a plebian artifact of the times we live. They still held rotary dialing mechanics and were tethered to the rest of the world. We could not roam freely around the home that like the luxury we have today. The term "cellular telephone" was pronounced with all of it syllables and it was the size of a lunch box that you had to keep in your car. There was an effort made to make calls and to communicate with people. There was no such thing as "always on communication".
+
+I remember simpler times.
+
+Vans were not mini. Cars were sleek and stylish. There were cars that were not rounded at every corner, and the design seemed inspired.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

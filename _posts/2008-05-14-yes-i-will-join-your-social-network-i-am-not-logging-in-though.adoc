@@ -1,0 +1,15 @@
+= Yes, I Will Join Your Social Network, but I'm Not Logging In Though…
+:page-layout: post
+:page-navtitle: Yes, I Will Join Your Social Network, but I'm Not Logging In Though…
+:page-categories: geekery
+:page-excerpt: Last night I got into a discussion with Xie on how my crossposting and data centralization to the data broadcast system works. I was sad, I built a big flow chart with arrows and everything. I've gone over enough times on all the sites I crosspost too, so the what, when, and how are not due to be written about again for the next two months. My concern right now is why.
+:page-image: /images/myspace.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/myspace.png[,role="text-center"]
+
+Last night I got into a discussion with link:http://xielanthia.com[Xie] on how my crossposting and data centralization to the data broadcast system works. I was sad, I built a big flow chart with arrows and everything. I've gone over enough times on all the sites I crosspost too, so the what, when, and how are not due to be written about again for the next two months. My concern right now is why.
+
+The easiest way is that I don't want my friends to be forced to choose which social network I do to. Some of them have however forced me into making choices of which ones I use to get updates on them. If someone leaves me a comment on a service I can't import into my blog, then I get an email notification. I will log in once or twice a month on some of them, just to see updates from friends, but most of my friends are lazy so I don't miss much.
+
+Looking at myspace pages hurts my eyes and insults any integrity I have for the sensibility of web design. Facebook is too busy and a mish-mash of everything. All other services usually fall into these areas. It's not like I don't want to have a place in your walled garden, but I would prefer to just send you my information. I don't want to go there manually and import or create it. I have my own tools for creation, design, and placement. I've spent money on these tools (domain name, hosting, Flickr), and I don't need your tools. You are insulting me but saying I can't bring my toys over to play. Well, I just don't come over or create any content for you at all. If I was popular that would mean my friends would leave your service and go where I do interact and I can play with my toys. You are welcome to come to play. If you know of an online service that allows me to send notifications via some method other than physically going to the site, send me an invite and I'll come to join. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

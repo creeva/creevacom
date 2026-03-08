@@ -1,0 +1,21 @@
+= I Find It Odd
+:page-layout: post
+:page-navtitle: I Find It Odd
+:page-categories: stories
+:page-excerpt: That two of my posts that go in spurts are the ones that deal with the government. Reversing the Netflix database (which was publicly announced as a major threat after I posted about it) I'm not taking credit the guys I pointed to in the original article are the ones that deserve any and all credit. I just hope I caused a little more rumbling.
+:page-image: /images/justice_icon-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/justice_icon-1.png[,role="text-center"]
+
+That two of my posts that go in spurts are the ones that deal with the government. Reversing the Netflix database (which was publicly announced as a major threat after I posted about it) I'm not taking credit the guys I pointed to in the original article are the ones that deserve any and all credit. I just hope I caused a little more rumbling.
+
+The other is on Palantir and their analysis platform which after worrying about my posts because of all the Washington D.C. hits and the hits from Palantir had me very curious. The reason is I didn't put out anything that was more technical or more scathing than some other sites I saw after the fact when I wrote that.
+
+It seems some of my hits seem to be from people more interested specifically in Palantir and looking for more information. I would assume that the Palantir hits were part of a bot program -- but it seems some of these links originated from e-mail accounts -- so they are sharing my humble story.
+
+I do applaud Palantir on updating their screenshots -- it seems they are showing off some of what they have accomplished now. The only thing I have to say to Palantir is the website has moved and some articles are now cross-posted -- but I haven't written anything new and it's the same article you were tearing through months ago when I originally wrote the article.
+
+The other posts that are huge are my review on Symantec Endpoint Protection, my "Hulu -- Another good Tv-Links Replacement", and My link to TV-Links replacement sites.
+
+I'm hoping with the launch of my new site in the next 24 hours that I start to receive a wider variety of people reading a wider variety of stuff. Until then welcome those in public servant space, in the need of Symantec help, and those looking for online video. You help keep up my readership. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

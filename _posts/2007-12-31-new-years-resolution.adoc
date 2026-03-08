@@ -1,0 +1,17 @@
+= New Years Resolution
+:page-layout: post
+:page-navtitle: New Years Resolution
+:page-categories: stories
+:page-excerpt: I have some projects I'm going to start as of January 1st, but they are more time-sensitive and include a pseudo photo diary. I wouldn't however call it a new year's resolution. I have tried the new year's resolution thing in the past and it never works out. So this year I'm going to have the new year's resolution that should stick with me for the rest of my life.
+:page-image: /images/42402447_newyork.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/42402447_newyork.jpg[,role="text-center"]
+
+I have some projects I'm going to start as of January 1st, but they are more time-sensitive and include a pseudo photo diary. I wouldn't however call it a new year's resolution. I have tried the new year's resolution thing in the past and it never works out. So this year I'm going to have the new year's resolution that should stick with me for the rest of my life.
+
+This year my new year's resolution is ….. Never to have another new year's resolution again. This one should be easy to stick and finally takes the pressure off of me for the rest of my physical existence. If we have a meta-physical existence after our physical one has expired there may be an issue I have to rectify later.
+
+Whenever someone asks in the future "Did you manage to complete your new year's resolution?" I can say with pride that I'm not yet done with it, but so far I seem to be maintaining it. This is a stock of answers that I can (knock on wood) use for decades to come. I no longer have to deal with the BS that comes with trying to follow something that your not going to stick with, I can be openly honest, and hold my head high.
+
+I am Creeva and I have no more new year's resolutions. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

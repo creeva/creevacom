@@ -1,0 +1,53 @@
+= coComment and Why It's Important to Your Life Caching Needs
+:page-layout: post
+:page-navtitle: coComment and Why It's Important to Your Life Caching Needs
+:page-categories: geekery
+:page-excerpt: I've written a few articles on life caching. For those that need to catch up check out this article. For those that don't need the refresher course, let's dig in.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+I've written a few articles on life caching. For those that need to catch up link:https://creeva.com/index.php/2008/02/11/cocomment-and-why-its-important-to-your-life-caching-needs/localhost/wordpress/2008/01/11/life-caching-is-better-then-life-streams/%20[check out this article]. For those that don't need the refresher course, let's dig in.
+
+*What is coComment?*
+
+I'll let them speak for themselves:
+
+[quote]
+____
+coComment keeps track of all the online conversations you're following in one convenient place, and informs you whenever something is added to a conversation.
+coComment will centralize all your conversations in one convenient place so you won't lose any more contributions you have made on other websites. Stop bookmarking your comments to keep track of them, we will do that for you!
+
+We will <spanstabilo1 ""="">inform you when somebody follows up on your comments, turning the web into a true and reactive global conversation. No need to go back and check on every comment you've made to see if the conversation has developed. We'll let you know! 
+Interested in <spanstabilo1 ""="">following what people are commenting on? If they're coComment users, (like heavyweight tech bloggers Pete Cashmore or Robert Scoble), you can follow what they're saying in the "commentosphere" by checking their comments on their respective pages! 
+Keep your <spanstabilo1 ""="">conversations organized using tags so you find and follow them more efficiently.
+____
+
+*Now why is this useful to you?*
+
+Do you ever post on a blog and say something that comes out so well written that you wished you saved it? Do you want to keep track of all the online discussions you participate in? Do you want to have a copy of all that data you post that Google is going to cache away on their servers? If you said yes to any of the above statements, for the low cost of 19.95 a month….er sorry mindset of what I was saying. If you said yes then coComment can help you on your journey to maintaining this.
+
+CoComment works as a browser plugin. Currently, I have tested it with link:http://www.mozilla.com[Firefox 2.x-3.x] and link:http://www.flock.com[Flock]. Transparently in the background, it looks at the type of website you are looking at, if you try to make a comment it sends a copy to the coComment servers. The supported forums/blogs/etc that it supports are:
+
+[quote]
+____
+You participate in many online conversations on blogs and others websites. coComment supports most existing conversational spaces and additionnally lets you start conversations on any webpage: 
+On blogs and community websites:
+
+coComment helps you managing existing conversations
+coComment works all major blogging platforms, on services like Digg, Flickr or Youtube and some Forums. 
+coComment automatically collects your participations, add conversations to your account, and let you organize them with tags directly from the current page 
+
+On conventional websites:
+
+coComment let you initiate new conversations
+In a single click, every website has now a commenting section 
+Being on CNN.com or any other website, feel free to discuss the information.
+____
+
+*OK that's cool it's another social network based around comments, but what does this have to do with life caching?*
+
+The key feature that this is that it gives you an RSS feed output of all of your comments. If you are doing a simple lifestream application or a full-blown life caching that involves archiving all of your data, this allows you the input to save it. Until EVERYTHING supports a data portability initiative this is just one more tool to get you closer.
+
+If you decide to try out it, go ahead and add Creeva to your friend list. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

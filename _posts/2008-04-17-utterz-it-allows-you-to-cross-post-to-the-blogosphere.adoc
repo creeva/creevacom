@@ -1,0 +1,61 @@
+= Utterz -- It Allows You to Cross Post to The Blogosphere
+:page-layout: post
+:page-navtitle: Utterz -- It Allows You to Cross Post to The Blogosphere
+:page-categories: geekery
+:page-excerpt: Lately, I've been playing with utterz, it's kind of hard to explain but think of it as the gateway to blog from your cell phone. It's a short-term blip-based podcast -- call in and leave a message and it can post the audio to your blog. Send Utterz a picture, it will send it to your blog or service. Send it a video and utterz will post it on your blog and youtube.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Lately, I've been playing with link:http://www.utterz.com[utterz], it's kind of hard to explain but think of it as the gateway to blog from your cell phone. It's a short-term blip-based podcast -- call in and leave a message and it can post the audio to your blog. Send Utterz a picture, it will send it to your blog or service. Send it a video and utterz will post it on your blog and link:http://www.youtube.com[youtube].
+
+The coolest thing about Utterz is they keep adding connections, thereby making you more likely to use their service as your gateway for interacting with the online world. It also seems to have a link:http://www.vox.com[vox]-like community that really interacts with each other instead of some other web services. The great thing that prompted this post however was not about the great community, it's about crossposting.
+
+Here are the innate services that Utterz will crosspost to:
+
+link:http://www.blogspot.com[Blogger]
+
+link:http://www.livejournal.com[Livejournal]
+
+link:http://www.tumblr.com[Tumblr]
+
+Pownce
+
+link:http://www.flickr.com[Flickr]
+
+link:http://groups.yahoo.com[Yahoo Groups]
+
+link:http://www.typepad.com[Typepad]
+
+link:http://www.twitter.com[Twitter]
+
+link:http://www.wordpress.com[WordPress]
+
+link:http://www.movabletype.com[Movable Type]
+
+Twitxer
+
+Drupal
+
+link:http://spaces.live.com/[Live Spaces]
+
+link:http://www.youtube.com[YouTube]
+
+Blip.tv
+
+and MetaWeblog API-compatible sites
+
+(if I missed one I'm sorry Utterz)
+
+Going to one place allows you to hit up everyone else, I would almost wish to use Utterz as a distribution point instead of a web service, but I already have most of those covered (hey WordPress plugin writers, compose a Pownce crosspost plugin). I'm not sure how often I'll use it, but it's a nice option to literally just call in a blog post. So with this, I'll use it for what it is. I'll let my WordPress handle most of the data dissemination across the blogosphere.
+
+But this brings up the question, what am I crossposting to from Utterz?
+
+Well, the obvious is that it posts from Utterz to my main blog, the other settings I configured more mood. All videos I post will go to my blip.tv profile and link:http://www.youtube.com/user/creeva[youtube accounts]. Pictures will go to my twitxer account and link:http://flickr.com/creeva[flickr accounts] to be publically displayed. Any additional messages will also cross-post over to my Pownce account (this will go away once I have a way to post to Pownce from WordPress).
+
+The only thing I'm unsure of at this point is archiving my utterz -- utterz uses a flash player to play the locally stored audio file. With video files, I do have a recourse of pulling them off of another service or using the source file for life caching purposes. This is really the only bummer about the whole thing.
+
+The awesome thing is when I call up utterz to post an audio clip now, my voice is now spread across about 15 sites at once. That is true internet broadcasting of yourself.
+
+If you head over to Utterz make sure you add me as a friend, here is a link to my profile. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

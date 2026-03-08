@@ -1,0 +1,17 @@
+= Palm TX Bluetooth File Server Software Wanted
+:page-layout: post
+:page-navtitle: Palm TX Bluetooth File Server Software Wanted
+:page-categories: geekery
+:page-excerpt: So this week I charged up my old Palm TX, I've been mourning over the death of Palm OS. I enjoyed Palm OS, but even I've moved on. I have to write my history with Palm hardware article soon. I paired the TX with my N810, and after verifying I could still get online with it through my phone. The TX"s web browser is weak compared to the N810's and other than a syncing contact manager (something the N810 is lacking at) I have no real use for the TX anymore.
+:page-image: /images/51G2VP9TBJL._SS500_.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/51G2VP9TBJL._SS500_.jpg[,role="text-center"]
+
+So this week I charged up my old Palm TX, I've been mourning over the death of Palm OS. I enjoyed Palm OS, but even I've moved on. I have to write my history with Palm hardware article soon. I paired the TX with my N810, and after verifying I could still get online with it through my phone. The TX"s web browser is weak compared to the N810's and other than a syncing contact manager (something the N810 is lacking at) I have no real use for the TX anymore.
+
+I was thinking about what I can do with it. I may have sold my wife's but I'm not sure I want to give mine up yet -- so functional decisions. I can make it a high-end universal remote -- maybe a TV-be-gone device. What I decided it turns out I can't do -- is make it a Bluetooth file server. Here is what I figured, my N810 only has a MicroSD card slot, so it can't read normal SD cards -- if I needed the extra space I could pop an SD card into the TX, power it on, and access it via Bluetooth on the N810.
+
+Unfortunately (like always) the manufacturer cheaped out on the specs. There doesn't seem to be any way to share files over Bluetooth on the TX. I can access files on my phone from N810, but nothing on the TX. So I'm throwing this out there to the world at large, does anyone know of a way to put a bluetooth file server (for free preferably) on a Palm TX (or Treo, or Lifedrive, or any Bluetooth enabled Palm)? If so please leave a comment and a link. You can also leave a comment if you think I'm insane also.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

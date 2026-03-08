@@ -1,0 +1,35 @@
+= The Great Photo Sharing Conundrum
+:page-layout: post
+:page-navtitle: The Great Photo Sharing Conundrum
+:page-categories: geekery
+:page-excerpt: My mother left me a comment yesterday (yes the mother I don't talk to) about one of the baby pictures. Her comment asked if I could send her an email with all the baby pictures we have. Here is where we have the gap in the usage level between the older and the newer generation. I remember years ago when everyone used to mail pictures around, but this was also a time when the pictures were normally 100kb or less in size. Even then business environments were complaining about the pictures clogging up their email systems ( no matter that they were sending 300KB full HTML emails each time). Now we fast forward to today.
+:page-image: /images/5129332_b75d25f016_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
+
+My mother left me a comment yesterday (yes the mother I don't talk to) about one of the baby pictures. Her comment asked if I could send her an email with all the baby pictures we have. Here is where we have the gap in the usage level between the older and the newer generation. I remember years ago when everyone used to mail pictures around, but this was also a time when the pictures were normally 100kb or less in size. Even then business environments were complaining about the pictures clogging up their email systems ( no matter that they were sending 300KB full HTML emails each time). Now we fast forward to today.
+
+People still routinely email pictures, but they are more apt to go look at them on link:http://flickr.com[Flickr], link:http://facebook.com[Facebook], and link:http://myspace.com[Myspace], (insert social network of the week here). We are more likely to send an URL link than to attach a photo. It makes sense. Now I could have just blown off my mother, but I gave her the first response that I have in over two years. This does not mean I want to open a communication channel with her, it means that I responded to her comment the same way I would to any other commenter on the site. The important part of this excerpt is this:
+
+[quote]
+____
+Unfortunately I can't -- this isn't because I'm being mean, this isn't because we are not speaking and this is the only response you've gotten from me in two years. It's because it is too unwieldy and impractical.
+The last photo session I uploaded over 200 photos that were over 1.5 GB of total space. To give a comparison with my gmail account I have over 35000 emails (that are not spam) saved, this email only takes up 2.4 GB of space, since I save ALL of my outgoing email also just sending you pictures a few times would completely fill up my email box. There is a reason I use a photo sharing site, I could spend hours resizing photos just send them out to people who may or may not be interested to different degrees, but I always use the original size at home -- so if a family member wants smaller sizes they can go to my Flickr account -- which by the way has over 10GB of images (will probably pass 7000 images in a few weeks). There is a reason I actually pay for this service.
+____
+
+If want to read the rest of the comment which was a brief explanation of different options she could do on her part to be proactive, it's in the comment section of this story.
+
+What this means though is technology has fixed this issue, ironically the people that are most likely to use this technology to get pictures of their children or grandkids are still stuck in the old-guard mentality of expecting things sent to them instead of going out and grabbing them. If my sister had a picture out there I liked of her, I would go out and download it and archive it. Most of the time I don't make these pictures public, I save them as an archive for my child and any children he may have. This is a normal activity, for people my age and younger. We don't take dozens of prints at the Sears Studio and send them off to relatives still.
+
+Some of us do, but that number is dwindling as you get to a younger and younger age of internet users. How do I know they wouldn't prefer a different shot than I would, I don't. That is the point they can take their own pictures they like and have them printed up -- giving them back choice instead of forcing my tastes upon them.
+
+So how do we move on from here? I guess evolution will eventually take its course and utilizing the cloud will become the norm. Maybe it doesn't need a push in that direction. I did finish my comment by giving my mother fairly explicit instructions on where to go………to handle getting the photos on her own, and on demand.
+
+Now if only she would scan all of her photo albums (at a decent and high DPI level -- ie should be 5-10 MB per photo) so I could archive all those pictures I would be happy. Granted not happy enough to go talk to her and get the photos and do it me, but happier. It's tooth and nail to borrow pictures from my grandmother to scan in, but I've gotten some. I have managed to scan all of my father's photos from the pre-divorce of my parent's era. I need to get him after that images still.
+
+I don't want my siblings over who gets what photographs once my parents and grandparents pass away (which is still hopefully decades and decades away), I would prefer to just have the digital copies, that way we could all have each photograph in the family history. Maybe someday. At least my grandkids won't have to fight over photo rights, and they will know how to share them with one another.
+
+I'll end this with another staged studio image of myself for all of those readers out there:
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

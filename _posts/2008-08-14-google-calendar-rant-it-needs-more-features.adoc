@@ -1,0 +1,21 @@
+= Google Calendar Rant -- It Needs More Features
+:page-layout: post
+:page-navtitle: Google Calendar Rant -- It Needs More Features
+:page-categories: geekery
+:page-excerpt: Previously I railed against Google Docs and my issues with them there, now it's the Google Calendar's Team that I'm having issues with. I want to love Gcal. I really truly and deeply do. I do love it more than Microsoft Outlook's Calendar, but that is still an issue since it doesn't have complete integration with Microsoft Exchange. I have however recently configured my Outlook calendar to sync with Gcal with a nifty tool Google released. For that I bless them. No more hacks or workarounds, or siphoning data through Plaxo to get this going. I still use Plaxo, but I don't need a desktop client for it anymore, it replicates the back-end internet data now.
+:page-image: /images/163896765_bedeab6dcc_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/163896765_bedeab6dcc_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/thedoubleduchess/163896765/[here]
+
+Previously I railed against Google Docs and my issues with them there, now it's the link:https://www.google.com/calendar/[Google Calendar]'s Team that I'm having issues with. I want to love Gcal. I really truly and deeply do. I do love it more than link:http://en.wikipedia.org/wiki/Microsoft_outlook[Microsoft Outlook]'s Calendar, but that is still an issue since it doesn't have complete integration with link:http://en.wikipedia.org/wiki/Microsoft_Exchange_Server[Microsoft Exchange]. I have however recently configured my Outlook calendar to sync with Gcal with a nifty tool Google released. For that I bless them. No more hacks or workarounds, or siphoning data through Plaxo to get this going. I still use Plaxo, but I don't need a desktop client for it anymore, it replicates the back-end internet data now.
+
+Now I've said everything (well not really but I spoke nicely about them) that I like about Gcal. Let's look at some of the things I want. The first thing that I have always wanted was the ability to import RSS feeds into Gcal. I'm not talking about news feeds that I want to read, but personal lifestreaming data that I can track about myself. I should be able to use Google Calendar as a personal diary of events, but this leads to a lot of backtracking because of the manual work this would cause.
+
+Another option that would allow me to deal with the fact that I can not import RSS feeds would be to allow us to send in events via E-mail. You allow us to send in events via SMS (which I don't use since i don't pay for an SMS plan) -- yet not e-mail? It's not really a bandwidth thing since most of your users are probably using link:http://www.gmail.com[Gmail] anyways. I don't get it.
+
+The final thing I would like, is the ability to attach a file (which in reality could be stored in link:http://docs.google.com[Google Docs]) to an event. Whether it would be a picture (ok this would be link:http://picasaweb.google.com/[Picasaweb] for storage) or a presentation, this would lead to a more organized life for business users making a transition.
+
+Give us some killer apps, you have us as users, and now keep us. Show us some love. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

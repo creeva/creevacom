@@ -1,0 +1,15 @@
+= Holy Cross Posting Web Integration Life Caching Nirvana
+:page-layout: post
+:page-navtitle: Holy Cross Posting Web Integration Life Caching Nirvana
+:page-categories: geekery
+:page-excerpt: Andrew Shuttleworth has written a piece and made a graph of all the online networks he uses and how the information is then passed from web service to web service before being saved onto his own sites (though I still think he cheats since he only posts an RSS widget on his site -- hence he lifestreams the data and doesn't life cache it properly). That being said it's an insane amount of data traversing anywhere and everywhere at once.
+:page-image: /images/trumpet.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/trumpet.jpg[,role="text-center"]
+
+Andrew Shuttleworth has written a piece and made a graph of all the online networks he uses and how the information is then passed from web service to web service before being saved onto his own sites (though I still think he cheats since he only posts an RSS widget on his site -- hence he lifestreams the data and doesn't life cache it properly). That being said it's an insane amount of data traversing anywhere and everywhere at once.
+
+The geek in me thinks it's one of the most beautiful things to behold. The engineer at me marvels at the design. The system administrator in me gets a headache and a newborn ulcer just looking at it.
+
+I can say I'm going to be tracing his path one link at a time to see what I have missed, what I can do better, and how I can cache the data that he seems to leave behind. link:http://www.readwriteweb.com[Read Write Web] had a piece that directed to this marvel. I can say that understand the mashing that will allow you to do this after data portability truly becomes a reality. The real trick though is making it work when this hard not when it is easy. The joy is broken through the pain of accomplishment that is still unique before it becomes mundane. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,30 @@
+= Internet Protocols That Need To Die -- My Top 3
+:page-layout: post
+:page-navtitle: Internet Protocols That Need To Die -- My Top 3
+:page-categories: geekery
+:page-excerpt: The IETF has maintained the RFC database which defines Internet protocols into the nitty gritty sections that allow other individuals to implement them. This is all great in theory the problem is some protocols outlive their usefulness. The problem is the insecurity and unfeasibility of these protocols remaining in existence compromises design that should be far more streamlined and elegant. Without further ado here is my top 10.
+:page-image: /images/ietflogo2f.gif
+:imagesdir: /testsite/images
+
+image::/testsite/images/ietflogo2f.gif[,role="text-center"]
+
+The link:http://www.ietf.org[IETF] has maintained the RFC database which defines Internet protocols into the nitty gritty sections that allow other individuals to implement them. This is all great in theory the problem is some protocols outlive their usefulness. The problem is the insecurity and unfeasibility of these protocols remaining in existence compromises design that should be far more streamlined and elegant. Without further ado here is my top 10.
+
+*1. FTP*
+
+Yes, even I use FTP since my hosting provider has made this the only efficient method of getting groups of files onto my hosting page. A better scenario would be an SSH tunnel or a full WebDAV implementation that allowed me access. Back when I was doing firewall tech support FTP and explaining to people the difference between active FTP and passive FTP. Here is part of the snippet I used to send to customers to understand at a high level:
+
+[quote]
+____
+In passive mode the computer sends out two data streams -- one to request which data to download and another to actually download the data on a random port. In active mode the computer sends out a data stream requesting the data -- then the remote computer connects in on a random port to the requester.
+____
+
+Now FTP has a bit of usefulness left since I myself admitted to using it, so where is the complaint? My complaint a modern protocol should be able to make a connection and transfer files without requiring two ports, a data port, and a control port. This causes havoc on a firewall, especially in active mode. They have tried to shoehorn in encryption as an afterthought but this has issues traversing the proxy firewall since the proxy firewall has no idea what the data port is going to be since the connection is encrypted. Please move on to HTTP for downloading across the web, or BitTorrent, or WebDAV -- lots of modern protocols could be used to address this instead of trying to fix FTP.
+
+*2. NFS*
+
+I wrote my diatribe about NFS here -- I have no reason to rehash it twice in one day.
+
+*3. Gopher*
+
+Gopher was the protocol that predated modern web browsers. Granted I had a grand old time on gopher hosts back in my college days and later crawling through the Internet from the library's card catalog computers, but enough is enough. Gopher has no relevance or usefulness in today's internet. I still see a strong point for the lynx web browser compared to what I could ever fathom using gopher again -- HTTP won get over it. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

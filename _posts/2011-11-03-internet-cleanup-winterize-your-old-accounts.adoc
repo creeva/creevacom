@@ -1,0 +1,35 @@
+= Internet Cleanup -- Winterize Your Old Accounts
+:page-layout: post
+:page-navtitle: Internet Cleanup -- Winterize Your Old Accounts
+:page-categories: geekery
+:page-excerpt: Yesterday I posted about not deleting old accounts where there is a chance you will ever use them again or have made friends where your identity could be mistaken if someone used your old username. I knew what I was going to write about today, but a friend in the comments did make a mention of a term that has stuck with me -- "Winterize". A rose by any other name……
+:page-image: /images/3038597_e5f95e2017.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+
+Yesterday I posted about not deleting old accounts where there is a chance you will ever use them again or have made friends where your identity could be mistaken if someone used your old username. I knew what I was going to write about today, but a friend in the comments did make a mention of a term that has stuck with me -- "Winterize". A rose by any other name……
+
+So today I wanted to discuss what you would need to do to actually winterize one of your old online accounts. I'm slogging through the internet and doing cleanup, but then again I was the king of Internet 2.0 account sign-ups. That's not to say that every piece of information I gave them is correct -- just accurate enough so I can get back in.
+
+While it's too long to post here (I'll do a quick rundown tomorrow) companies are making money from your information. You need to decide if you want to leave that information with them so they can keep generating revenue. For the most part, where I can I'm opting out.
+
+So let's look at the steps I consider fully winterizing your profile if you are closing it down, but keeping it active so no one else takes your username.
+
+1. Back up your account to the best of your ability. You do not want to lose information that you actually took the time to generate. You also should keep an archive for posterity. I'm importing all I can into a local WordPress installation and keeping it in email. In theory, I could recreate the account later if I wanted to.
+
+2. Go through your friends list and unfriend everyone. This may seem rude, but at the same time, you aren't going to be there to interact with them anyways. If this is an account that you sometimes use, the polite thing to do is to send friends a note on how they can contact you.
+
+3. Change your name and profile information to the best you can. Some services allow you to change your name. For these services, I change my name. I change my email address if I can do a toss-away address that I know is only used for specific purposes. I adjust my address to somewhere nowhere near me. I remove any and all contact information I can. If I can't remove it I change it to something that is incorrect.
+
+4. Delete all blog posts. For someone like me who used to crosspost like crazy, this is the hardest part. It is a bit of deleting and confirming.
+
+5. Delete all pictures. Once again I would remind you to make sure you have backups of all your images. Nothing hurts worse than losing an image where you deleted your only copy.
+
+6. Delete all status messages. Once again if you are prolific this is going to take some time. You may want to leave one last status message saying goodbye or where you can be reached in the future.
+
+7. Disable all notifications. Do you really need to be receiving from a service you don't use anymore?
+
+8. Lock down the privacy of the account as far as you can. This is to make sure that you haven't missed anything.
+
+Once you are done with this you should leave only a shell of an account. Depending on how the site monetizes and its data retention you have made any future data requests meaningless. You also can be assured if you have kept your account activity that no one is going to take your username and impersonate you. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

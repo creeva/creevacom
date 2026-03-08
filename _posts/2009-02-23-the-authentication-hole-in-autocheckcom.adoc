@@ -1,0 +1,15 @@
+= The Authentication Hole in Autocheck.com
+:page-layout: post
+:page-navtitle: The Authentication Hole in Autocheck.com
+:page-categories: geekery
+:page-excerpt: While shopping for cars this weekend, we decided to do a VIN history check against the cars we were looking out. While we didn't find any that had been in a flood or a wreck (the things they scare you into doing these checks), we did find a few cars that had been used as rental cars. When you are doing these checks there are really only two major companies to do them with, you have a choice of CarFax or Autocheck. I've used CarFax in the past, so I decided to try out Autocheck. Both offer the same information, and if I had to tell you to use one or the other, I would tell you to choose whichever is the cheapest for the day.
+:page-image: /images/3085421999_73a335f86e.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3085421999_73a335f86e.jpg[,role="text-center"]
+
+While shopping for cars this weekend, we decided to do a VIN history check against the cars we were looking out. While we didn't find any that had been in a flood or a wreck (the things they scare you into doing these checks), we did find a few cars that had been used as rental cars. When you are doing these checks there are really only two major companies to do them with, you have a choice of link:http://carfax.com[CarFax] or link:http://autocheck.com[Autocheck]. I've used CarFax in the past, so I decided to try out Autocheck. Both offer the same information, and if I had to tell you to use one or the other, I would tell you to choose whichever is the cheapest for the day.
+
+So I signed up, handed over the credit card number, and suddenly I was logged in. I was iffy because they never prompted me for a password, yet there was a log-out button at the top of the screen. This was supposed to allow for unlimited searches for 60 days, so how is my account secured? Not wanting to close the window I was actively working in (just in case) I opened another browser and attempted to log in. It asked me for my email address and click next. I was then logged in -- no password at all.
+
+Now it doesn't seem that you can review your look-up history since all historical lookups are sent to you via email and are not stored on the server. What it does allow is people to bypass account security since if you know the email address of someone with this service you can get your own searches for free. You would think this would be at least slightly more secure since it's run by one of the largest credit agencies. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

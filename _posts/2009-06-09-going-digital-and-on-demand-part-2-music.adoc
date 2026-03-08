@@ -1,0 +1,19 @@
+= Going Digital and On Demand -- Part 2 Music
+:page-layout: post
+:page-navtitle: Going Digital and On Demand -- Part 2 Music
+:page-categories: geekery
+:page-excerpt: A few months ago I lost all of the MP3s that I had been accumulating for over 10 years. It was a bad hard drive crash and over 200GB of music was lost in this tragedy. One blessing of this is that we got to start from scratch. Until a couple of weeks, I managed to keep putting off the long haul of going through hundreds of CDs to rip them to MP3 so we can put them on our iPods and listen to our heart's content.
+:page-image: /images/150020414_6d9c2d98bd.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/150020414_6d9c2d98bd.jpg[,role="text-center"]
+
+A few months ago I lost all of the MP3s that I had been accumulating for over 10 years. It was a bad hard drive crash and over 200GB of music was lost in this tragedy. One blessing of this is that we got to start from scratch. Until a couple of weeks, I managed to keep putting off the long haul of going through hundreds of CDs to rip them to MP3 so we can put them on our iPods and listen to our heart's content.
+
+The problem with our previous collection is that there was no uniformity, the sources from the files were varied, and the tags were a mess -- so now we have a clean slate to work from. Over the last two weeks I've been ripping CDs (and I'm amazed at how many "important" CDs we have lost). I found one last night, so the ripping is not completely over -- but on Friday night I managed to get through the bulk and any ones left are going to be onesy-twosy rips, which I can handle. The new rule of the house is going to be, when a CD comes into the house it doesn't get listened to, it gets ripped and packed away. An example of this is the new Green Day Album, I never listened to the physical CD at all, but I did listen to it after I ripped it.
+
+The problem at the outset was what size to rip them to. Of course the discussion online focus on 192kbs for size up to 320kbs for quality. There are rampant discussions on whether someone can hear the difference in qualities so I did a test myself. Between 192kbs and 220kbs I could tell a difference, so 192kbs was out. I then had link:http://xielanthia.com[Xie] test between 220kbs, 240kbs, and 320kbs. She could tell the difference between 220kbs and 240kbs, but not 320. So 240kbs VBR was our baseline.
+
+All of our MP3s now have proper tagging and album art embedded into the MP3, uniformity at last. Now we have the other problem to go through. What about non-CD media? I'm still at a crossroads at that, I have cassette tapes (non-music and personal) that I want to save, plus we have a semi-large (by today's standards anyways) LP collection. The LP's I'll probably borrow or buy CD versions of the to rip. When I figure out how I want to do the cassettes I'll let you know.
+
+I have learned my lesson though, currently, my MP3s are backed up on two different computers. One is a "master" share and the other backup. So I'm attempting to fight off a hard drive dying again. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

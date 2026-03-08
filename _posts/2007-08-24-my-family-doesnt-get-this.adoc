@@ -1,0 +1,23 @@
+= My Family Doesn't Get This
+:page-layout: post
+:page-navtitle: My Family Doesn't Get This
+:page-categories: stories
+:page-excerpt: My family doesn't really realize why I write online. It's kind of a foreign concept to them that people want to share their thoughts online and be open and expressive. I guess they should have realized something was odd about when I had my first poem published when I was 15 or 16 (It was one of those stupid poetry contests where they sell you the book at the end -- I didn't buy the book -- but hopefully I'm in the library of congress because of it).
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+My family doesn't really realize why I write online. It's kind of a foreign concept to them that people want to share their thoughts online and be open and expressive. I guess they should have realized something was odd about when I had my first poem published when I was 15 or 16 (It was one of those stupid poetry contests where they sell you the book at the end -- I didn't buy the book -- but hopefully I'm in the library of congress because of it).
+
+I followed up on my high school class of Creative Writing with a follow-up being an independent study (i.e. on your time no class time devoted) of Creative Writing 2. Mr. Schroeder was my teacher for both of those years. I had his wife in middle school a few years earlier and I can say he was a better teacher. He would take my work give me suggestions and help me improve my writing in different ways. With possibly the exception of the band these two classes were the greatest of my high school career. The rest of the first creative writing class thought I was a brown noser -- I was just really interested and Mr. Schroeder helped foster that.
+
+I went away to college taking creative writing as a major. Ironically college and I didn't see eye to eye on a few things and we parted separate ways after one year. My writing which happened occasionally slowly fell off. I would write occasionally here and there but most of the time it was just the start of things. I would wake up in the middle of the night and just have to write something down on paper. It was an obsession. I would get down on paper so I could go back to bed and not think about it anymore.
+
+I had attempted a couple of runs at national novel-writing month but I did not manage to complete those attempts. This year however in November, no matter how crappy it is, I am going to pump out my first novel. I'm not sure yet if I'll publish it online, that way remains to be seen exactly HOW CRAPPY IT IS. Hopefully, it will be good enough that I can repackage it and release it under the creative commons license since I know full well it won't be good enough for commercial sale. I can only hope that when I do get a novel done that is good enough; pointing to previous work could help grease those wheels in the future.
+
+As you can see from what I've discussed, writing traditionally has been an important part of my life. It started so I could romance a girl and I realized I had a talent to some extent for it. Maybe it's just my ignoring of criticism. I hope my writing does not come out like the girl who can't hold a note at a college frat party that gets up drunk and naked on the pool table in the frat house. The only reason they endure her singing is that she is naked -- I am fully clothed. If I was naked however I don't even think you have made it this far into reading.
+
+Blogging for the most part allows me to give a purpose to myself and my writing. I'm hoping it hones it just a bit more as I get back into practice and do more of it. We shall see. Until then it's a diversion and a personal entitlement that can confuse those that don't understand.
+
+For the one person out there that can kind of understand -- she can stay bemused. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,21 @@
+= Will We Ever Buy Used Hybrid's With The Same Assurances As Gasoline Cars?
+:page-layout: post
+:page-navtitle: Will We Ever Buy Used Hybrid's With The Same Assurances As Gasoline Cars?
+:page-categories: geekery
+:page-excerpt: I was wondering today what the car market will be like in 10 years once hybrids as used cars become more common than they are today. I'm sure by that time the foundation technology that hybrids are built on will be rock solid, but what about from the used car perspective?
+:page-image: /images/166554450_9cabf30f4b_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/166554450_9cabf30f4b_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/jurvetson/166554450/[here]
+
+I was wondering today what the car market will be like in 10 years once hybrids as used cars become more common than they are today. I'm sure by that time the foundation technology that hybrids are built on will be rock solid, but what about from the used car perspective?
+
+We are used to checking the brakes, transmission, and even how the engine sounds (I'm assuming if an all-electric car is making any noise that's a bad sign), but hybrids have some unique issues that need to be addressed. The first is the computer. The computer in a hybrid is much more complex than even the most advanced consumer sports car. Regulating battery charges with the use of gasoline isn't rocket science, but you can't figure it out on an abacus either. What sort of diagnostic tools will the average consumer need to check out the hybrid the guy is selling on the side of the road?
+
+The other issue that is a larger problem than the computer that the consumer may or may not have input into, it's the problem of the batteries. How will consumers be able to verify the battery age? How will they be able to verify that the battery is actually completely operational? What if the batteries take charge but your total usage of them is about 10 miles per tank of gas? If you are getting poor mileage because of the latter scenario would it even be saved in gas? Hybrids running off gasoline only aren't necessarily the efficient side of the equation, they receive their benefits from the batteries, the batteries aren't up to snuff you will be using more gasoline than buying a normal gasoline-powered small car (batteries aren't light…yet).
+
+I also would like to see batteries at Auto Zone or some such store so we can actually do maintenance and change the batteries ourselves. Once this becomes the norm, maybe we'll see User settings such as changing the batteries every 60000 miles for optimum performance. Until all the things are in place and the tools exist for a user to do a complete diagnostic (we need something similar to a checksum to verify that there have been no tampering or custom mods done to the car which may or may not cause issues) I'm not going to trust used hybrids.
+
+Aren't we supposed to make new technology more reliable and efficient? There are still some gaping holes in the hybrid deployment. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

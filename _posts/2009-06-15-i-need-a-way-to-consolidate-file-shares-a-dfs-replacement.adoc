@@ -1,0 +1,52 @@
+= I Need a Way To Consolidate File Shares -- A DFS Replacement
+:page-layout: post
+:page-navtitle: I Need a Way To Consolidate File Shares -- A DFS Replacement
+:page-categories: geekery
+:page-excerpt: File shares are a pain. In and of themselves they are not, but once you get past two or three -- it gets painful. Now I have multiple computers with multiple drives with multiple file shares per drive spread across my network. What does this mean? Well, I'm the only one with knowledge of what is on the network and where it exists. This means that the network is not only cumbersome for anyone else to use (and sometimes me) it makes it nearly impossible if I want to tell someone to grab something off of the network if they come over and hook up to my wifi.
+:page-image: /images/270969697_fc9dcf3383.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+
+File shares are a pain. In and of themselves they are not, but once you get past two or three -- it gets painful. Now I have multiple computers with multiple drives with multiple file shares per drive spread across my network. What does this mean? Well, I'm the only one with knowledge of what is on the network and where it exists. This means that the network is not only cumbersome for anyone else to use (and sometimes me) it makes it nearly impossible if I want to tell someone to grab something off of the network if they come over and hook up to my wifi.
+
+I've put quite a bit of thought into this. I want something that essentially can act as a transparent gateway to my other file shares. Something like Microsoft's DFS but cross-platform. It would also be great if it could transform file shares but that isn't in the cards. Before I go much further let's go over the specifications I want.
+
+* It must use CIFS/SMB file sharing
+* It must be able to combine file shares on demand into a single root
+* It would be nice to be able to split a file share root into two different subdirectories
+* It must be cross-platform WIN/OSX/*Nix
+* Preferably Windows or have a dead simple web interface
+* Must be able to handle problems transparently if a file share is offline
+* It must be able to span shares on multiple computers
+
+Let's gove over each of these so I can give you my reasoning for each issue that I'm looking for before I get a dozen answers that I already know about that could fit the bill in some ways if I'm willing to sacrifice a requirement.
+
+CIFS and SMB file sharing may be the domain of Windows, but it's a standard that every operating system can speak. While I could use something like NFS and get it working for almost all of the clients on my network, if my grandmother comes over and wants to put family pictures onto her laptop, I am not going to tell her to download an NFS client to install on her laptop to grab the pictures. Unless I can direct her to a single file share it just won't work for me.
+
+I want to point to an example here is a sample layout I'm looking for:
+
+\\10.10.10.10\share
+
+Included folders include:
+
+* Movies
+* Pictures
+* Music
+* Documents
+* Software
+* User1
+* User2
+* webroot
+
+Combining and splitting file shares I think this is one of the tricky ones. Let's give the example of the fact that I have multiple shares containing movies I've ripped (larger hard drives would definitely help with this). So I end up with shares that exist like movies1 and movies2. What I would like is for all my movies to present themselves from the movies shared. I don't want to have movies1 and movies2 subdirectories displayed to the end user, I want them all in one directory. Alternatively for personal movies, like the ones I've shot for the community band -- I would like an option for that to link underneath my user directory as well as the movies directory.
+
+Cross-platform is a must. I choose CIFS/SMB as a standard because almost no extra software will need to be loaded on any computer to access them. Microsoft's DFS installed on windows servers does not work with non-MS operating systems -- so this is a dead-end for me.
+
+The server control software needs to be windows or a dead simple web interface. Why? Well, I want anyone else using my network to be able to fix problems and reconfigure shares as needed without having to do it myself. If I must turn to another setup, I will -- but I would really like this requirement to be met.
+
+Must be able to handle offline files gracefully. If a machine is turned off I want the file to just not be there, if it's a folder with combined shares -- the offline files should be absent. All of this should happen without the server software flipping out at all. I've seen some solutions that do this and they flip out without having everything accessible all the time.
+
+It should be able to span multiple computers, while something may work on a single computer (for windows I could do hard links) -- it doesn't fix the issue of spanning multiple computers and this is something that is needed badly in my network environment.
+
+So now I've given my personal requirements, what do you have as a recommendation to do this? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

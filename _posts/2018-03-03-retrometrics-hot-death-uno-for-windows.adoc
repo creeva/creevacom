@@ -1,0 +1,73 @@
+= Retrometrics -- Hot Death Uno for Windows
+:page-layout: post
+:page-navtitle: Retrometrics -- Hot Death Uno for Windows
+:page-categories: video-games
+:page-excerpt: I'm almost positive that most of the readers finding this page are familiar with how to play Uno. However, if you don't I highly suggest you go out now, get at least 2 more friends, and buy a deck. I think your other two friends can teach you because they already know how to play. Uno is one of those card games that every family seemed to play when I was growing up. My wife's family was big into Rummy, well mine was Uno all the way.
+:page-image: /images/uno-1.gif
+:imagesdir: /testsite/images
+
+image::/testsite/images/uno-1.gif[,role="text-center"]
+
+I'm almost positive that most of the readers finding this page are familiar with how to play Uno. However, if you don't I highly suggest you go out now, get at least 2 more friends, and buy a deck. I think your other two friends can teach you because they already know how to play. Uno is one of those card games that every family seemed to play when I was growing up. My wife's family was big into _Rummy,_ well mine was _Uno_ all the way.
+
+When my wife and I had our first townhouse together, we had a standard open-door policy for certain friends. That meant that many nights we would stay up late into the night talking, hanging out, and playing games. Uno went on for months and became highly competitive. It got so bad the first part of the game was to strategically remove me from the game from a points perspective so the goal was 1st or 2nd place.
+
+I remember one evening we had a terrible run where there was a blue nine up on the discard pile. No one could play on it for four or five rounds. It mocked us. Eventually, we manage to get past it with many more cards in our hands. A few games later in the evening after being mercilessly pummeled by Draw cards on all sides, one of the others went out. I had about thirty cards still. I was exasperated and paraphrased Shakespeare, shouting "Blue Nines, on all of your houses". That was twenty years ago, it still gets quoted among the three of us today.
+
+To kill time during the downtime at the computer store I worked at I searched for a copy of _Uno_ to play against the computer.   This was the late 1990-something and there wasn't many options to play a digital version of _Uno_.  I ran across a _Windows 3.x_ version of Uno called _Hot Death Uno_.  It managed to run on Windows 98, so life was good.   The game was crazy.   I don't mean crazy like last nights episode of _The Simpsons_.   This is crazy like the person you used to date that use as a cautionary tale.
+
+I found link:https://phoneboy.com/hdu[a blog post that explains how to play it with real cards, you can go over the full rules there]. While that post explains it fairly well, I think I may have used these rules or link:http://www.oocities.org/hotdeathuno/[these rules] when I made my physical deck.  We are going to go over the different cards involved.   link:https://boardgamegeek.com/boardgame/15228/hot-death-uno[The images are borrowed from this link].
+
+=== Special Card Rules
+
+Be warned, the cards have non-politically correct and harsh language. If you are going to make your own deck, click on one of the other links for the points of each card and clarifications for the rules.
+
+image::/testsite/images/pic1428230_md-1.jpg[,role="text-center"]
+
+Double Skip -- This card skips the next two players
+
+Reverse Skip -- This card performs a reverse and a skip at the same time.
+
+Draw 2 Spreader -- This causes all other players to draw two.
+
+Quitter -- Playing this card causes the next person in the round to immediately tally their points and quit the round.
+
+AIDs -- This splits the draw between the person receiving it and the person playing the draw card.  So someone playing a draw 4 would draw 2 and the person playing the AIDs card would draw 2.
+
+Luck o' the Irish -- This card reduces the amount of cards you have to draw by 1  -- so a draw 2 becomes draw 1, a draw 4 becomes a draw 3, etc.
+
+Harvester of Sorrows -- This card actually needs a background.    In _Hot Death Uno_ if a Draw 4 is played, the next person has to draw 4 or they can play their own draw 4.   This stacks so the next person has to draw 8.   This can continue until all draw 4's are used, adding 4 more cards to the draw each time.  The Harvester of Sorrows negate any further stacking after it is played.
+
+image::/testsite/images/pic1428231_md-1.jpg[,role="text-center"]
+
+Delayed Blast Draw Four -- This operates as a skip and a draw 4. +
+
+Holy Defender -- All negative effect cards skip you and are a transferred to the next person in the round.
+
+Glastnost -- If this is played -- the next player must put his cards down on the table for everyone to see for the rest of the hand.
+
+Magic 5 -- This card is a defense card against the Hot Death Wild Card.  It can also be played as a wild card, but it only changes the color to red.
+
+Fuck You -- This sends all the effects of a negative card back to the person that played it.
+
+Penn State -- This card is a defense against a Draw 2 spreader -- if shown, it sends the draw 2 spreader to backfire, and that played the spreader must draw 2.
+
+image::/testsite/images/pic1428229_md-1.jpg[,role="text-center"]
+
+Mystery Draw -- You have to draw the number of cards that this was played on, so if the previous card was a 9, you draw 9. If it was a 1 you draw one.
+
+Shitter -- If you have this card you must play it last.
+
+Mad -- If this card is drawn it must be played, choose another player and they are out of the round.
+
+Sixty-Nine -- This card can be played as a 6 or 9.
+
+Hot Death -- This card is a draw 8
+
+Someone attempted to make a modern version of the game (I've heard it exists on Android also).  Here is a video of the game play.
+
+Looking at the rules you can see it is significantly easier to play as a computer game.  It takes two _Uno_ decks to create your own deck, and everyone at the table has to learn the special rules.   It can be painful at first, but then it becomes routine.
+
+I think we played this version at the apartment for a few weeks, but it became painfully slow when a new person joined it.   We sat them down at the computer so they could get a background and then handed them the rules.  We had to wait for them to properly ramp up to get the game going.   Because of this we reverted back to playing standard _Uno_. However, I'll never forget those days.
+
+This little game that someone wrote as a parody has a mild cult following.  A few people of heard about this, and I think I covered most the major links about it in this article.   I suggest you track it down and try it out.   From experience, I suggest you try one of the computer versions before attempting to recruit friends.   It's easier if it at least one person understands the rules quite well before attempting it with friends.

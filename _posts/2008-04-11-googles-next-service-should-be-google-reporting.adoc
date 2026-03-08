@@ -1,0 +1,51 @@
+= Google's Next Service Should Be -- Google Reporting.
+:page-layout: post
+:page-navtitle: Google's Next Service Should Be -- Google Reporting.
+:page-categories: geekery
+:page-excerpt: Original From Journey To Get Paid&#58; Google's Next Service Should Be -- Google Reporting.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Original From Journey To Get Paid: Google's Next Service Should Be -- Google Reporting.
+
+Google is all about the consolidation of data, their whole mantra is behind it. They have released oodles and oodles of services that I utilize (yes I'm a google whore -- there I said it), but only minimal correlation between the tools other than a common login. Many of their tools generate reports or data that could be transformed into reports. Some of their services it's almost brain-dead and they haven't integrated the services. Let's go through the services and how I would design "Google Reports".
+
+The most obvious Google "products" I would lump together would be link:http://www.google.com/analytics/[Google Analytics], link:http://www.google.com/webmasters/tools/%20[Google Webmaster Tools], link:https://www.google.com/adsense/[Google Adsense], and link:http://adwords.google.com/%20[Google Adwords]. All four of these products are usually used together -- so why can't we get reporting for all three on one page? All of these products can give a webmaster an overview of where his site(s) is going and what he can work on. There is absolutely no reason to go through four different interfaces to get this information. Yes, I can set up email reports from some of them -- but a singular report and page to view them at a quick glance would be great. If I click on something to drill down on it could then take me to the specific related products page. While we are the subject of Google Analytics -- a listing of recent page views ala the way StatCounter does it would be great. To be honest that's the only reason I still use my StatCounter account.
+
+Those were the four products that prompted me to think about this in total from the beginning. Now let's move on to the other products, video for example. link:http://video.google.com[Google Video] and link:http://www.youtube.com[Youtube] both fit different niches in the google video structure. Youtube allows you to upload a video more quickly but has time and size limits, Google Video, however, allows downloads and unlimited sized and no time limits when you use their external (non-browser-based) uploader. Now Google Video's reporting very frequently fails to work -- losing view and download counts so this needs to be addressed. But a report that would include subscribers, views, and downloads would be fantastic.
+
+link:http://www.feedburner.com[Feedburner] should be tied into analytics also for the amount of information it gives you and stats, while I'm on a mini-rant here when are we going to be able to inject AdSense into our Feedburner items?
+
+Now let's break into the quickies:
+
+Google Base -- ok I still don't understand this product so I have no idea.
+
+link:http://www.blogger.com[Blogger] and Page Creator would tie in easily with Analytics -- so there is no reason not to make this automated.
+
+link:http://www.google.com/tools/firefox/browsersync/[Browser Sync] -- The number of synchronizations and all machines that you have synchronized against.
+
+link:http://calendar.google.com[Calender] -- Ok trickier but the number of appointments from a given day/month/week
+
+link:http://docs.google.com[Docs] -- Number of edits, number of documents, space they take up, and how many of your collaboration documents have had edits.
+
+link:http://www.gmail.com[Gmail] -- Number of emails received, sent, spam caught, most frequent contacts, amount of free disk space.
+
+link:http://groups.google.com[Groups] -- could tie into Analytics if you the group owner but beyond that -- number of members and messages -- how many new messages if you are just a reader.
+
+link:http://www.google.com/ig?source=gama&hl=en[Igoogle] -- um no clues
+
+Reader -- number of stories read
+
+link:http://picasaweb.google.com/[Picasaweb] -- how many times each photo was viewed, who has linked to it, and any subscribers
+
+Finally link:http://www.google.com/history/[webhistory] -- the number of searches performed, and a concise list of sites embedded in the reports.
+
+I would want to see reports being able to be generated automatically on a daily, weekly, monthly, and yearly basis. The ability to customize reports by date or time period would also be great. The ability to atomically email them to you at a preset time would be fantastic.
+
+The last feature I would add is an open API so we could plug in new reports and send them to google to collect and have other programs able to fetch and manipulate the data on a client side. I know I'm asking for pie in the sky at this point.
+
+Google literally has all this data on us and more. They are preaching data portability and openness so why don't they consolidate and show us more of the data they are holding? I'm not asking for all of the secret sauce just what's relevant to me. Combing the original few things before I went into quickie mode though would be utterly fantastic and an excellent starting place.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

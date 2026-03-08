@@ -1,0 +1,73 @@
+= The Crossposting God Series Part 7 -- Where Can You Post By E-Mail?
+:page-layout: post
+:page-navtitle: The Crossposting God Series Part 7 -- Where Can You Post By E-Mail?
+:page-categories: geekery
+:page-excerpt: Where can you post by E-mail? Well, this is the easiest of crossposting methods (especially if you use Blogger). There are lots of plugins for wordpress or movable type that can send out your full post as an e-mail to another address. In most cases, you would send this to your own e-mail address so you had it for reference. What about sending it to another site entirely? What if that site could send it to another site? You can see how this chain can work. If you are using Blogger then you can send out your post to ten e-mail addresses. This means that your post can replicate like bunnies. What are some of the sites that can receive e-mail posts? Let's get into that.
+:page-image: /images/1623925209_db432f3651_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/1623925209_db432f3651_m.jpg[,role="text-center"]
+
+Image from link:http://www.flickr.com/photos/kellypuffs/1623925209/[here]
+
+Where can you post by E-mail? Well, this is the easiest of crossposting methods (especially if you use link:http://www.blogspot.com[Blogger]). There are lots of plugins for wordpress or movable type that can send out your full post as an e-mail to another address. In most cases, you would send this to your own e-mail address so you had it for reference. What about sending it to another site entirely? What if that site could send it to another site? You can see how this chain can work. If you are using Blogger then you can send out your post to ten e-mail addresses. This means that your post can replicate like bunnies. What are some of the sites that can receive e-mail posts? Let's get into that.
+
+The original Creeva's World was hosted on Blogger at link:http://creeva.blogspot.com[creeva.blogspot.com]. This is where I started writing and I didn't want to abandon it after migrating over to WordPress. This was the very first site I crossposted to from my WordPress blog. Crossposting allowed me to not abandon my site and any readers that may go to that address, but I could enhance my own experience while keeping theirs the same.
+
+image::/testsite/images/130791649_4f1cd25482_m.jpg[,role="text-center"]
+
+link:http://www.lifelogger.com[Lifelogger] is the "cooler" blogging service, at least that's what they say. I'm not going to use any blogging platform again that I can't customize to the fullest extent. WordPress has spoiled me. Though link:http://creeva.lifelogger.com/[I do maintain a site there].
+
+image::/testsite/images/2281665182_3657da5cd0_m.jpg[,role="text-center"]
+
+Unlike some major social networks (I'm looking at you link:http://www.facebook.com[Facebook] and link:http://www.myspace.com[Myspace]), Friendster does support e-mailing in your blog messages.
+
+image::/testsite/images/2107876607_249c17ae05_m.jpg[,role="text-center"]
+
+link:http://www.blogr.com[Blogr] is just another blogging host that accepts e-mail. Very blogger-like, but link:http://creeva.blogr.com[crossposting friendly].
+
+image::/testsite/images/2319762512_eaffce8540_m.jpg[,role="text-center"]
+
+link:http://www.evernote.com[Evernote] is unique and unlocks some of the rest of these sites, Evernote is a notebook service. It allows you to e-mail in snippets (or use the desktop applications) to send in information that you can then share with your friends. You can e-mail in text notes, audio, or video.
+
+link:http://www.busythumbs.com[Busy Thumbs] is a simple moblog site that accepts posts via e-mail.
+
+Twine is similar to Evernote, but it's about collections and community. Think of it as sharing what you have with your friends.
+
+image::/testsite/images/452798424_887a51dacb_m.jpg[,role="text-center"]
+
+link:http://groups.google.com[Google Groups] is a spot that I used to use as an online backup for my blog. I have a private google group that only handles my own blog posts. No, you can't join, not like you would want to.
+
+image::/testsite/images/ma_grp_1.gif[,role="text-center"]
+
+I've just recently started crossposting to an old link:http://groups.yahoo.com[Yahoo Group] that I used to moderate. Mostly this is because I can share my thoughts with my friends that are still in that group, but that group is essentially dead. So this is the only thing that it's around for to keep me from pulling the complete axe on it.
+
+Each Day is designed to handle your memories and save them so you can go back over your life. It handles multiple media formats but all I'm concerned about is the e-mail option.
+
+link:http://www.multiply.com[Multiply] is a social network in the same vein as Friendster, Myspace, and Facebook.
+
+image::/testsite/images/vox-logo.jpg[,role="text-center"]
+
+Over at link:http://www.vox.com[Vox] I maintain a page to integrate with their community. I've posted in the past how vox is a unique community and because of that, I receive unique feedback. They refer to their e-mail inbound service as moblogging.
+
+I like to think of all of my blog posts as separate documents. After working on this for a while, I decided to start e-mailing all of my entries to my link:http://docs.google.com[google docs] account lets me search and repurpose documents a little easier than searching through the blog. It's my dump-all account for documents. I am annoyed that I can't e-mail blog posts to link:http://writer.zoho.com[Zoho Writer] for redundancy, they only take documents as attachments.
+
+When you are looking for a new site to crosspost check and see if they have an option where you can post by e-mail. Some sites may refer to this as moblogging. Also, remember to e-mail your post to yourself so you have a backup you can control.
+
+Oh, I use the DJ E-Mail Publish plugin to push out posts from WordPress.
+
+In the next part of our crossposting god series, we are going to cover Blogger more in-depth.
+
+Previous Entries in The Crossposting God Series:
+
+link:https://creeva.com/index.php/2008/06/10/2008/05/27/2008/05/22/2008/05/21/2008/05/21/the-crossposting-god-series-part-1-the-introduction/[The Crossposting God Series Part 1 -- The Introduction]
+
+link:https://creeva.com/index.php/2008/06/10/2008/05/27/2008/05/21/the-crossposting-god-series-part-2-vox/[The Crossposting God Series Part 2 -- Vox]
+
+link:https://creeva.com/index.php/2008/06/10/2008/05/27/2008/05/22/2008/05/22/crosspost-livejournal/[The Crossposting God Series Part 3 -- Live Journal and Derivative Sites]
+
+link:https://creeva.com/index.php/2008/06/10/2008/05/27/2008/05/22/distribution-and-endpoints/[The Crossposting God Series Part 4 -- Entry, Distribution, and End Points]
+
+link:https://creeva.com/index.php/2008/06/10/2008/05/27/the-crossposting-god-series-part-5-myspace/[The Crossposting God Series Part 5 -- Myspace]
+
+The Crossposting God Series Part 6 -- RSS Feeds to Crosspost Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

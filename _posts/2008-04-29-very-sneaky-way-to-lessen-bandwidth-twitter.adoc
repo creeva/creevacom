@@ -1,0 +1,17 @@
+= Very Sneaky Way to Lessen Bandwidth Twitter
+:page-layout: post
+:page-navtitle: Very Sneaky Way to Lessen Bandwidth Twitter
+:page-categories: geekery
+:page-excerpt: I got a message from @ev that he was playing with a new service that gave recommendations on who to follow on Twitter. The service he was playing with is http&#58;//whoshouldifollow.com/ which for me suggested a bunch of people, I added kevinrose and leolaporte.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+I got a message from @ev that he was playing with a new service that gave recommendations on who to follow on Twitter. The service he was playing with is http://whoshouldifollow.com/ which for me suggested a bunch of people, I added kevinrose and leolaporte.
+
+Now the first thing I noticed after adding them was that device updates (for me that's IM) were turned off. I had to manually turn it on so that I receive their updates via IM like I do everyone else I follow. Now the default in the past was to always automatically get device updates when you started following someone (it was this way up until a few days ago). Now I understand the problems they have been having with IM and I assume they also have them with SMS (I don't use it). As far as I have seen though there hasn't been an official announcement and this is a bit of sneaky behavior.
+
+I applaud them for making the change and do think it's beneficial for them, but you would think they would have made some kind of announcement.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

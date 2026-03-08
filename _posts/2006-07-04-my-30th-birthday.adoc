@@ -1,0 +1,15 @@
+= My 30th Birthday
+:page-layout: post
+:page-navtitle: My 30th Birthday
+:page-categories: stories
+:page-excerpt: I had a party where the family came over and had food and the whole nine yards. By the end of the night, I was hammered though. I rarely drink, but this is one of those occasions. I expect my wife to go through a similar thing when she turns 30. Halfway through the night I hardly remembered my name let alone anything else.
+:page-image: /images/254277_10150220022591121_4296019_n-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/254277_10150220022591121_4296019_n-1.jpg[,role="text-center"]
+
+I had a party where the family came over and had food and the whole nine yards. By the end of the night, I was hammered though. I rarely drink, but this is one of those occasions. I expect my wife to go through a similar thing when she turns 30. Halfway through the night I hardly remembered my name let alone anything else.
+
+I do remember I wandered out the back patio doors and let loose the contents of my stomach on the ground. After sitting out there for a while I managed to wander back in and then head up to bed. My wife and our friend Brian both watched me -- stone sober mind you -- and just kind of shook their heads.
+
+I can leave you with this thought -- I wouldn't want to turn 30 again. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

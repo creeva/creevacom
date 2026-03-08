@@ -1,0 +1,25 @@
+= AFK Entertainer
+:page-layout: post
+:page-navtitle: AFK Entertainer
+:page-categories: video-games
+:page-excerpt: This is my parody song from the SWG which our group the Def Stars used to win the first Intrepid Jam Bonanaza. It is a parody of The Entertainer by Billy Joel.
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
+
+This is my parody song from the SWG which our group the Def Stars used to win the first Intrepid Jam Bonanaza. It is a parody of The Entertainer by Billy Joel.
+
+The AFK Entertainer
+
+I'm the afk entertainer +And I know just where to stand +Another AFKer +Another macro band +Today I am your healer +I may have won your creds +But I know the game +You'll forget my name +And I won't be here for a jawa beer +If I don't stay on the star charts
+
+Chorus: +Oh yeah, macro baby macro +Oh yeah, macro baby macro
+
+I'm the afk entertainer +And I've had to pay my price +The things I did not know at first +I got free training, NICE! +Ah but still it comes to haunt me +My tailor, I need to pay +So I've learned to dance +With a macro and hot pants +I rub their neck and give my macro a check +As they tip because their BF goes way
+
+Chorus: +Oh yeah, macro baby macro +Oh yeah, macro baby macro
+
+I'm the afk entertainer +Been all around the worlds +I've said "tip me" in every cantina +And I've spammed with my dancer girl +I can't remember faces +I don't remember names +Ah but what the heck +I give my macro one last check +'Cause after a while and a thousand galactic miles +The grind is still the same
+
+Chorus: +Oh yeah, macro baby macro +Oh yeah, macro baby macro +Oh yeah, macro baby macro +TIP ME!!!!!!!!!!!!!

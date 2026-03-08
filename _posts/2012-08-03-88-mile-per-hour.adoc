@@ -1,0 +1,29 @@
+= 88 Miles Per Hour
+:page-layout: post
+:page-navtitle: 88 Miles Per Hour
+:page-categories: stories
+:page-excerpt: 88 miles per hour is one of those magical spots. It's right up there with the number 42. Of course, it has a closer association with 1.21. Unless you have lived under a rock, or were born after 1990, you will always associate this with the movie Back To The Future.
+:page-image: /images/Back_to_the_future-1.jpeg
+:imagesdir: /testsite/images
+
+image::/testsite/images/Back_to_the_future-1.jpeg[,role="text-center"]
+
+88 miles per hour is one of those magical spots. It's right up there with the number 42. Of course, it has a closer association with 1.21. Unless you have lived under a rock, or were born after 1990, you will always associate this with the movie Back To The Future.
+
+I saw Back to the Future in the theater two or three times. Which was fantastic since I was only nine years old when it came out. The movie fascinated me. I think one of the viewings was at the Drive-In theater in Lorain. This meant I saw it larger than life since big stadium seating theaters didn't exist at the time. Back to the Future was also the videotape I owned. A movie that was all my own that I got for Christmas. I became a child obsessed with reaching eighty-eight miles per hour.
+
+Of course, the point isn't to just go eighty-eight miles per hour, the point is to do it in the correct car. It has to be done in a DeLorean. You can also bet the farm that if I ever get a chance to drive a DeLorean I will attempt to get to that speed. I'm obviously not alone in this idea.
+
+link:http://www.wired.com/underwire/2012/06/ernie-cline-delorean/[In an article written by Wired], the author of Ready, Player One and Fanboys, Ernie Cline has a DeLorean. He actually has two of them. One is for a contest for the paperback release of his book. The article described how his souped-up car just by coolness alone has gotten him out of a couple of speeding tickets.
+
+The problem is that he wants a speeding ticket. He doesn't want just any speeding ticket he is looking for a particular one:
+
+[quote]
+____
+As much of a completist as any nerd, Cline wants to get written up for driving 88 mph. He came close once, in Michigan, when he got pulled over doing 76 in a 65 mph zone. But the officer wouldn't boost the speed on his citation (which had to be one of the geekier requests in the history of law enforcement).
+"I begged [the officer]," Cline recalled. "I said, 'Could you please raise the speed up to 88?' I said, 'I will pay the additional fine just so I can have this ticket and frame it for all time.'"
+____
+
+Thinking about that though, wouldn't you want a ticket for eighty-seven miles an hour? You could tell your friends that you almost disappeared into the time stream but you just couldn't get away. That would be the excuse I would use. I guess you could always use the old flux capacitor didn't kick in excuse. You could try is that your Mister Fusion was out of fuel. Finally, maybe you forgot to run to the local corner store to pick up plutonium.
+
+Regardless of the excuse, I would be impressed if someone had a picture of themselves in a DeLorean with an eighty-eight-mile-per-hour speeding ticket attached to it. It doesn't get much geekier than that. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,27 @@
+= Palm T|X Issue fixed
+:page-layout: post
+:page-navtitle: Palm T|X Issue fixed
+:page-categories: geekery
+:page-excerpt: When I first go my RAZR 3 months ago from t-mobile I managed to track down online how to pair it to my palm TX. The ongoing issue I was having the past 6 weeks was that it would still connect but it stopped passing data. I knew it wasn't my palm since my wife was having the same issue.
+:page-image: /images/undersea-cable-vietnam-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]
+
+When I first go my RAZR 3 months ago from t-mobile I managed to track down online how to pair it to my palm TX. The ongoing issue I was having the past 6 weeks was that it would still connect but it stopped passing data. I knew it wasn't my palm since my wife was having the same issue.
+
+I kept meaning to get to this but it was a low priority for the most part -- and the moments when it was a high priority I had no internet connection I could get on via another device to troubleshoot and fix it.
+
+Theoretically, the way I had done should have worked according to the documentation online. However, since this is a kind of niche use the documentation may not be up to date and some people may have already known the workaround.
+
+Since fighting this issue and making it a PITA to track down and troubleshoot I wanted to post the answer so some other hapless soul doesn't have to endure the pain of fixing it.
+
+I managed to get the following information from this site:
+
+So I enter the proxy server into my PDA's browser and it now works. As I said according to the next article for straight-through non-wap traffic this shouldn't be required -- so more work is possible getting the laptop to connect (haven't tried that either but will tonight….maybe).
+
+Another thing I'm going to track down since I can't host my own server is seeing if I can set up my PDA to use another proxy other than t-mobiles (curse Verizon for not allowing servers -- btw they balked at me because I wanted a business class DSL so I could host and I gave up after trying to explain it for 3 hours -- the loss of being able to VPN home is not worth the pain of enduring idiot questions like "why would you have a business class connection at a residential address".
+
+On a side note to show how much I use my cell phone for calls these days now that I'm no longer a consultant, my cell phone had been missing for a week. I had checked online and there was no unusual activity so I hadn't left it in public or had it stolen. So every now and again over the last week, I was tearing up cushions and putting them back -- only to repeat the routine a day or two later. Crawling on the floor to search the nooks and crannies of couches and cars. Finally last night out of the corner of my eye I saw it -- it had stayed hidden for a week under a receipt on the coffee table.
+
+AARRRGGGG Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

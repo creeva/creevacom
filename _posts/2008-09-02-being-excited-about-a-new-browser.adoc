@@ -1,0 +1,19 @@
+= Being Excited About a New Browser
+:page-layout: post
+:page-navtitle: Being Excited About a New Browser
+:page-categories: geekery
+:page-excerpt: It's been a long time since I've been excited about a new browser. Theoretically, I've never been excited about a new browser that was announced. I remember being excited when AOL resurrected Netscape -- but that turned into a flaming pile of poo and Netscape lost dominance being THE browser to use. Like many users at that time frame, I used Internet Explorer 5 and at the time it was best of breed, then a new challenger arose.
+:page-image: /images/logo.gif
+:imagesdir: /testsite/images
+
+image::/testsite/images/logo.gif[,role="text-center"]
+
+It's been a long time since I've been excited about a new browser. Theoretically, I've never been excited about a new browser that was announced. I remember being excited when link:http://aol.com[AOL] resurrected link:http://netscape.com[Netscape] -- but that turned into a flaming pile of poo and Netscape lost dominance being THE browser to use. Like many users at that time frame, I used Internet Explorer 5 and at the time it was best of breed, then a new challenger arose.
+
+The link:http://mozilla.org[Mozilla]Foundation announced they were taking the open-source bits of the Netscape browser and making a new slimmer browser called Firebird. Because of issues of legal and copyright, Firebird was renamed to link:http://firefox.com[Firefox]. I've been using this browser since Firebird and I have had no reason to move to a different primary browser. I've tried link:http://flock.com[Flock] and link:http://www.apple.com/safari/[Safari], there hasn't been a sticky reason to keep using those over Firefox. I was excited, kind of, about the release of Firefox version 3. But that wasn't a new and different browser, it was more of the same.
+
+With last night's announcement of link:http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html[Google's New Chrome Browser], they put up a nice link:http://www.google.com/googlebooks/chrome/[little]webcomic that explains the features it offers. The security, privacy, and performance enhancements alone make this a must-watch for browsers. When it is actually released later today, we'll see how I feel then.
+
+*UPDATE:*
+
+Found link:http://blogoscoped.com/archive/2008-09-02-n72.html[a site that has some Chrome screenshots] you may enjoy. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

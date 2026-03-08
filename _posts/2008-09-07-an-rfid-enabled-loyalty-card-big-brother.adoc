@@ -1,0 +1,19 @@
+= An RFID Enabled Loyalty Card -- Big Brother
+:page-layout: post
+:page-navtitle: An RFID Enabled Loyalty Card -- Big Brother
+:page-categories: geekery
+:page-excerpt: First of all this is just a thought on where things are headed. As far as I know for the moment none of the loyalty cards I use have an RFID chip embedded in them. I did sit and imagined what the stores could do with this information. Currently, the stores do take your loyalty card information and track what you purchase, give you targeted coupons, and create specials in towns to raise sales on certain objects within those towns. We all like these cards, we all like to save a buck. There are whole websites devoted to getting the most out of your income using loyalty cards. What about when they take it to the next level?
+:page-image: /images/15413771_c41b005091_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/15413771_c41b005091_m.jpg[,role="text-center"]
+
+Picture from link:http://www.flickr.com/photos/ecyrd/15413771/[here]
+
+First of all this is just a thought on where things are headed. As far as I know for the moment none of the loyalty cards I use have an RFID chip embedded in them. I did sit and imagined what the stores could do with this information. Currently, the stores do take your loyalty card information and track what you purchase, give you targeted coupons, and create specials in towns to raise sales on certain objects within those towns. We all like these cards, we all like to save a buck. There are whole websites devoted to getting the most out of your income using loyalty cards. What about when they take it to the next level?
+
+Currently, companies (such as Walmart) have been deploying RFID chips into their items to control shrinkage, allow better inventory control, and reduce stocking fees. In the future, I'm sure that there will be RFID sensors on every store shelf to allow quick notice when something needs to be restocked. Only 2 canned peaches left on the shelf, send out a stock boy to aisle 4. Doritos are being sold at a rate of 6 per 15-minute interval -- under current conditions they will need restocking in 38 minutes. This kind of technology is possible and when the price drops it will become practical.
+
+So a store as RFID trackers throughout the whole store how else could they leverage these to increase profit margins? Why track the customers of course? Knowing what you don't pick up, but stop and consider, could be invaluable. Do you always stop and look at the same item and pass it up? Do you buy it 10% of the time? What price point do you commit to the item versus passing it up? Currently, they map optimum routes through the store and place sale items accordingly. What if certain shoppers take non-optimum routes? What items can we target to them? What if this is you? How much money are you willing to save by giving up the ability for corporations to intimately track you.
+
+This is just something I was thinking about and thought I would share. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

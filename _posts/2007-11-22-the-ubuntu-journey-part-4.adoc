@@ -1,0 +1,11 @@
+= The Ubuntu Journey -- Part 4
+:page-layout: post
+:page-navtitle: The Ubuntu Journey -- Part 4
+:page-categories: geekery
+:page-excerpt: I'm still happily enjoying Ubuntu. For an update -- the webcam is working in the new Skype beta. My scanner is working but I have to sudo the scanning application to root for it to work. The only lingering issue is that the microphone is not working -- the irony since I have the webcam working in Skype. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+I'm still happily enjoying Ubuntu. For an update -- the webcam is working in the new Skype beta. My scanner is working but I have to sudo the scanning application to root for it to work. The only lingering issue is that the microphone is not working -- the irony since I have the webcam working in Skype. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

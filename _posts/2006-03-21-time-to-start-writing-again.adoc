@@ -1,0 +1,13 @@
+= Time To Start Writing Again
+:page-layout: post
+:page-navtitle: Time To Start Writing Again
+:page-categories: stories
+:page-excerpt: Below I wrote the first part of the Creeva Murkado diaries -- outlining the early days of the being that became Creeva Murkado and a part of myself thrown in. The early days of SWG seem fresh in my mind, I would have down some of the early plot differently but due to some writing I did before I kind of painted myself into a corner. I should be free of that plot line soon and get to explore my writing talent more freely and hopefully give those from Intrepid a found memory back at once was and why we were all great. At the very least I get to write. This was always important for me, and some people are still pushing me to write (you know who you are).
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+Below I wrote the first part of the Creeva Murkado diaries -- outlining the early days of the being that became Creeva Murkado and a part of myself thrown in. The early days of SWG seem fresh in my mind, I would have down some of the early plot differently but due to some writing I did before I kind of painted myself into a corner. I should be free of that plot line soon and get to explore my writing talent more freely and hopefully give those from Intrepid a found memory back at once was and why we were all great. At the very least I get to write. This was always important for me, and some people are still pushing me to write (you know who you are).
+
+Hopefully writing something that I find somewhat interesting will get me back to that spot where I too can write the great American novel. I'm going to try to write a new part of the Creeva Murkado diaries every week. Will it work out? I'm not sure. I do know I'm going to try to start putting some more of obscure thoughts on this page, maybe in hopes that someday someone will read them. Maybe just for myself and I can look at them in the future and see where I've come from. It doesn't really matter. Like that person told me it just matters that I write and enjoy it. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

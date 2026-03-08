@@ -1,0 +1,35 @@
+= Running Windows Programs Via Alexa
+:page-layout: post
+:page-navtitle: Running Windows Programs Via Alexa
+:page-categories: geekery
+:page-excerpt: Like half of America, I made a purchase yesterday that threw me into the Amazon ecosystem. Tomorrow I'll be the proud owner of a couple of Amazon Echo devices. One thing that really interested me was the ability to extend the system. With Siri, I managed to a raspberry pi and control my lights via voice, but the further extension was doable -- but painful. I wasn't positive about what I was going to do with it at first beyond the simple things. So, like any good geek, I started to research.
+:page-image: /images/61aNSE-F9L._SL1000_-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/61aNSE-F9L._SL1000_-1.jpg[,role="text-center"]
+
+Like half of America, I made a purchase yesterday that threw me into the Amazon ecosystem. Tomorrow I'll be the proud owner of a couple of Amazon Echo devices. One thing that really interested me was the ability to extend the system. With Siri, I managed to a raspberry pi and control my lights via voice, but the further extension was doable -- but painful. I wasn't positive about what I was going to do with it at first beyond the simple things. So, like any good geek, I started to research.
+
+Since there is an Alexa App built into the Amazon IOS app, I started playing around with a few things. The one thing I can say I'm disappointed with is that I need to allow internet access to my plex server if I wanted to control that. That scenario is out. So at present time streaming easily from iTunes. However, I did get my lights working and controlled via voice. There was a bit of trial and error since I'm new to the setup, but first-timers without having done things many different ways, shouldn't have any issues.
+
+This leads up to my love of ifttt and the fact that I still run tons of desktop utilities. Since many utilities run on remote servers, I normally log in remotely and trigger them manually. I thought it would be great to get a couple of these working with Alexa. However, there seem to be many options to do this. Many are convoluted so, while mine is simple to me, it may not be the best for you.
+
+To start with you need an Alexa device (mine was my iPhone) and have it connected to link:https://ifttt.com/[Ifttt](If This Then That). The next thing you need is a dropbox account (or any other cloud storage provider supported by Ifttt). So what I did was create a new ifttt applet that runs when I tell Alexa "trigger network backup". This applet creates a file in dropbox called runme.txt. I created a scheduled task that runs a vbs script. This script is solely so I can run a batch file silently. You can run the batch file directly -- but you will get the annoying cmd pop-up.
+
+The batch file that is called by the scheduled task as follows:
+
+[quote]
+____
+@echo off
+del c:\scripts\ifttt\ifttt.bat
+type c:\users\me\dropbox\ifttt\runme.txt >c:\scripts\ifttt\ifttt.bat
+del c:\users\me\dropbox\ifttt\runme.txt
+c:\scripts\ifttt\ifttt.bat
+del c:\scripts\ifttt\ifttt.bat
+____
+
+In case of reboots or hangs I have the running batch file deleted. This runs as a scheduled task that kicks off every 5 minutes. So my commands are delayed, but it required the bare minimum of system resources and auxiliary software. I may change to a more instant method in the future.
+
+When I set up a specific trigger on Ifttt the contents of runme.txt have the path to the batch file I want to run. So if I say "trigger network backup", ifttt looks at the applet, it then makes the runme.txt file with the contents being c:\scripts\backup.bat. When this runs it kicks off a robocopy job that mirrors my servers. I can also make a trigger back that alerts me when a job is done.
+
+As I create more scripts or logic to run I can do this for many other tasks in the future. I'll be able to trigger jobs on different systems by changing a different machine to watch for runme2.txt, runme3.txt, etc. It's simple and efficient. Now, if only I could rename the wake word of the echo to Jane… Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

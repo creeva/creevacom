@@ -1,0 +1,15 @@
+= Google Calendar Feature Needed
+:page-layout: post
+:page-navtitle: Google Calendar Feature Needed
+:page-categories: geekery
+:page-excerpt: I have the tumble blog and that's great. I have a superglu site, but that's slowly getting replaced by the tumble blog. What I still want is an easy simple way to archive my personal RSS feeds (Not normal news ala Digg -- but to each their own) and look at them at a quick glance.
+:page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]
+
+I have the tumble blog and that's great. I have a link:https://creeva.com/[superglu] site, but that's slowly getting replaced by the tumble blog. What I still want is an easy simple way to archive my personal RSS feeds (Not normal news ala Digg -- but to each their own) and look at them at a quick glance.
+
+I was thinking and decided link:http://calendar.google.com/[google calendar] would be perfect for this especially since I only barely use my calendar. Having it auto-schedule in past events of what I digged on a certain day or what songs link:http://www.last.fm/user/creeva[I listened to]. Having these in a calendar format that is easily accessible from anywhere and that I can use as a reference would be a godsend to me.
+
+So please Google -- allow us a way to import RSS feeds into Google Calendar. I beg of you. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

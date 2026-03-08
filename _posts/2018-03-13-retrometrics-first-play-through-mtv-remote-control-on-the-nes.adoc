@@ -1,0 +1,26 @@
+= Retrometrics First Play Through -- MTV Remote Control On The NES
+:page-layout: post
+:page-navtitle: Retrometrics First Play Through -- MTV Remote Control On The NES
+:page-categories: video-games
+:page-excerpt: This week I thought I would do something different. I would take a game I've never played before and do a first play-through. This is going to be an ongoing series going forward. The rules are that I can't remember ever playing the game before. The videos will end when a few different things occur, 30 minutes have passed while playing, I have hit a Game Over Screen, or I beat the game (which will likely be very few). With a few of the games I've played in the past -- expect some very short videos.  I'll be doing some mainstream games, and like this week's, some esoteric ones.
+:imagesdir: /testsite/images
+
+This week I thought I would do something different. I would take a game I've never played before and do a first play-through. This is going to be an ongoing series going forward. The rules are that I can't remember ever playing the game before. The videos will end when a few different things occur, 30 minutes have passed while playing, I have hit a Game Over Screen, or I beat the game (which will likely be very few). With a few of the games I've played in the past -- expect some very short videos.  I'll be doing some mainstream games, and like this week's, some esoteric ones.
+
+This week I did _MTV Remote Control_ on the NES. If I have played this game before, I have no memory of it. It isn't something I would have picked up as a rental back when that was a thing. This video doesn't include commentary, but that will likely change in future videos.
+
+MTV had a trivia show unapologetically catering to the couch potato generation called _Remote Control_.  The trivia was almost always about TV, and it was hosted by Colin Quinn and Adam Sandler.   Funny enough I didn't watch this show when it actually was on the air.   I was pretty big in _Jeopardy_, but this was just lighter content that didn't grab me.
+
+This game was programmed by Hi-Tek who also did the _Jeopardy_ games for the NES if I remember correctly. Since you have the same three-person head-to-head structure, I'm sure it used quite a bit of the same backend between the two games. It was likely very trivial to make the questions relevant and change the backgrounds.
+
+There are a few things that annoyed me about the game. The first is that you can't change your name. Personally, I was annoyed that I was called Freddy during the whole game. Since there isn't a choice, what can you do? I seem to remember in Jeopardy being able to change your name and choose different avatars. So at the very least, this is a step backward from that. Maybe they thought that the slackers weren't going to bother to change it anyways.
+
+The next thing that annoyed me was the second player. He just reminded me of a mashup of George Takei and Archie Andrews. With the few questions he answered, I kept expecting him to go "Oh My" in an NES digitized speech kind of way. He never did.
+
+Finally, the game is too easy. I say that because I'm from the generation these questions were meant to target. I will bet millennials would struggle since most of the shows referenced in the question aren't in their syndication or binge-watching queue. For someone who grew up back then though -- almost all would have been simplistic. I did do horribly in the MASH category, but then again I wasn't big into that show. I have a little brother (who is a millennial) that would have rocked at least those three questions.
+
+If you were playing with friends (of the appropriate age) it would be more of a matter of who could click the buttons the fastest. As you can see in the video the computer is never fast and drags along before making its choice. It actually would have been difficult to allow the computer to win.
+
+If this is something you missed, I wouldn't recommend playing it. The exception would be a drunken evening with friends on who knows the most about pre-1990 obscure TV shows. Then at least you could have 20-60 minutes of fun before the boredom sets in. If you aren't at least in your mid-thirties, you will likely need Wikipedia to help you out. Then again, if you look up all the answers, are you really beating the game?
+
+Since I've now beaten this game I doubt I'll ever revisit it. I could play it until I managed to get a shutout on the computer -- but that is maybe one or two more play-throughs. As it was I thought it dragged on for what I did play. It's an ok trivia game (for its time) but I'll just mark this first play-through as a win and move on to something else.

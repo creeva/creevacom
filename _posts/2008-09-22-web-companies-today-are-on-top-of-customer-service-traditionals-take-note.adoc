@@ -1,0 +1,17 @@
+= Web Companies Today Are On Top Of Customer Service -- Traditionals Take Note
+:page-layout: post
+:page-navtitle: Web Companies Today Are On Top Of Customer Service -- Traditionals Take Note
+:page-categories: geekery
+:page-excerpt: Because of my article about removing certain feeds from my lifestream, it prompted an e-mail from Iminta. I just received an email back from Iminta saying " I just wanted to know if there was anything that we (Iminta.com) could do to make the service more useful for you?". I replied back that the point of the article wasn't them, it was me. I couldn't handle all the RSS feeds from my uber producers. I think Iminta is a great service. They thought their might be issue and contacted me quickly.
+:page-image: /images/143179018_50f76efa0c_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/143179018_50f76efa0c_m.jpg[,role="text-center"]
+
+Image from link:http://www.flickr.com/photos/striatic/143179018/[here]
+
+Because of my article about removing certain feeds from my lifestream, it prompted an e-mail from link:http://iminta.com[Iminta]. I just received an email back from Iminta saying " I just wanted to know if there was anything that we (Iminta.com) could do to make the service more useful for you?". I replied back that the point of the article wasn't them, it was me. I couldn't handle all the RSS feeds from my uber producers. I think Iminta is a great service. They thought their might be issue and contacted me quickly.
+
+I've had the same experience with Plaxo, link:http://sezwho.com[Sezwho], and link:http://lijit.com[Lijit]. They are on top of their game searching blog posts or posts on their own sites and reaching out to their users. While I'm at it I'll shout out to David Cramer and his Lifestream Plugin, when I have an issue I let me know and he's put up with me and all of his other users over the issues we may or may not have.
+
+If more traditional companies had the outreach and proactive customer service that these companies did I couldn't even manage how much better the world would be. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

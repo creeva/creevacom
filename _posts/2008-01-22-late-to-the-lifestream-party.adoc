@@ -1,0 +1,42 @@
+= Late to the Lifestream Party?
+:page-layout: post
+:page-navtitle: Late to the Lifestream Party?
+:page-categories: geekery
+:page-excerpt: Never -- it's still too early to be late.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+Never -- it's still too early to be late.
+
+It seems my article on life caching struck a chord with someone. I'm glad someone at least shares my understanding of this need. He is just starting to search and find his lifestreaming needs and tools, and this really is the best time to start.
+
+I left him this comment on his site (though his comment system mangled my formatting and I've fixed it here):
+
+[quote]
+____
+I'm glad you enjoyed my article -- I have a few follow-ups to that article that I need to pound out -- such as different ways of actually caching the data. I can say reading a couple of your earlier that you are not late to the life streaming party. 
+While I agree life streaming is useful, important, and mostly neat. Life caching is the evolutionary transition that will need to occur as the data portability movement takes place. Tools unfortunately to do any type of life caching are terrible at this time. I have some wordpress plugins that I 'm cutting my PHP learning teeth on that have lots of bugs that I need to streamline -- if the object of most of these plugins came from the lifestreaming design instead of spam blog design (repurposing RSS feeds can go both ways) then this small faction of belief in saving our own data can grow. 
+Dang -- sometimes I'm just too long winded. 
+P.S. Lifestreaming is becoming a verb maybe in a few more years it will be up there with w00t and in the dictionary.
+____
+
+On another one of his posts, I left this comment:
+
+[quote]
+____
+I'll give you the fact that your earlier thoughts on life streaming is correct -- it is too much information.
+That being said -- you need to look at who this is for. Most people don't care about everything I do and I've pruned my RSS feeds that I give to the public down so they only get the useful information.
+I archive and save this data for myself -- and like the pictures people take of their children growing up, there is never a thing as too much information.
+It may be too much information at this point in time -- but when personal data mining takes place in a few years as the next hot trend -- and archive of this data will be very useful to find trends of different points of your life that you may otherwise forget (or wished you would have forgotten but google reminds everyone anyways).
+____
+
+Over at the llink:http://lifestreamblog.com[ifestream blog] the author linked to this original article link:http://lifestreamblog.com/lifestream-posts-pages-for-january-15th-2008/[from here] -- but while sees usefulness in life caching still believes in the importance of lifestreaming. I don't think you can truly do one without the other, but with this newer concept catching on there is no good way to do it yet. I left him this comment:
+
+[quote]
+____
+We can agree to disagree on the importance of life caching -- but without accurate and long term archiving of data (life caching) -- the lifestream setups most people currently will only be fleeting since most use RSS feeds in a transitional phase of their life stream. As the RSS feed items expire they are removed from the lifestream. Even sites like dandelife.com that does the best job of storing data for a lifestream only keeps transitional data from the auxiliary streams and eventually it expires.
+____
+
+I really hope the industry catches up with this idea -- I'll get at least one more of those promised life caching articles out this week. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

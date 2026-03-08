@@ -1,0 +1,19 @@
+= The Chinese Are Building an Unhackable Quantum Network -- And That's Awesome!
+:page-layout: post
+:page-navtitle: The Chinese Are Building an Unhackable Quantum Network -- And That's Awesome!
+:page-categories: geekery
+:page-excerpt: Earlier today I received an email from a public relations person that I work with. The only text was "Scary" and this was the Hyperlink --
+:page-image: /images/file0001628037487-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/file0001628037487-1.jpg[,role="text-center"]
+
+Earlier today I received an email from a public relations person that I work with. The only text was "Scary" and this was the Hyperlink --
+
+I clicked through and read the article and my first thought wasn't that this was scary, I thought it was awesome. The only scary part is that it will be harder to for us from strategic defense to hack the Chinese networks, but should we be upset they aren't making it easy on us? What is truly interesting is this will be the first widespread adoption of secure network communications. The more people use something, the cheaper it becomes. The cheaper a security product becomes, the more likely it hits the mainstream.
+
+I first read about quantum networking about a decade ago when all of my work revolved around firewalls. My concern at that time was how enterprise firewalls could interact with packets on a quantum network. I never received an answer. I'm still not sure how we can logically have a firewall that can work in a quantum network world. I did however find it fascinating.
+
+For those that don't understand, if you try to change the packet to get the encryption key -- you have made the detection detectable since the packet has been modified at the quantum level. At this point, the encryption is destroyed and the network path is no longer encrypted. All communication must then be re-initiated -- with a new key.
+
+The downside is that you can't implement it on the public internet today. You need specialized equipment on each end and in between the clients. Essentially what China is doing is being a secure interconnection between valuable targets. This is the same as SSL and a VPN without the vulnerabilities that each of these technologies shares. However, once a computer starts talking to machines outside of the secure channel -- they are as vulnerable as any other system today. Only the specific communication is unhackable. I'm really looking for this technology to come out to be mainstream so I can play with it at home. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

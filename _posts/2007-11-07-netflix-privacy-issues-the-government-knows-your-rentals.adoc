@@ -1,0 +1,17 @@
+= Netflix privacy issues -- The Government Knows Your Rentals
+:page-layout: post
+:page-navtitle: Netflix privacy issues -- The Government Knows Your Rentals
+:page-categories: geekery
+:page-excerpt: My earlier post about Palantir Technologies' intelligence sorting tool brought up that they used Netflix's data as part of their dataset analysis. Further research shows that Netflix routinely releases their full dataset with the user's private information scrubbed. So for a brief minute here Netflix is in the clear. This goes on further though from issues that have been discovered about this. Netflix didn't stay clear very long.
+:page-image: /images/justice_icon-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/justice_icon-1.png[,role="text-center"]
+
+My earlier post about Palantir Technologies' intelligence sorting tool brought up that they used Netflix's data as part of their dataset analysis. Further research shows that link:http://www.netflixprize.com/[Netflix routinely releases their full dataset] with the user's private information scrubbed. So for a brief minute here Netflix is in the clear. This goes on further though from issues that have been discovered about this. Netflix didn't stay clear very long.
+
+Arvind Narayanan and Vitaly Shmatikov from The University of Texas at Austin on November 11, 2006, released a paper on how to break the anonymity of the Netflix dataset. This information is aggregated and the method is quite complex. There is however the fact that this data can be found and linked back to you with the correct tools. Palantir releases tools for the intelligence community and having tested it I have no confirmation but since it's public data at this point has no reason not to include it in the sample data set they give to customers.
+
+Before I go further I would like to say I don't think Palantir has done anything wrong. The problem is that Netflix has released this data to the public even after they learned that anonymity can be broken. With Palantir's strengths, there is very little effort to link these rentals to you in your private records. Now I will be the first to dismiss government paranoia but in this case with such little effort would the intelligence community really pass up this information? Data by itself is meaningless, but data in aggregate can be very powerful.
+
+If you are concerned with the government or anyone else tracking your rental history I would suggest leaving Netflix as soon as possible. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

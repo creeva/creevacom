@@ -1,0 +1,13 @@
+= Cedar Point Memories -- Goodbye Disaster Transport and Space Spiral
+:page-layout: post
+:page-navtitle: Cedar Point Memories -- Goodbye Disaster Transport and Space Spiral
+:page-categories: stories
+:page-excerpt: I previously wrote my pieces on Disaster Transport and the Space Spiral. Please read those articles if you want a little more perspective on my feelings. Since today is the last day the rides are operational, I thought I would give them one last farewell into the night. If you didn't get your chance to ride them yet, you will never have another.
+:page-image: /images/cedarpoint.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/cedarpoint.jpg[,role="text-center"]
+
+I previously wrote my pieces on Disaster Transport and the Space Spiral. Please read those articles if you want a little more perspective on my feelings. Since today is the last day the rides are operational, I thought I would give them one last farewell into the night. If you didn't get your chance to ride them yet, you will never have another.
+
+I can say that few people are speaking for the Space Spiral. It was a ride that you took when you had a chance, but very few of us held it as I must ride it now ride. Both of the rides are older and I'm sure the maintenance costs are not worth it for rides that in themselves bring few people to the park. That doesn't mean that we all don't have fond memories of them. In my mind, both rides will remain one of the parts of growing up and living at Cedar Point.

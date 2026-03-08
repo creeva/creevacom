@@ -1,0 +1,23 @@
+= The Ubuntu Journey -- Part 1
+:page-layout: post
+:page-navtitle: The Ubuntu Journey -- Part 1
+:page-categories: geekery
+:page-excerpt: Today I've decided I'm moving to Ubuntu Linux on my primary computer, my laptop. The journey is fraught with challenges in the sense of getting my NIC and sound card to work. I highly doubt my built-in web cam is going to work though. I am however determined.
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+Today I've decided I'm moving to Ubuntu Linux on my primary computer, my laptop. The journey is fraught with challenges in the sense of getting my NIC and sound card to work. I highly doubt my built-in web cam is going to work though. I am however determined.
+
+I was originally going to migrate my laptop to be a Hackintosh -- and OSX non-apple PC hybrid. I thought though if I was going to migrate off of the windows platform I should move off to the free world. Later I will eventually get a mac book pro -- but I'll do it the right way. If I can migrate from vista to Linux I can move to OSX later with ease.
+
+Currently, while I'm typing this I am downloading the Ubuntu 64-bit torrent and ghosting fully backing up my laptop so I can do a system restore if things don't pan out.
+
+It seems that most of what I want to do these days is online anyways, but the few things that I use that need windows, like Star Wars Galaxies or World of Warcraft, can both run under WINE. Most of my excuses for not switching are no longer valid and as long as I can get a functional laptop out of this -- this includes wireless and sound -- I think I'll be a true convert.
+
+I'll be blogging about the challenges and trials -- I do know that choosing Ubuntu's newest release and going 64-bit will bring about its own issues, but I need to face them at some point. Choosing to do it the hard way and hopefully succeeding will steel my determination to keep it as a Linux laptop.
+
+I did do a few considerations in choosing my platform of migration. I did almost for FreeBSD -- but someone made the point that it's already hard enough to find Linux software sometimes and FreeBSD software would be a nightmare if I needed something specific.
+
+All of you can wish me luck. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

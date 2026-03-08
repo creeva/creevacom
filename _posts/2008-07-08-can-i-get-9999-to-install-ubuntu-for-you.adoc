@@ -1,0 +1,19 @@
+= Can I get 99.99 To Install Ubuntu For You?
+:page-layout: post
+:page-navtitle: Can I get 99.99 To Install Ubuntu For You?
+:page-categories: geekery
+:page-excerpt: I was reading my Digg RSS feed and this strange story popped up, Best Buy Sells Ubuntu for Only $ 19.99 USD. Now normally getting on retail shelves would be a good thing. This however is a disservice to most users since Ubuntucan be freely downloaded from theirwebsite. Now you would think this is where it ends, but not quite.
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+I was reading my link:http://www.digg.com[Digg] RSS feed and this strange story popped up, Best Buy Sells Ubuntu for Only $ 19.99 USD. Now normally getting on retail shelves would be a good thing. This however is a disservice to most users since link:http://ubuntu.com[Ubuntu]can be freely downloaded from link:http://ubuntu.com[their]website. Now you would think this is where it ends, but not quite.
+
+For an extra 16.99, I can get next-day shipping, I didn't find out how much an extended warranty was though (I had friends that purchased extended warranties on every CD they bought). The kicker is you can get someone from the Best Buy geek squad to install it for you for 129.99. Now I'm offering to do it for 99.99 -- a savings of 30.00. It will be even greater savings since I won't charge you for the software (don't tell anyone).
+
+Heck, I'll even install Open Office for an extra 5.00.
+
+Yes, I'm joking -- but if you really want me to I will happily take the cash and do the work for you.
+
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

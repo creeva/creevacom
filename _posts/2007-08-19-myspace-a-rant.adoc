@@ -1,0 +1,21 @@
+= Myspace -- A Rant
+:page-layout: post
+:page-navtitle: Myspace -- A Rant
+:page-categories: stories
+:page-excerpt: I don't get MySpace addiction among so many people. I logged in tonight and hunted down some old friends to add, but this is a once-in-a-great-while occasion. I usually avoid MySpace like the plague unless I get a message that someone left a comment, friend request (usually spam using the same profile different pic), or mail.
+:page-image: /images/calligraphy-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
+
+I don't get MySpace addiction among so many people. I logged in tonight and hunted down some old friends to add, but this is a once-in-a-great-while occasion. I usually avoid MySpace like the plague unless I get a message that someone left a comment, friend request (usually spam using the same profile different pic), or mail.
+
+I don't know why with all the crappy errors you get moving around your own home page behind the scenes (mail, comments, etc) where a random HTML error pops up. The site for the most part (displaying to the user section) is so simple I have to go with the fact that it must be their scalability.
+
+Of course, the last thing I hate about MySpace is that everyone's profile (mine included since you can't really do too much with it) looks like bad web pages from 1994. I have to browse MySpace with my speakers muted since I have never been able to stand music embedded in a web page. I guess you can blame that on too many people putting midi in their web pages back in the mid-'90s.
+
+I have been an Internet user for almost 13 years now -- and MySpace has been the biggest decline for the most part in aesthetic design since the lynx stopped being the dominant web browser.
+
+I can sum most of it up in five words:
+
+I just don't get it. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

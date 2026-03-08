@@ -1,0 +1,17 @@
+= Upgrading to Hardy Heron
+:page-layout: post
+:page-navtitle: Upgrading to Hardy Heron
+:page-categories: geekery
+:page-excerpt: So for about the last 2-3 weeks, the sound card on my laptop stopped working. I tried to trace down the path of how I managed to get it working in the first place, but it was a convoluted path and I don't seem to be able to retrace my steps. So failing this I decided to upgrade my Gutsy Gibbon AMD64 version of Ubuntu to Hardy Heron. I didn't know it was as simple as running "update-manager -d" at the terminal window.
+:page-image: /images/ubuntu-logo32.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/ubuntu-logo32.png[,role="text-center"]
+
+So for about the last 2-3 weeks, the sound card on my laptop stopped working. I tried to trace down the path of how I managed to get it working in the first place, but it was a convoluted path and I don't seem to be able to retrace my steps. So failing this I decided to upgrade my Gutsy Gibbon AMD64 version of Ubuntu to Hardy Heron. I didn't know it was as simple as running "update-manager -d" at the terminal window.
+
+When you run this command it brings up the normal package updater but states that there is a new version you can get -- also giving the name and the version = Hardy Heron 8.04. After this choice, it then checks for compatibility issues with programs (including some it recommends being disabled on reboot) it also tells me that it dropped support for Nessus. Personally, I find the latter annoying but I'll live.
+
+Currently, I'm waiting another hour and a half for all the files to download (1235 to be exact). I'll post how it went after it is done.
+
+link:http://arstechnica.com/news.ars/post/20080202-first-look-ubuntu-8-04-hardy-heron-alpha-4.html[Until then here is an Ars Technica article about Hardy Heron] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

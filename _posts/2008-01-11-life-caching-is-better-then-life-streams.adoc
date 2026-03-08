@@ -1,0 +1,103 @@
+= Life Caching  is better then Life Streams
+:page-layout: post
+:page-navtitle: Life Caching  is better then Life Streams
+:page-categories: geekery
+:page-excerpt: Life caching is setting up sites that you have complete control over to save data from sites over which you only have varied levels of control. Getting all of your metadata in one place. Saving each detail of data in its place so it's saved, used, and recyclable. Life caching is the next stage as the Data Portability Group moves forward. This is not the goal of the Data Portability Group -- it is just what their goal enables you to do. The work, however, is burdened on to you and I can say there is no easy way to do this and some data leakage and loss will always slip through the cracks, at least at this stage of the game.
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+*Life Caching:*
+
+Life caching is setting up sites that you have complete control over to save data from sites over which you only have varied levels of control. Getting all of your metadata in one place. Saving each detail of data in its place so it's saved, used, and recyclable. Life caching is the next stage as the link:http://www.dataportability.org/[Data Portability Group] moves forward. This is not the goal of the Data Portability Group -- it is just what their goal enables you to do. The work, however, is burdened on to you and I can say there is no easy way to do this and some data leakage and loss will always slip through the cracks, at least at this stage of the game.
+
+*Isn't this what Life Streaming Accomplishes? How is Life Caching different?*
+
+link:http://lifestreamblog.com/[Life Streaming] is the step before life caching. While the concepts share a lot of overlapping the simplest scenario is that a life stream is a picture in time that does not save your data. A life stream is ephemeral and actual current implementations are very fragile. I have a life stream here. RSS feeds expire so data is lost, companies go out of business so the links it points to is gone, or data just gets missed. But to truly get a better picture of life streaming here is what the link:http://lifestreamblog.com/[life streaming blog] says about it:
+
+[quote]
+____
+What is a Lifestream? In it's simplest form it's a chronological aggregated view of your life activities both online and offline. It is only limited by the content and sources that you use to define it. Mine is available here. Most people that create them choose a few sources based on sites that track our activities such as Del.icio.us (bookmarking), Last.fm (Music we listen to), Flickr (photos we take) etc…Then you can either find software to host your own, or find sites that provide a platform for you.
+Many people have been writing about Lifestreams and the potential value they offer for ourselves and others. Some of those people are Jeff Croft, Jeremy Keith, and Emily Chang. It appears to be a concept that is gaining quite a bit of steam.
+I was inspired to create a blog for the Lifestream concept after doing a little research which I wrote about on my blog. Most of the information I found was pretty scattered and there wasn't a central repository of resources so I thought I should create one. I feel that beyond the self expression of allowing people to track their actions in a passive manner there will be many more exciting technologies that will surface from the backend data aggregation that can occur from people supplying this information.
+____
+
+The rub is that 99% of life streams only save the links of the RSS feeds and do not save the actual data. This is inefficient in design because like I said before data get lost for various reasons. Life caching however has the prime goal of saving that individual data for your use and your manipulation. This gives you the freedom to do what you want. Take your data anywhere and everywhere, do with it what you will.
+
+*How is this different from the Data Portability Group?*
+
+image::/testsite/images/logo.png[,role="text-center"]
+
+In some aspects, like the concepts of lifestreaming, life caching shares a few steps in common with the Data Portability Group. What the link:http://www.dataportability.org/[Data Portability Group] means to give are methods and standards that give you tools to do with your data what you will. However, this doesn't actually mean you will do anything with it or that there will be a standard out-of-the-box configuration for you. The responsibility is on you to act and use these tools that will hopefully emerge.
+
+The Data Portability Group is key for this going forward and allows you to withdraw your data from the sites that were previously walled gardens. After the garden gates are finally thrown open you have the freedom to do with the data what you will. Please put this power to good use.
+
+*Why Do I care?*
+
+You should care because this is about you. It is who you are. It does not specifically define you in any way and most people would understand that it's a complete picture of you. There are however aspects of you that you may want to share at a later date. The stories your grandmother told you will get fuzzier over time. Hopefully, the idea of life caching which is still in its infancy will lead to life story archives that the generations after us can learn from. Our grandkids will be able to mine the data and read the stories you want to pass on.
+
+Will those after you care that you listened to Fallout Boy on June 7th, 2008? Maybe not, but maybe your grandkids will discover similar music tastes to you. It will give them an understanding of who you are. It will also give them ways to identify with you in a way that you could never identify with the pilgrims that came across on the mayflower.
+
+*What do I save?*
+
+The ideal answer is everything. I would say between the RSS streams I save and the email I collect I am almost up to 90% efficiency at collecting my personal data online.
+
+To give you an example:
+
+* I save everything I link:http://www.digg.com[dig].
+* I write places I go and stories about them in link:http://www.43places.com[43 places]
+* I write about things I've done at 43 things
+* I save stories about people I've met at link:http://43places.com[43 people]
+* I save all the music I listen to that can be tracked with link:http://last.fm[last.fm]
+* I track all books I read and movies I watch with link:http://www.allconsuming.net[allconsuming]
+* I save comments I make with cocomments
+* I save when and what pictures I've uploaded to link:http://www.flickr.com[Flickr], link:http://www.photobucket.com[Photobucket], and link:http://picasaweb.google.com/[Picasa]
+* I save collections of data that I find meaning full with link:http://www.listsofbests.com/[lists of best]
+* I save the bookmarks I make in link:http://del.icio.us[del.icio.us]
+* I save the stories I've link:http://www.stumbleupon.com[stumbled upon]
+* I save the things I've shared in google reader
+* I save my link:http://www.newsvine.com[newsvine] articles
+* I save my pownces and my link:http://www.twitter.com[tweets]
+* I save the stories I liked at link:http://www.reddit.com[reddit]
+* I save the videos I liked an/or uploaded them to link:http://www.youtube.com[youtube]
+
+This may seem like a lot of data. It is, but it's also what we deal with in a normal consuming internet fashion. I don't use the tools that save which applications I'm running and I'm looking for something like last.fm for movies so it's more automatic -- but that will come in time.
+
+Via e-mail I save my phone calls, my bills, banking history- all this can be stored offline and databased in the home. Your own personal Google for yourself should be the end goal of life caching.
+
+*Doesn't this make it easier for companies to mine data about me?*
+
+Yes, the link:http://www.google.com[google monster] is omnipotent. Anything you share online can be snagged up and archived away by google. Is this a good thing? Maybe or maybe not. There is no reason you would need to make most of this data public. You could set up to store this data in email archives, private data sites, or personal home encrypted databases. Life caching is not about displaying your life. It's about having control over it and saving it for a future date.
+
+As the Data Portability Group expands they hope to implement permission controls for the data. This will help prevent data mining to some extent. The only true answer is that if there are things that you don't want anyone to know about do not place them anywhere that is publicly accessible or in the hands of any company or person other than yourself.
+
+*How do I store and back up the data?*
+
+There are many ways. I use link:http://www.wordpress.org[WordPress] with a variety of plugins to maintain all my data on the site. I also use quite a bit of link:http://www.feedburner.com[feedburner] kung-fu and link:http://www.gmail.com[gmail] filters. The key thing is that I can extract this data into other formats from just those two methods. I could dump it into a personal database or wiki. The tools are only at the beginning of stages to make this useful for you. It is easier to back it up before you lose it than to want it after it is gone.
+
+*What Can't I backup?*
+
+In an ideal world, there is nothing that you can't back up. We don't however live in an ideal world. Mostly the limitations deal with which sites give you some form of access to your data. Some don't allow you to take a friend list with you. Other sites don't allow you to get posts out unless you implement site scraping which could break the terms of service you agreed to.
+
+The limitation is in the tools and the agreements and the Data Portability Group is helping lead the future in developments that will allow you greater access to your own data.
+
+*How do you share with your friends?*
+
+Beyond having a public blog that your friends may or may not visit there are multiple ways. I have two major RSS feeds coming out of my website. The public RSS feed gives everyone a filtered feed of my posts. This way they don't get spammed with every song I listen to on last.fm or every single story I Digg when it happens. This RSS feed then goes and notifies my Twitter friends that I've posted something new that I find relevant. It also goes out and feeds the stories to link:http://www.tumblr.com[tumblr], jaiku, and link:http://www.facebook.com[facebook]. It is also the feed that my RSS readers get.
+
+The secondary feed goes to Feedburner and gives me a post-to-email option. This allows me to save via an email archive all of my daily posts so they are searchable through Gmail for myself. Users could subscribe to this feed if they asked me, it's just the amount of data can sometimes be overwhelming and I've had a few complaints from a couple of Twitter friends.
+
+From my WordPress blog, I post to other blog sites. For example, when I finish and publish this post it will also be posted on my link:http://spaces.msn.com[msn spaces] accounts, my old blog at Blogspot, link:http://www.vox.com[vox], link:http://www.xanga.com[xanga], link:http://www.myspace.com[myspace], link:http://www.livejournal.com[livejournal], and link:http://www.dandelife.com[dandelife]. So no matter where you have friended me you can get notifications that I've published and posted something.
+
+Finally, in some of the message boards I use my signature contains a javascript that rotates my 5 newest stories so people can read the headlines and click if they find it interesting.
+
+*Do you truly think that this is the future?*
+
+Yes, your data is you and part of you is also your data. Hopefully, the stories we wish to pass down can be archived, saved, and cached for all to read and consume for generations to come.
+
+*Final Notes:*
+
+I hope this explanation is relevant to you and that you have interesting in preserving your own data. Each of the links in this article will help you with different aspects of your design. If you have further questions or need some details expanded please leave a comment or contact me so we can hash out ideas and clarify them.
+
+For those heavily interested I would recommend posting and devising ways that you can cache your online and offline life. Work with the Data Portability Group on tools to make this work. The most important thing is to only deal with companies that allow you to do with your data what you want and place it where you need it. Thank and support the companies that do. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

@@ -1,0 +1,29 @@
+= Spamming Myspace?
+:page-layout: post
+:page-navtitle: Spamming Myspace?
+:page-categories: geekery
+:page-excerpt: I was accused the other day of spamming Myspace with all of my updates, though it was indirectly on a friend's blog via the comment section of a post he did on Twitter. The poster (I'm looking at you Tevy) thought I was using Twitter to crosspost to everything. Here was my reply&#58;
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+I was accused the other day of spamming Myspace with all of my updates, though it was indirectly on a friend's blog via the comment section of a post he did on Twitter. The poster (I'm looking at you Tevy) thought I was using Twitter to crosspost to everything. Here was my reply:
+
+[quote]
+____
+Tevy's my setup is kind of unique but I'll give you the run down.
+I post to my blog at localhost/wordpress -- when I make a post my blog crossposts to myspace, vox, livejournal, dandelife, blogger, msn spaces, xanga, and multiply.
+My website also has an outbound feed -- this is filtered to certain topics and posts notifications to twitter, tumblr, jaiku, facebook, and suprglu.
+At then end of the day all the web services that I use (flickr, allconsuming, 43things, 43 places, cocomment, digg, del.icio.us, google reader shared items, youtube favorites, youtube uploads, picasa, photobucket, stumbleupon, newsvine, pownce, and any other blogs I use) are each wrapped up with whatever I've done on any of those respectice services through out the day and done as a single post (per service) on my blog.
+Of course once a post is made on my blog it gets cross posted to myspace etc, with the exception of twitter (since I use it for notifications AND personal use) nothing really hits my blog twice since I've been very careful of any redundant data processing.
+We'll just say I love wordpress plugins
+A few article I've written on this:
+https://creeva.com/2008/01/11/life-caching-is-better-then-life-streams/
+https://creeva.com/2008/01/23/brand-management-branding-yourself/
+I'm sure what I've written above is missing some services and such but that's about 90% of what is going on.
+____
+
+Now I know that this leads to a lot of updates on myspace, but I'm sure this seems unnatural to some since most of the people I know post next to nothing. 99% of the updates I see are XXXX's updated profile information. I look at the profile and it looks the same to me. Very few people actually constantly upload pictures (I'm looking at an automated way to do this from my Flickr account) or write blog posts. So sometimes I need to go to other services to find the people like me that update their profile information and create content.
+
+I truly want to read content from people I know, look at their pictures, or watch their videos it's just that there seems to be so little, while I, of course, go through my cross-posting glut. My friends don't like switching services and that's fine, I'll just bring all my glut of information and data to them. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

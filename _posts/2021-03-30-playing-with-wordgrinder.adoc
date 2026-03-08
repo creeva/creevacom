@@ -1,0 +1,21 @@
+= Playing With Wordgrinder
+:page-layout: post
+:page-navtitle: Playing With Wordgrinder
+:page-categories: geekery
+:page-excerpt: I have an overall goal of trying to move one laptop over to a terminal-based only laptop one day. However, I can't do that until I can survive more than a day or two in the shell. It's not a goal of "only" having a system that is GUI-free. I have multiple systems. I just want one singular system that is terminal only and mobile (because I do have multiple headless Raspberry Pis in my environment.
+:page-image: /images/2021-03-29_wordgrinder_blog_creeva-1.png
+:imagesdir: /testsite/images
+
+image::/testsite/images/2021-03-29_wordgrinder_blog_creeva-1.png[,role="text-center"]
+
+I have an overall goal of trying to move one laptop over to a terminal-based only laptop one day. However, I can't do that until I can survive more than a day or two in the shell. It's not a goal of "only" having a system that is GUI-free. I have multiple systems. I just want one singular system that is terminal only and mobile (because I do have multiple headless Raspberry Pis in my environment.
+
+So while I can use vi (but really I normally use Nano) -- I wanted something slightly simpler yet more powerful if that makes sense? So I was looking at command line-based word processors and wistfully remembering the ones I loved. My favorite was a dos-based one I used around 1993 or 1994 called "write". Try googling that and finding an accurate result. My next favorite word processor of all time was actually windows-based, Wordperfect 5.1 for Windows 3.1. The Geowrite part of Geoworks (a GUI shell that competed with Windows) was another that was much loved. Other than that it becomes kind of meh, I have no love for other word processor software. Normally I use notepad or whatever plain text GUI equivalent exists for whatever operating system I'm using. So back to looking.
+
+As I said, I do quite a bit with Nano in the command line. For a text editor (not a word processor) I still love editing from DOS, but Nano works very well for my needs. Now the bare minimum has been established, what can I get that's a little more? If you ask around online, everyone gives one main example -- Wordgrinder. So since I was just starting out the search, who was I to argue? Sudo apt-get me some Wordgrinder.
+
+I fired it up once it was finished and at first I was impressed but did have some annoyances. The first is that I wasn't happy with white on black. I decided I wanted to go old school and do bright green text on black, but I couldn't figure out how. So I went on Reddit and asked if anyone knew how. Someone was nice enough to answer, they went through the original source code, and there was no option for changing font (or background) colors. What you got was what you get. Not that I'm ungrateful, but things might still be great (kinda).
+
+So color choices aside -- one thing that isn't in the image above is there is a top and bottom ribbon (I disabled that). You also can only bring up the menu by hitting escape. However, one thing that psychologically was an issue for me was that typing was always at the middle of the page. You can scroll up or down, but your active data line is in the center. It's my issue, not an application issue. I'm sure I could have gotten over it.
+
+I attempted to do my daily journal entry. Writing it in Wordgrinder is easy and smooth. I went back a few times to do later updates before the day ended. Then the problems happened. I had my file named properly with a txt extension. My script pulled it into my daily activity file -- and then there was markup everywhere. Even though I didn't have any special markup in my file, the application saved its own anyways. I'm sure there may be a setting or something I could use to change this behavior, but frankly for my desires and the fact that I was bowled over otherwise -- I'm moving on. For many, this would be a great program. If you are looking to edit plain text with word processor options -- this isn't it. Or it might be just a flag I didn't set while starting the program. There is absolutely nothing bad I can say about the program other than no color change and the middle of the screen typing. It just didn't fit with my workflow and processing needs. Time to find the next experiment.

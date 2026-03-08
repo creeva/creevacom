@@ -1,0 +1,23 @@
+= Rant On The Myspace E-mail System
+:page-layout: post
+:page-navtitle: Rant On The Myspace E-mail System
+:page-categories: geekery
+:page-excerpt: Now you know if you read my blog regularly that I don't have the highest respect for Myspace. I have been using Myspace more and the issues of its flaw just become more glaring to me over time. +
+Issues&#58;
+:page-image: /images/2683876182_fbed6866d0_m.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2683876182_fbed6866d0_m.jpg[,role="text-center"]
+
+Now you know if you read my blog regularly that I don't have the highest respect for Myspace. I have been using link:http://myspace.com[Myspace] more and the issues of its flaw just become more glaring to me over time. +
+Issues:
+
+1. There is no method for saving e-mails. None, other than copy and paste -- which is a huge pain in the ass. While I do have the first snippet saved in a Gmail notification I would prefer to have the whole message saved and archived.
+
+2. After two weeks it deletes your sent messages -- WTF? Why can't I decide to clean out my inbox -- if you want to clean them out why don't you give me the option to automatically export a copy out for myself in my home e-mail account?
+
+3. Notifications -- theoretically it wouldn't take much more bandwidth to send me the whole message -- I have no problem logging into your site to reply to an email -- but send me the complete email and not the first 140 characters.
+
+I understand e-mail is not a priority for them, and not a focus of the site. I understand they are a walled garden. Dammit though, with the user base some interoperability with their e-mail would be nice.
+
+I hate you Myspace. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

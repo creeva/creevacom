@@ -1,0 +1,17 @@
+= Update News
+:page-layout: post
+:page-navtitle: Update News
+:page-categories: stories
+:page-excerpt: A lot has gone on, I've bought a house, and work has gone well.
+:page-image: /images/poetry.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
+
+A lot has gone on, I've bought a house, and work has gone well.
+
+My sister had her graduation party last Sunday so that was interesting getting all parts of the family at my new house for the first time.
+
+I got my birthday present early -- a Nintendo DS and the new super Mario Bros. I'm now a complete DS convert.
+
+Hopefully, I will keep this more up-to-date now that life is starting to settle down again. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

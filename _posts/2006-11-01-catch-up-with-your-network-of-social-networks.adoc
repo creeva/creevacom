@@ -1,0 +1,19 @@
+= Catch Up With Your Network of Social Networks
+:page-layout: post
+:page-navtitle: Catch Up With Your Network of Social Networks
+:page-categories: geekery
+:page-excerpt: iDea Labs &#58;&#58;&#58; Catch up with your network of Social Networks
+:page-image: /images/switch-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
+
+link:http://ashish-sinha.blogspot.com/2006/11/catch-up-with-your-network-of-social.html#comments[iDea Labs ::: Catch up with your network of Social Networks]
+
+I played around with findmeon earlier today actually before seeing this article -- and while it has a point -- part of that can be substantiated through common identities -- the problem I'm running into is how to archive all the data and RSS feeds properly in a usable format for the future -- all of this data in so many places -- in a world where sites can vanish in a blink is not good.
+
+I do use suprglu -- but yet I want more and most RSS feed readers or stream creators only go so far back so I can't archive older data. In short, I'm screwed.
+
+There is a place for findmeon -- but once they get past beta and make it easier to use such as adding all the big social sites in the list from the beginning and doing support for each that way instead of you coming up with all the information yourself.
+
+For the die-hard web 2.0 person this isn't too difficult -- but if my mom doesn't have a chance forget it -- it needs more polish Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

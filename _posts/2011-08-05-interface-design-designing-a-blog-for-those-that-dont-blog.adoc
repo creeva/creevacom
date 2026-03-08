@@ -1,0 +1,31 @@
+= Interface Design -- Designing a Blog For Those That Don't Blog
+:page-layout: post
+:page-navtitle: Interface Design -- Designing a Blog For Those That Don't Blog
+:page-categories: geekery
+:page-excerpt: I mentioned the other day about creating a mash-up blog for friends. I have worked at trying to work around how everyone else uses the Internet and normalizes it. The first problem is everyone that uses Facebook. Even if I could get the content out easily or automatically, I need to worry about what they mean to share with just Facebook friends or sharing in general. I don't want to worry about their security, privacy, or intention of publishing -- this means that I will have to teach some of them to share.
+:page-image: /images/3038597_e5f95e2017.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
+
+Annoyed working on a project….
+
+I mentioned the other day about creating a mash-up blog for friends. I have worked at trying to work around how everyone else uses the Internet and normalizes it. The first problem is everyone that uses Facebook. Even if I could get the content out easily or automatically, I need to worry about what they mean to share with just Facebook friends or sharing in general. I don't want to worry about their security, privacy, or intention of publishing -- this means that I will have to teach some of them to share.
+
+I need them to share somewhere where I can pull the RSS feed. This means depending on the usage level or how they use it I have to recommend one of three services. I will have to direct them to blogger, WordPress, or Tumblr. I have different use cases for each that I could recommend. Tumblr is the no-brainer -- but has its own limitations. Ultimately I would love to see everyone use WordPress -- but I'm not here trying to change them -- I'm trying to enhance what they already do by aggregating it. This also has its own problems -- YouTube.
+
+I use YouTube and so do most of the people I am targeting in this project. There are two problems I have found with YouTube that are vexing me. The first is that the RSS feeds do not include an embedded video that can translate into a post. The second is the formatting, while not garbage -- it isn't pretty. So learning this I tried other options -- the only one I can find is a plugin that can import videos as posts, but this has two limitations. The first is that the admin has to be logged into WordPress for it to run. The other is that it can only handle one YouTube user before needing to be reconfigured. There don't seem to be any YouTube plugins that can handle multiple YouTube accounts. This however is my problem and not the people posting the videos. I will figure out a way around this, even if I have to post the videos manually. It is however annoying.
+
+The other next group of users is the people who share photos. In theory, any photo sharing will do except I need to verify the RSS feeds and how they output. Once again, my problem -- not theirs. I don't want them to have to think of any of the formattings and how things are going to be displayed. This may mean I need to use plugins that change post formatting for certain usage -- not something I entirely look forward to. I'll have to move to just posting "showcase" photos, otherwise, my posting 300 pictures to Flickr in a weekend could overwhelm and bury everyone else's pictures and posts.
+
+The last group is writers. They all have their own medium and one uses just email. This is going to be the easiest to workaround since most writers use a platform I can pull fairly unformatted text into the main blog. The email user -- I'll probably have to use blogger as an interim point to generate the RSS feeds. So I'll still be writing here on my blog, but it will be syndicated over to the other blog. I mostly stopped cross-posting to the extent I was -- so dealing with the text is the easiest part for me.
+
+We also had mention of using status updates. If I was going to implement status updates it will be more in a timeline fashion. I can't however grab Facebook status messages. This mostly leaves Twitter as the mainstream service. I use Twitter more heavily than the rest of this group, so I again would bury content. I'm trying to get this new site to get equality and interaction with the other creators in my group. I don't need another showcase for myself. I also do want this new project to come off as being about me. When it comes to writing I am not even the most prolific in the test group.
+
+So this project really is working on making things as clean as possible. The site is a great minimalistic design. I like it, but I'm not sure about everyone else. I do fall into the being awed by a great minimalistic design. The last thing I have to worry about is if people are going to use this site at all. Xie doesn't think they will, it is something that I am wasting my time on. At the end of the day, I am not doing it for them. If it doesn't take off at least I have gotten the experience of working on a mash-up blog and I can take that forward to other projects.
+
+I think that I'm just venting now, or mentally brain-dumping into the page about things most people don't care about. I find mash-ups and data reuse fascinating. Niche is the new mainstream. With everyone being hindered by formats on Facebook and other services, I want to show others they can be free of the digital constraints of a single service. If at least one of them finds a new use if they get inspired by a new idea if they try something they hadn't thought about doing before the project is a success. It's not about whether the project lives on or if it gets 5 hits a week and the domain does not get renewed. It is about the journey -- not the destination.
+
+I'm stopping now, I don't even know if I am being coherent anymore…..
+
+Back to the grind. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

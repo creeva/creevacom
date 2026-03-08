@@ -1,0 +1,8 @@
+= The Closest Thing ever to a final Def Star performance
+:page-layout: post
+:page-navtitle: The Closest Thing ever to a final Def Star performance
+:page-categories: video-games
+:page-image: /images/2.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/2.jpg[,role="text-center"]

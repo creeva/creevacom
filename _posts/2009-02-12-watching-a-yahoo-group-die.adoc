@@ -1,0 +1,19 @@
+= Watching A Yahoo Group Die
+:page-layout: post
+:page-navtitle: Watching A Yahoo Group Die
+:page-categories: stories
+:page-excerpt: A long long time ago I ran a Yahoo Group entitled Marcon Drinkers it was started in 2001. Before this group was started my circle of friends had another message board we were using. One of the administrators went off the deep end and started banning people and deleting posts. He eventually found it funny just to delete the message board altogether. This is where I came into the picture.
+:page-image: /images/typewriter-1.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/typewriter-1.jpg[,role="text-center"]
+
+A long long time ago I ran a link:http://groups.yahoo.com[Yahoo Group] entitled link:http://groups.yahoo.com/groups/marcondrinkers[Marcon Drinkers] it was started in 2001. Before this group was started my circle of friends had another message board we were using. One of the administrators went off the deep end and started banning people and deleting posts. He eventually found it funny just to delete the message board altogether. This is where I came into the picture.
+
+Since I enjoyed the camaraderie of the group, and I had the technical know-how, I started a new Yahoo Group, the previously mentioned Marcon Drinkers. The concept of the group and where the people came in, was that once a year our circle would descend upon a fantasy and science fiction convention in Columbus, OH called link:http://www.marcon.org[Marcon]. While we were there, there were mass amounts of alcohol consumed, except for just a small handful of occasions outside of there I don't normally drink at all. I'm not opposed to it, I just normally do not have a taste for it. Moving on.
+
+I managed to contact and grab people moving them to the message board. For a time (2001-2004) it was quite active, I think I started dropping out more when I hung out on the link:http://www.starwarsgalaxies.com[SWG message boards] most of the time. I would say around (2006-2007) it really died, which is disheartening but people move on, friendships change, and people grow apart. Our community wasn't large enough to be self-sustaining since there wasn't any new blood. People from the board attempted to start other groups, but none were as successful for the amount of time this one was.
+
+Last year I was at a crossroads, I didn't want to just delete the forum -- since some people may actually still read it, so for them I continued and left it up. Since nothing new was being posted I decided I was going to just crosspost my blog posts. I originally hoped to stimulate conversation, but it seems the posts are standing alone in an echo chamber. I did close the membership to start spammers from popping up (since I always hated cleaning those out anyways). So our peak was over 100 members, now it's down to 46. I slowly watch people drop off. When I am the last one still standing I'll take the group offline for good.
+
+I do have backups of the groups since I don't want the digital history to be gone, but it will last solely in my hands. In a way, it's sad to watch a community die off. First I did it with this group, then I relived it with Star Wars Galaxies. Anytime a community is lost for any reason there should be sadness; a moment of reflection. I think the main reason it is completely dead these days beyond dynamics changing is the advent of social networking. I'm friends with many of these same people on different social networks like Myspace and Facebook. This has given them more tools to empower themselves in the delivery of information to their friends. A static mailing list scenario like Yahoo Groups doesn't fit into their world anymore. Times, technology, and friendships change -- but looking at the past will show us the journey on how we got to where we are today. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

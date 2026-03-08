@@ -1,0 +1,17 @@
+= Photos For Memory Enhancement
+:page-layout: post
+:page-navtitle: Photos For Memory Enhancement
+:page-categories: stories
+:page-excerpt: I was going through and organizing my Flickrphotos and looking at quite a few of the pictures of when I was growing up. I was saying to myself at different times "that was the day that such and such happen". Now photographs have always been a doorway into our past, a visual representation that can spell things out better than our own memory can sometimes. It can also jog our thoughts and remember that specific with better clarity than what you can describe with the written or vocal. So how many pictures would it take to give yourself a near-representative photographic memory? This is the question that I've posed to myself.
+:page-image: /images/270969697_fc9dcf3383.jpg
+:imagesdir: /testsite/images
+
+image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
+
+I was going through and organizing link:http://www.flickr.com/photos/creeva/[my Flickr]photos and looking at quite a few of the pictures of when I was growing up. I was saying to myself at different times "that was the day that such and such happen". Now photographs have always been a doorway into our past, a visual representation that can spell things out better than our own memory can sometimes. It can also jog our thoughts and remember that specific with better clarity than what you can describe with the written or vocal. So how many pictures would it take to give yourself a near-representative photographic memory? This is the question that I've posed to myself.
+
+We throw out things like sitting by ourselves watching TV or staring at a computer monitor and there goes a few hours of the (for argument and since I'm an IT guy) we'll say that eats up 9 hours of a weekday. If you keep all your emails you'll recover most of those days anyway if you are so interested. That leaves 5 hours left in the day, if we say you take a picture of the right key moments every 15 minutes -- that leaves you with 20 pictures of that day. Would those 20 pictures be enough to remind you of that specific day for the rest of your life? What if you did this every day? Would you be able to remember your life completely from your earliest memories until the end? Going back earlier than age 4 the memories are mostly lost. I think though at age 4 and up I remember most of the days and circumstances that pictures were taken (with the exception of school and studio pictures).
+
+Now other people are doing this to some extent, some are using video and some are blogging about it. Both of these I think are inefficient. Looking through hours of video to find a moment takes just that, hours to search through. Even a blog or diary will take a little bit to search through posts and narrow down what you are looking for. 20 pictures, you can take only a few seconds and see all of them which may or may not give you a quick reminder. Pictures give you that primal visual connection without wasting time. It's something for you, while videos would be for others, and writing it down would just be muddy.
+
+The only problem I could see that has not been tested is how long and how unique memories can you handle. So would you be willing to do this? What are your memory and your ability to recall worth to you? Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
