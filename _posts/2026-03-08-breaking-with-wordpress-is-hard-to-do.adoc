@@ -1,0 +1,28 @@
+= Breaking With Wordpress Is Hard To Do
+:page-categories: geekery
+:page-image: /images/WordPress-Logo-768x432.jpg
+:page-excerpt: FI did it.  I broke free.  I am free of Wordpress.  It's been a long divorce, but I think the end has finally occurred. 
+
+image::WordPress-Logo-768x432.jpg[Alt text description]
+
+I did it. I broke free. I am free of WordPress. It's been a long divorce, but I think the end has finally occurred.
+
+I ditched my hosting provider a couple of years ago. This allowed me to stop constantly patching and maintaining an online presence that needed at least a bit of babysitting. But this didn't allow a clean break with WordPress.
+
+In the background, I maintained an internal development environment on WordPress. I would edit and adjust my site on that platform. After I was happy and the i's were dotted and t's crossed, I would export it as a static site and push it to GitHub. Things were faster. I didn't need to patch. I didn't need to worry because it could just sit there for months without the fear of a compromised site.
+
+The thing you learn is that once you aren't babysitting it, you aren't writing on it either. With no reason to log in, you just don't think about it. Catch-22? Maybe.
+
+For the last few years, I've done quite a bit of internal documentation during my employment hours working with AsciiDoc. AsciiDoc is a Markdown language. It is one of the many variants of Markdown, but AsciiDoc and DokuWiki syntax are the ones I personally use the most.
+
+Since I was already hosting the pages on GitHub, using their built-in website engine, Jekyll, was the best option. I will say that if you are looking for a quick and easy option, this isn't the route to take. While in theory, if you are happy with an out-of-the-box experience and conform to the limitations of that theme—sure, it's fine. Documentation and quick instructions, though, take a huge leap in the expectations of the users. It's not like I'm a slouch, but I did my best to hang on for the ride.
+
+The other hiccup was that I didn't want to use the default Markdown it supported. I had to add a plugin to support AsciiDoc syntax. However, here we are, working. I believe everything is working. This is my first actual post in the new world.
+
+I still have to go back and do some massaging on pages that didn't translate across cleanly. Most notably, posts with YouTube links. This wasn't a problem with the migration, but had more to do with how WordPress handled YouTube embeds.
+
+I'm not quite done yet, though. I have another major site I run using WordPress with the static site method. That one is still in flux, but hopefully, it will be working in the next couple of days. At that point, after an 18-year run, WordPress will be out of my personal life. Heck, that's longer than any of my mother's three marriages. It was a hard relationship to quit, but it was time.
+
+I'm sorry, WordPress, it's not you—it's me.
+
+
