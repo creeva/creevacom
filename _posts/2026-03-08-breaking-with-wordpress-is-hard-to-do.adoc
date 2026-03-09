@@ -1,7 +1,7 @@
 = Breaking With Wordpress Is Hard To Do
 :page-categories: geekery
 :page-image: /images/typewriter-1.jpg
-:page-excerpt: FI did it.  I broke free.  I am free of Wordpress.  It's been a long divorce, but I think the end has finally occurred. 
+:page-excerpt: I did it.  I broke free.  I am free of Wordpress.  It's been a long divorce, but I think the end has finally occurred. 
 
 image::/images/typewriter-1.jpg[Alt text description]
 
