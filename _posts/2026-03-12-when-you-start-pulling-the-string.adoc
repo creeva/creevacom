@@ -1,0 +1,16 @@
+= When You Start Pulling The String
+:page-categories: geekery
+:page-image: /images/author.webp
+:page-excerpt: I recently posted on migrating my site from Wordpress to Jekyll.  Things are still going full steam ahead.  I still need to do some polishing, but that's the least of the issues I'm dealing with. 
+
+image::/images/author.webp[]
+
+I recently posted on migrating my site from Wordpress to Jekyll.  Things are still going full steam ahead.  I still need to do some polishing, but that's the least of the issues I'm dealing with. Once I managed to get my personal bloging working(ish), I wanted to look at mmy other major site that used wordress.  This site didn't use post forms like a blog, it was setup in a page format.  Which is fine - I ran scripts and converted things to adoc - and then the issues arose. 
+
+The first issue was that this site was out of sight and out of mind.  The last couple years I had meant to finish it - but somehting always came up.  I ended up with a "meh" I'lll get to it.  Time rolled on and I'll get to it became less and less because I wasn't actively staring at.  I won't say I forget as much as I didn't think about it.  Other little projects took priority.  This migration though brought things back to fulll circle.  
+
+I was looking at things I had to put off.  It wasn't just that there were conversion issues.  The conversion issues weren't things that I could write a script to correct - because if I corrected one thing, I would change my mind how to do it in a different area and that broke the first solution.   So this become more of a scenario where you are going back and redoing things.  
+
+This lead to reorganizing the structure of the site itself.  None of the content being removed or pages being removed - but changing the directory structure to something easier to manage and traverse while going through it.  What was easier just throwing page structures into wordpress is much more difficult when you are manually editing pages.   This again informs and changes the process of what you are editing and tweaking on each page. The end result though will be files that I can programmatically change if I do a huge re-organziation in the future.  
+
+Every little change informs others and goes back to rework.  So pulling the string is causing everything to unravel.  I'll still have alll the materials I used to originally knit the sweater, but I have go knit it all over again.  Granted the hardest part was gathering the content for the site.  So, I guess the hardwork is done?  Or this at least is different hardwork.  Manual labor versus research, everyone has their preference on which they would rather do and which is more difficult.  
